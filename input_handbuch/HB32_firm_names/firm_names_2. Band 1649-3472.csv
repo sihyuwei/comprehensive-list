@@ -1,0 +1,2629 @@
+firm_id,firmname,firmname_page,firmname_start_line,firmname_end_line,next_firmname_start_line
+1,"Noten-, Kredit- u. Hypotheken-Banken, Treuhand- u. Finanzierungs- gesellschaften, Lombardgeschäfte,",196,1,2,2
+2,"gesellschaften, Lombardgeschäfte, Allgemeine Handelsbank Akt.-Ges.",196,2,3,35
+3,Akt.-Ges. Ferd. Lipfert,196,35,35,84
+4,"Bankverein Artern, Spröngerts, Büchner & Co.",197,84,84,145
+5,Gewerbebank Aktiengesellschaft,198,145,145,190
+6,"Göltzschtalbank Aktiengesellschaft,",198,190,190,230
+7,"Augsburger Handels- und Gewerbebank (Viehmarktbank),",199,230,230,264
+8,"Aktiengesellschaft für Treuhandinteressen in Liqu.,",199,264,264,275
+9,Aktiengesellschaft für Vermögensverwertung,200,275,275,295
+10,Anhalt-Askanische Treuhandverwaltung Aktiengesellschaft,200,295,295,322
+11,"Bank der Arbeiter, Angestellten u. Beamten, Akt.-Ges.",200,322,322,394
+12,Bank für Handel u. Industrie Akt.-Ges.,201,394,394,407
+13,Bank für Kommunal- und Grundkredit Akt.-Ges.,202,407,407,436
+14,Bank für Landwirtschaft Akt.-Ges.,202,436,436,529
+15,Bank für Montanindustrie Aktiengesellschaft,203,529,529,583
+16,Bausparlloyd Aktiengesellschaft,204,583,583,610
+17,"Berliner Kreditbank Akt.-Ges., Berlin.",205,610,610,615
+18,Berliner Stadtschafts-Bank Aktiengesellschaft,205,615,615,683
+19,Berlinische Bodencredit-Aktiengesellschaft,206,683,683,705
+20,Louis Berndt Nchf. Bank-Kommanditges. auf Akt.,206,705,705,731
+21,B. S. V. Vermögensverwaltung Aktiengesellschaft,207,731,731,813
+22,A. Busse & Co. Aktiengesellschaft,208,813,813,852
+23,Centralbank für Eisenbahnwerthe in Liqu.,208,852,852,917
+24,Commerz- und Industrie-Aktiengesellschaft in Liqu.,209,917,917,922
+25,Comptoir Foncier Akt.-Ges. für Grundkredit,209,922,922,947
+26,Continentale Kreditanstalt Aktiengesellschaft,210,947,947,969
+27,Custodia Vermögensverwaltungs-Aktiengesellschaft in Liqu.,210,969,969,981
+28,Deutsch -Südamerikanische Bank Akt.-Ges.,210,981,981,1026
+29,Deutsche Ansiedlungsbank,211,1026,1026,1164
+30,Deutsche Automobilbank Akt.-Ges.,213,1164,1164,1229
+31,"Deutsche Beamten-Zentral-Bank Aktiengesellschaft,",214,1229,1229,1267
+32,Deutsche Genossenschafts-Hypothekenbank Akt.-Ges.,214,1267,1267,1409
+33,Deutsche Industrie-Treuhand-Akt.-Ges. in Berlin,216,1409,1409,1434
+34,Deutsche Kreditsicherung Akt.-Ges.,217,1434,1434,1486
+35,Deutsche Länderbank Aktiengesellschaft,217,1486,1486,1534
+36,Deutsche Landvolk-Bank Akt.-Ges.,218,1534,1534,1582
+37,Deutsche Revisions- und Treuhand-Akt.-Ges.,219,1582,1582,1624
+38,"Deutsche Schiffspfandbriefbank Akt.-Ges,,",220,1624,1624,1756
+39,"Deutsche Treuhand-Akt.-Ges, für Warenverkehr",221,1756,1756,1799
+40,Deutsche Treuhand-Gesellschaft,222,1799,1799,1861
+41,"Deutsche Wirtschaftsprüfung Aktiengesellschaft (Dewiag),",223,1861,1861,1897
+42,„Dom“ Finanz-Aktiengesellschaft für chemische Unternehmungen,224,1897,1898,1916
+43,"Getreide-Finanzierung, Akt.-Ges.",224,1916,1916,1949
+44,„Intrag“ Industrie-Treuhand A.-G.,224,1949,1949,1965
+45,"Kolonialbank Akt.-Ges.,",225,1965,1965,1983
+46,Kraftfahrzeug-Finanzierungs Aktiengesellschaft,225,1983,1983,2023
+47,"F. W. Krause & Co. Bankgeschäft, K.-G. a. A. in Liqu.",226,2023,2023,2085
+48,Kreditbank-Aktiengesellschaft,226,2085,2085,2120
+49,H. C. Kröger Akt.-Ges.,227,2120,2120,2147
+50,Fritz Loewi & Co. Bank-K.-G. a. A.,227,2147,2147,2150
+51,"Märkische Bank Aktiengesellschaft in Liqu., Berlin",227,2150,2150,2188
+52,Merkur Finanz-Akt.-Ges.,228,2188,2188,2191
+53,Nationalbank für Deutschland Akt.-Ges.,228,2191,2191,2202
+54,„Revision“ Treuhand-Akt.-Ges.,228,2202,2202,2231
+55,A. Seharfenberger & Co. Bank-Kommandit-Ges. auf Aktien,229,2231,2231,2249
+56,„Terra“ Vermögensverwaltungs-Akt.-Ges. in Liqu. in Mainz.,229,2249,2249,2256
+57,"Treuhandgesellschaft Eintracht Gemeinnützige Aktien- gesellschaft, Berlin W 35, Potsdamer Str. 111.",229,2256,2257,2277
+58,"Transportbank Aktiengesellschaft, Berlin",230,2277,2277,2301
+59,„Treudienst“ Revisions- und Verwaltungs-Akt.-Ges.,230,2301,2301,2324
+60,Vereinigte Industrie-Unternehmungen Akt.-Ges. (Viag),230,2324,2324,2374
+61,Sonstige Beteiligungen: |,231,2374,2374,2511
+62,Verkehrs-Bank Akt.-Ges.,233,2511,2511,2537
+63,Wertheim Bank Aktiengesellschaft,233,2537,2537,2563
+64,Wirtschafts-Treuhand Aktiengesellschaft,234,2563,2563,2592
+65,„Wuw“ Akt.-Ges. für Waren und Wertpapiere,234,2592,2592,2615
+66,Zentrale Deutscher Getreide-Kreditbanken Aktiengesellschaft,235,2615,2616,2641
+67,"Vereinssparkasse in Bersenbrück Akt.-Ges.,",235,2641,2641,2662
+68,"Hansabank Oberschlesien Akt.-Ges., in Liqu.",235,2662,2662,2708
+69,“ Kommunalbank Aktiengesellschaft,236,2708,2708,2731
+70,Sparburg-Zwecksparkasse Aktiengesellschaft,236,2731,2731,2761
+71,Zwecksparkasse Solid Aktiengesellschaft,237,2761,2761,2788
+72,Flecken Bramstedter Spar- und Leihkasse,237,2788,2788,2807
+73,Bankverein für Nordwestdeutschland Akt.-Ges.,238,2807,2807,2895
+74,Breslauer Baubank,239,2895,2895,2973
+75,Breslauer Kassenverein u. Effektengirobank Aktiengesellschaft,240,2973,2974,3019
+76,Chemnitzer Bank Akt.-Ges.,241,3019,3019,3053
+77,Vereinsbank zu Colditz,241,3053,3053,3094
+78,Coseler Bankverein Aktiengesellschaft,242,3094,3094,3128
+79,Vereinsbank Crimmitschau Aktiengesellschaft ..,242,3128,3128,3178
+80,Danziger Hypothekenbank Akt.-Ges.,243,3178,3178,3448
+81,Danziger Privat-Actien-Bank,247,3448,3448,3517
+82,Demminer Kreisbank Aktiengesellschaft,248,3517,3517,3548
+83,Akt.-Ges. für Industriekredite,248,3548,3548,3578
+84,Allgemeine Treuhand-Aktien-Gesellschaft,249,3578,3578,3613
+85,Sächs. Handelsbank in Liqu.,249,3613,3613,3637
+86,"Bank für Bergwerks- und Hüttenwerte, Akt.-Ges.",250,3637,3637,3659
+87,Deutsche Werkmeister-Sparbank Akt.-Ges.,250,3659,3659,3679
+88,Globus Treuhand- u. Industrie-Verwaltungs-Aktienges.,250,3679,3679,3699
+89,"Rheinisch-Westfälische Getreide-Kredit Akt.-Ges. Duisburg-Münster in Liqu.,, Duisburg, Düsseldorfer Str. 16.",251,3699,3700,3746
+90,Kreditbank Akt.-Ges.,251,3746,3746,3771
+91,Elsflether Bankverein A.-G.,252,3771,3771,3798
+92,Aktiengesellschaft für Baufinanzierungen,252,3798,3798,3827
+93,Deutsche Volksbank Aktiengesellschaft,253,3827,3827,3892
+94,"Rheinisch-Westfälischer Kassen-Verein Akt.-Ges.,",254,3892,3892,3920
+95,Ruhr-Akt.-Ges. für Finanz- u. Treuhandgeschäfte,254,3920,3920,3941
+96,Treuhand rheinisch-westfälischer Rechtsanwälte u. Notare,254,3941,3941,3983
+97,Deutsche Fffeeten- und Wechsel-Bank,255,3983,3983,4079
+98,Frankfurter Bank,256,4079,4079,4213
+99,Oberhessische Bank Aktiengesellschaft,258,4213,4213,4242
+100,"Volksbank Füssen, Akt.-Ges.",259,4242,4242,4286
+101,Mitteldeutsche Bodenkredit-Anstalt,259,4286,4286,4598
+102,Gross Strehlitzer Bank Akt.-Ges.,263,4598,4598,4632
+103,"Hademarscher Spar- u. Leihkasse, A.-G.",264,4632,4632,4659
+104,Gewerbe- und Handels-Bank A.-G.,264,4659,4659,4708
+105,"Bankhaus E. Jordan & Co, K.-G. a. A., Hamburg.",265,4708,4708,4714
+106,Deutsche Schiftsbeleihungs-Bank Akt.-Ges.,265,4714,4714,4836
+107,Hamburgische Bank von 1923 Akt-Ges.,267,4836,4836,4879
+108,"Hamburgische Baukasse Aktiengesellschaft,",267,4879,4879,4939
+109,Hanseatische Kreditanstalt für Verkehrsmittel Akt.-Ge,268,4939,4939,4958
+110,Treuhand- und Revisions- Aktiengesellschaft vereinigter Buchsachverständiger B.d.B.D.,268,4958,4959,4987
+111,Waren-Credit-Anstalt in Hamburg,269,4987,4987,5047
+112,Treuhand Aktiengesellschaft,270,5047,5047,5070
+113,Gebr. Dammann Bank Kommandit-Ges. auf Aktien,270,5070,5070,5091
+114,Handels- und Gewerbebank Heilbronn A.-G.,270,5091,5091,5169
+115,"Industrie- und Landbank, Aktiengesellschaft",271,5169,5169,5229
+116,"Handels- und Gewerbebank, Akt.-Ges.",272,5229,5229,5261
+117,Sehleswig-Holsteinische Bank,273,5261,5261,5351
+118,"Kamenzer Bank, Aktiengesellschaft",274,5351,5351,5397
+119,Landesgewerbebank für Südwestdeutschland Akt.-Ges.,275,5397,5397,5487
+120,"Landkreditbank Schleswig-Holstein, Akt.-Ges.",276,5487,5487,5512
+121,Rheinische Landbank Aktiengesellsehaft,276,5512,5512,5537
+122,"Deutscher Bausparer Aktiengesellschaft,",277,5537,5537,5568
+123,„Deutscher Rhein“ Bausparkassen-Aktiengesellschaft,277,5568,5568,5609
+124,Reichsdeutsche Bausparkasse Aktiengesellschaft,278,5609,5609,5645
+125,Rheinisch-Westfälische „Revision“ Treuhand Akt.-Ges.,278,5645,5645,5683
+126,Rheinische Kreditgesellschaft für Haus- und Grundbesitz Aktiengesellschaft,279,5683,5684,5708
+127,Rheinische Volksbank Akt.-Ges.,279,5708,5708,5766
+128,Westdeutsche Bau-Sparkasse Aktiengesellschaft,280,5766,5766,5798
+129,"Grosshandelsbank, K.-G. a. A. in Liqu., Königsberg i. Pr.",280,5798,5798,5802
+130,Deutsche Allgemeine Bausparkasse Aktiengesells ;chaft,280,5802,5802,5830
+131,Allgemeine Deutsche Credit-Anstalt,281,5830,5830,6022
+132,Allgemeine Treuhand Aktiengesellschaft Leipzig,284,6022,6022,6049
+133,Communal-Bank für Sachsen,284,6049,6049,6217
+134,„Crehag“ Credit- u. Handels-Aktiengesellschaft,286,6217,6217,6249
+135,"Leipziger Bankverein, Akt.-Ges. in Liqu., Leipzig.",287,6249,6249,6256
+136,Leipziger Kassen-Verein Aktiengesellschaft,287,6256,6256,6284
+137,Mitteldeutsche Industriebank Aktiengesellschaft in Liqu.,287,6284,6284,6305
+138,Treuhand-Akt.-Ges. der Hausbesitzer,287,6305,6305,6333
+139,Leisniger Bank A.-G.,288,6333,6333,6394
+140,"Pfälzische Wirtschaftsbank, Gemeinnützige Akt.-Ges.",288,6394,6394,6444
+141,"Bank für Handel und Gewerbe Akt.-Ges. in Liqu., Lübeck,",289,6444,6444,6487
+142,"Commerz-Bank in Lübeck,",290,6487,6487,6557
+143,Norddeutsche Getreidebank Aktiengesellschaft,291,6557,6557,6618
+144,Vorschuss- und Spar-Vereins-Bank in Lübeck Akt.-Ges.,291,6618,6618,6673
+145,Magdeburger Viehmarkt-Bank,292,6673,6673,6711
+146,Bau- und Wirtschafts - Akt.-Ges. Bausparkasse Mainz,293,6711,6711,6734
+147,"Landwirtsehaftsbank Aktiengesellschaft in Liqu., Mainz.",293,6734,6734,6751
+148,"Rheinische Garantiebank, Kautions-Versicherungs-A.-G.",293,6751,6751,6791
+149,Bank-Verein zu Mayen (Rhpr.).,294,6791,6791,6818
+150,Mayener Volksbank,294,6818,6818,6846
+151,Meeraner Bank Aktiengesellschaft,295,6846,6846,6894
+152,Meller Volksbank Akt.-Ges.,296,6894,6894,6921
+153,"Volksbank Memmingen, Akt.-Ges.",296,6921,6921,6948
+154,Sauerländischer Bankverein Akt.-Ges.,296,6948,6948,6988
+155,Bank für Mittelsachsen Aktien-Gesellschaft,297,6988,6988,7032
+156,Aktiengesellschaft für private Vermögensverwaltung,298,7032,7032,7052
+157,Bayerische Landesgewerbebank-Akt.-Ges.,298,7052,7052,7110
+158,"Süddeutsche Holzwirtschaftsbank, Aktiengesellschaft,",299,7110,7110,7202
+159,Süddeutsche Treuhand-Gesellschaft A.-G.,300,7202,7202,7235
+160,Rheinisch-Westfälische Bausparkasse Aktiengesellschaft,301,7235,7235,7266
+161,Ostsachsen-Bank Akt.-Ges.,301,7266,7266,7288
+162,Saar-Industriebank A.-G.,301,7288,7288,7310
+163,Neustädter Bank,302,7310,7310,7360
+164,Mecklenburg-Strelitzsehe Hypothekenbank,303,7360,7360,7499
+165,"Niederlinxweiler Bank, Aktiengesellsehaft",305,7499,7499,7512
+166,Saarbrücken. Zahlstelle: Ges.-Kasse. Land- und Forstbank A.-G.,305,7512,7513,7544
+167,"Mittelländische Versicherungs-Bank Akt.-Ges.,",305,7544,7544,7579
+168,"Oberhausener Bank, Akt.-Ges.",306,7579,7579,7610
+169,Oldenburgische Spar- & Leih-Bank,306,7610,7610,7734
+170,Pforzheimer Bankverein A.-G.,308,7734,7734,7771
+171,Landesbank Westsachsen Aktiengesellschaft,309,7771,7771,7818
+172,Plauener Bank Aktiengesellschaft,309,7818,7818,7891
+173,Radeberger Bank Akt.-Ges.,310,7891,7891,7935
+174,Ronneburger Bank Akt.-Ges.,311,7935,7935,7980
+175,Rostocker Bank,312,7980,7980,8039
+176,Rotenburger Bankverein Akt.-Ges.,313,8039,8039,8057
+177,"Bank F. Zeitz-Zeuge Akt.-Ges. in Liqu.,",313,8057,8057,8068
+178,Centralgenossenschaftsbank Akt.-Ges. Saarbrücken in Liqu.,313,8068,8068,8089
+179,"Landesbank des Saargebietes, Akt.-Ges.",313,8089,8089,8124
+180,"Schmiedeberger Bank, Akt.-Ges.",314,8124,8124,8168
+181,Spar- u. Vorschuss-Verein Akt.-Ges.,315,8168,8168,8203
+182,Land-Aktiengesellschaft Ostmark,315,8203,8203,8227
+183,Chr. Pfeiffer Aktiengesellschaft,315,8227,8227,8260
+184,Schwäbische Treuhand-Akt.-Ges. (Schitag),316,8260,8260,8290
+185,Stuttgarter Kassen-Verein und Effektengirobank Akt.-Ges.,316,8290,8290,8334
+186,Württembergische Finanz-Akt.-Ges.,317,8334,8334,8357
+187,Sehwaben Hypothekenablösungs- und Bauspar-Aktiengesellschaft,317,8357,8358,8381
+188,Thüringische Staatsbank,318,8381,8381,8542
+189,Niederrheinische Bank A.-G.,320,8542,8542,8633
+190,"Zörbiger Bankverein von Schröter, Körner & Comp., -Kommandit-Ges. auf Aktien",321,8633,8634,8689
+191,"Zörbiger Creditverein von Lederer, Kotzsch & Co.,",322,8689,8689,8735
+192,"Zwickauer Stadtbank, Aktiengesellschaft",323,8735,8735,8790
+193,"Bau-, Terrain- und Immobilien-Gesellschaften, Schachtban, Asphaltgewinnung und -Verarbeitung.",324,8790,8791,8791
+194,Asphaltgewinnung und -Verarbeitung. Aachener Immobilien-Aktien-Gesellschaft,324,8791,8792,8811
+195,Gemeinnützige Baugesellschaft für Aachen u. Burtscheid,324,8811,8811,8830
+196,Gemeinnützige Siedlungs-Aktien-Gesellschaft,324,8830,8830,8854
+197,Terra Tiefbau-Akt.-Ges.,325,8854,8854,8874
+198,"Thormann & Stiefel, Akt.-Ges.",325,8874,8874,8920
+199,"„Afgru“ Akt.-Ges. für Grundstücksverwaltungen in Liqu.,",326,8920,8920,8936
+200,Aetien-Bauverein „Passage“,326,8936,8936,9004
+201,Aktiengesellschaft Lindenhaus,327,9004,9004,9025
+202,Aktiengesellschaft für Brennstoffvergasung in Berlin.,327,9025,9025,9048
+203,®Aktiengesellschaft für Siedlung und Wohnungsbau,328,9048,9048,9061
+204,Aktiengesellschaft für Terrainverwertung in Liqu.,328,9061,9061,9095
+205,Allgemeine Boden-Akt.-Ges. in Ligqu.,328,9095,9095,9135
+206,Allianz-Bau-Aktien-Gesellschaft,329,9135,9135,9149
+207,Am Halensee Grundverwaltungs-A.-G.,329,9149,9149,9167
+208,Am Kottbuser Tor Grundstücksverwaltungs-Akt.-Ges.,330,9167,9167,9186
+209,Am Oranienburger Tor Grundstücksverwaltungs-Akt.-Ges.,330,9186,9186,9205
+210,„Am Wittenbergplatz“ Grundstücksverwaltungs - Akt.-Ges.,330,9205,9205,9224
+211,Ashelm Industriegebäude Aktien-Gesellschaft,330,9224,9224,9245
+212,Augsburger Str. 37 Grundstücksverwertungs-Akt.-Ges.,331,9245,9245,9263
+213,„Augsburgerstrasse 45° Grundstücksverwaltungs-Akt.-Ges.,331,9263,9263,9280
+214,Bau-Akt.-Ges. West in Liqu. Berlin.,331,9280,9280,9308
+215,Baugesellschaft in der Blücherstrasse Aktiengesellschaft,332,9308,9308,9325
+216,Baugesellschaft Kurfürstenstrasse Akt.-Ges.,332,9325,9325,9346
+217,"„Bauhof“, Terrain- u. Bau-Aktiengesellschaft",332,9346,9346,9368
+218,Bayerisches Viertel Grundstücks-Akt.-Ges.,333,9368,9368,9388
+219,"Berlin-Oberspree, Terrain- und Baugesellschaft",333,9388,9388,9411
+220,"Berliner Bau-Studien-Aktiengesellschaft in Liqu., Berlin.",333,9411,9411,9430
+221,Berliner Finanzierungs-Aktiengesellschaft,334,9430,9430,9452
+222,Berlinerstrasse 86/87 Grundstücks-Aktiengesellschaft,334,9452,9452,9470
+223,Berlinische Boden-Gesellschaft,334,9470,9470,9501
+224,Berlinische Grundstücks-Verwaltungs-Akt.-Ges.,335,9501,9501,9527
+225,Berlinische Hauserwerbs-Aktiengesellschaft,335,9527,9527,9546
+226,"Berolina Grundstücks-Aktiengesellschaft in Liqu., Berlin",336,9546,9546,9572
+227,Boswau & Knauer Akt.-Ges.,336,9572,9572,9705
+228,Brandenburgische Parzellierungs-Aktien-Gesellschaft,338,9705,9705,9727
+229,Bürohaus der Berliner Stadtsynode Akt.-Ges.,338,9727,9727,9754
+230,Cisalpin Grundstücksverwertungs-Akt.-Ges.,339,9754,9754,9771
+231,"Comex, Grundstücks- Akt.-Ges.",339,9771,9771,9790
+232,Demokrit Grundstücksverwertungs-Aktiengesellschaft,339,9790,9790,9808
+233,Deutsche Bau- und Grundstücks-Aktiengesellschaft,339,9808,9808,9839
+234,Domus major Grundstücks-Akt.-Ges. zu Berlin.,340,9839,9839,9856
+235,Eggertsche Familienhaus Akt.-Ges.,340,9856,9856,9872
+236,Einfamilienhaus „Rothenburg“,340,9872,9872,9897
+237,Elsnerhaus Aktiengesellschaft,341,9897,9897,9923
+238,"Fabrikbau-Aktiengesellschaft in Liqu., in Berlin.",341,9923,9923,9936
+239,Fichtenhof Grundstücks-Akt.-Ges.,341,9936,9936,9956
+240,Flachbau-Akt.-Ges.,342,9956,9956,9976
+241,„Preia“ Grundstücksverwertungs-Aktiengesellschaft,342,9976,9976,10008
+242,Fugger Grundstücks-Aktiengesellschaft,342,10008,10008,10038
+243,"„Gehag“, Gemeinnützige Heimstätten-, Spar- und Bau-Akt.-Ges.",343,10038,10039,10096
+244,"Gemeinnützige Baugesellschaft Mariengarten Akt.-Ges,.,",344,10096,10096,10133
+245,"Genter Str. 4, Hausverwaltungs-Akt.-Ges. -",344,10133,10133,10149
+246,Germania Aktiengesellschaft für Landwirtsbedarf in Liqu.,345,10149,10149,10178
+247,Gevag Grundstücksverwertungs-Akt.-Ges. in Liqu.,345,10178,10178,10198
+248,"Goltz-Immobilien - Akt.-Ges,,",345,10198,10198,10220
+249,Paul Gresitza Aktiengesellschaft für Strassen- u. Tiefbau,346,10220,10220,10252
+250,Grossbauten 'Aktiengesellschaft,346,10252,10252,10279
+251,Grosse Frankfurterstrasse 12—13 Grundstücks-A.-G.,347,10279,10279,10301
+252,Grund und Boden Aktiengesellschaft für Realwerte,347,10301,10301,10326
+253,Grundstücks-Akt.-Ges. an der Eulerstrasse,347,10326,10326,10347
+254,"Grundstücks-Akt.-Ges. Augustus,",348,10347,10347,10363
+255,Grundstücks-Akt.-Ges. Berlin-Tegel,348,10363,10363,10381
+256,Grundstücks-Akt.-Ges. Danubia,348,10381,10381,10403
+257,Grundstücks-Akt.-Ges. Dido,349,10403,10403,10420
+258,Grundstücks-Akt.-Ges. Französische Strasse 223/23,349,10420,10420,10425
+259,"Grundstücks-Akt.-Ges. Helena, in Ligqu., Berlin.",349,10425,10425,10436
+260,"Grundstücks-Aktiengesellschaft Idyll Gross-Glienicke,",349,10436,10436,10458
+261,Grundstücks-Akt.-Ges. Jülicherstrasse 1,349,10458,10458,10478
+262,Grundstücks-Aktiengesellschaft Krimhild,350,10478,10478,10498
+263,“ Grundstücks-Gesellschaft „Am Kleistpark“ Akt.-Ges.,350,10498,10498,10501
+264,Grundstücksverwaltungs-Gesellschaft Kantstrasse 149,350,10501,10501,10504
+265,"Grundstücksverwaltungs-Gesellschaft Potsdamer Str. 61-62,",350,10504,10504,10509
+266,Grundverwertungs-Aktiengesellschaft,350,10509,10509,10531
+267,Grunewaldstrasse 65 Grundstücks- Verwaltungs- Akt.-Ges.,351,10531,10531,10548
+268,"Habermann & Guckes-Liebold, Aktiengesellschaft",351,10548,10548,10637
+269,„Haus Elsass“ Grundstücks-Verwaltungs- u. Verwertungs-,352,10637,10637,10656
+270,„Haus und Land“ Grundstücks-Akt.-Ges.,353,10656,10656,10677
+271,Havag Hausverwaltungs-Akt.-Ges.,353,10677,10677,10695
+272,Heimstätten-Aktien-Gesellschaft,353,10695,10695,10745
+273,Hoba Aktiengesellschaft für Grundbesitzverwaltung,354,10745,10745,10766
+274,„Im alten Westen“ Grundstücks -Verwaltungs-Akt.-Ges.,354,10766,10766,10785
+275,„lm Invalidenviertel“ Grundstücks-Verwaltungs- und Verwertungs-Aktiengesellschaft,355,10785,10786,10803
+276,„Im Lützowviertel“ Grundstücks-Verwaltungs-Akt.-Ges.,355,10803,10803,10820
+277,Im Rosenthalerplatzviertel Grundstücks-Verwaltungs- und Verwertungs-Akt.-Ges.,355,10820,10821,10838
+278,Industrie-Gebäude Berlin-Hohenschönhausen Akt.-Ges.,355,10838,10838,10879
+279,Industriegebäude Kommandantenstrasse 76/79 Akt.-Ges.,356,10879,10879,10902
+280,„Innere Stadt“ Grundstücks-Verwaltungs- u. Verwertungs- Akt.-Ges. in Berlin.,356,10902,10903,10924
+281,Invalidenstrasse 5 Grundstücksaktiengesellschaft,357,10924,10924,10943
+282,"Theodor Keitel, Akt.-Ges.",357,10943,10943,10962
+283,Kleiststrasse 5 Grundstücks-Akt.-Ges.,357,10962,10962,10980
+284,_ Kleiststr. 7 Grundstücksverwertungs-Aktiengesellschaft,358,10980,10980,10997
+285,„Kundry“ Grundstücks- -Verwaltungs- u. Verwertungs-Akt.-Ges.,358,10997,10998,11019
+286,Landhausbau-Akt.-Ges.,358,11019,11019,11039
+287,Land Parzellierungs-Akt.-Ges.,359,11039,11039,11059
+288,Langestrasse 64 Hausverwaltungs-Akt.-Ges.,359,11059,11059,11073
+289,Liehtenberger Handels-Akt.-Ges.,359,11073,11073,11091
+290,Liegenschaftsnutzungs-Akt.-Ges.,359,11091,11091,11108
+291,Märkische Parzellierung Aktiengesellschaft in Liqu.,360,11108,11108,11129
+292,Margarine Grundstücks-Aktiengesellschaft,360,11129,11129,11159
+293,Medusa Grundstücks-Akt.-Ges.,360,11159,11159,11178
+294,Miet- Standard - Akt.- Ges.,361,11178,11178,11195
+295,Mülllerstrasse 137 Grundstücksverwertungs-Akt.-Ges.,361,11195,11195,11216
+296,Mundus Grundstücks-Verwaltungs-Akt.-Ges.,361,11216,11216,11240
+297,Neue Berliner Bau- u. Boden-Akt.-Ges.,362,11240,11240,11260
+298,Neue Gross-Berliner Haus-Aktiengesellschaft,362,11260,11260,11279
+299,Nördliche Friedrichstadt Grundstücks-Verwertungs-A.-G.,362,11279,11279,11298
+300,"Norddeutsche Terrain-Aktiengesellschaft in Liqu., Berlin.",363,11298,11298,11301
+301,Odin Grundstücksverwertungs-Aktiengesellschaft,363,11301,11301,11305
+302,"Oikos, Grunderwerbs- u. Verwalt.-Akt.-Ges.",363,11305,11305,11323
+303,Pariser Platz Terrain- u. Bau-Aktiengesellschaft,363,11323,11323,11339
+304,Pestalozzistrasse 62 Grundstücksverwertungs-Akt.-Ges.,363,11339,11339,11356
+305,"Poseidon Grundstücksverwaltungs-Akt.-Ges., Berlin.",364,11356,11356,11359
+306,Poststrasse 10/11 Grundsttcksverwitungs-Akt.Ges,364,11359,11359,11377
+307,„Potsdamer Brücke“ Bau-Akt.-Ges.,364,11377,11377,11395
+308,Prenzlauer Allee 84 Aktiengesellschaft,364,11395,11395,11417
+309,"Priko Grundstücksverwaltungs- Aktiengesellschaft,",365,11417,11417,11434
+310,Refacta-Immobilien-Akt.-Ges.,365,11434,11434,11452
+311,„Revag“ Grundstücksverwaltungs-Aktiengesellschaft,365,11452,11452,11469
+312,"Direktion: Willibald Lange, ""Eugen L. Garbaty-Rosenthal.",365,11469,11469,11473
+313,Rheineck Wilmersdorfer Hausverwaltungs-Akt.-Ges.,366,11473,11473,11490
+314,"Sachsen, Grundstücks-Akt.-Ges.",366,11490,11490,11507
+315,"A.&B. Schlochauer Grundbesitz Aktiengesellschaft in Liqu.,",366,11507,11507,11520
+316,"zollerndamm 2, Schlachtensee, Krottnaurerstr. 8",366,11520,11520,11538
+317,Schmargendorfer Boden-Aktiengesellschaft,367,11538,11538,11567
+318,Schrobsdorff Bauspar-Aktiengesellschaft,367,11567,11567,11586
+319,Schrobsdorff Grundstücksverwaltung Aktiengesellschaft,367,11586,11586,11606
+320,Schrobsdorff Immobilien-Aktiengesellschaft,368,11606,11606,11631
+321,Schwedenstrasse 11 Grundstücksverwertungs- Akt.-Ges.,368,11631,11631,11634
+322,Sedes Grundstücks-Akt.-Ges.,368,11634,11634,11654
+323,Semper idem Aktiengesellschaft für Realwerte in Ligu.,368,11654,11654,11670
+324,"Tempelhofer Ufer 14 Grundstücks-Akt.-Ges., Berlin.",369,11670,11670,11674
+325,"Terrain-Ges. am Teltow-Canal Rudow-Johannisthal, A.-G.",369,11674,11674,11726
+326,Thierga-Grundstücks-Verwertungs-Akt.-Ges.,370,11726,11726,11745
+327,Tiergartenviertel-Bau -Actien-Gesellschaft u,370,11745,11745,11760
+328,"Voßstrasse 15, Grundstücksverwertungs-Akt.-Ges.",370,11760,11760,11777
+329,"Wenzke & Nickel, Baugeschäft, Maurer- und Zimmerarbeiten",370,11777,11777,11800
+330,Wiederaufbau-Akt.-Ges. für Errichtung von Hochbauten „Widag“,371,11800,11801,11824
+331,Wilhelmsaue Terrain-Akt.-Gesellschaft,371,11824,11824,11844
+332,Wilmersdorfer Hochbau-Aktiengesellschaft,371,11844,11844,11880
+333,Wilmersdorferstrasse 143/144 Grundstücks-Akt.-Ges.,372,11880,11880,11898
+334,"Wittelsbach Grundstücks Akt.-Ges. in Liqu., Berlin.",372,11898,11898,11918
+335,„Wohnhaus Nürnbergerstrasse 49“ Grundstücks -Verwaltungs - Aktiengesellschaft,373,11918,11919,11937
+336,- „Wohnhaus Westen“ Grundstücksverwaltungs-Aktiengesellschaft,373,11937,11938,11955
+337,August Wolfsholz Presszementbau-Akt.-Ges.,373,11955,11955,11983
+338,"Zähringen Grundstüecks-Akt.-Ges. in Liqu., Berlin:",374,11983,11983,12001
+339,Zimmerstrasse 10 Grundstücks-Aktiengesellschaft,374,12001,12001,12020
+340,Bielefelder Volkskaffeehaus Akt.-Ges.,374,12020,12020,12041
+341,"Hammermühle Bischofsheim, Akt.-Ges.",375,12041,12041,12064
+342,Baugesellsehaft Heilbronn A.-G.,375,12064,12064,12108
+343,Europahaus A.-,376,12108,12108,12134
+344,Bau-Aktiengesellschaft Breslau,376,12134,12134,12155
+345,Bau-Aktiengesellschaft Yorckstrasse,376,12155,12155,12174
+346,Hnta Hoch- u. Tiefbau-Aktiengesellschaft,377,12174,12174,12270
+347,Schlesische Immobilien-Akt.-Ges.,378,12270,12270,12340
+348,Terrain-Aktiengesellschaft Gräbschen,379,12340,12340,12402
+349,Terrain-Akt.-Ges. Kleinburg,380,12402,12402,12471
+350,Aktiengesellschaft für Grundstücksverwertung,381,12471,12471,12492
+351,A. Doehner Grundstücks-Akt.-Ges. in Liqu.,381,12492,12492,12517
+352,Baugesellschaft Westfalen Akt.-Ges.,382,12517,12517,12546
+353,Dortmunder gemeinnützige Bau-Akt.-Ges. „Hellweg“,382,12546,12546,12592
+354,"Gemeinnützige Baugesellschaft, A.-G. in Liqu.",383,12592,12592,12616
+355,"Löwenbrauerei vorm. Peter Overbeck, Akt.-Ges.",383,12616,12616,12649
+356,Dianabad Grundstücks-Aktiengesellschaft,384,12649,12649,12672
+357,Dresdner Bau- und Industrie-Akt.-Ges.,384,12672,12672,12766
+358,Garagen Aktiengesellschaft,385,12766,12766,12800
+359,Gemeinnützige Wohnungsbau-Aktiengesellschaft,386,12800,12800,12834
+360,Gretschel & Ulbrich Akt.-Ges.,386,12834,12834,12860
+361,"Dürener Bauverein für Arbeiterwohnungen, A.-G.",387,12860,12860,12894
+362,"Allgemeine Hochbau-Gesellschaft, Akt.-Ges.",387,12894,12894,12947
+363,"Baugesellschaft Reisholz, Akt.-Ges.",388,12947,12947,12968
+364,Benrather Aktiengesellschaft für gemeinnützige Bauten,388,12968,12968,12993
+365,Düsseldorfer Ton- und Ziegelwerke Aktiengesellschaft,389,12993,12993,13022
+366,Duisburger Gemeinnützige Baugesellschaft A.-G.,389,13022,13022,13052
+367,Dortmunder Grundstücks- Aktiengesellschaft,390,13052,13052,13083
+368,Hochtief Aktiengesellschaft für Hoch- und Tiefbauten vorm. Gebr. Helfmann,390,13083,13084,13239
+369,Wolfer & Goebel Akt.-Ges.,392,13239,13239,13260
+370,Actiengesellschaft Vulcan,393,13260,13260,13282
+371,Grund- u. Boden-Akt.-Ges.,393,13282,13282,13302
+372,Philipp Holzmann Akt.-Ges.,393,13302,13302,13484
+373,Kübelhaus-Verwaltungs-Akt.-Ges.,396,13484,13484,13503
+374,Röderbergweg 104114 Akt.-Ges.,396,13503,13503,13523
+375,Badische Bodenbetriebsaktiengesellschatt,396,13523,13523,13544
+376,Oberrheinische Bauindustrie Akt.-Ges. in Liqu.,397,13544,13544,13587
+377,Oberrheinische Immobilien-Akt.-Ges. in Liqu.,397,13587,13587,13608
+378,"Bauunternehmung A. u. H. Hilgers, Aktiengesellschaft,",398,13608,13608,13625
+379,Rheydter Actien-Baugesellschaft,398,13625,13625,13661
+380,Schlesische Industriebau Lenz & Co. Aktiengesellschaft,399,13661,13661,13687
+381,Aktiengesellschaft für Bau- und Grundstücksbedarf,399,13687,13687,13704
+382,"Akt.-Ges. für städtischen Grundbesitz in Liquid., Hamburg.",399,13704,13704,13709
+383,"Bau-Verein zu Hamburg Aktiengesellschatt,",399,13709,13709,13751
+384,Norddeutsche Asphalt-Aktien-Gesellschaft,400,13751,13751,13773
+385,Beton-Sehwellen- u. Strassenbau Akt.-Ges.,400,13773,13773,13776
+386,Baugesellschaft Hanau Akt.-Ges.,400,13776,13776,13795
+387,Heilbronner Wohnungsverein A.-6.,401,13795,13795,13816
+388,Hildener Aktien-Bau-Gesellschaft,401,13816,13816,13837
+389,Gemeinnützige Baugesellschaft zu Hildesheim,401,13837,13837,13870
+390,Gemeinnützige Bauges. Kaiserslautern Akt.-Ges.,402,13870,13870,13901
+391,"Gemeinnütziger Bauverein Eigenheim Akt.-Ges,",402,13901,13901,13933
+392,Haus Rankestrasse 13 Grundstücksverwertungs- Akt.- Ges.,403,13933,13933,13953
+393,"Porta, Grundstücks-Aktiengesellschaft",403,13953,13953,13975
+394,Nordische Baugesellschaft Aktiengesellschaft,403,13975,13975,13999
+395,Klein-Glieniecker Grunderwerbs-Akt.-Ges. Wübben,404,13999,13999,14015
+396,Gemeinnützige Akt.-Ges. für Wohnungsbau,404,14015,14015,14092
+397,"Grundstücksverwaltungsgesellschaft Venloerstrasse A.-G.,",405,14092,14092,14112
+398,Herkules-Haus Aktiengesellschaft,405,14112,14112,14139
+399,E. Bieske Akt.-Ges.,406,14139,14139,14191
+400,Gemeinnützige Wohnungsbau-Akt.-Ges. Oberbaden,406,14191,14191,14231
+401,Gemeinnütziger Bauverein Kray A.-G. in Liqu. in Kray.,407,14231,14231,14236
+402,Gemeinnütziger Bauverein Akt.-Ges.,407,14236,14236,14262
+403,Akt.-Ges. für Haus- und Grundbesitz,407,14262,14262,14310
+404,Bülowhausverwaltung Akt.-Ges.,408,14310,14310,14326
+405,Dresdner Hof Aktiengesellschaft,408,14326,14326,14367
+406,Grundbesitz-Aktiengesellschaft zu Leipzig.,409,14367,14367,14423
+407,"Grundstücks-Aktiengesellschaft in Ligqu.,",410,14423,14423,14449
+408,Leipziger Textilmesshäuser Aktiengesellschaft,410,14449,14449,14452
+409,Grassi-Textil-Messhaus- Aktiengesellschaft.,410,14452,14452,14499
+410,Messhaus Union Akt.-Ges.,411,14499,14499,14531
+411,"Lenneper Gemeinnütziger Bauverein, Akt.-Ges.",411,14531,14531,14558
+412,Einfamilienhaus „Lübeck“,412,14558,14558,14576
+413,Gemeinnützige Aktiengesellsehaft für Wohnungsbau Ludwigshafen a. Rh.,412,14576,14577,14621
+414,„Gemeinnützige Wohnungsbau-Aktiengesellschaft Lüdenscheid“,413,14621,14622,14651
+415,Gemeinnützige Heimstätten-Akt.-Ges. Magdeburg,413,14651,14651,14678
+416,Grün & Bilfinger Akt.-Ges.,414,14678,14678,14774
+417,Mannheimer Börsenbau-Aktiengesellschaft,415,14774,14774,14807
+418,Warenhausbau Akt.-Ges.,415,14807,14807,14837
+419,Gastwirtschaftsbetrieb Aktiengesellschaft,416,14837,14837,14862
+420,Industriewerke Monheim Akt.-Ges.,416,14862,14862,14891
+421,Akt.-Ges. Wohnhaus Römerstrasse 30,417,14891,14891,14911
+422,Bayerische Immobilien-Gesellschaft,417,14911,14911,14952
+423,Dach- u. Hallenbau-A.-G.,418,14952,14952,14981
+424,Fundus Akt.-Ges. für Grundbesitz u. Grundstücksverwaltung,418,14981,14981,14999
+425,Gemeinnützige Wohnungsfürsorge Aktiengesellschaft,418,14999,14999,15029
+426,Grundbesitz Akt.-Ges. Trautenwolfstrasse,419,15029,15029,15049
+427,Grund-Besitz- und 'Erwerb Akt.-Ges.,419,15049,15049,15066
+428,"Haus für Handel und Gewerbe, Aktiengesellschaft",419,15066,15066,15094
+429,Hausverwaltungs-Akt.-Ges. Hiltensbergerstrasse,420,15094,15094,15114
+430,Hausverwaltungs-Akt.-Ges. Prinzregentenstrasse,420,15114,15114,15134
+431,Hausverwaltungs-Aktiengesellschaft Schwanthalerstr. 86,420,15134,15134,15159
+432,"Heilmann & Littmann, Bau- und Immobilien-Akt.-Ges.",421,15159,15159,15346
+433,Lindwurmhof-Akt.-Ges.,423,15346,15346,15370
+434,München-Pasinger Terraingesellschaft Aktiengesellschaft,424,15370,15370,15408
+435,Münchener Wohnungsfürsorge — Aktiengesellschaft,424,15408,15408,15446
+436,"Süddeutsche Grundstücks-Verwertungs Akt.-Ges.,",425,15446,15446,15465
+437,Siiddeutsche Terrainaktiengesellschaft,425,15465,15465,15492
+438,Terrain-Aktiengesellschaft Herzogpark München-Gern,425,15492,15492,15596
+439,Terraingesellschaft Neu-Westend Akt.-Ges.,427,15596,15596,15683
+440,Gladbacher Actien-Baugesellschaft,428,15683,15683,15707
+441,Terrain-Gesellschaft Neu-Babelsberg,429,15707,15707,15738
+442,"Neusser Gemeinnütziger Bauverein, A.-G.",429,15738,15738,15762
+443,"Bremer-Häuser-Actien-Gesellschaft in Norderney,",429,15762,15762,15784
+444,Deutsche Sehachtbau-Akt.-Ges.,430,15784,15784,15848
+445,Tiefbau- und Kälteindustrie-Actiengesellschaft,431,15848,15848,15924
+446,Nürnberger Terrain-Aktiengesellschaft in Liqu. in Nürnberg.,432,15924,15924,15957
+447,Grundstücksverwertungs-Aktiengesellschaft Oberhof,432,15957,15957,15977
+448,Zementbauaktiengesellschaft Ohlau in Liqu.,433,15977,15977,15981
+449,"Bau-Industrie-Akt.-Ges. „Biag“ in Liqu. in Rastatt,",433,15981,15981,15990
+450,Gemeinnützige Heimstätten-Akt.-Ges. Rinteln,433,15990,15990,16012
+451,Friedo Geertz Akt.-Ges. für Bauausführungen,433,16012,16012,16043
+452,Norddeutsche Ansiedlungsgesellschaft Aktiengesellschaft.,434,16043,16043,16068
+453,Gemeinnützige Heimstätten-Akt.-Ges. Zabelsdorf,434,16068,16068,16089
+454,Bau-Aktiengesellschaft Königstrasse,434,16089,16089,16112
+455,Cotta-Haus Aktiengesellschaft,435,16112,16112,16132
+456,Deutsches Haus Akt.-Ges.,435,16132,16132,16152
+457,Geschäftshaus Akt.-Ges.,435,16152,16152,16170
+458,Kronenbau Akt.-Ges.,436,16170,16170,16193
+459,Stuttgarter Gemeinnützige Baugesellschaft Akt.-Ges.,436,16193,16193,16220
+460,Uhlandshöhe Akt.-Ges. für Grundstücksverwaltung,436,16220,16220,16264
+461,Wohnungsbau-Aktiengesellschaft,437,16264,16264,16284
+462,Viersener Actien-Baugesellschaft,437,16284,16284,16318
+463,"Gemeinnützige Bau- u. Wohnungsgesellschaft, Akt.-Ges.",438,16318,16318,16333
+464,Alsterthal-Terrain-Akt.-Ges. in Liqu. in Wellingsbüttel,438,16333,16333,16356
+465,"Mibau, Mitteldeutsche Bau-Aktiengesellschaft für gemeinnützigen Wohnungs- u. Siedlungsbau,",439,16356,16357,16378
+466,"Boden-Akt.-Ges. Hamburg-Wilhelmsburg,",439,16378,16378,16398
+467,"Actiengesellschaft zur Erbauung billiger Wohnungen,",439,16398,16398,16423
+468,Barmer Baugesellschaft für Arbeiterwohnungen A.-G.,440,16423,16423,16469
+469,Deutsch-Spanische Immobilien-Gesellschaft,440,16469,16469,16489
+470,"Bergwerke, Hütien- u. Salinenwesen, Erdöl- u. Torfeewinnung. Aktien-Gesellschaft für Bergbau, Blei- und Zinkfabrikation",441,16489,16490,16735
+471,Zwitterstocks- Aktiengesellschaft,444,16735,16735,16779
+472,Deutsche Tiefbohr-Aktiengesellschaft,445,16779,16779,16811
+473,Kaliwerke Aschersleben,445,16811,16811,17112
+474,Stahlwerk Augustfehn A.-G.,450,17112,17112,17145
+475,Deutsche Erdöl-Aktiengesellschaft,450,17145,17145,17335
+476,Ostdeutsche Braunkohlen-Akt.-Ges. in Berlin,453,17335,17335,17338
+477,Phönix Akt.-Ges. für Braunkohlenverwertung,453,17338,17338,17433
+478,Wintershall Aktiengesellschaft,454,17433,17433,17570
+479,Fe =) Er,456,17570,17570,17578
+480,12 Sachsen Weimar. 610 647 's Carsgiüeh EINDIIII BR,456,17578,17578,17604
+481,"4 Herta no. \ 86 Wintershall, Gewerk-",456,17604,17604,17862
+482,Verkehrs- und Handels-Akt.-Ges.,460,17862,17862,17885
+483,Sehlesische Bergwerks- u. Hütten-Akt.-Ges.,460,17885,17885,18018
+484,Akt.-Ges. für Neuburger Kieselweis,462,18018,18018,18051
+485,Grube Leopold Aktiengesellschaft,462,18051,18051,18081
+486,dere fabrikulion Stromerzeugung Mauersteine rm  Eizeug.,463,18081,18081,18181
+487,"Braunkohlenwerke Borna, Akt.-Ges.",464,18181,18181,18251
+488,Bremer Torfwerke Aktiengesellschaft,465,18251,18251,18277
+489,"Providentia, Akt.-Ges. für Braunkohlen-Industrie",466,18277,18277,18330
+490,Harpener Bergbau-Aktien-Gesellschaft,467,18330,18330,18658
+491,Aktiengesellsehaft Sächsische Werke,471,18658,18658,18845
+492,| 1924 | 1925 1926 | ı927 | 1028 | 1929 | 1930 | 1051,474,18845,18845,19026
+493,Mannesmannröhren-Werke,476,19026,19026,19417
+494,Duisburger Kupferhütte,482,19417,19417,19457
+495,Eisenwerk Kraft,482,19457,19457,19556
+496,Mansfeld Aktiengesellschaft für Bergbau u. Hüttenbetrieb,484,19556,19556,19918
+497,Essener Bergwerksverein „König Wilhelm“,488,19918,19918,20121
+498,Westdeutsche Tiefbohr-Aktiengesellschaft,491,20121,20121,20149
+499,Tellus Akt.-Ges. für Bergbau und Hüttenindustrie,492,20149,20149,20207
+500,Bergwerks-Gesellschaft Dahlbusch,493,20207,20207,20355
+501,Oberschlesische Eisenbahn-Bedarfs-Actien-Gesellschaft,495,20355,20355,20692
+502,Ilseder Hütte,499,20692,20692,20917
+503,Gussstahlwerk Wittmann Aktiengesellschaft,503,20917,20917,20947
+504,Anhaltische Kohlenwerke,503,20947,20947,21123
+505,Werschen -Weissenfelser Braunkohlen-Aktien-Gesellschaft,506,21123,21123,21202
+506,Rohkohle Briketts Nasspresssteine Grudekoks en,507,21202,21202,21263
+507,Aktiengesellschaft für Zink-Industrie,508,21263,21263,21295
+508,Norddeutsche Affinerie,508,21295,21295,21376
+509,Unterelbe Brikettwerk und Kohlenhandels-Akt.-Ges.,509,21376,21376,21421
+510,"Zinkhütte Hamburg Aktiengesellschaft,",510,21421,21421,21464
+511,Salzwerk Heilbronn,511,21464,21464,21528
+512,Bergwerksgesellschaft Hibernia,511,21528,21528,21690
+513,"Krefelder Stahlwerk, Actien-Gesellschaft",514,21690,21690,21742
+514,Kaliwerke „Adolfs Glück“ Akt.-Ges.,514,21742,21742,21839
+515,Burbach-Kaliwerke Aktiengesellschaft,516,21839,21839,21852
+516,"Hindenburg, Königshall, Oberhof, Reinhardsbrunn, Rössing- Barnten, Salzmünde, Schwarzburg,",516,21852,21852,22259
+517,Bodenprodukte Akt.-Ges.,522,22259,22259,22283
+518,Stahlwerk Mannheim Aktiengesellschaft,522,22283,22283,22338
+519,Merfeld Akt.-Ges. für Torfindustrie und Ödlandkultur,523,22338,22338,22387
+520,Braunkohlenabbau-Verein „zum Fortschritt“,524,22387,22387,22446
+521,Mülheimer Bergwerksverein,524,22446,22446,22595
+522,Oberbayerische Akt.-Ges. für Kohlenbergbau,527,22595,22595,22659
+523,Pegmatit-Bergbau-Akt.-Ges.,528,22659,22659,22679
+524,„Freia“ Braunkohlenwerke Akt.-Ges.,528,22679,22679,22708
+525,Passauer Grafitwerke Aktiengesellschaft,528,22708,22708,22737
+526,Adler-Kaliwerke Akt.-Ges.,529,22737,22737,22877
+527,Hannoversche Kaliwerke Aktiengesellschaft,531,22877,22877,22938
+528,Bergwerks-Aktiengesellschaft Recklinghausen,532,22938,22938,23049
+529,Eisenhütte Holstein Aktiengesellschaft,533,23049,23049,23081
+530,"Anthraeitgrube Carl Friedrich, Akt.-Ges. für Bergbau u. verwandte Industrien",534,23081,23082,23130
+531,Kaliwerke Salzdetfurth Aktiengesellschaft,534,23130,23130,23351
+532,Saline und Soolbad Salzungen,538,23351,23351,23414
+533,Hallesche Salzwerke Aktiengesellschaft,538,23414,23414,23530
+534,"Deutsche Feldspat- u. Kaolinwerke Akt.-Ges.,",540,23530,23530,23581
+535,Aplerbecker-Aet.- Verein f. Bergbau (Zeche ver. Margarethe),541,23581,23581,23607
+536,Consolidirte Alkaliwerke,541,23607,23607,23894
+537,Stahlwerke Röchling-Buderus Akt.-Ges.,545,23894,23894,23971
+538,"Erdölwerke „Helenaglück“ Akt.-Ges. in Liqu., Wietze (Hann.).",546,23971,23971,23974
+539,Stahlwerk Becker Akt.-Ges.,546,23974,23974,24076
+540,Saline Ludwigshalle,548,24076,24076,24141
+541,Ruhrstahl Aktiengesellschaft,549,24141,24141,24246
+542,"Metallindustrie, Maschinen-, Apparate- und Fahrzeugbau, Bdelmetall- und Schmuckwaren.",550,24246,24247,24247
+543,Bdelmetall- und Schmuckwaren. Cappel & Co. Motorwagen- und Tractoren-Verkaufs-,550,24247,24248,24248
+544,Cappel & Co. Motorwagen- und Tractoren-Verkaufs- gesellschaft Akt.-Ges.,550,24248,24249,24274
+545,"Hermann Köhler, Akt.-Ges.",551,24274,24274,24320
+546,"Direktion: Heinrich Strothmann, Louis",551,24320,24320,24325
+547,Karl Kaltenbach & Söhne Aktiengesellschaft,551,24325,24325,24356
+548,Ottensener Eisenwerk Aktiengesellschaft,552,24356,24356,24454
+549,"Maschinenfabrik Hermann Walb, Akt.-Ges. in Liqu.",553,24454,24454,24461
+550,Gottfried Lindner Akt.-Ges.,553,24461,24461,24543
+551,"Rud. Ley, Maschinenfabrik Akt.-Ges.",554,24543,24543,24671
+552,Actien-Maschinenfabrik „Kyffhäuserhütte“ vorm. Paul Reuss,556,24671,24671,24771
+553,Johne-Werk Grafische Maschinen-Akt.-Ges.,557,24771,24771,24825
+554,Aug. Nowack Aktiengesellschaf:,558,24825,24825,24865
+555,Frankonia Akt.-Ges. vormals Albert Frank in Liqu.,558,24865,24865,24929
+556,Ajax Aktiengesellschaft für technische u. Handels-Artikel,559,24929,24929,24932
+557,Akt.-Ges. fir alumino-thermische u. elektr. Schweissungen,559,24932,24932,24962
+558,Aktiengesellschaft für Metallwerte,560,24962,24962,24990
+559,„Allauto“ Kraftfahrzeug-Handels-Akt.-Ges. in Liqu.,560,24990,24990,25015
+560,"Arktos, Akt.-Ges. für Kältemaschinen",561,25015,25015,25018
+561,Autogen -Gasaccumulator Aktiengeselischaft,561,25018,25018,25053
+562,„Autohag“ Automobil-Handels-Akt.-Ges.,561,25053,25053,25073
+563,Automatie Aktiengesellschaft für automatische Druck- maschinen,562,25073,25074,25112
+564,"Bahn-, Bau- und Maschinenbedarf-Akt.-Ges.",562,25112,25112,25130
+565,Bergmann & Franz Nachf. Akt.-Ges.,562,25130,25130,25156
+566,Berlin-Karlsruher Industrie-Werke Aktiengesellschaft,563,25156,25156,25250
+567,"Verringerung des Umsatzes, mannigfache ""Behinderungen des Exportes, Konkurrenz dureh",564,25250,25250,25274
+568,Berliner Pumpenfabrik Aktien - Gesellschaft,564,25274,25274,25337
+569,Berliner Tuben-Fabrik vorm. Gebr. Koppe Akt.-Ges.,565,25337,25337,25355
+570,"H. Berthold Messinglinienfabrik u. Schriftgiesserei, A.-G.",565,25355,25355,25489
+571,F. Butzke-Bernhard Joseph Akt.-Ges.,567,25489,25489,25628
+572,"Continentale Industrie- u. Handels-Akt.-Ges. in Liqu., Berlin.",569,25628,25628,25633
+573,Denes & Friedmann Akt.-Ges.,569,25633,25633,25666
+574,Denseritwerke Akt.-Ges.,570,25666,25666,25694
+575,Deutsche Motor Service Aktiengesellschaft,570,25694,25694,25713
+576,G. €. Dornheim Aktiengesellschaft,570,25713,25713,25758
+577,Frister & Rossmann Aktiengesellschaft in Liqu. in Berlin,571,25758,25758,25793
+578,"Theodor Fröhlich, Aktiengesellschaft",572,25793,25793,25818
+579,"Gustav Genschow & Co., Akt.-Ges.",572,25818,25818,25951
+580,J. Godet & Sohn Akt.-Ges.,574,25951,25951,25978
+581,- David Grove Akt.-Ges.,574,25978,25978,26056
+582,"Hein, Lehmann & Co. Actiengesellschaft,",575,26056,26056,26179
+583,Gebr. Israel Metallwaren-Aktiengesellschaft,577,26179,26179,26195
+584,Kammerich-Werke Akt.-Ges.,577,26195,26195,26257
+585,Rich. Klinger Akt.-Ges.,578,26257,26257,26288
+586,Knorr-Bremse Akt.-Ges.,579,26288,26288,26338
+587,Metall- u. Erz-Aktiengesellschaft,579,26338,26338,26370
+588,Metallwarenfabrik Akt.-Ges. vorm. Ed. Lachmann,580,26370,26370,26393
+589,Mix & Genest Aktiengesellschaft,580,26393,26393,26556
+590,Orenstein & Koppel Aktiengesellschaft,582,26556,26556,26729
+591,"Gebrüder Pierburg, Akt.-Ges. in Liqu., Berlin-Tempelhof,",585,26729,26729,26770
+592,"Julius Pintsch, Aktiengesellschaft",585,26770,26770,26868
+593,Ravene Stahl Aktiengesellschaft,587,26868,26868,26921
+594,Rotaprint Aktiengesellschaft,588,26921,26921,26950
+595,Scharfenbergkupplung Aktiengesellschaft,588,26950,26950,27008
+596,Franz Seiffert & Co. Aktiengesellschaft,589,27008,27008,27087
+597,Singer Nähmaschinen Aktiengesellschaft,590,27087,27087,27121
+598,"R. Stock & Co., Spiralbohrer-, Werkzeug- u. Masch.-Fabrik Akt.-Ges.",591,27121,27122,27200
+599,Wärmemesser Aktien-Gesellschaft,592,27200,27200,27218
+600,Fritz Werner Akt.-Ges.,592,27218,27218,27256
+601,Kochs Adlernähmaschinen-Werke Akt.-Ges.,593,27256,27256,27330
+602,Kuxmann & Co. K.-G. a. A.,594,27330,27330,27358
+603,E. Otto Dietrich Rohrleitungsbau-Aktiengesellschaft,594,27358,27358,27399
+604,J. G. Lieb Söhne A.-C.,595,27399,27399,27431
+605,"Emanuel Bode, Oberschlesische Drahtseilwerke Akt.-Ges.",595,27431,27431,27458
+606,Westfalia Dinnendahl Gröppel Aktiengesellschaft,596,27458,27458,27574
+607,"Corona, Fahrradwerke u. Metallindustrie, Act.-Ges. in Liqu.",597,27574,27574,27641
+608,"Büssing-NAG Vereinigte Nutzkraftwagen Aktiengesellschaft,",598,27641,27642,27692
+609,"Clemens & Vogl, Aktiengesellschaft",599,27692,27692,27712
+610,Kuthe & Meinert Akt.-Ges.,599,27712,27712,27739
+611,Atlas-Werke Aktiengesellschaft,600,27739,27739,27872
+612,Bremerhavener Metallwarenfabrik H. A.Wilkens & Co. A.-G.,602,27872,27872,27888
+613,Archimedes Schlesisch-Sächsische Schraubenfabriken Aktiengesellschaft,602,27888,27889,27938
+614,Aktiengesellschaft fürLandwirtschafts- und Industriebedarf,603,27938,27938,27943
+615,"Heinrieh Hollmann & Co,",603,27943,27943,27975
+616,Allgemeine Maschinenbau-Gesellschaft Akt.-Ges.,603,27975,27975,28009
+617,Auto Union Aktiengesellschaft,604,28009,28009,28121
+618,Maschinenfabrik Germania vorm. J. S. Schwalbe & Sohn,605,28121,28121,28213
+619,"J. E. Reinecker, Akt.-Ges.",607,28213,28213,28269
+620,Sächsische Textilmaschinenfabrik vorm. Rich. Hartmann Aktiengesellschaft,607,28269,28270,28316
+621,"Sander & Graff Aktiengesellschaft in Chemnitz,",608,28316,28316,28346
+622,Werkzeugmaschinenfabrik „Union“ (vormals Diehl),609,28346,28346,28446
+623,"Dampfkesselfabrik vorm. Arthur Rodberg, A.-6.",610,28446,28446,28496
+624,Goebel Aktiengesellschaft,611,28496,28496,28529
+625,Gebrüder Roeder Akt.-Ges.,611,28529,28529,28601
+626,"B. Holthaus, Maschinenfabrik, A.-G.",612,28601,28601,28666
+627,Armaturenfabrik Tremonia Akt.-Ges.,613,28666,28666,28689
+628,Heemaf S. K. A. Motorenwerk Aktiengesellschaft,614,28689,28689,28708
+629,"E. Th. Noack, Akt.-Ges. in Liqu.",614,28708,28708,28722
+630,Hille-Werke Aktiengesellschaft,614,28722,28722,28849
+631,Edmund Hunger Akt.-Ges.,616,28849,28849,28868
+632,Sächsische Cartonnagen-Maschinen-Act.-Ges.,616,28868,28868,28972
+633,Schladitz-Werke Akt.-Ges.,618,28972,28972,29075
+634,"Schriftzuss-Aktiengesellschaft vorm. Brüder Butter,",619,29075,29075,29123
+635,Zeppernick & Hartz Akt.-Ges.,620,29123,29123,29144
+636,"Franz Bahner, Aktiengesellschaft",620,29144,29144,29176
+637,Berluto-Armaturen-Aktiengesellschaft,621,29176,29176,29201
+638,*Citogen Aktiengesellschaft für Metallbearbeitung,621,29201,29201,29216
+639,Deutsche Drahtwalzwerke Akt.-Ges.,621,29216,29216,29243
+640,"Hartung, Kuhn & Co. Maschinenfabrik, Akt.-Ges.",622,29243,29243,29264
+641,Losenhausenwerk Düsseldorfer Maschinenbau Akt.-Ges:,622,29264,29264,29338
+642,"Gebr. Poensgen, Akt.-Ges.",623,29338,29338,29380
+643,"Rosenau, Akt.-Ges. in Liqu.",624,29380,29380,29396
+644,Wotan- und Zimmermann-Werke Aktiengesellschaft,624,29396,29396,29493
+645,Metallwerk Montania Akt.-Ges.,625,29493,29493,29511
+646,Ekameta Akt.-Ges.,626,29511,29511,29537
+647,Gebrüder Demmer Akt.-Ges.,626,29537,29537,29632
+648,Eisflether Werft A.-G.,627,29632,29632,29671
+649,„Fledermaus“ Akt.-Ges. für Metallindustrie u. Maschinenbau,628,29671,29671,29693
+650,Europa Schreibmaschinen Aktiengesellschaft,628,29693,29693,29724
+651,"J. A. John, Aktien-Gesellschaft",629,29724,29724,29831
+652,Hch. Syrowy Stahlindustrie Akt.-Ges.,630,29831,29831,29861
+653,„Skip Compagnie“ Akt.-Ges.,631,29861,29861,29886
+654,Maschinenfabrik Esslingen,631,29886,29886,29995
+655,Mea Vertriebs-Akt.-Ges.,632,29995,29995,30016
+656,Reichelt-Metallschrauben-Akt.-Ges.,633,30016,30016,30090
+657,Diskus Werke Frankfurt a. M. Maschinenbau Akt.-Ges.,634,30090,30090,30131
+658,Hermann Manko Akt.-Ges.,634,30131,30131,30157
+659,Maschinenfabrik Moenus Aktiengesellschaft,635,30157,30157,30243
+660,"Schriftgiesserei D. Stempel, Akt.-Ges.",636,30243,30243,30335
+661,Vag Vakuumanlagen- u. Kolbenring-Akt.-Ges.,637,30335,30335,30341
+662,Werkzeug- u. Maschinenbau A.-G.,637,30341,30341,30372
+663,"Schraubenspundfabrik Wm. Kromer, A.-G.",638,30372,30372,30408
+664,Fürstenberger Parzellierungs-Aktiengesellschaft,638,30408,30408,30428
+665,Hutzler & Pretsfelder Akt.-Ges. Metallw arenfabriken,639,30428,30428,30451
+666,Württembergische Metallwarenfabrik,639,30451,30451,30549
+667,"Karl Hamacher, Aktiengesellschaft",640,30549,30549,30574
+668,Wesselmann-Bohrer Co. Akt.-Ges.,641,30574,30574,30606
+669,"Bockhacker Werk, Aktiengesellschaft",641,30606,30606,30624
+670,APAG Apollo-Plantectorwerk-Aktiengesellschaft,642,30624,30624,30672
+671,"Gothaer Waggonfabrik, Akt.-Ges.",642,30672,30672,30797
+672,Leinbrock-Werke Akt.-Ges.,644,30797,30797,30827
+673,Erftwerk Aktiengesellschaft,644,30827,30827,30905
+674,Vereinigte Maschinenfabriken A.-G.,646,30905,30905,30977
+675,"Paradiesbettenfabrik M. Steiner & Sohn, Akt.-Ges.",647,30977,30977,31124
+676,"Paul Schreck, Akt.-Ges.",649,31124,31124,31150
+677,Wegelin & Hübner Maschinenfabrik und Eisengiesserei Aktiengesellschaft,649,31150,31151,31215
+678,"Metallwerk Hamburg Akt.-Ges. in Liqu., Hamburg",650,31215,31215,31220
+679,Metallwerke Aktien-Gesellschaft vorm. Luckau & Steffen,650,31220,31220,31225
+680,"J. H. Watty & Sohn Akt.-Ges. in Liqu., Hamburg P.1,",650,31225,31225,31243
+681,Vereinigte Herd- und Ofenfabriken C. Woeste Akt.-Ges.,650,31243,31243,31270
+682,G. D. Braeker Söhne Maschinenbau-Akt.-Ges.,651,31270,31270,31298
+683,Heraeus-Vakuumschmelze Akt.-Ges.,651,31298,31298,31328
+684,Hackethal-Industrie-Gesellschaft (Higes) Akt.-Ges.,652,31328,31328,31355
+685,Gebr. Körting Akt.-Ges.,652,31355,31355,31478
+686,Prometheus-Werke Akt.-Ges.,654,31478,31478,31522
+687,"M.H. Thofehrn Akt.-Ges,., Maschinenfabrik Hannover-\Wülfel",655,31522,31522,31527
+688,Eisenwerk L. Meyer jun. & Co. Akt.-Ges.,655,31527,31527,31612
+689,"Kleinmaschinen-Aktiengesellschaft de Thon & Cie. in Liqu,,",656,31612,31612,31632
+690,Schnellpressenfabrik Akt.-Ges. Heidelberg,656,31632,31632,31725
+691,Ostdeutsche Maschinenfabrik vorm. Rud. Wermke,658,31725,31725,31808
+692,Hugo Engelmann & Co. Akt.-Ges.,659,31808,31808,31840
+693,"Aluminium und Magnesium Fabrik, Act.-Ges.",659,31840,31840,31885
+694,Bremer Draht- und Seilindustrie Aktiengesellschaft,660,31885,31885,31906
+695,"M. H. Wilkens & Söhne, Akt.-Ges.",660,31906,31906,31929
+696,Stahl- u. Walzwerk Hennigsdorf A.-6.,660,31929,31929,31994
+697,"Herdfabrik und Eisengiesserei, Akt.-Ges.",661,31994,31994,32019
+698,"Adolf Deichsel, Drahtwerke und Seilfabriken Akt.-Ges.",662,32019,32019,32052
+699,"Fabrik für landwirtschaftliche Maschinen A.-G. in Liqu.,",662,32052,32052,32059
+700,"Adolf vom Braucke, Aktiengesellschaft.",662,32059,32059,32092
+701,Kilb & Co. Aktiengesellschaft,663,32092,32092,32122
+702,Oskar Gehlhaar Akt.-Ges.,663,32122,32122,32146
+703,"G. M. Pfaff Akt.-Ges,,",664,32146,32146,32168
+704,Federstahl Aktiengesellschaft,664,32168,32168,32252
+705,"Eisen- u. Stahl-Akt.-Ges. in Liqu., Kempten.",665,32252,32252,32257
+706,Ford Motor Company Aktiengesellschaft,665,32257,32257,32385
+707,"Gottfried Hagen, Akt.-Ges.",667,32385,32385,32412
+708,Metallhütte Brohl Akt.-Ges.,667,32412,32412,32435
+709,Rheinland-Garagenbetriebs-Aktiengesellschaft in Liqu.,668,32435,32435,32452
+710,"Walther & Cie., Aktien-Gesellsehaft",668,32452,32452,32503
+711,Maschinen- und Werkzeugfabrik Aktiengesellschaft,669,32503,32503,32565
+712,Maschinenfabrik Act.-Ges. vorm. Wagner & Co.,670,32565,32565,32646
+713,"Deutsche Edelstahlwerke Aktiengesellschaft,",671,32646,32646,32737
+714,"Maschinenfabrik Carl Zangs, Akt.-Ges.",672,32737,32737,32759
+715,Ostdeutsche Stanz- und Emaillierwerke Akt.-Ges. in Liqu.,672,32759,32759,32783
+716,„Imtag“ Internationale Maschinen- u. Tiefbohrgeräte-Fabrik,673,32783,32783,32820
+717,"Lauterberger Blechwarenfabrik, Aktiengesellschaft",673,32820,32820,32857
+718,"Leipziger Stahlfederfabrik Herm. Müller, Akt.-Ges.",674,32857,32857,32883
+719,Leipziger Tangier-Werk Aktiengesellschaft,674,32883,32883,32907
+720,Pittler Werkzeugmaschinenfabrik Aktiengesellschaft,675,32907,32907,33013
+721,"Hugo Schneider, Akt.-Ges.",676,33013,33013,33102
+722,Gustav Tietze Akt.-Ges.,677,33102,33102,33126
+723,Ver. Metallwaren-Fabriken Carl Thielmann Akt.-Ges.,678,33126,33126,33130
+724,"Sohler-Werke, Aktiengesellschaft",678,33130,33130,33162
+725,"Stahl- u. Eisenwerke Döhner, Akt.-Ges.",678,33162,33162,33200
+726,"Bremer u. Brückmann Blechwarenfabrik, Süddeutsche Abteilung, Aktiengesellschaft",679,33200,33201,33237
+727,Lübecker Maschinenbau-Ges.,679,33237,33237,33305
+728,Schetelig & Nölck Akt.-Ges.,680,33305,33305,33341
+729,"Stanz- und Emaillirwerke, vormals Carl Thiel & Söhne",681,33341,33341,33427
+730,"Potthoff & Flume, Aktiengesellschaft",682,33427,33427,33449
+731,"Schiekler, Bohe & Co., Akt.-Ges. in Liqu., Lüttringhausen.",683,33449,33449,33469
+732,Kosmos-Mühlenbau Akt.-Ges.,683,33469,33469,33492
+733,"Maschinenfabrik Grevenbroich Aktiengesellschaft,",683,33492,33492,33518
+734,"Elster & Co., Akt.-Ges.",684,33518,33518,33543
+735,"Julius Römheld, Akt.-Ges.,",684,33543,33543,33567
+736,Heinrich Lanz Aktiengesellschaft,684,33567,33567,33703
+737,"Sehmidt & Willmes, Akt.-Ges,.,",686,33703,33703,33728
+738,„Sümap“SüdwestdeutscheMetallwarenfabrik u. Apparatebau,687,33728,33728,33753
+739,R. & 6. Schmöle Akt.-Ges.,687,33753,33753,33799
+740,Th. Groke Aktiengesellschaft,688,33799,33799,33828
+741,Heymer & Pilz Akt.-Ges.,688,33828,33828,33893
+742,"Hüttenwerk, Eisengiesserei u. Maschinenfabrik Michelstadt",689,33893,33893,33929
+743,"Gebr. Franke, Akt.-Ges.",690,33929,33929,33954
+744,Metall-Aetzwerke Akt.-Ges.,690,33954,33954,34014
+745,Metallpapier- Bronzefarben-Blattmetallwerke- Akt.-Ges.,691,34014,34014,34093
+746,Siiddeutsche Bremsen-Aktiengesellschaft,692,34093,34093,34133
+747,Frankfurter Sehleifmittel-Werk Eichler & Co. Akt.-Ges.,693,34133,34133,34161
+748,C. S. Schmidt Drahtwerke Aktiengesellschaft,693,34161,34161,34194
+749,"Armaturen- u. Maschinenfabrik, Aktiengesellschaft",694,34194,34194,34287
+750,"Beldam-Werke, Maschinen- und Apparatefabrik Akt.-Ges.",695,34287,34287,34320
+751,Fränkische Handels- u. Industrie-Akt.-Ges.,696,34320,34320,34347
+752,"Gebrüder Meier, Metallkapselfabrik, Akt.-Ges,,",696,34347,34347,34372
+753,Metallwaarenfabrik vorm. Max Dannhorn A. -6.,696,34372,34372,34423
+754,Press- Stanz- & Ziehwerke Rud. Chillingworth Akt.-Ges.,697,34423,34423,34491
+755,Maschinenfabrik vorm. Georg Dorst Ar 6.,698,34491,34491,34516
+756,Mauser-Werke A.-G.,698,34516,34516,34559
+757,Ramesohl & Schmidt Aktiengesellschaft,699,34559,34559,34587
+758,„Kronprinz“ Aktiengesellschaft für Metallindustrie,700,34587,34587,34686
+759,"G. Kromschröder, Akt.-Ges.",701,34686,34686,34768
+760,Enzinger-Union-Werke Akt.-Ges.,702,34768,34768,34914
+761,Allgemeine Gold- u. Silberscheide-Anstalt,704,34914,34914,34949
+762,Heimerle & Meule Akt.-Ges.,705,34949,34949,34976
+763,"Sandt-Raab Aktiengesellschaft, Schuhmasehinen- und Werkzeugfabrik",705,34976,34977,34999
+764,H. B. Seissenschmidt Akt.-Ges.,706,34999,34999,35017
+765,Union-Werke Akt.-Ges. Kunstdruck-Metallwaren- und Plakatefabrik in Radebeul.,706,35017,35018,35101
+766,"Wilh. Hegenscheidt,. Akt.-Ges.",707,35101,35101,35130
+767,Dürrwerke Aktiengeselischaft,708,35130,35130,35229
+768,"Rudolf Geiger Akt.-Ges. in Liqu., Ravensburg.",709,35229,35229,35232
+769,Fortunabetten-Fabrik Akt.-Ges.,709,35232,35232,35260
+770,Hilgers Aktien-Gesellschaft,709,35260,35260,35350
+771,N. Pelzer Wwe. Aktiengesellschaft,710,35350,35350,35383
+772,"Carl Wolf, Rossweiner Achsen-, Federnfabrik und Gesenk- schmiede, Aktiengesellschaft",711,35383,35384,35401
+773,"Rotenburger Kaltwalzwerk Akt.-Ges. in Liqu,,‚Rotenburga.F.",711,35401,35401,35419
+774,Prinz Carlshütte Eisengiesserei u. Maschinenbau Akt.-Ges.,711,35419,35419,35451
+775,„Industriewerke Akt.-Ges. Ri:,712,35451,35451,35474
+776,"C. A. Lux, Aktiengesellschaft",712,35474,35474,35495
+777,"Saar-Garage, Akt.-Ges. .",712,35495,35495,35516
+778,ringen“,712,35516,35516,35526
+779,"Saar-Metallwerke A.-G., (8. A. des Fonderies de Cuivre.),",713,35526,35526,35548
+780,Bergedorfer Eisenwerk Akt.-Ges. Astra-Werke,713,35548,35548,35582
+781,Aktien-Feilen-Fabrik Sangerhausen,713,35582,35582,35616
+782,Maschinenfabrik Sangerhausen Aktien-Gesellschaft,714,35616,35616,35677
+783,Schlossfabrik-Actiengesellschaft vorm. Wilh. Schulte,715,35677,35677,35750
+784,Eumuco Akt.-Ges. für Maschinenbau,716,35750,35750,35795
+785,Gross jr. Aktiengesellschaft,716,35795,35795,35827
+786,Reinstrom & Pilz Akt.-Ges.,717,35827,35827,35873
+787,Hermann Schmidt & Sohn Akt.-Ges.,717,35873,35873,35911
+788,"Gebr. Voigtmann, Akt.-Ges.",718,35911,35911,35935
+789,Fichtel & Sachs Aktiengesellschaft,718,35935,35935,35976
+790,Vereinigte Kugellagerfabriken Aktiengesellschaft,719,35976,35976,36066
+791,Seesener Blechwarenfabrik Akt.-Ges.,720,36066,36066,36095
+792,Merkur Aktiengesellschaft für Handels- u. Industriebedarf,721,36095,36095,36115
+793,Felix Werkzeugfabrik- Aktiengesellschaft,721,36115,36115,36142
+794,"Solinger Gesenkschmieden Engels, Rauh & Co. Akt.-Ges.",721,36142,36142,36180
+795,Progress-Werk Oberkirch Aktiengesellschaft,722,36180,36180,36223
+796,"Gebrüder Heinemann, Akt.-G",722,36223,36223,36250
+797,"Stassfurter Blechwarenwerke, Akt.-Ges.",723,36250,36250,36299
+798,Pommersche Eisengiesserei und Maschinenfabrik,723,36299,36299,36367
+799,"Süddeutsche Messer-, Sägen- u. Werkzeugfabrik Akt.-Ges.",724,36367,36367,36436
+800,Fortuna-Werke Spezialmaschinenfabrik Aktiengesellschaft,725,36436,36436,36474
+801,Schwarzwälder Metallhandel-Akt.-Ges.,725,36474,36474,36486
+802,Eduard Arps Akt.-Ges.,725,36486,36486,36529
+803,Büttner-Werke Aktien-Gesellschaft,726,36529,36529,36670
+804,Nathan Strauss Hüttenwerk Akt.-Ges.,728,36670,36670,36688
+805,Carl Prinz Akt.-Ges. für Metallwaren,728,36688,36688,36714
+806,"Carl Schmidt Sohn, Akt.-Ges. für Stahl- und Metallwaren,",728,36714,36714,36741
+807,"Vereinigte Schlüsselfabriken, Aktiengesellschaft",729,36741,36741,36762
+808,"Carlshütte, Act.-Ges. für Eisengiesserei und Maschinenbau",729,36762,36762,36863
+809,Schlesische Motorwagen-Akt.-Ges.,730,36863,36863,36896
+810,Apparatebau Aktiengesellschaft Bühring,731,36896,36896,36960
+811,"Maschinenfabrik Weingarten, vormals Heinrich Schatz,",731,36960,36960,37036
+812,Rheinische Blechwarenwerke Aktiengesellschaft,732,37036,37036,37067
+813,"Pyrophor-Metallgesellschaft, Akt.-Ges.",733,37067,37067,37093
+814,M. Achgelis Söhne Akt.-Ges.,733,37093,37093,37145
+815,Aktien-Gesellschaft Kordt & Rosch,734,37145,37145,37165
+816,"Wittener Masch.- u. Dampfkesselfabrik J. Westermann,",734,37165,37165,37187
+817,"Bemberg Maschinenbau Akt.-Ges. in Liqu,",734,37187,37187,37195
+818,Germaniawaffenwerk — Akt.-Ges.,734,37195,37195,37202
+819,J. G. Anschütz,734,37202,37202,37219
+820,"Franz Braun, Akt.-Ges.",735,37219,37219,37341
+821,Zittauer Maschinenfabrik Akt.-Ges.,736,37341,37341,37383
+822,Albert Hirt Akt.-Ges.,737,37383,37383,37425
+823,Audiwerke Aktiengesellschaft,737,37425,37425,37479
+824,Zwickauer Maschinenfabrik,738,37479,37479,37616
+825,"Elektrizitätswerke, elektrotechnische Industrie, Feinmechanik, Optik, photographische Apparate, Uhren.",740,37616,37617,37617
+826,"photographische Apparate, Uhren. Altenburger Land-Kraftwerke Akt.-Ges.",740,37617,37618,37739
+827,-Lech-Elektrizitätswerke Akt.-Ges.,741,37739,37739,37808
+828,"Günzburg, Illertissen, Kaufbeuren, Krumbach, Kempten,Landsberg,Markt-Oberdorf, Memmingen,",742,37808,37808,37994
+829,"Bayerische Elektrieitäts-Lieferungs-Ges,, Akt.-Ges.",745,37994,37994,38187
+830,"Kraftwerk Altwürttemberg A.-G.,",748,38187,38187,38284
+831,Akt.-Ges. für Elektrizitäts-Ausführungen,749,38284,38284,38312
+832,Aktiengesellschaft für Energiewirtschaft,750,38312,38312,38360
+833,Ariadne Draht- u. Kabelwerke Akt.-Ges.,750,38360,38360,38394
+834,Atena Gesellschaft für ärztlich-technische neue Apparate,751,38394,38394,38412
+835,"Bergmann-Elektrieitäts-Werke, Aktiengesellschaft",751,38412,38412,38593
+836,Deutsch-Ueberseeische Elektrieitäts-Ges. in Liqu. in Berlin,754,38593,38593,38627
+837,Deutsche Kabelwerke Akt.-Ges.,754,38627,38627,38811
+838,Dominitwerke Aktiengesellschaft,757,38811,38811,38859
+839,Elektrizitäts-Aktiengesellschaft Hydrawerk,758,38859,38859,38891
+840,Elektrieitäts-Lieferungs-Gesellschaft,758,38891,38891,39063
+841,"Eltax-Elektro-Akt.-Ges. in Liqu., Berlin",760,39063,39063,39101
+842,Fernseh Aktiengesellschaft,761,39101,39101,39125
+843,Gesellschaft für elektrische Unternehmungen — Ludw. Loewe & Co. Aktiengesellschaft,761,39125,39126,39452
+844,Dr. Erich F. Huth A.-6. für Funkentelegraphie,766,39452,39452,39470
+845,Ideal Werke Akt.-Ges. für drahtlose Telephonie,766,39470,39470,39504
+846,Kodak Aktiengesellschaft,767,39504,39504,39555
+847,Arnold Laboschinski Aktiengesellschaft,768,39555,39555,39577
+848,C. Lorenz Aktiengesellschaft,768,39577,39577,39712
+849,Märkisches Elektrieitätswerk Aktiengesellschaft,770,39712,39712,39883
+850,Dr. Paul Meyer Akt.-Ges.,772,39883,39883,39962
+851,"Nikolo Akt.-Ges. für elektrotechnische Bedarfsartikel,",773,39962,39962,39965
+852,Preussische Elektrizitäts-Akt.-Ges.,773,39965,39965,40239
+853,Ralo-Aktiengesellschaft für elektrische Erzeugnisse in Liqn.,777,40239,40239,40245
+854,"Ferdinand Schuchhardt, Berliner Fernsprech- u. Telegraphenwerk Akt.-Ges.",777,40245,40246,40289
+855,Dr. Georg Seibt Aktiengesellschaft,778,40289,40289,40327
+856,"Signalapparatefabrik Julius Kräcker, Aktiengesellschaft",779,40327,40327,40363
+857,Standard Elektrizitäts-Gesellschaft Aktiengesellschaft,779,40363,40363,40465
+858,"Telehor-Aktiengesellschaft,",781,40465,40465,40483
+859,Telephonfabrik Berliner Aktiengesellschaft,781,40483,40483,40593
+860,Transradio Akt.-Ges. für drahtlosen Überseeverkehr in Liqu.,782,40593,40593,40653
+861,Vereinigte Isolatorenwerke Akt.-Ges.,783,40653,40653,40706
+862,C. J. Vogel Draht- und Kabelwerke Akt.-Ges.,784,40706,40706,40858
+863,Weissmainkraftwerk Röhrenhof Akt.-Ges.,786,40858,40858,40891
+864,Elektrieitätswerk Brandenburg (Havel) Akt.-Ges.,787,40891,40891,40948
+865,Hanseatische Notruf-Akt.-Ges.,788,40948,40948,40973
+866,Verkaufszentrale für Orthodontie Akt.-Ges.,788,40973,40973,40992
+867,W. Ludolph Akt.-Ges.,788,40992,40992,41025
+868,"Elektrizitätswerk Schlesien, Akt.-Ges.",789,41025,41025,41223
+869,Ostdeutsche Elektrizitäts-Akt.-Ges. in Liquid.,792,41223,41223,41245
+870,Schlesische Elektrieitäts- und Gas-Act.-Ges.,792,41245,41245,41454
+871,Überlandwerk Coburg Akt.-Ges.,795,41454,41454,41506
+872,Elektrizitäts-Akt.-Ges. Cosel,796,41506,41506,41543
+873,"Eleetrieitätswerk Crottorf, Akt.-Ges.",796,41543,41543,41608
+874,Lippische Elektrieitäts-Aktiengesellschaft,797,41608,41608,41630
+875,"Concordia Elektrizitäts-Akt.-Ges., Dortmund,",798,41630,41630,41666
+876,"Elektra, Aktiengesellschaft",798,41666,41666,41817
+877,"Energie-Versorgung Gross-Dresden, Akt.-Ges.",800,41817,41817,41856
+878,Koch & Sterzel Akt.-Ges.,801,41856,41856,41905
+879,Liehtsignalbau-Aktiengesellschaft,801,41905,41905,41931
+880,Rheinische Telefon-Gesellschaft Aktiengesellschaft,802,41931,41931,41959
+881,Tigges & Co. Aktiengesellschaft,802,41959,41959,41985
+882,Ritter Aktiengesellschaft,803,41985,41985,42017
+883,Rheingau-Elektrieitätswerke Akt.-Ges.,803,42017,42017,42071
+884,"Grosskraftwerk Erfurt, Akt.-Ges.",804,42071,42071,42109
+885,"Reiniger, Gebbert & Schall Akt.-Ges.",804,42109,42109,42218
+886,Neckarwerke Aktiengesellschaft,806,42218,42218,42435
+887,Württembergische Gesellschaft für Elektrizitätswerke,809,42435,42435,42470
+888,Emag Elektrizitäts-Aktien-Gesellschaft‘,810,42470,42470,42551
+889,"Hartmann & Braun, Aktiengesellschaft",811,42551,42551,42642
+890,Main-Kraftwerke Akt.-Ges.,812,42642,42642,42867
+891,Philektra Aktiengesellschaft für Elektrotechnik,815,42867,42867,42890
+892,"Plaubel, Aktiengesellschaft für Feinmechanik und Optik",816,42890,42890,42909
+893,Südwestdeutscher Rundfunk Aktiengesellschaft,816,42909,42909,42950
+894,"Voltohm, Seil- u. Kabelwerke, A.-G.",816,42950,42950,43026
+895,Elektrische Apparatebau Akt.-Ges.,818,43026,43026,43056
+896,Schluchseewerk Aktiengesellschaft,818,43056,43056,43161
+897,"Thowe-Kamera-Werk, Aktien-Gesellschaft",819,43161,43161,43182
+898,Elektrizitätsgesellschaft Fulda Aktien-Gesellschaft,820,43182,43182,43215
+899,Aktiengesellschaft für wirtschaftliche Unternehmungen des Ennepe-Ruhr-Kreises,820,43215,43216,43255
+900,Mittelschwäbische Überlandzentrale Akt.-Ges.,821,43255,43255,43357
+901,Uhrenfabrik Aktiengesellschaft,822,43357,43357,43392
+902,"Physikalische Werkstätten, Aktiengesellschaft",823,43392,43392,43459
+903,Kraftwerke Haag Akt.-Ges.,824,43459,43459,43502
+904,Kommunales Elektrizitäts-Werk Mark A.-G.,824,43502,43502,43655
+905,"Kabelwerk Nassau, Akt.-Ges.",827,43655,43655,43696
+906,Hanseatische Notruf-Akt.-Ges.,827,43696,43696,43731
+907,H. Maihak Aktiengesellschaft,828,43731,43731,43767
+908,Nordische Rundfunk Akt.-Ges.,828,43767,43767,43798
+909,Deutsche Elektromobil- und Motorenwerke Akt.-Ges.,829,43798,43798,43804
+910,"Elbtalwerk, Elektrizitäts-Akt.-Ges.",829,43804,43804,43858
+911,"R. Jung, Fabrik für Präzisionsapparate, Akt.-Ges.",830,43858,43858,43898
+912,"Grosskraftwerk Württemberg, Akt.-Ges.",830,43898,43898,43977
+913,Niederschlesische Elektrizitäts-Aktiengesellschaft,831,43977,43977,44023
+914,"Elektrizitätswerk Homburg v. d. H, Akt.-Ges.",832,44023,44023,44079
+915,Elektrizitätswerk Illingen Akt.-Ges.,833,44079,44079,44100
+916,Jenaer Elektrieitätswerke Act.-Ges.,833,44100,44100,44196
+917,Felten & Guilleaume Cariswerk Act.-Ges.,835,44196,44196,44452
+918,Ostmarken-Rundfunk Akt.-Ges.,838,44452,44452,44492
+919,Östpreussenwerk Akt.-Ges.,839,44492,44492,44661
+920,Exnerwerk Aktiengesellschaft,841,44661,44661,44690
+921,"Überlandwerk Krumbach, Akt.-Ges.",841,44690,44690,44723
+922,„Blektrowarte“ Akt.-Ges. Elektrotechnische Treuhand,842,44723,44723,44742
+923,"Körting & Mathiesen, Akt.-Ges.",842,44742,44742,44783
+924,"Langbein - Pfanhauser-Werke Akt.-Ges,.,",843,44783,44783,44913
+925,Mitteldeutsche Rundfunk-Akt.-Ges.,845,44913,44913,44962
+926,Uhren-Rohwerke-Fabrik Glashütte Akt.-Ges.,845,44962,44962,44990
+927,Eleectrieitäts-Werke Liegnitz,846,44990,44990,45128
+928,"Lahnkraftwerke Aktien-Gesellschaft,",848,45128,45128,45174
+929,"Pfalzwerke Aktiengesellschaft in Ludwigshafen a. Rh.,",848,45174,45174,45213
+930,Erzeugte ' Bezogene | Verkaufe | Erzeugte | Bezogene Verkaufte,849,45213,45213,45304
+931,Elektrizitätswerk Westerwald Akt.-Ges.,850,45304,45304,45354
+932,"Rhön Elektrieitäts-Lieferungs-Gesellschaft, Akt.-Ges.",851,45354,45354,45379
+933,Aktiengesellschaft für elektrotechnische Unternehmungen,851,45379,45379,45437
+934,Aktiengesellschaft für Licht- u. Kraftversorgung,852,45437,45437,45551
+935,Bayerische Elektrieitäts-Werke.,853,45551,45551,45657
+936,Bayerische Kraftwerke Akt.-Ges. in München.,855,45657,45657,45723
+937,Bayernwerk Aktiengesellschaft,856,45723,45723,45946
+938,"Isarwerke Aktiengesellschaft,",859,45946,45946,45982
+939,Kraftwerk Wagingersee Akt.-Ges.,859,45982,45982,46024
+940,"Friedrich Merk, Telefonbau-Akt.-Ges.",860,46024,46024,46066
+941,Mittlere Isar Akt.-Ges.,861,46066,46066,46184
+942,"Östbayerische Stromversorgung, Akt.-Ges.",862,46184,46184,46359
+943,Rhein-Main-Donau Akt.-Ges.,864,46359,46359,46696
+944,Walchenseewerk Aktiengesellschaft,869,46696,46696,46790
+945,"Überlandwerk Oberschlesien, Akt.-Ges.",870,46790,46790,46843
+946,H. Winterhalder Akt.-Ges. Uhrenfabrik in Liqu.,871,46843,46843,46860
+947,Kraftversorgung Rhein -Wied Akt.-Ges.,871,46860,46860,46889
+948,"Norddeutsche Seekabelwerke, A.-G.",872,46889,46889,46925
+949,"Bayerische Reisszeugfabrik, Akt.-Ges.",872,46925,46925,46946
+950,Elektrizitäts-Aktiengesellschaft vormals Schuckert & Co.,872,46946,46946,47136
+951,Fränkisches Ueberlandwerk Akt.-Ges.,875,47136,47136,47233
+952,Grosskraftwerk Franken Akt.-Ges.,876,47233,47233,47391
+953,Kabel- u. Metallwerke Neumeyer Akt.-Ges.,878,47391,47391,47448
+954,Elektrische Ueberland-Centrale Oberhausen Akt.-Ges.,879,47448,47448,47486
+955,"Steigerwald Überlandwerk, Gebrüder Zwanziger, Akt.-Ges.",880,47486,47486,47513
+956,Stromversorgungs-Aktiengesellschaft Oldenburg-Östfriesland in Oldenburg i. O.,880,47513,47514,47557
+957,Paderborner Elektrizitätswerk u. Strassenbahn Akt.-Ges.,881,47557,47557,47645
+958,Sächsische Elektrizitätswerk- und Strassenbahn-Akt.-Ges.,882,47645,47645,47726
+959,Emil Busch Akt.-Ges. Optische Industrie,883,47726,47726,47834
+960,Lauenburgische Landeskraftwerke Akt.-Ges.,885,47834,47834,47873
+961,Oberpfalzwerke A.-G. für Elektrizitätsversorgun,885,47873,47873,48032
+962,Kraftübertragungswerke Rheinfelden.,887,48032,48032,48264
+963,Schorch-Werke Akt.-Ges.,891,48264,48264,48330
+964,"Elektrizitätswerk Riesa, Aktiengesellschaft",892,48330,48330,48363
+965,Elektrieitätswerke- Betriebs- Aktien- Gesellschaft,892,48363,48363,48434
+966,Bayerisches Kabelwerk Riffelmacher & Engelhardt A.-G.,893,48434,48434,48467
+967,* Heimelektra Aktiengesellschaft,893,48467,48467,48482
+968,Kommunale Elektricitäts-Lieferungs-Ges. Akt.-Ges.,894,48482,48482,48605
+969,Sächsische Elektrieitäts-Lieferungs-Gesellschaft A.-G.,895,48605,48605,48719
+970,Überlandzentrale Pommern Akt.- Ges.,897,48719,48719,48886
+971,"Gesellschaft für elektrische Anlagen, Aktiengesellschaft",899,48886,48886,48919
+972,Neckar- Aktiengesellschaft,900,48919,48919,49250
+973,R. Stahl Akt.-Ges.,904,49250,49250,49270
+974,Württembergische Elektrizitäts-Akt.-Ges.,904,49270,49270,49391
+975,"Stromversorgungs - Aktiengesellschaft, \Veissenfels - Zeitz",906,49391,49391,49436
+976,Elektrizitätswerk & Strassenbahn Tilsit Akt.-Ges.,907,49436,49436,49472
+977,Himmelwerk Akt.-Ges.,907,49472,49472,49649
+978,Kabelwerk Vacha Aktiengesellschaft,910,49649,49649,49686
+979,Aktiengesellschaft Thüringische Werke,910,49686,49686,49722
+980,Thüringische Landeselektrizitätsversorgungs-Akt.-Ges. „Thüringenwerk“,911,49722,49723,49808
+981,"Elektrizitätswerk Weissenhorn Akt.-Ges.,",912,49808,49808,49834
+982,Willstätter Elektrizitätswerk Aktiengesellschaft,913,49834,49834,49864
+983,Elektrizitätswerk Wolfach Akt.-Ges.,913,49864,49864,49886
+984,Kreis-Elektrizitätsversorgung Unterfranken Akt.-Ges.,913,49886,49886,50045
+985,"Industrie der Steine und Erden, Baumaterial, Töpferwaren, Schiefer- gewinnumng, Schmirgelwerke,",916,50045,50046,50048
+986,"Tonwerk Acherting Akt.-Ges. in Liqu., Acherting.",916,50048,50048,50053
+987,"Louis Nicolai, Aktiengesellschaft",916,50053,50053,50079
+988,Steingutfabrik Amberg Akt.-Ges.,916,50079,50079,50111
+989,"Annaburger Steingutfabrik, A.-G.",917,50111,50111,50182
+990,Arloffer Thonwerke A.-G.,918,50182,50182,50209
+991,Aktienziegelei Bayreuth,918,50209,50209,50235
+992,"„Adler“, Deutsche Portland-Cementfabrik, Actiengesellschaft",918,50235,50235,50384
+993,Deutsche Asbestzement-Aktiengesellschaft,921,50384,50384,50452
+994,Deutsche Frewenziegel Aktiengesellschaft,922,50452,50452,50477
+995,Duroplattenwerk Akt.-Ges.,922,50477,50477,50504
+996,Havelberger Ton-Industrie Akt.-Ges.,922,50504,50504,50523
+997,Keramische Industrie-Bedarfs-Akt.-Ges.,923,50523,50523,50555
+998,Max Philipp Nachf. Aktiengesellschaft,923,50555,50555,50579
+999,Portland-Cementfabrik Blaubeuren Gebrüder Spohn A.-G.,923,50579,50579,50627
+1000,"Wessels Wandplatten-Fabrik, Akt.-Ges.",924,50627,50627,50675
+1001,Dampfziegelei Habenhausen Akt.-Ges.,925,50675,50675,50699
+1002,"Deutsche Cement-Industrie, A.-G.",925,50699,50699,50731
+1003,Steingutwerke Aktiengesellschaft,926,50731,50731,50770
+1004,"Villeroy & Boch, Keramische Werke A.-G.",926,50770,50770,50806
+1005,Portland-Cementwerk Burglengenfeld A.-G.,927,50806,50806,50842
+1006,Grünsteinwerke Rentzschmühle Akt.-Ges.,927,50842,50842,50873
+1007,Porzellanfabriken Creidlitz Akt.-Ges.,928,50873,50873,50903
+1008,Odenwälder Hartstein-Industrie A.-G.,928,50903,50903,51024
+1009,Baustoff-Werke Akt.-Ges. Delmenhorst,930,51024,51024,51042
+1010,Portland-Cementwerk Diedesheim-Neckarelz A.-G.,930,51042,51042,51081
+1011,Westdeutsche Marmor- und Granitwerke Akt.-Ges.,931,51081,51081,51116
+1012,Akt.-Ges. für Glasindustrie vorm. Friedr. Siemens,931,51116,51116,51255
+1013,C. Frommherz Müller Nachflg. Akt.-Ges.,933,51255,51255,51280
+1014,Actien-Gesellschaft der Gerresheimer Glashüttenwerke,934,51280,51280,51430
+1015,Aktiengesellschaft Glasfabrik Capellen in Liqu.,936,51430,51430,51453
+1016,Rheinische Zement-Industrie Akt.-Ges.,936,51453,51453,51475
+1017,Eibenstocker Schmirgelwerke Akt.-Ges.,936,51475,51475,51499
+1018,Eisenacher Ziegelei-Actien-Gesellschaft,937,51499,51499,51526
+1019,Aktiengesellschaft Eiserfelder Steinwerke,937,51526,51526,51592
+1020,"Lozalit Aktiengesellschaft, Fabrik keramisch -technischer Artikel,",938,51592,51593,51617
+1021,Steingutfabrik Witteburg A.-G.,939,51617,51617,51636
+1022,Aktiengesellschaft für Tonerde. und chemische Industrie,939,51636,51636,51664
+1023,* Deutsche Opakglas-Werke Aktiengesellschaft,939,51664,51664,51684
+1024,Jacob Büchenbacher & Söhne Akt.-Ges.,940,51684,51684,51712
+1025,Deutsche Tafelglas Aktiengesellschaft (Detag),940,51712,51712,51812
+1026,Fürther Spiegelglas-Akt.-Ges. vorm. Leopold Büchenbacher,942,51812,51812,51830
+1027,Porzellanfabrik Günthersfeld A.-G.,942,51830,51830,51854
+1028,"Deutsche Libbey-Owens-Gesellschaft für maschinelle Glasherstellung, Akt.-Ges. (Delog)",942,51854,51855,51907
+1029,Gelsenkirchener Zementwarenfabrik Ostermann & Comp.,943,51907,51907,51930
+1030,"Geseker Kalk- und Cementwerke Monopol, Akt.-Ges.",943,51930,51930,51968
+1031,"Wilhelm Gail’sche Tonwerke, Akt.-Ges.",944,51968,51968,51992
+1032,"Oberschlesische Chamotte-Fabrik,",944,51992,51992,52022
+1033,Sächsiseh-Thüringische Portland-Cement-Fabrik,945,52022,52022,52141
+1034,Brandenburgische Steinbruch-Aktiengesellschaft,946,52141,52141,52171
+1035,"Akt.-Ges. Wick-Werke, vereinigte Fabriken Merkelbach & Wick, Merkelbach, Stadelmann & Co.",947,52171,52172,52202
+1036,Grohner Wandplatten-Fabrik Akt.-Ges.,947,52202,52202,52229
+1037,Vereinigte Grossalmeroder Thonwerke,948,52229,52229,52277
+1038,Pfälzische Chamotte- und Thonwerke,948,52277,52277,52353
+1039,Lehrer—von Siemens Akt.-Ges. in Halle i. Westf.,950,52353,52353,52372
+1040,Alsen’sche Portland-Cement-Fabriken,950,52372,52372,52441
+1041,Th. Hartmann & Schultze Akt.-Ges.,951,52441,52441,52463
+1042,"Heinrich Hempelmann, Aktiengesellschaft",951,52463,52463,52482
+1043,Norddeutsche Portland-Cement-Fabrik Misburg.,951,52482,52482,52582
+1044,"Portland-Cementfabrik Germania Aktiengesellschaft,",953,52582,52582,52679
+1045,Vorwohler Portland-Cement-Fabrik Aktien-Gesellschaft,954,52679,52679,52789
+1046,"Transatlantische Handels-Akt.-Ges.,",956,52789,52789,52821
+1047,Portland-Cementwerke Heidelberg-Mannheim-Stuttgart,956,52821,52821,52937
+1048,Glashütte Heilbronn Akt.-Ges.,958,52937,52937,52973
+1049,"Ziegelwerk Heinrich Lehrmann, Akt.-Ges.",959,52973,52973,52996
+1050,Portland Cementfabrik Hemmoor,959,52996,52996,53100
+1051,Portland-Cementfabrik Alemannia A.-G.,961,53100,53100,53133
+1052,Glashüttenwerke Holzminden Akt.-Ges.,961,53133,53133,53169
+1053,Thüringische Glas-Instrumenten-Fabrik,962,53169,53169,53235
+1054,"Tonwerke Kandern, Akt.-Ges.",963,53235,53235,53261
+1055,"Portland-Cement-Fabrik Karlstadt a. M., Aktiengesellschaft.",963,53261,53261,53366
+1056,"Casseler Basalt-Industrie, Akt.-Ges.",964,53366,53366,53416
+1057,Bayerisches Portlandzementwerk Kiefersfelden Akt.-Ges.,965,53416,53416,53462
+1058,Deutsche Spiegelglas-Actien-Gesellschaft,966,53462,53462,53555
+1059,"Deutsche Asbestonwerke, Akt.-Ges.",967,53555,53555,53579
+1060,Dolerit-Basalt Akt.-Ges.,968,53579,53579,53708
+1061,Rheinkies- und Betonwerke Aktiengesellschaft Wassermann & Beton-Bohr- und Pressgesellschaft,969,53708,53709,53740
+1062,Westdeutsche Kalkwerke Akt.-Ges.,970,53740,53740,53822
+1063,J. Wirth Akt.-Ges.,971,53822,53822,53840
+1064,"Östpreussische Glashandels- Akt.-Ges,,",971,53840,53840,53865
+1065,„Reussengrube“ Aktiengesellschaft,972,53865,53865,53920
+1066,Breitenburger Portland-Cement-Fabrik,973,53920,53920,53994
+1067,Mitteldeutsche Glashandels-Akt.-Ges.,974,53994,53994,54013
+1068,Kalkwerk Tschirnhaus Aktiengesellschaft,974,54013,54013,54045
+1069,Basalt- Actien-Gesellschaft,974,54045,54045,54221
+1070,Ziegelwerke Ludwigsburg Aktiengesellschaft,977,54221,54221,54327
+1071,Kalk- und Mergelwerke vorm. Cementfabrik Akt.-Ges.,978,54327,54327,54357
+1072,"Schöninger Ton- u. Hohlsteinwerke, Akt.-Ges.",979,54357,54357,54405
+1073,Baustoffe-Grossvertrieb Aktiengesellschaft,980,54405,54405,54424
+1074,Bayerisches Portlandeementwerk Marienstein A.-G.,980,54424,54424,54508
+1075,Rheinische Chambotte- u. Dinas-Werke,981,54508,54508,54587
+1076,„Keramag“ Keramische Werke Akt.-Ges.,982,54587,54587,54682
+1077,Meissner Ofen- und Porzellanfabrik (vorm. C. Teichert),984,54682,54682,54856
+1078,Somag Sächsische Ofen- und Wandplatten-Werke A.-G.,986,54856,54856,54939
+1079,Aktien-Ziegelei München,987,54939,54939,54997
+1080,Bayrische Hartstein-Industrie A.-6.,988,54997,54997,55098
+1081,Feierabend & Ort Akt-Ges.,990,55098,55098,55120
+1082,Oberpfälzische Tongruben Aktiengesellschaft,990,55120,55120,55139
+1083,"Porzellan-Fabrik Waldershof, Akt.-Ges. vorm. Joh. Haviland.",990,55139,55139,55162
+1084,Solenhofer Aktien-Verein,991,55162,55162,55262
+1085,Vereinigte Zwieseler & Pirnaer Farbenglaswerke A.-G.,992,55262,55262,55355
+1086,Süddeutsches Portland-Cement-Werk Akt.-Ges.,993,55355,55355,55386
+1087,"Czamowanzer Glashütte, Aktiengesellschaft",994,55386,55386,55419
+1088,Portland-Zement- u. Kalkwerke „Anna“ Akt.-Ges.,994,55419,55419,55456
+1089,Neukirchen-Lugauer Ziegelwerke Akt.-Ges.,995,55456,55456,55479
+1090,"Tritschler, Winterhalder & Co. Akt.-Ges.",995,55479,55479,55517
+1091,Friedr. Remy Nachfolger Akt.-Ges.,996,55517,55517,55563
+1092,Ullersdorfer Werke,996,55563,55563,55736
+1093,Euling & Mack Aktiengesellschaft,998,55736,55736,55808
+1094,Beton-Schleuderwerke Akt.-Ges.,999,55808,55808,55841
+1095,Schieferbau-Actien-Gesellschaft „Nuttlar“,999,55841,55841,55886
+1096,"Annawerk, Schamotte- und Tonwaren-Fabrik,",1000,55886,55886,55959
+1097,Glasplakatefabrik Offenburg Akt.-Ges.,1001,55959,55959,56017
+1098,Oldenburgische Glashütte A.-G.,1001,56017,56017,56090
+1099,"Portland Cement-Fabrik „Stadt Oppeln“, A.-G.",1002,56090,56090,56166
+1100,Schlesische Portland-Zement-Industrie Aktiengesellschaft,1004,56166,56166,56436
+1101,Osnabrücker Ziegelwerke Aktiengesellschaft,1006,56436,56436,56477
+1102,A.-G. Glashüttenwerke Adlerhütten in Penzig bei Görlitz.,1007,56477,56477,56581
+1103,Rheinische Ziehglas Aktiengesellschaft,1008,56581,56581,56611
+1104,Deutsche Ziegeleien-Akt.-Ges.,1008,56611,56611,56641
+1105,"Querfurter Kalkindustrie, Akt.-Ges.",1009,56641,56641,56703
+1106,Radeberger Parivit- und Glasraffinerie Akt.-Ges. in Liqu.,1009,56703,56703,56740
+1107,"Porzellanfabrik Zeh, Scherzer & Co., Akt.-Ges.",1010,56740,56740,56803
+1108,Deutsche Steinindustrie A.-G.,1011,56803,56803,56840
+1109,Spiegelglasfabrik Reisholz Akt.-Ges.,1011,56840,56840,56880
+1110,Reudener Ziegelwerke Aktiengesellschaft,1012,56880,56880,57006
+1111,"Hohburger Quarz-Porphyr-Werke, Akt.-Ges.",1013,57006,57006,57153
+1112,Schmiedeberger Klinker- und Dachsteinwerk Akt.-Ges.,1014,57153,57153,57156
+1113,Schmiedeberg. Akt. -Ges.,1014,57156,57156,57208
+1114,Keramische Hütte Aktiengesellschaft,1015,57208,57208,57247
+1115,"Siegersdorfer Werke vorm. Fried. Hoffmann,",1016,57247,57247,57344
+1116,Vereinigte Mosaik- und Wandplattenwerke Akt.-Ges.,1017,57344,57344,57456
+1117,"Sitzendorfer Porzellan-Manufaktur vorm. Alfred Voigt,",1018,57456,57456,57480
+1118,Erste Bayerische Basaltstein-Act.-Ges.,1018,57480,57480,57506
+1119,Stettiner Portland-Cement-Fabrik,1019,57506,57506,57622
+1120,"Stettiner Steinindustrie Akt.-Ges. in Stettin,",1020,57622,57622,57664
+1121,"Theumaer Plattenbrüche, Act.-Ges.",1021,57664,57664,57703
+1122,Tonofenfabrik Wallner Akt.-Ges.,1021,57703,57703,57742
+1123,Torgauer Glashütten Akt.-Ges.,1022,57742,57742,57764
+1124,Aelteste Volkstedter Porzellanfabrik A.-G.,1022,57764,57764,57910
+1125,Ziegelwerk Waldsassen Aktiengesellschaft,1024,57910,57910,57933
+1126,Vereinigte Harzer Portlandeement- u. Kalkindustrie,1024,57933,57933,58025
+1127,Tonwarenindustrie Wiesloch Aktiengeseilschaft,1025,58025,58025,58087
+1128,Vereinigte Gipswerke Akt.-Ges.,1026,58087,58087,58110
+1129,Tonwerke Aktiengesellschaft,1026,58110,58110,58153
+1130,Fr. Chr. Fikentscher Keramische Werke Akt.-Ges.,1027,58153,58153,58188
+1131,"Textil-, Kunstseide- und Bekleidungsindustrie, Schuhfabriken, (ummiwebereien, Kunstleder, Wachs- und Ledertuchfabriken.",1028,58188,58189,58191
+1132,"Aktien-Spinnerei Aachen in Aachen,",1028,58191,58191,58255
+1133,"Tuchfabrik G. H. & J. Croon, Akt.-Ges.",1029,58255,58255,58274
+1134,Teppich- und Textilwerke Aktiengesellschaft,1029,58274,58274,58343
+1135,F. €. Wetzler Aktiengesellschaft,1030,58343,58343,58367
+1136,Carl Nottrott Aktien-Gesellschaft,1030,58367,58367,58423
+1137,A.-G. Sack- und Jutewarenfabrik Hans Deuter,1031,58423,58423,58445
+1138,"Actien-Gesellschaft für Bleicherei, Färberei, Appretur & Druckerei Augsburg",1032,58445,58446,58498
+1139,Mech. Baumwoll-Spinnerei und Weberei Augsburg,1032,58498,58498,58570
+1140,Spinnerei und Weberei Pfersee,1033,58570,58570,58644
+1141,"Gebr. Neuburger, Aktiengesellschaft",1035,58644,58644,58674
+1142,Heinrich Bock Hutfabrik Aktiengesellschaft in Liqu.,1035,58674,58674,58712
+1143,Brandenburgische Krawatten-Aktiengesellschaft in Liqu.,1036,58712,58712,58733
+1144,Colonialwollgesellschaft Akt.-Ges.,1036,58733,58733,58753
+1145,Eisner & Meisl Aktiengesellschaft,1036,58753,58753,58779
+1146,"Elsässisch-Badische Wollfabriken, Aktiengesellschaft",1037,58779,58779,58849
+1147,6. Feibisch Aktiengesellschaft,1038,58849,58849,58922
+1148,"Graumann & Stern, K.-G. a. Akt. in Liqu., Berlin",1039,58922,58922,58951
+1149,Gebr. Grumach Akt.-Ges.,1039,58951,58951,58978
+1150,D.: R. Halemeyer Akt.-Ges.,1040,58978,58978,59010
+1151,Kullmann & Cie. Vertriebs-Akt.-Ges.,1040,59010,59010,59035
+1152,Anton & Alfred Lehmann Aktiengesellschaft in Liqu.,1040,59035,59035,59113
+1153,Ludwig Lesser Akt.-Ges.,1042,59113,59113,59134
+1154,Gebrüder Mendelsohn Damenkleider Aktiengesellschaft,1042,59134,59134,59150
+1155,Michels & Cie Aktiengesellschaft,1042,59150,59150,59190
+1156,Mitex Mitteldeutsche Textil-Akt.-Ges.,1043,59190,59190,59225
+1157,Richard Nussbaum K.-G. a. A.,1043,59225,59225,59254
+1158,"Persische Teppichgesellschaft, Akt.-Ges.",1044,59254,59254,59292
+1159,Poppe & Wirth Akt.-Ges.,1044,59292,59292,59352
+1160,Regenmäntelfabrik Esko-Pluvius Akt.-Ges.,1045,59352,59352,59373
+1161,Louis Rosenthal & Co. Aktiengesellschaft,1045,59373,59373,59398
+1162,"Isidor Salomon, Akt.-Ges.",1046,59398,59398,59422
+1163,Spezialhaus für Pelze Adolf Doll Akt.-Ges.,1046,59422,59422,59439
+1164,"Strack & Co. Akt.-Ges. in Liqu.,",1046,59439,59439,59457
+1165,Strenger Textil-Akt.-Ges.,1047,59457,59457,59475
+1166,Conrad Tack & Cie. Akt.-Ges.,1047,59475,59475,59557
+1167,Textilgrosshandel-Akt.-Ges. (Texag),1048,59557,59557,59588
+1168,Textilwerte Akt.-Ges.,1049,59588,59588,59609
+1169,Ueberholz & Müller Aktiensellschaft,1049,59609,59609,59627
+1170,Vereinigte Märkische Tuchfabriken Akt.-Ges.,1049,59627,59627,59726
+1171,vormals Aprath’sche Wollhandelsaktiengesellschaft in Liqu.,1051,59726,59726,59731
+1172,J. Weiss Akt.-Ges.,1051,59731,59731,59757
+1173,Wolfs & Jacoby Akt.-Ges.,1051,59757,59757,59775
+1174,"M. Wolfsky Aktiengesellschaft in Liqu., Berlin.",1051,59775,59775,59795
+1175,Wollgarn-Aktien-Gesellschaft,1052,59795,59795,59815
+1176,R. Zernik Grossvertrieb von Weisswaren u. Stiekereien,1052,59815,59815,59839
+1177,Zwirnerei Akt.-Ges.,1052,59839,59839,59865
+1178,Trebes & Henning Bernauer Handschuhvertrieb Akt.-Ges.,1053,59865,59865,59883
+1179,"Mech. Tricotweberei Mattes & Lutz, A.-G.",1053,59883,59883,59934
+1180,Bielefelder Act.-Ges. für Mechanische Weberei,1054,59934,59934,59981
+1181,Ravensberger Spinnerei Aktiengesellschaft,1055,59981,59981,60052
+1182,Kammgarn-Spinnerei Bietigheim,1056,60052,60052,60102
+1183,Allgäuer Baumwollspinnerei und Weberei Blaichach,1056,60102,60102,60156
+1184,Spinnerei Vorwärts,1057,60156,60156,60223
+1185,Erste Deutsche Fein-Jute-Garn-Spinnerei Akt.-Ges.,1058,60223,60223,60274
+1186,Jute-Spinnerei und Weberei Bremen,1059,60274,60274,60350
+1187,Gebrüder Grossmann Akt.-Ges.,1060,60350,60350,60418
+1188,Württembergische Baumwoll-Spinnerei und Weberei,1061,60418,60418,60474
+1189,"Tuchfabriken A. Paasche, Akt.-Ges.",1062,60474,60474,60498
+1190,"Vereinigte Deckenfabriken Calw, Akt.-Ges.",1062,60498,60498,60561
+1191,®Seidenwerk Spinnhütte Aktiengesellschaft,1063,60561,60561,60583
+1192,Anna Arzberger Nachfolger Aktiengesellschaft,1063,60583,60583,60613
+1193,"Bachmann & Ladewig, Akt.-Ges.",1064,60613,60613,60707
+1194,Friedrich Otto Bertram Akt.-Ges.,1065,60707,60707,60733
+1195,Bräunsdorfer Strumpffabrik Akt.-Ges.,1066,60733,60733,60754
+1196,"Globus Akt.-Ges. für Textilindustrie, Chemnitz,",1066,60754,60754,60775
+1197,Meichsner Moda Akt.-Ges.,1066,60775,60775,60794
+1198,David Richter Akt.-Ges.,1067,60794,60794,60892
+1199,Sächsische Tüllfabrik Aktiengesellschaft,1068,60892,60892,60956
+1200,"C. F. Solbrig Söhne, Akt.-Ges.",1069,60956,60956,60988
+1201,Hermann Stärker Akt.-Ges.,1069,60988,60988,61019
+1202,A. H. Theyson Aktiengesellschaft,1070,61019,61019,61045
+1203,Emil Vogel Akt.-Ges.,1070,61045,61045,61072
+1204,"Monimos Textilwerke, Akt.-Ges.,",1071,61072,61072,61094
+1205,Carl Winter Hanf-Textil-Akt.-Ges.,1071,61094,61094,61119
+1206,Akt.-Ges. Seidenstoffweberei Donaueschingen,1071,61119,61119,61138
+1207,Einkaufsverband Merkur Akt.-Ges.,1072,61138,61138,61164
+1208,Hutindustrie-Aktiengesellschaft,1072,61164,61164,61192
+1209,"Niederrheinische Flachsspinnerei A.-G. in Liqu,,",1072,61192,61192,61223
+1210,Zwirnerei & Nähfadenfabrik Rhenania Akt.-Ges.,1073,61223,61223,61248
+1211,"Carl Bücklers & Co., Akt.-Ges. in Liqu. in Düren,",1073,61248,61248,61276
+1212,"Fröhlich & Lipmann, Aktiengesellschaft",1074,61276,61276,61295
+1213,Kammgarn-Spinnerei Düsseldorf Akt.-Ges.,1074,61295,61295,61372
+1214,"W. Weber, Samtfabrik, Aktiengesellschaft",1075,61372,61372,61391
+1215,Erfurter Mechanische Schuhfabrik Actiengesellschaft,1075,61391,61391,61451
+1216,M. & L. Hess Schuhfabrik Akt.-Ges.,1076,61451,61451,61544
+1217,Baumwollindustrie Erlangen-Bamberg Akt.-Ges.,1078,61544,61544,61663
+1218,"L. S. Brinkmann Akt.-Ges., Strick- u. Wirkwaren-Fabrik",1079,61663,61663,61699
+1219,Gesellschaft tür Spinnerei & Weberei,1080,61699,61699,61794
+1220,Baumwollspinnerei Gückelsberg William Schulz A.-G.,1081,61794,61794,61824
+1221,"Färberei Forst, Akt.-Ges., vorm. Scherzer & Hönig",1081,61824,61824,61846
+1222,Häusler & Bergmann Akt.-Ges.,1082,61846,61846,61882
+1223,Theodor Kreimer Akt.-Ges.,1082,61882,61882,61906
+1224,Weber & Ott Aktiengesellschaft,1083,61906,61906,61947
+1225,"Vereinigte Schuhstoff-Fabriken in Liqu. in Fulda,",1083,61947,61947,61980
+1226,Baumwollspinnerei-Akt.-Ges.,1084,61980,61980,62026
+1227,Hanfspinnerei Baumhüter Akt.-Ges.,1084,62026,62026,62047
+1228,"Fr. Feistkorn, Akt.-Ges.",1085,62047,62047,62085
+1229,Gera-Greizer Kammgarnspinnerei,1085,62085,62085,62122
+1230,Geraer Filztuchfabrik Lechla & Mehlhorn Akt.-Ges.,1086,62122,62122,62149
+1231,Kleiderwerke Jacob Potting Akt.-Ges.,1086,62149,62149,62174
+1232,Färberei Glauchau Aktiengesellschaft,1087,62174,62174,62256
+1233,Harnisch & Oertel Akt.-Ges.,1088,62256,62256,62294
+1234,“Peter Temming Aktiengesellschaft,1088,62294,62294,62327
+1235,"Carl Kreeb Aktiengesellschaft in Liqu., Göppingen.",1089,62327,62327,62332
+1236,Mech. Drillweberei Göppingen Langbein & Bühler Akt.-Ges.,1089,62332,62332,62354
+1237,"Blödner & Vierschrodt, Gummiwarenfabrik und Hanf- schlauchweberei Akt.-Ges.",1089,62354,62355,62382
+1238,Vereinigte Gothania-Werke A.-G.,1090,62382,62382,62471
+1239,Fritz Radefeldt A.-G.,1091,62471,62471,62495
+1240,"Grevener Baumwollspinnerei, Act.-Ges.",1091,62495,62495,62514
+1241,Baumwollspinnerei Eilermark,1092,62514,62514,62536
+1242,Baumwollspinnerei Gronau,1092,62536,62536,62629
+1243,Westfälische Baumwollspinnerei in. Gronau i. W.,1093,62629,62629,62661
+1244,Gebrüder Zschille Tuchfabrik Akt.-Ges.,1094,62661,62661,62727
+1245,Duncan’s Leinen - Industrie- Akt.-Ges.,1095,62727,62727,62764
+1246,Vogtländische Carbonisiranstalt,1095,62764,62764,62787
+1247,Deutsche Wollenwaren - Manufaktur Akt.- Ges.,1096,62787,62787,62888
+1248,Tuch- u. Kunstwollwerke Jancke & Co. A.-G.,1097,62888,62888,62944
+1249,"Berlin-Gubener Hutfabrik, Actiengesellschaft, vorm. A. Cohn",1098,62944,62944,63021
+1250,"Gubener Hutfabrik, Akt.-Ges. vorm. Steinke & Co.",1099,63021,63021,63043
+1251,"Baumwoll- u. Leinen-Weberei Greve & Güth, Akt.-Ges.",1099,63043,63043,63061
+1252,Romika Schuhfabrik Akt.-Ges.,1100,63061,63061,63086
+1253,Spinnereien Haagen u. Rötteln Akt.-Ges.,1100,63086,63086,63121
+1254,Wm. Klöpper Akt.-Ges.,1101,63121,63121,63154
+1255,Norddeutsche Jute-Industrie Akt.-Ges. in Hamburg.,1101,63154,63154,63158
+1256,"Conrad Scholtz, Aktiengesellschaft",1101,63158,63158,63185
+1257,Textil Grosshandels Akt.-Ges.,1102,63185,63185,63222
+1258,"Braunsberg & Co., Akt.-Ges.",1102,63222,63222,63261
+1259,Ed. Frankenberg Erste Deutsche Daunendeckenfabrik A. 6,1103,63261,63261,63290
+1260,"Paul Hartmann, Akt.-Ges.",1103,63290,63290,63328
+1261,J. Elsbach & Co. Akt.-Ges.,1104,63328,63328,63401
+1262,Vereinigte Kleiderwerke Akt.-Ges.,1105,63401,63401,63442
+1263,Garn-Aktiengesellschaft,1105,63442,63442,63463
+1264,Neue Baumwoll-Spinnerei und Weberei Hof,1106,63463,63463,63544
+1265,Spinnerei Neuhof,1107,63544,63544,63574
+1266,J. H. Sweering & Co. Akt.-Ges.,1107,63574,63574,63598
+1267,Basse & Uerpmann Akt.-Ges.,1108,63598,63598,63615
+1268,Kammgarnspinnerei Kaiserslautern,1108,63615,63615,63696
+1269,Gottschalk & Co. Akt.-Ges.,1109,63696,63696,63731
+1270,Wachstuch- und Kunstleder-Werke Akt.-Ges.,1110,63731,63731,63751
+1271,Mechanische Baumwoll-Spinnerei & Weberei,1110,63751,63751,63793
+1272,Mechanische Baumwoll-Spinn- und Weberei Kempten,1111,63793,63793,63840
+1273,"Heinr. Nierhaus, Seidenbandfabrik, Aktiengesellschaft",1111,63840,63840,63864
+1274,Joh. Wilh. Scheidt Kammgarnspinnerei und Tuchfabrik,1112,63864,63864,63889
+1275,Im. Unger Akt.-Ges.,1112,63889,63889,63912
+1276,Gebr. Friese Aktiengesellschaft,1113,63912,63912,63943
+1277,Faillard & Gehring Strumpffabrik Aktiengesellschaft,1113,63943,63943,63960
+1278,"Michel & Co., Akt.-Ges.",1113,63960,63960,63988
+1279,Rollmann & Mayer Aktiengesellschaft,1114,63988,63988,64011
+1280,"Textil-Vereinigung, Aktiengesellschaft in Liqu.",1114,64011,64011,64026
+1281,Wallach & Steinberg Akt.-Ges.,1114,64026,64026,64050
+1282,Ostpreussische Dampf-Wollwäscherei Akt.-Ges.,1115,64050,64050,64102
+1283,"Kötitzer Ledertuch- u. Wachstuch-Werke, Aktiengesellschaft",1115,64102,64102,64243
+1284,Salamander Aktiengesellschaft,1117,64243,64243,64316
+1285,6. Crefelder Baumwoll-Spinnerei A,1119,64316,64317,64385
+1286,Krefelder Teppichfabrik Aktiengesellschaft,1120,64385,64385,64429
+1287,"Rheinische Seidendruckerei Albouts, Finekh & Co. Akt.-Ges.",1120,64429,64429,64451
+1288,Seidengarn-Veredlungs-Akt.-Ges.,1121,64451,64451,64472
+1289,Seidenwebereien Wim. Schroeder & Co. Akt.-Ges.,1121,64472,64472,64499
+1290,"Wilhelm Schüller & Co. Aktien-Gesellschaft,",1121,64499,64499,64524
+1291,Kammgarnspinnerei Stöhr & Co. Akt.-Ges.,1122,64524,64524,64609
+1292,Berlin verwaltungsges. (Ges.-Kap.),1123,64609,64609,64714
+1293,Leipziger Baumwollspinnerei,1124,64714,64714,64794
+1294,Hermann Samson Aktiengesellschaft,1126,64794,64794,64825
+1295,"Gebrüder Silberkweit, Rauchwaren-Aktiengesellschaft",1126,64825,64825,64841
+1296,Thüringer Wollgarnspinnerei Act.-Ges.,1126,64841,64841,64907
+1297,Baumwollspinnerei Lengenfeld i.V.,1127,64907,64907,64950
+1298,C. A. Kühnert Akt.-Ges.,1128,64950,64950,64974
+1299,Bleicherei Akt.-Ges.,1128,64974,64974,65006
+1300,"Färberei Römer, Aktiengesellschaft",1129,65006,65006,65038
+1301,"Manufaktur Koechlin Baumgartner & Cie., Akt.-Ges.",1129,65038,65038,65081
+1302,Tuchfabrik Lörrach A.-G.,1130,65081,65081,65126
+1303,Gerber & Müller Schuhfabrik Aktiengesellschaft,1131,65126,65126,65162
+1304,"Carl Goldschmidt, Silber & Brandt Hutfabriken A.-G. in Liqu.",1131,65162,65162,65185
+1305,"Vornweg & Co., Akt.-Ges. für feine Herren- u. Knabenbekleidung",1131,65185,65186,65206
+1306,"Lugauer Kammgarn-Spinnerei vorm. F. Hey, A.-G.",1132,65206,65206,65247
+1307,Heinrich Mittag Akt.-Ges.,1132,65247,65247,65268
+1308,Aktiengesellschaft für Seilindustrie,1133,65268,65268,65324
+1309,Concordia Spinnerei & Weberei,1134,65324,65324,65451
+1310,Deutsche Jute-Spinnerei und Weberei,1135,65451,65451,65489
+1311,Mechanische Buntweberei J. Sim. Fleissner Akt.-Ges.,1136,65489,65489,65514
+1312,Friedr. Schoedel Aktiengesellschaft,1136,65514,65514,65536
+1313,Hans Bäumler Aktiengesellschaft,1137,65536,65536,65563
+1314,Baumwoll-Spinnerei Kolbermoor,1137,65563,65563,65623
+1315,Hutwerk Müller & Wörnle Nacht. Akt.-Ges.,1138,65623,65623,65646
+1316,"J. Wildberg, Akt.-Ges.",1138,65646,65646,65667
+1317,Ant. Lamberts Chr. Sohn Akt.-Ges.,1139,65667,65667,65712
+1318,"Wilh. Möller, Akt.-Ges.",1139,65712,65712,65731
+1319,Pongs Spinnerei u. Weberei Aktiengesellschaft in Liqu.,1140,65731,65731,65796
+1320,"Eduard Richartz, Aktiengesellschaft",1141,65796,65796,65814
+1321,Tuchfabrik Klein & Vogel Akt.-Ges.,1141,65814,65814,65830
+1322,"Hermann Herzog & Co., Akt.-Ges.",1141,65830,65830,65870
+1323,August Hoffmann Akt.-Ges.,1142,65870,65870,65893
+1324,"Bekleidungswerke Akt.-Ges., vormals Emil Köster A.-G.",1142,65893,65893,65912
+1325,Badische Baumwoll-Spinnerei u. Weberei A.-G.,1142,65912,65912,65946
+1326,Gruschwitz Textilwerke Akt.-Ges.,1143,65946,65946,66098
+1327,"Trikotwarenfabrik F. Helfferich, Aktiengesellschaft",1145,66098,66098,66125
+1328,Süddeutsche Katgut- u. Verbandstoftabrik Akt.-Ges.,1145,66125,66125,66150
+1329,Vereinigte Schuhfabriken Berneis-Wessels A.-G.,1146,66150,66150,66271
+1330,Tüllfabrik Mehltheuer Akt.-Ges.,1148,66271,66271,66322
+1331,"Oberwiehler Kunstwollfabrik Carl Hans & Co., Akt.-Ges..",1148,66322,66322,66350
+1332,Schuhfabrik Hassia Akt.-Ges.,1149,66350,66350,66387
+1333,"Gebrüder Wolfgang, Aktiengesellschaft",1149,66387,66387,66405
+1334,Aktien-Gesellschaft für Warpsspinnerei und Stärkerei,1150,66405,66405,66458
+1335,"@. H. Nuster, Akt.-Ges.",1150,66458,66458,66479
+1336,‚Pfälzische Textil-Industrie Otterberg Akt.-Ges.,1151,66479,66479,66503
+1337,"Pausaer Tüllfabrik, Aktiengesellschaft",1151,66503,66503,66544
+1338,Tüllfabrik Flöha Akt.-Ges.,1152,66544,66544,66669
+1339,Industriewerke Akt.-Ges.,1153,66669,66669,66782
+1340,Plauener Baumwollspinnerei Aktiengesellschaft,1155,66782,66782,66828
+1341,"Stickereiwerke Plauen, Akt.-Ges.",1156,66828,66828,66878
+1342,Trieotfabriken J. Schiesser Akt.-Ges.,1156,66878,66878,66912
+1343,Leinenspinnerei Schornreute A.-G.,1157,66912,66912,66946
+1344,"Bernh. Dietel, Aktiengesellschaft",1157,66946,66946,66967
+1345,Wollversteigerungs-Akt.-Ges.,1158,66967,66967,66989
+1346,"Kühn, Vierhaus & Cie. Akt.-Ges.",1158,66989,66989,67023
+1347,Sehwarzwälder Tuchfabrik Rohrdorf Akt.-Ges.,1159,67023,67023,67047
+1348,Corsettfabrik Saarbrücken Akt.-Ges.,1159,67047,67047,67066
+1349,Wäsche und Schürzenfabrik A.-G.,1159,67066,67066,67087
+1350,Berberich Aktiengesellschaft,1160,67087,67087,67108
+1351,“ Mechanische Weberei Ravensberg Aktiengesellschaft,1160,67108,67108,67137
+1352,"Veltins, Wiethoft & Co. Aktiengesellschaft",1160,67137,67137,67155
+1353,Reinhold Partsch Akt.-Ges.,1161,67155,67155,67176
+1354,Hermann Friedrich Akt.-Ges.,1161,67176,67176,67196
+1355,J. S. Glaeser jun. Strumpffabrik Aktiengesellschaft,1161,67196,67196,67217
+1356,Spinnerei und Weberei Schwarzenbach Akt.-Ges.,1162,67217,67217,67266
+1357,Textilwerk Frankenwald Akt.-Ges.,1162,67266,67266,67294
+1358,Richard Schubert Akt.-Ges.,1163,67294,67294,67317
+1359,Heinrich Goebel Akt.-Ges.,1163,67317,67317,67344
+1360,Sommerfelder Tuchfabriken Aktiengesellschaft,1164,67344,67344,67376
+1361,Tuchfabrik Aktiengesellschaft vorm. Fischer-Schnabl Aktiengesellschaft,1164,67376,67377,67399
+1362,Zwirnerei Ackermann A.-G.,1164,67399,67399,67426
+1363,Mechanische Weberei Fischen,1165,67426,67426,67490
+1364,Mechanische Weberei Sorau vormals F. A. Martin & Co.,1166,67490,67490,67555
+1365,Michelsohn & Ascher Akt.-Ges.,1167,67555,67555,67580
+1366,"Zwirnerei Max Schwalbe, Aktiengesellschaft",1167,67580,67580,67605
+1367,"8. Wolf & Cie, Aktiengesellschaft",1167,67605,67605,67628
+1368,"Hayum & Schwarz, J. S. Harburger,",1168,67628,67628,67656
+1369,Oeltzschner & Co. Akt.-Ges.,1168,67656,67656,67680
+1370,Vollmoeller & Behr Akt.-Ges.,1169,67680,67680,67705
+1371,"C. F. Windisch, Akt.-Ges.",1169,67705,67705,67722
+1372,Jul. Bernhardt & Co. Akt.-Ges.,1169,67722,67722,67740
+1373,"Ledertuchfabrik Bernhard Maerker, Akt.-Ges.",1170,67740,67740,67775
+1374,"Mech. Baumwoll-Weberei K. Aug. Kölbel, Akt.-Ges,.,",1170,67775,67775,67804
+1375,"Bleicherei, Färberei u. Appretur-Anstalt Stuttgart.",1171,67804,67804,67847
+1376,Baumwoll-Spinnerei Unterhausen,1171,67847,67847,67909
+1377,"Gebrüder Gross, Akt.-Ges.",1172,67909,67909,67937
+1378,Vereinigte Trikotfabriken (R. Vollmoeller) A.-6.,1173,67937,67937,68014
+1379,Mechanische Seidenweberei Viersen Akt.-Ges.,1174,68014,68014,68040
+1380,Viersener Act.-Ges. für Spinnerei und Weberei,1174,68040,68040,68116
+1381,Lausitzer Baumwoll-Weberei Aktiengesellschaft,1175,68116,68116,68138
+1382,Weidaer Jute-Spinnerei & Weberei,1175,68138,68138,68202
+1383,"„Schloss Aktiengesellschaft, Damen- u. Kinderbekleidung“",1176,68202,68202,68219
+1384,Wiesbadener Wollwarenfabrik Akt.-Ges. in Wiesbaden. (din Konkurs.),1177,68219,68220,68230
+1385,Leipziger Baumwollweberei,1177,68230,68230,68254
+1386,Meyer Kauffmann Textilwerke Akt.-Ges.,1177,68254,68254,68364
+1387,Graef & Schlechter Akt-Ges. in Ligu.,1179,68364,68364,68392
+1388,Neumann & Büren Aktiengesellschaft,1179,68392,68392,68418
+1389,Rheinische Möbelstoff-Weberei vorm. Dahl & Hunsche,1180,68418,68418,68506
+1390,"Vereinigte Glanzstoff-Fabriken, A.-G.",1181,68506,68506,68925
+1391,"J. D. Weickert, Filzfabrik, Aktiengesellschaft",1187,68925,68925,68980
+1392,Julius Römpler Aktiengesellschaft,1188,68980,68980,69038
+1393,Baumwoll-Spinnerei Zwickau,1188,69038,69038,69088
+1394,“ Bindfaden-Manufaktur Akt.-Ges.,1189,69088,69088,69110
+1395,Landmann & Hellwig Aktiengesellschaft,1189,69110,69110,69145
+1396,Zwickauer Kammgarn-Spinnerei-,1190,69145,69145,69198
+1397,Julius Schürer Aktiengesellschaft,1191,69198,69198,69243
+1398,Aktiengesellschaft für Baumwollindustrie,1192,69243,69243,69261
+1399,Cohn & Rosenbaum Akt.-Ges.,1192,69261,69261,69285
+1400,Sigmund Goeritz Aktiengesellschaft,1192,69285,69285,69313
+1401,"Max Lewin Akt.-Ges. für Fabrikation von Kinderkopf- bedeckungen, Sporthüten und Baby-Konfektion",1193,69313,69314,69338
+1402,"Stern & Co. Akt.-Ges., Leinen und Baumwollwaren",1193,69338,69338,69357
+1403,L. & J. Hirschfeld Aktiengesellschaft,1193,69357,69357,69373
+1404,Katz & Michel Textil-Aktiengesellschaft,1194,69373,69373,69410
+1405,von Asten & Co. Akt.-Ges.,1194,69410,69410,69434
+1406,Gebrüder Kaufmann Akt.-Ges.,1195,69434,69434,69452
+1407,Thomas Scheuflfelen Akt.-Ges.,1195,69452,69452,69476
+1408,Filzfabrik Aktiengesellschaft,1195,69476,69476,69539
+1409,Hutstoffwerke Akt.-Ges.,1196,69539,69539,69556
+1410,"Akt.-Ges. für Färberei und Appretur, Glauchau",1196,69556,69556,69580
+1411,Baumwoll-Spinnerei und -Weberei Anton Walraf Söhne Akt.-Ges.,1197,69580,69581,69600
+1412,"Berlin-Gubener Haarhutfabrik, Akt.-Ges.",1197,69600,69600,69625
+1413,Akt.-Ges. für Wirkwaren,1197,69625,69625,69642
+1414,"Heinrich Wolfrum, mechanische Weberei Akt.-Ges. Helmbrechts",1198,69642,69643,69669
+1415,"S. Abel, Wollhandels-Akt.-Ges.",1198,69669,69669,69689
+1416,Kulmbacher Spinnerei,1198,69689,69689,69728
+1417,"Magdeburger Bindegarn-, Sack- u. Plan-Akt.-Ges.",1199,69728,69728,69746
+1418,Christoph Walter Akt.-Ges.,1199,69746,69746,69780
+1419,Michael Mayerhofer Aktiengesellschaft,1200,69780,69780,69798
+1420,J. F. Riemann Mechanische Webereien Akt.-Ges. in Liqu.,1200,69798,69798,69819
+1421,Teinacher Orientteppichknüpfereien A.-G.,1200,69819,69819,69850
+1422,Striwag Akt.-Ges. für Strick- u. Wirkindustrie,1201,69850,69850,69871
+1423,E. Breuninger Aktiengesellschaft,1201,69871,69871,69905
+1424,Wolldeckenfabrik Weilderstadt Akt.-Ges.,1202,69905,69905,69942
+1425,Spinnerei und Weberei Friedr. Lühl Akt.-Ges.,1202,69942,69942,69963
+1426,"H. Brüninghaus Söhne Akt.-Ges. in Liqu.,",1203,69963,69963,69993
+1427,Artur Inow & Co. Akt.-Ges.,1203,69993,69993,70017
+1428,"Chemische Industrie, Dünger-, Sprengstolf-, Zelluloid- und Glühstrumpffabriken.",1204,70017,70018,70018
+1429,und Glühstrumpffabriken. Chemische Fabrik Buckau,1204,70018,70019,70122
+1430,- Chemische Werke vorm. H. & E. Albert,1205,70122,70122,70213
+1431,Bronzefarbenwerke A.-G. vorm. Carl Schlenk,1207,70213,70213,70296
+1432,Akt.-Ges. Georg Egestorffs Salzwerke u.Chemische Fabriken,1208,70296,70296,70391
+1433,Aktien-Gesellschaft Lignose,1209,70391,70391,70439
+1434,Akt.-Ges. für chemisch-teehnische Verwertungen,1210,70439,70439,70456
+1435,Aktien-Ges. für chemische Produkte vorm. H. Scheidemandel,1210,70456,70456,70644
+1436,Akt.-Ges. für Chemische u. Montan-Unternehmungen,1213,70644,70644,70663
+1437,Actien-Gesellsehaft für Kohlensäure-Industrie,1213,70663,70663,70710
+1438,Aktiengesellschaft für medizinische Produkte,1214,70710,70710,70764
+1439,Dr. Blümner Crack-Anlagen Akt.-Ges.,1215,70764,70764,70767
+1440,"Bohnofix-Werk Robert Maneke Aktiengesellschaft,",1215,70767,70767,70786
+1441,Bourjois Aktiengesellschaft in Liqn.,1215,70786,70786,70807
+1442,"Byk-Guldenwerke Chemische Fabrik, Akt.-Ges.",1215,70807,70807,70916
+1443,"Chemische Fabrik Freiburg, Akt.-Ges.",1217,70916,70916,70936
+1444,Chemische Fabrik Grünau Landshoff & Meyer A.-G.,1217,70936,70936,71038
+1445,"Chemische Fabrik Müller & Kreuziger, Aktiengesellschaft",1219,71038,71038,71043
+1446,Chemoport Aktiengesellschaft für Aerztebedarf,1219,71043,71043,71066
+1447,Ciba Berlin Aktiengesellschaft,1219,71066,71066,71087
+1448,"„Degewop“ Gesellsch. wissenschaftl. Organpräparate A.-G.,",1220,71087,71087,71104
+1449,Deutsche Chemikalien-Akt.-Ges.,1220,71104,71104,71121
+1450,Deutsche Zündholzfabriken Akt.-Ges.,1220,71121,71121,71236
+1451,Eyacher Kohlensäure-Industrie Akt.-Ges.,1222,71236,71236,71289
+1452,„Galepha“ A.-G. Fabrik galenisch-pharmazeut. Präparate,1223,71289,71289,71310
+1453,"Hugo Grimpe, Akt.-Ges.",1223,71310,71310,71330
+1454,"Hageda, Handelsgesellschaft Deutscher Apotheker A.-G.",1223,71330,71330,71454
+1455,"Heko-Werk, Chemische Fabrik Akt.-Ges.,",1225,71454,71454,71491
+1456,Rud. Herrmann Akt.-Ges. Seifen und Parfümerien,1226,71491,71491,71515
+1457,Horment Akt.-Ges. für Herstellung organischer Heilmittel,1226,71515,71515,71535
+1458,Richard Hudnut Aktiengesellschaft,1226,71535,71535,71551
+1459,Jünger & Gebhardt Akt.-Ges.,1227,71551,71551,71575
+1460,Max Kahnemann Aktiengesellschaft,1227,71575,71575,71639
+1461,Kali-Chemie Aktiengesellschaft,1228,71639,71639,72118
+1462,Kohlenveredlung und Schwelwerke Aktiengesellschaft,1235,72118,72118,72158
+1463,Dr. Laboschin Akt.-Ges. Fabrik chem.-pharmazeut. Präparate,1235,72158,72158,72226
+1464,Gustav Lohse Aktiengesellschaft in Berlin.,1236,72226,72226,72255
+1465,Albert Mendel Akt.-Ges.,1237,72255,72255,72285
+1466,Metallochemische Fabrik A.,1237,72285,72285,72312
+1467,Mitteldeutsche Stickstoffwerke Akt.-Ges.,1237,72312,72312,72349
+1468,Oja Aktiengesellschaft,1238,72349,72349,72380
+1469,Peroxydwerk-Siesel Aktiengesellschaft,1238,72380,72380,72417
+1470,„Pharmazeutikon“ Akt.-Ges. für chem.-pharm. Produkte,1239,72417,72417,72443
+1471,"Dr. Hugo Remnler, Akt.-Ges.",1239,72443,72443,72483
+1472,"Rheinisch -Westfälische Olex-Akt.-Ges. in Ligqu.,",1240,72483,72483,72500
+1473,J. D. Riedel — E. de Han Aktiengesellschaft,1240,72500,72500,72669
+1474,Rohstoffgesellschaft für chemisch-teehnische Erzeugnisse,1243,72669,72669,72674
+1475,Rütgerswerke-Aktiengesellschaft,1243,72674,72674,72922
+1476,Triolin Aktiengesellschaft,1246,72922,72922,72938
+1477,Westfälisch-Anhaltische Sprengstoff- Act.- Ges. Chemische Fabriken,1247,72938,72939,73016
+1478,"Wormser Druckfarbenwerke Aktiengesellschaft,",1248,73016,73016,73035
+1479,Pennrich-Huy und Co. Akt.-Ges.,1248,73035,73035,73070
+1480,Chemische Industrie Akt.-Ges.,1249,73070,73070,73106
+1481,Carl Blank Aktiengesellschaft,1249,73106,73106,73124
+1482,"Cosmos-Werke u. Roland-Parfümerie Aktiengesellschaft,",1249,73124,73124,73132
+1483,Mineraloel-Raffinerie vorm. August Korff,1250,73132,73132,73177
+1484,Kerament- und Kunststeinwerke €. H. Jerschke Akt.-Ges.,1250,73177,73177,73221
+1485,F. Reichelt Akt.-Ges.,1251,73221,73221,73294
+1486,"Günther & Haussner, Akt.-Ges.",1252,73294,73294,73316
+1487,Röhm & Haas Akt.-Ges.,1252,73316,73316,73350
+1488,Becker & Kirsten Akt.-Ges.,1253,73350,73350,73376
+1489,Düngerhandelsaktiengesellschaft zu Dresden.,1253,73376,73376,73452
+1490,"Gehe & Co., Aktiengesellschaft",1254,73452,73452,73568
+1491,Lack- u. Farben-Grosseinkaufs-Akt.-Ges.,1256,73568,73568,73590
+1492,"Trapp & Münch, Akt.-Ges.",1256,73590,73590,73653
+1493,"Chemische Fabrik Düsseldorf, Akt.-Ges.",1257,73653,73653,73672
+1494,Henkel & Cie. Akt.-Ges.,1257,73672,73672,73699
+1495,"Kaufels & Apotheker Andernach — Hansawerk — Fabrik pharmazeutischer Präparate Akt.-Ges. in Liqu.,",1258,73699,73700,73726
+1496,Akt.-Ges. für Steinkohleverflüssigung und Steinkohle- veredelung. Duisburg.,1258,73726,73727,73765
+1497,E. Matthes & Weber Actiengesellschaft,1259,73765,73765,73795
+1498,"""Chemische u. Elektrolytische Werke Akt.-Ges.",1259,73795,73795,73813
+1499,H. von Gimborn-Akt.-Ges.,1260,73813,73813,73848
+1500,"Vereinigte Thüringische Salinen,",1260,73848,73848,73914
+1501,Chemische Industrie Aktiengesellschaft,1261,73914,73914,73939
+1502,Th. Goldschmidt Akt.-Ges.,1261,73939,73939,74113
+1503,Ruhrgas Aktiengesellschaft,1264,74113,74113,74319
+1504,F. Gruner Akt.-Ges.,1267,74319,74319,74341
+1505,1. 6. Farbenindustrie Aktiengesellschaft,1267,74341,74341,74588
+1506,Nominal a on Haupterzeugnisse,1271,74588,74588,74590
+1507,"Ammoniakwerk Merseburg & m.b.H,,",1271,74590,74590,74613
+1508,"ChemischeWerke Lothringen m.b.H.,",1271,74613,74613,74628
+1509,"Wachtberg- Gruppe, Braunkohlen-",1271,74628,74628,74644
+1510,| |Jagäpatronen,1271,74644,74644,75039
+1511,"OR | 3 33818 ""VZA 000 000 1 . 28 Sg g sis",1278,75039,75040,75040
+1512,"""VZA 000 000 1 . 28 Sg g sis 000 000 T | 000.002 1 0000007 | 0000021 L:1 ""v8 000 002 I moooost |"" ©"" ""09 2 4pa8yuooı 'v 5 59 798[>",1278,75040,75041,75041
+1513,"000 000 T | 000.002 1 0000007 | 0000021 L:1 ""v8 000 002 I moooost |"" ©"" ""09 2 4pa8yuooı 'v 5 59 798[> _ _ ""UnIoA WIOUIINW eNlongıeg 'g9 S 2 228 &",1278,75041,75042,75042
+1514,"_ _ ""UnIoA WIOUIINW eNlongıeg 'g9 S 2 228 & ""VZA T:OI | ""V-'ZA 000 000 821 3 3 -",1278,75042,75043,75043
+1515,"""VZA T:OI | ""V-'ZA 000 000 821 3 3 - 000 8zT 07799998 | 000 Ca 059 99163 | ""v8 1:°18 | ""V-""IS.000 000 09% 000 008 9 OT TOV TRAUN '0’S ö Ss e]",1278,75043,75044,75044
+1516,"000 8zT 07799998 | 000 Ca 059 99163 | ""v8 1:°18 | ""V-""IS.000 000 09% 000 008 9 OT TOV TRAUN '0’S ö Ss e] u ln 2 Ber",1278,75044,75045,75045
+1517,u ln 2 Ber 000 000.999 — FE Mr,1278,75045,75046,75046
+1518,000 000.999 — FE Mr 000 007 # | 000.009 179 ar Zunog uaguueuod 'z zogız © Sg a,1278,75046,75047,75047
+1519,000 007 # | 000.009 179 ar Zunog uaguueuod 'z zogız © Sg a A94un u9p um uoIsn J19p SSBJuY ei u .—..*,1278,75047,75048,75048
+1520,A94un u9p um uoIsn J19p SSBJuY ei u .—..* sne JlIge Tepog P -uuy 'peg © E .—.*t,1278,75048,75049,75049
+1521,sne JlIge Tepog P -uuy 'peg © E .—.*t \ op Sunyoyxosiendey UM TE. or.,1278,75049,75050,75050
+1522,"\ op Sunyoyxosiendey UM TE. or. ""YA 000 000 09 Pr",1278,75050,75051,75051
+1523,"""YA 000 000 09 Pr . 000. 00% 1 | 000.000 92T | 000 00% 1 | 000 000 92T 1:9 ""v}8.000 000 088 | 000 00# TE araqBdepos 9 -umuy ""Pu 'gS "" “Ay",1278,75051,75052,75054
+1524,3 ‚odpnu Araqug-epog y -umuy 9 - Fr,1278,75054,75054,75056
+1525,"E . . ""v-""2A 000 000 # RB 98 &, m008 000 000 8T | 000.08 000 000 81 L:G ""V-""78 000 000 09 0000008 | "" ° * ""10o Toy-1eoM da 38",1278,75056,75057,75057
+1526,"&, m008 000 000 8T | 000.08 000 000 81 L:G ""V-""78 000 000 09 0000008 | "" ° * ""10o Toy-1eoM da 38 E31 ” ""WIOA UOYLIABA Syosıusug (a 3 ws",1278,75057,75058,75058
+1527,"E31 ” ""WIOA UOYLIABA Syosıusug (a 3 ws i 3 ""V°""ZA 000 000 9T 23 58°",1278,75058,75059,75059
+1528,"i 3 ""V°""ZA 000 000 9T 23 58° E| 000 078 000000 #7 | 000.098 000 900 FF 1:9 ""v-""38.000 000 08% | 000001 'H “ ° UONoL wog e8 58",1278,75059,75060,75060
+1529,"E| 000 078 000000 #7 | 000.098 000 900 FF 1:9 ""v-""38.000 000 08% | 000001 'H “ ° UONoL wog e8 58 3 -soL) AAgeg oyasımeyy (pP 78 5°",1278,75060,75061,75061
+1530,3 -soL) AAgeg oyasımeyy (pP 78 5° 5) “Y-'ZA 000 000 0% au Ar,1278,75061,75062,75062
+1531,"5) “Y-'ZA 000 000 0% au Ar ) 000 00F 000.009 24 | 000 00F 000 009 29 1:4 ""v-18.000 000 888 | 0000801 | vonegugeg-umuyysogpyo E58 3",1278,75062,75063,75063
+1532,") 000 00F 000.009 24 | 000 00F 000 009 29 1:4 ""v-18.000 000 888 | 0000801 | vonegugeg-umuyysogpyo E58 3 ""V-""ZA 000 000 09 ES: Sex",1278,75063,75064,75064
+1533,"""V-""ZA 000 000 09 ES: Sex N 000 00% T | 000000 92T | 000008 T | 000000 92T 1:9 ""v-""?8.000.000. 088 | 0000098 |° * * * Zurunig p sniomg =a 3",1278,75064,75065,75065
+1534,"N 000 00% T | 000000 92T | 000008 T | 000000 92T 1:9 ""v-""?8.000.000. 088 | 0000098 |° * * * Zurunig p sniomg =a 3 dojsIog ""WIOA eyIromqıey (q £ |",1278,75065,75066,75066
+1535,"dojsIog ""WIOA eyIromqıey (q £ | } ""V-""ZA 000 000 09 E55 8%",1278,75066,75067,75067
+1536,"} ""V-""ZA 000 000 09 E55 8% 000 00% E | 000.000 921 | 000 00% T | 000.000 921 1:6 ""v-28.000 000 088 | 0000086 ’09 2 1oAuq 2222",1278,75067,75068,75068
+1537,"000 00% E | 000.000 921 | 000 00% T | 000.000 921 1:6 ""v-28.000 000 088 | 0000086 ’09 2 1oAuq 2222 ) HN ws a wa ” apatıg"" ULIOAUSYLIGRJUOgIRA (8 'T 3 E 33 Du",1278,75068,75069,75069
+1538,") HN ws a wa ” apatıg"" ULIOAUSYLIGRJUOgIRA (8 'T 3 E 33 Du 7100 Fe er. Sa ah",1278,75069,75070,75070
+1539,"7100 Fe er. Sa ah Vera | VE 5 vs STUNKURA 8261 ""zı18 tendey ods,,",1278,75070,75071,75071
+1540,"Vera | VE 5 vs STUNKURA 8261 ""zı18 tendey ods,, ) uoIsn7 Jop I0q purIg 1op  erlest -sdunjeun we purIg -sZunpunig Hs 47",1278,75071,75072,75074
+1541,Gr: SS[eNÄBJUOHNYV Sp Sunpyaragug F R 3,1278,75074,75075,75307
+1542,Dr. C. Schleussner Aktiengesellschaft,1282,75307,75307,75376
+1543,Act.-Ges. für chem. Industrie,1283,75376,75376,75487
+1544,"Dr. Hillers Akt.-Ges, Nähr- u. Heilmittelwerk",1285,75487,75487,75512
+1545,Metallochemische Werke Rodleben Akt.-Ges. in Liqu.,1285,75512,75512,75528
+1546,"Gelatine- und Dicaleiumphosphat-Werke A.-G.,",1285,75528,75528,75564
+1547,P. Beiersdorf & Co. Akt.-Ges.,1286,75564,75564,75650
+1548,Beit & Co. Aktiengesellschaft,1287,75650,75650,75666
+1549,"Chemisch-Therapeutische Fabrik Billwärder, Aktiengesellschaft",1287,75666,75667,75690
+1550,Chemische Fabrik von J. E. Devrient Act.-Ges.,1288,75690,75690,75720
+1551,Chemische Fabrik Güstrow Dr. Hillringhaus u. Dr. Heilmann,1288,75720,75720,75757
+1552,Deutsche Vacuum Oel Akt.-Ges.,1289,75757,75757,75797
+1553,Dynamit-Act.-Ges. vormals Alfred Nobel & Co.,1289,75797,75797,75987
+1554,"Glasurit-Werke M. Winkelmann, Akt.-Ges.",1292,75987,75987,76029
+1555,Guano-Werke Aktiengesellschaft,1293,76029,76029,76170
+1556,Hammonia Stearin Fabrik,1295,76170,76170,76230
+1557,Hinds Aktiengesellschaft,1295,76230,76230,76251
+1558,"Krenzin & Seifert, Akt.-Ges.",1296,76251,76251,76273
+1559,"Pearson & Co., Aktiengesellschaft",1296,76273,76273,76305
+1560,Schülke & Mayr Akt.-Ges.,1297,76305,76305,76335
+1561,Verkaufsgemeinschaft Deutscher Oelmühlen Akt.-Ges.,1297,76335,76335,76339
+1562,Weissmeer-Baltische Akt.-Ges. P. & I. Danischewsky,1297,76339,76339,76371
+1563,Akt.-Ges. für Lackfabrikation,1298,76371,76371,76411
+1564,"Chemische Fabrik Mahler und Dr. Supf, Akt.-Ges.",1298,76411,76411,76442
+1565,Efeka-Neopharm Akt.-Ges.,1299,76442,76442,76484
+1566,Hahnerol-Oelwerke Akt.-Ges.,1299,76484,76484,76530
+1567,"Koch’s Oelwerke Akt.-Ges. in Harburg in Liqu.,",1300,76530,76530,76535
+1568,Chemische Fabrik Helfenberg A.G. vorm. Eugen Dieterich,1300,76535,76535,76654
+1569,Ewald Dörken Aktiengesellschaft,1302,76654,76654,76677
+1570,"Joh. Andre Sebald, Aktiengesellschaft",1302,76677,76677,76704
+1571,"Kohlensäurewerk Deutschland, A.-G.",1302,76704,76704,76744
+1572,"Dragoeo, Aktiengesellschaft, Spezialfabrik konzentrierter Riech- und Aromastoffe",1303,76744,76745,76771
+1573,Chemisch-Pharmazeutische Akt.-Ges. Bad Homburg,1303,76771,76771,76811
+1574,"Chemische Fabrik Curtius, Akt.-Ges.",1304,76811,76811,76834
+1575,Akt.-Ges. für Stiekstoffdünger,1304,76834,76834,76890
+1576,Carbonit Akt.-Ges.,1305,76890,76890,76962
+1577,Chemische Fabrik & Farbwerke Dr. Koll & Spitz Akt.-Ges.,1306,76962,76962,77001
+1578,Sprengstoffwerke Dr. R. Nahnsen & Co. A.-6.,1307,77001,77001,77041
+1579,Westendorp & Wehner Aktiengesellschaft,1307,77041,77041,77074
+1580,"Wirtschaftliche Vereinigung deutscher Gaswerke, Gaskokssyndikat, Akt.-Ges.",1308,77074,77075,77176
+1581,Zünderwerke Ernst Brün Akt.-Ges.,1309,77176,77176,77199
+1582,"Berger & Wirth, Handelsgesellschaft für den Osten, A.-G.",1310,77199,77199,77252
+1583,Dr. H. Bufleb & Co. Akt.-Ges.,1310,77252,77252,77276
+1584,Fritz Schulz jun. Aktiengesellschaft,1311,77276,77276,77372
+1585,"Concordia, chem. Fabrik auf Aktien",1312,77372,77372,77437
+1586,Koch & Schenk Chemische Fabrik Akt.-Ges.,1313,77437,77437,77463
+1587,"Knoll Akt.-Ges., Chemische Fabriken",1314,77463,77463,77507
+1588,Fahlberg-List Aktiengesellschaft,1314,77507,77507,77656
+1589,"Chemische Fabrik Budenheim Akt.-Ges,,",1316,77656,77656,77699
+1590,Süddeutsche Teerverwertungs-Akt.-Ges. „Südteerag“,1317,77699,77699,77718
+1591,"Goerig & Co. Aktiengesellschaft,",1317,77718,77718,77742
+1592,"Lackfabrik Forrer, Akt.-Ges.",1318,77742,77742,77778
+1593,Chemische Fabrik Marktredwitz Aktiengesellschaft Marktredwitz ı. B.,1318,77778,77779,77813
+1594,Phönix Chemische Fabrik Akt.-Ges.,1319,77813,77813,77832
+1595,Aktiengesellschaft für Kohlendestillation,1319,77832,77832,77896
+1596,"Chemische Fabrik Zyma Aktiengesellschaft,",1320,77896,77896,77932
+1597,Nymphosan-Akt.-Ges.,1320,77932,77932,77953
+1598,Chemische Werke Brockhues Akt.-Ges.,1321,77953,77953,78022
+1599,R. Graf & Co. Akt.-Ges.,1322,78022,78022,78053
+1600,Lackfabrik Wiederhold Akt.-Ges.,1322,78053,78053,78100
+1601,„Sandoz“ Akt.-Ges.,1323,78100,78100,78121
+1602,"Farbwerke Schroeder & Stadelmann Aktiengesellschaft,",1323,78121,78121,78152
+1603,"Rudolph Koepp & Co., Chemische Fabrik Aktiengesellschaft,",1324,78152,78152,78180
+1604,Metall- und Farbwerke Akt.-Ges.,1324,78180,78180,78218
+1605,Zinkfarben Akt.-Ges.,1325,78218,78218,78242
+1606,"Hessler & Herrmann, Chemische Fabrik, Akt.-Ges.",1325,78242,78242,78266
+1607,"Iso-Werk Aktiengesellschaft Regensburg, Fabrik chem.- pharmazeutischer Präparate vorm. J. Sonntag",1325,78266,78267,78298
+1608,Hans Wiessner Akt.-Ges.,1326,78298,78298,78321
+1609,"Dr. A. Reichold, Chemische Fabrik, Akt.-Ges.",1326,78321,78321,78338
+1610,"Deutsche Hydrierwerke, Aktiengesellschaft",1327,78338,78338,78393
+1611,Chemische Fabrik Ferdinand Sichel A.-G.,1327,78393,78393,78414
+1612,"„Phapag“ Pharmazeutische Präparate, Akt.-Ges.",1328,78414,78414,78447
+1613,"Aecis, Feinseifen- u. Parfümeriefabrik, Aktiengesellschaft",1328,78447,78447,78464
+1614,Blei- und Zink-Farben-Vertrieb Akt.-Ges.,1328,78464,78464,78481
+1615,Königsberger Zellstoff-Fabriken und Chemische Werke Koholyt Akt.-Ges.,1329,78481,78482,78583
+1616,"„Montana“, Aktiengesellschaft",1330,78583,78583,78604
+1617,Deutsche Holzverzuckerungs- und Chemische Fabrik,1330,78604,78604,78635
+1618,Vereinigte Uerdinger Oelwerke Alberdingk & Boley,1331,78635,78635,78669
+1619,Abshagen & Co. Akt.-Ges.,1331,78669,78669,78689
+1620,Gustav Ruth Akt.-Ges.,1332,78689,78689,78711
+1621,Chemische Fabrik Wesseling Akt.-Ges.,1332,78711,78711,78758
+1622,Dr. Paul Bruch Fabrik pharmazeutischer Präparate Akt.-Ges.,1333,78758,78758,78779
+1623,Kalle & Co. Akt.-Ges.,1333,78779,78779,78845
+1624,"Chemische Fabriken Worms Akt.-Ges. in Liqu., Worms.",1334,78845,78845,78854
+1625,Hermann Wülfing Akt.-Ges.,1334,78854,78854,78885
+1626,Verein chemischer Fabriken Akt.-Ges. in Liqu. in Zeitz.,1335,78885,78885,78918
+1627,"Vereinigte Deutsche Bitumen-Dachpappenfabriken Aktiengesellschaft, Zwiekau i. Sa., Altenburger Str. 71.",1335,78918,78919,78945
+1628,Zwickauer Abfuhr-Gesellschaft,1336,78945,78945,78974
+1629,"Lederfahriken, Gerbereien, Fell- u. Häuteverwertung.",1336,78974,78974,78976
+1630,Aachener Lederfabrik Aktiengesellschaft,1336,78976,78976,79044
+1631,"Angerer, Koch & Co. Akt.-Ges.",1337,79044,79044,79078
+1632,Berliner Lederbetrieb Aktiengesellschaft,1338,79078,79078,79101
+1633,Lederwerk Spindlersfeld Akt.-Ges.,1338,79101,79101,79121
+1634,C. Pose Ausland-Akt.-Ges. für Lederindustrie in Liqn.,1338,79121,79121,79143
+1635,Hermann Kluge Lederfabrik Aktiengesellschaft,1339,79143,79143,79177
+1636,"Sernauleder, Akt.-Ges. in Liqu., Dassel.",1339,79177,79177,79186
+1637,Emil Brandt Nachf. A.-G. in Liqu.,1339,79186,79186,79218
+1638,"Lederfabrik Johann Metzger, Akt.-Ges.",1340,79218,79218,79244
+1639,"Franz Herrmann, Erfurter Leder-Aktiengesellschaft,",1340,79244,79244,79309
+1640,C. F. Roser Aktiengesellschaft,1341,79309,79309,79336
+1641,Leder-Akt.-Ges.,1342,79336,79336,79358
+1642,Geraer Leder-Akt.-Ges.,1342,79358,79358,79377
+1643,"Just & Co, Aktien-Gesellschaft",1342,79377,79377,79444
+1644,Lederfabrik Hirschberg vorm. Heinrich Knoch & Co.,1343,79444,79444,79493
+1645,„ACLA“ Rheinische Maschinenleder- u. Riemenfabrik von A. Cahen-Leudesdorff & Co. Aktien-Gesellschaft,1344,79493,79494,79573
+1646,"Emil Waeldin, Lederfabrik, Akt.-Ges.",1345,79573,79573,79597
+1647,"Vereinigte Lederfabriken, Akt.-Ges.",1345,79597,79597,79620
+1648,"Indo-Persian Rauchwaren Aktiengesellschaft,",1346,79620,79620,79638
+1649,Kanin-Handels-Akt.-Ges.,1346,79638,79638,79657
+1650,"“ F. Haase-Rybnik, Lederfabrik Akt.-Ges. in Liqu.,",1346,79657,79657,79673
+1651,Adolf Arnhold Akt.-Ges.,1347,79673,79673,79695
+1652,"Emil Köster A.-G., Lederfabriken",1347,79695,79695,79721
+1653,J. H. Wiese Söhne Akt.-Ges.,1347,79721,79721,79749
+1654,"Wörnlein & Zellhofer Akt.-Ges., Lederwarenfabrik",1348,79749,79749,79778
+1655,"Feldmeier & Bock, Akt.-Ges.",1348,79778,79778,79801
+1656,Rudolph Kahn Akt.-Ges.,1349,79801,79801,79827
+1657,Sehuhfabrik Pfullingen Akt.-Ges.,1349,79827,79827,79850
+1658,Märkle & Co. Rauchwaren-Zurichterei u. Färberei Akt.-Ges.,1349,79850,79850,79880
+1659,Tauchaer Rauchwaren-Zurichterei u. Färberei-Akt.-Ges.,1350,79880,79880,79907
+1660,Lederwerke Hermann Simon Akt.-Ges.,1350,79907,79907,79932
+1661,Gabriel Lebrecht Akt.-Ges.,1351,79932,79932,79954
+1662,Cornelius Heyl Akt.-Ges.,1351,79954,79954,79999
+1663,"Papier-Industrie, Zellulose-, Strohzellstoff- u. Kartomnagenfabriken, Holzschleifereien, Buchbindereien.",1352,79999,80000,80000
+1664,"Holzschleifereien, Buchbindereien. Buntpapierfabrik Akt.-Ges.",1352,80000,80001,80072
+1665,Vereinigte Bautzner Papierfabriken,1353,80072,80072,80165
+1666,Sulfit-Cellulose-Fabrik Tillgner & Co. Akt.-Ges.,1354,80165,80165,80193
+1667,"Verein für Zellstoff-Industrie Aktiengesellschaft,",1355,80193,80193,80433
+1668,Rheinische Tapetenfabrik Akt.-Ges.,1358,80433,80433,80456
+1669,Bremer Papier- u. Wellpappen-Fahrik Akt.-Ges.,1358,80456,80456,80498
+1670,Georg Drewsen Feinpapierfabriken Lachendorf und Celle,1359,80498,80498,80519
+1671,Dresdner Emballagenfabrik Akt.-Ges.,1359,80519,80519,80569
+1672,Josef Lehnert Akt.-Ges. in Ligu.,1360,80569,80569,80614
+1673,„Mapra“ Akt.-Ges. für Papier- u. Pappenvertrieb,1361,80614,80614,80632
+1674,"Streich & Co. Akt.-Ges,,",1361,80632,80632,80654
+1675,Vereinigte Strohstoff-Fabriken,1361,80654,80654,80730
+1676,Zucker & Co. A.-G. Schreibwarenfabrik,1362,80730,80730,80774
+1677,Deutsche Papier-Handelsgesellschaft Aktiengesellschaft,1363,80774,80774,80796
+1678,Ostdeutsche Papier- und Zellstoffwerke Akt.-Ges.,1363,80796,80796,80800
+1679,rechnung.,1363,80800,80800,80814
+1680,M. Vogel Akt.-Ges.,1364,80814,80814,80835
+1681,Bunt- u. Luxuspapierfabrik Goldbach,1364,80835,80835,80884
+1682,Kartonpapierfabriken Aktiengesellschaft,1365,80884,80884,80960
+1683,Papierfabrik Kabel Aktiengesellschaft,1366,80960,80960,81003
+1684,Dresdner Chromo- & Kunstdruck-Papierfabrik Krause & Baumann Akt.-Ges.,1366,81003,81004,81072
+1685,Heidenauer Papierfabrik Aktiengesellschaft,1367,81072,81072,81164
+1686,Osthushenrich-Werke Aktiengesellschaft,1369,81164,81164,81183
+1687,"Gebrüder Rauch Akt.-Ges,.,",1369,81183,81183,81217
+1688,"Gissler & Pass, Akt.-Ges.",1370,81217,81217,81250
+1689,Papier Aktiengesellschaft,1370,81250,81250,81272
+1690,Otto Ficker A.-G.,1370,81272,81272,81294
+1691,Akt.-Ges. Papyrolinwerk & Couvertfabrik,1371,81294,81294,81324
+1692,"Knoeckel, Schmidt & Cie, Papierfabriken Akt.-Ges.",1371,81324,81324,81392
+1693,Wildenfelser Papierfabrik vormals Gustav Toelle Aktiengesellschaft,1372,81392,81393,81453
+1694,F. E. Haag Aktiengesellschaft,1373,81453,81453,81482
+1695,"Leipziger Chromo- und Kunstdruck-Papier-Fabrik vorm. Gustav Najork, Aktiengesellschaft",1374,81482,81483,81549
+1696,Rheinische Pappenfabrik A.-6.,1375,81549,81549,81573
+1697,"Münchener Pappe- u. Papierverarbeitungswerk, Akt.-Ges.",1375,81573,81573,81597
+1698,Holzzellstoff- u. Papierfabriken-Actiengesellschaft,1375,81597,81597,81622
+1699,Max Nitzsche & Co. Akt.-Ges.,1376,81622,81622,81644
+1700,"Feldmühle, Papier- u. Zellstoffwerke Akt.-Ges.,",1376,81644,81644,81847
+1701,Beteiligung Grundkapital,1379,81847,81847,82016
+1702,Otto Naumann & Co. Aktiengesellschaft,1381,82016,82016,82044
+1703,"Emballage Aktiengesellschaft,",1382,82044,82044,82070
+1704,Papierfabrik Spechthausen Aktiengesellschaft .,1382,82070,82070,82099
+1705,F. H. Schmidt Briefumschlag- u. Papierausstattungsfabrik,1382,82099,82099,82125
+1706,Warburger Papierfabrik Akt.-Ges.,1383,82125,82125,82144
+1707,R. Rube & Co. Akt.-Ges.,1383,82144,82144,82166
+1708,"E. Holtzmann & Cie., Akt.-Ges.",1383,82166,82166,82186
+1709,Rohpappen-Fabrik Akt.-Ges.,1384,82186,82186,82217
+1710,"Elberfelder Papierfabrik Aktiengesellschaft,",1384,82217,82217,82248
+1711,Holzstofl- u. Lederpappen-Fabriken vorm. Gebr. Fünfstück,1385,82248,82248,82298
+1712,"Druck- und Verlagsgewerbe, Telegraphen- und Annoncen-Büros, Vervielfältigungsindustrie, Reklame-Institute.",1386,82298,82299,82299
+1713,"Vervielfältigungsindustrie, Reklame-Institute. Dr. J. Kirsch Buchdruckerei und Verlagsanstalt",1386,82299,82300,82300
+1714,"Dr. J. Kirsch Buchdruckerei und Verlagsanstalt Aktiengesellschaft, Aschaffenburg",1386,82300,82301,82320
+1715,Allgemeine Fleischer-Zeitung Akt.-Ges.,1386,82320,82320,82341
+1716,Dondorf Kunstverlag. Aktiengesellschaft,1386,82341,82341,82360
+1717,Graphischer Block Akt.-Ges.,1387,82360,82360,82379
+1718,Wilhelm Greve Akt.-Ges.,1387,82379,82379,82402
+1719,"Ad. Haussmann, Buchdruckerei u. Verlags-Anstalt Akt.-Ges.",1387,82402,82402,82430
+1720,"Rudolf Kaemmerer Verlag Akt.-Ges., Berlin.",1388,82430,82430,82434
+1721,Malik-Verlag Aktien-Gesellschaft,1388,82434,82434,82461
+1722,Motor-Verlag Akt.-Ges.,1388,82461,82461,82484
+1723,"Nauck’sche Buchdruckerei Akt.-Ges. in Liqu., Berlin.",1389,82484,82484,82487
+1724,Norddeutsche Buchdruckerei und Verlagsanstalt Akt.-Ges.,1389,82487,82487,82516
+1725,Pallas-Verlag Akt.-Ges.,1389,82516,82516,82540
+1726,Preussische Druckerei- und Verlags-Akt.-Ges.,1390,82540,82540,82564
+1727,Fahlstelle: Ges.-Kasse. John Schwerins Verlag A.-G.,1390,82564,82565,82581
+1728,A. Seydel & Cie. Akt.-Ges.,1390,82581,82581,82606
+1729,srwwe am,1390,82606,82607,82630
+1730,Robert Tessmer Akt.-Ges.,1391,82630,82630,82647
+1731,Verlag für Börsen- und Finanzliteratur Akt.-Ges.,1391,82647,82647,82690
+1732,Verlagsgesellschaft Textil-Woche Akt.-Ges.,1392,82690,82690,82721
+1733,Werk und Wirtschaft Verlagsaktiengesellschaft,1392,82721,82721,82747
+1734,E. Gundlach Aktiengesellschaft,1393,82747,82747,82800
+1735,Friedr. Vieweg & Sohn Akt.-Ges.,1393,82800,82800,82825
+1736,Schlesische Druckerei Akt.-Ges.,1394,82825,82825,82863
+1737,Fischer-Werke Akt.-Ges.,1394,82863,82863,82902
+1738,"„Danubiana“, Akt.-Ges. für Verlag",1395,82902,82902,82928
+1739,*Lichtbild Aktiengesellschaft,1395,82928,82928,82941
+1740,Carl Flemming & C. T. Wiskott Aktiengesellschaft für Verlag und Kunstdruck,1396,82941,82942,83014
+1741,Akt.-Ges. Görlitzer Nachrichten und Anzeiger,1397,83014,83014,83053
+1742,Mitteldeutsche Verlags-Aktien-Gesellschaft,1397,83053,83053,83111
+1743,"Anton J. Benjamin, Aktiengesellschaft",1398,83111,83111,83146
+1744,Mitteldeutsche Kunstanstalt Akt.-Ges.,1398,83146,83146,83180
+1745,Aktiengesellschaft „Bote aus dem Riesengebirge“,1399,83180,83180,83229
+1746,"Badenia in Karlsruhe,",1400,83229,83229,83273
+1747,Königsberger Hartungsche Zeitung und Verlags-Druckerei,1400,83273,83273,83351
+1748,"Ostpreussische Druckerei u. Verlags-Anstalt, Akt.-Ges.",1401,83351,83351,83402
+1749,Akt.-Ges. Oberbadische Verlagsanstalt,1402,83402,83402,83436
+1750,Bibliographisches Institut Akt.-Ges.,1403,83436,83436,83489
+1751,Eulen-Verlag Akt.-Ges.,1403,83489,83489,83512
+1752,Koehler & Volekmar Akt.-Ges.,1404,83512,83512,83538
+1753,"Leipziger Buchdruckerei, Aktiengesellschaft",1404,83538,83538,83583
+1754,"Matgra, Material-Beschaffungsstelle für das graphische Gewerbe, Akt.-&Ges.",1405,83583,83584,83611
+1755,"Offizin Haag-Drugulin, Aktiengesellschaft",1405,83611,83611,83649
+1756,"Örganisator-Verlag Akt.-Ges., Leipzig, Hauptmannstr. 7.",1406,83649,83649,83652
+1757,Emil Pinkau & Co. Akt.-Ges.,1406,83652,83652,83701
+1758,Bernhard Tauchnitz Aktiengesellschaft,1406,83701,83701,83730
+1759,Dr. Trenkler & Co. Akt.-Ges.,1407,83730,83730,83751
+1760,"E. Baensch jun. Akt.-Ges,,",1407,83751,83751,83794
+1761,Pressverein Messkirch,1408,83794,83794,83811
+1762,Begra Handels-Aktienges. für das graphische Gewerbe,1408,83811,83811,83871
+1763,„Uvachrom“ Akt.-Ges. für Farben-Photographie,1409,83871,83871,83922
+1764,"Gerhard Stalling, Akt.-Ges.",1410,83922,83922,83945
+1765,Paderborner Anzeiger und Verlagsdruckerei Akt.-Ges,1410,83945,83945,83976
+1766,"Hermann Schött, Actiengesellschaft",1410,83976,83976,84046
+1767,Bergische Verlags-Aktiengesellschaft,1411,84046,84046,84071
+1768,"Chr. Belser, Aktiengesellschaft",1412,84071,84071,84106
+1769,"Haufler & Wiest Akt.-Ges., graphische Kunstanstalt und",1412,84106,84106,84133
+1770,Schwabenverlag Aktiengesellschaft,1413,84133,84133,84185
+1771,Union Deutsche Verlagsgesellschaft,1413,84185,84185,84298
+1772,Königl. Universitätsdruckerei H. Stürtz Akt.-Ges.,1415,84298,84298,84362
+1773,Westdeutsche Zeitungs-Akt.-Ges. in Liqu.,1416,84362,84362,84377
+1774,Westdeutscher Jungmännerbund Akt.-Ges.,1416,84377,84377,84401
+1775,"Zwiekauer Zeitung, früher Zwickauer Wochenblatt,",1416,84401,84401,84403
+1776,"R. Zückler, Aktiengesellschaft",1416,84403,84403,84441
+1777,"ur — Holz-Industrie, Möbelfabriken, Schnitzstoffgewerbe, Nusikwerke,",1417,84441,84442,84442
+1778,"Holz-Industrie, Möbelfabriken, Schnitzstoffgewerbe, Nusikwerke, Spielwaren, Turn- und Sportgeräte.",1417,84442,84443,84443
+1779,"Spielwaren, Turn- und Sportgeräte. Vereinigte Möbelwerke Akt.-Ges.",1417,84443,84444,84474
+1780,"Berliner Holz-Kontor Aktiengesellschaft,",1417,84474,84474,84574
+1781,Carl Eeke Pianoforte-Fabrik Akt.-Ges.,1419,84574,84574,84590
+1782,"Albert Gleiser, Möbelfabrik Akt.-Ges.",1419,84590,84590,84616
+1783,Holzindustrie Berlin-Dessau Aktiengesellschaft in Liqu.,1419,84616,84616,84642
+1784,"Impreva Holzimprägnierung und Holzverwertung, Aktiengesellschaft",1420,84642,84643,84695
+1785,"€. H. Röhll, Akt.-Ges.",1421,84695,84695,84722
+1786,"Typen -Möbel-Vertriebs- Akt.-Ges. in Liqu., Berlin",1421,84722,84722,84741
+1787,"Oberschlesische Holz-Industrie-A.-G. in Liqu.,",1421,84741,84741,84811
+1788,Steinholzfabrik Braunschweig Akt.-Ges.,1422,84811,84811,84836
+1789,"Stuhlrohrfabrik Bremen-Burg Aktiengesellschaft,",1423,84836,84836,84869
+1790,Carl Tuchscherer Akt.-Ges. Ohlau in Liqu.,1423,84869,84869,84911
+1791,Schütte-Lanz Holzwerke Akt.-Ges.,1424,84911,84911,84941
+1792,Westdeutsche Holzindustrie Aktiengesellschaft,1424,84941,84941,84970
+1793,"Westdeutsche Bau- u. Holzindustrie, Akt.-Ges. in Liqu.",1425,84970,84970,84979
+1794,Steinholz-Aktiengesellschaft,1425,84979,84979,84999
+1795,"Sämag, Sächsiseh-Mährische Holzindustrie-A.-G. in Liqu.",1425,84999,84999,85026
+1796,"Bürstenfabrik Emil Kränzlein Akt. ""Ges.",1426,85026,85026,85083
+1797,Industrie für Holzverwertung Akt.-Ges.,1426,85083,85083,85119
+1798,Festenberger Holzindustrie Akt.-Ges.,1427,85119,85119,85158
+1799,"Hubertusmühle, Aktiengesellschaft",1428,85158,85158,85183
+1800,Schwarz & Ulrich Akt.-Ges.,1428,85183,85183,85213
+1801,Vereinigte Möbelfabriken Akt.-Ges.,1428,85213,85213,85233
+1802,Fehr & Wolff Actiengesellschaft,1429,85233,85233,85296
+1803,"Tegtmeier & Wöllmer, Möbelfabrik Akt.-Ges. in Liqu.",1430,85296,85296,85305
+1804,"Vereinigte Kunsthornwerke Akt.-Ges. in Liqu. in Hamburg,",1430,85305,85305,85321
+1805,Harburger Hobelwerke Meyer & Wilkening Akt.-Ges.,1430,85321,85321,85345
+1806,König & Böschke Akt.-Ges.,1430,85345,85345,85372
+1807,Fr. Poggenpohl Akt.-Ges.,1431,85372,85372,85396
+1808,Säge- und Ueberlandwerk Hofheim Aktiengesellschaft,1431,85396,85396,85441
+1809,Striegel- und Rechenfabrik Langenstein Aktiengesellschaft,1432,85441,85441,85469
+1810,Gebrüder Himmelheber Aktiengesellschaft,1432,85469,85469,85494
+1811,Albert Nestler Akt.-Ges.,1433,85494,85494,85522
+1812,"Felix Schüller, Akt.-Ges. in Liqu., Leipzig.",1433,85522,85522,85539
+1813,"Kontor-Reform Akt.-Ges., in Liqu. in Lübeck,",1433,85539,85539,85560
+1814,"Gebrüder Freundlich, Akt.-Ges.",1434,85560,85560,85580
+1815,Kelheimer Parkettfabrik Akt.-Ges. .,1434,85580,85580,85615
+1816,Mohr & Co. Akt.-Ges.,1435,85615,85615,85676
+1817,Christoph & Unmack Aktiengesellschaft,1435,85676,85676,85750
+1818,Adolph Frank Fournier- u. Holzimport-Akt.-Ges.,1437,85750,85750,85772
+1819,Holzwerke Zapfendorf Akt.-Ges.,1437,85772,85772,85796
+1820,Vereinigte Pinsel-Fabriken,1437,85796,85796,85881
+1821,"Julius Werthschütz, Aktiengesellschaft",1439,85881,85881,85902
+1822,"J. Brüning & Sohn, Akt.-Ges.",1439,85902,85902,86033
+1823,Jakob Bischoff Akt.-Ges.,1441,86033,86033,86059
+1824,"Segeberger Möbelfabrik, Aktiengeselischaft in Liqu.,",1441,86059,86059,86076
+1825,H. Schloss & Cie. Akt.-Ges.,1441,86076,86076,86098
+1826,"Matth. Hohner, Akt.-Ges.",1442,86098,86098,86172
+1827,Steinberg & Vorsanger Akt.-Ges.,1443,86172,86172,86192
+1828,Carl Intelmann Akt.-Ges.,1443,86192,86192,86214
+1829,"Gas-, Wasser- und Eiswerke. Augsburger Eiswerk A.-G.",1444,86214,86215,86239
+1830,Vereinigte Gaswerke,1444,86239,86239,86354
+1831,Aktiengesellschaft für Gas und Elektrizität Köln,1446,86354,86354,86493
+1832,Azetylen Akt.-Ges.,1448,86493,86493,86508
+1833,"Norddeutsche Eiswerke, Actien-Gesellschaft",1448,86508,86508,86590
+1834,Gas- u. Elektrieitätswerke Breisach A.-G.,1449,86590,86590,86618
+1835,"Gas- u. Elektrieitäts-Werke Senftenberg, A.-G.",1450,86618,86618,86647
+1836,Gaswerk Hersbruck A.-G.,1450,86647,86647,86678
+1837,"Gaswerk Oettingen, Akt.-Ges.",1450,86678,86678,86705
+1838,Talsperren-Akt.-Ges. Crimmitschau,1451,86705,86705,86735
+1839,Licht- und Kraftwerke Heldrungen-Oldisleben Aktien- gesellschaft,1451,86735,86736,86769
+1840,"Mitteldeutsche Gasgesellschaft, Akt.-Ges.",1452,86769,86769,86795
+1841,Gas- und Elektrieitätswerk Dramburg A.-G.,1452,86795,86795,86819
+1842,Gasfernversorgung Thüringen Aktiengesellschaft,1453,86819,86819,86868
+1843,Gross-Gaswerk Erfurt Akt.-Ges.,1453,86868,86868,86897
+1844,Gaswerk Langenselbold Akt.-Ges.,1454,86897,86897,86929
+1845,Hessen-Nassauische Gas-Aktien-Gesellschaft,1454,86929,86929,87011
+1846,Limburger Gas- und Koks-Aktiengesellschaft,1455,87011,87011,87036
+1847,"Bohr-, Brunnenbau- und Wasserversorgungs-Akt.-Ges.",1456,87036,87036,87075
+1848,Kihlhaus Zentrum Akt.-Ges.,1456,87075,87075,87113
+1849,Kühltransit-Aktiengesellschaft,1457,87113,87113,87258
+1850,"Landesgasversorgung Süd-Niedersachsen, Aktienges.",1459,87258,87258,87295
+1851,"Hattinger Wasserwerk, Aktiengesellschaft",1460,87295,87295,87319
+1852,Gas- und Stromversorgung Mittelsachsen A.-G.,1460,87319,87319,87358
+1853,Rhenag Rheinische Energie Aktiengesellschaft,1461,87358,87358,87465
+1854,Thüringer Gasgesellschaft,1462,87465,87465,87623
+1855,Gaswerk Salbke A.-G.,1464,87623,87623,87645
+1856,Gas- und Elektrieitätswerke Neuenahr A.-G.,1465,87645,87645,87667
+1857,Städtische Betriebswerke Rastenburg Aktiengesellschaft,1465,87667,87667,87698
+1858,"Gaswerk Rietschen O.-L., Akt.-Ges.",1466,87698,87698,87718
+1859,Gaswerk Schwabmünchen Akt.-Ges.,1466,87718,87718,87742
+1860,"Gaswerksverband Rheingau, Akt.- Ges.",1466,87742,87742,87779
+1861,"Kautschuk-, Kuttapercha- und Asbestfabriken, Hartgummiwaren, Linoleumindustrie.",1467,87779,87780,87780
+1862,Linoleumindustrie. Deutsche Kap-Asbest-Werke Akt.-Ges.,1467,87780,87781,87820
+1863,Deutsche Linoleum-Werke Aktiengesellschaft,1468,87820,87820,88155
+1864,RM. 55554 504 RM. 16806 657,1472,88155,88155,88216
+1865,Gummipuffer „Casco“ Aktiengesellschaft,1473,88216,88216,88234
+1866,"C. Müller, Gummiwaarenfabrik, Actien-Gesellschaft",1473,88234,88234,88317
+1867,The Goodyear Tire & Rubber Co. Aktiengesellschaft,1475,88317,88317,88338
+1868,Veritas Gummiwerke Aktiengesellschaft,1475,88338,88338,88423
+1869,Frankfurter Asbestwerke Aktiengesellschaft,1476,88423,88423,88483
+1870,Asbest- und Gummiwerke Alfred Calmon Aktiengesellschaft,1477,88483,88483,88576
+1871,"Continental Caoutchoue Übersee-Compagnie, Akt.-Ges.",1478,88576,88576,88596
+1872,Harburger Gummiwaren-Fabrik „Phoenix“ Akt.-Ges.,1479,88596,88596,88695
+1873,Gummiwerke Becker Akt.-Ges.,1480,88695,88695,88724
+1874,Deutsche Michelin-Pneumatik-Akt.-Ges.,1481,88724,88724,88755
+1875,Hessische Gummiwarenfabrik Fritz Peter Akt.-Ges.,1481,88755,88755,88776
+1876,Zieger & Wiegand Akt.-Ges.,1481,88776,88776,88804
+1877,Veithwerke Aktiengesellschaft,1482,88804,88804,88866
+1878,Chemische Werke Akt.-Ges. (Postlerit-Werke),1483,88866,88866,88900
+1879,"Filmfabrikation, Film-Verleih- und -Vertrieb, Theater, Hotels, Zoologische Gärten, Bäder, Heil- und Pflege- Anstalten, Vereine.",1483,88900,88901,88901
+1880,"Zoologische Gärten, Bäder, Heil- und Pflege- Anstalten, Vereine. Gemeinnützige Anstalten für weibliche Personen in Liqu.,",1483,88901,88902,88920
+1881,"Kaiserhof, Aetien-Gesellschaft",1484,88920,88920,88939
+1882,Arienheller Sprudel- u. Kohlensäure Actien-Gesellschatt,1484,88939,88939,89029
+1883,Saline Laublingen Akt.-Ges.,1485,89029,89029,89047
+1884,Actien-Verein des zoologischen Gartens zu Berlin.,1486,89047,89047,89126
+1885,Deutsche Fox-Film Aktiengesellschaft,1487,89126,89126,89158
+1886,Deutsche Universal-Film Aktiengesellschaft,1487,89158,89158,89189
+1887,„Dreli-Theater“ Aktiengesellschaft,1488,89189,89189,89217
+1888,"„Feag“ Film Export, Akt.-Ges.",1488,89217,89217,89236
+1889,Funk-Stunde Aktiengesellschaft,1488,89236,89236,89282
+1890,Gesellschaft Urania,1489,89282,89282,89319
+1891,"Hartwigquell Akt.-Ges. in Liqu., Berlin.",1490,89319,89319,89325
+1892,Hüttenhaus- Aktiengesellschaft,1490,89325,89325,89342
+1893,"A. Huster, Aktiengesellschaft in Liqu.",1490,89342,89342,89364
+1894,Kaiser-Keller Akt.-Ges.,1490,89364,89364,89428
+1895,Munichenhaus-Aktiengesellschaft,1491,89428,89428,89450
+1896,"Neue Tiergarten Tattersall Akt.-Ges., Berlin.",1492,89450,89450,89454
+1897,Paramount Film Aktiengesellsehaft,1492,89454,89454,89475
+1898,"Residenz-Hotel u. Cafe Akt.-Ges. in Liqu, in Berlin.",1492,89475,89475,89485
+1899,Siid-Film Akt.-Ges.,1492,89485,89485,89528
+1900,Tonndorf-Gaststätten Akt.-Ges. in Liqu.,1493,89528,89528,89546
+1901,"Verbandshaus der Deutschen Gewerkvereine, A.-G.,",1493,89546,89546,89566
+1902,Volkshotel-Akt.-Ges. „Ledigenheim“,1494,89566,89566,89606
+1903,Werbekunstfilm Akt.-Ges. in Liqu. in Berlin,1494,89606,89606,89610
+1904,Act.-Ges. Katholisches Gesellenhaus,1494,89610,89610,89630
+1905,Bonner Bürger-Verein Aktiengesellschaft,1495,89630,89630,89671
+1906,‘Grand Hötel Royal Act.-Ges.,1495,89671,89671,89703
+1907,Actien-Gesellschaft „Casino“,1496,89703,89703,89723
+1908,A.-G. Breslauer Zoologischer Garten,1496,89723,89723,89786
+1909,Breslauer Hallenschwimmbad-Actiengesellschaft,1497,89786,89786,89826
+1910,Sanatorium Hochstein Akt.-Ges.,1498,89826,89826,89859
+1911,Scehlesische Funkstunde Akt.-Ges.,1498,89859,89859,89886
+1912,Scehauburg Film-Theater Aktiengesellschaft in Liqu.,1498,89886,89886,89905
+1913,Hötel zum Römischen Kaiser A.-G.,1499,89905,89905,89937
+1914,Europahof Aktiengesellschaft,1499,89937,89937,89987
+1915,Dr. Lahmanns Sanatorium Weisser Hirsch Akt.-Ges.,1500,89987,89987,90005
+1916,Duisburger Hotel- und Bürohaus-Akt.-Ges.,1500,90005,90005,90042
+1917,"Ruhrorter Sportplatz, Akt.-Ges.",1501,90042,90042,90065
+1918,Hotel Akt.-Ges. Bad Elster,1501,90065,90065,90098
+1919,Frankfurter Hof Aktiengesellschaft,1502,90098,90098,90159
+1920,Hippodrom Aktiengesellschaft,1503,90159,90159,90180
+1921,Theaterbau-Gesellschaft Akt.-Ges.,1503,90180,90180,90201
+1922,"Badische Filmfabrik u. Copierwerke, Akt.-Ges. vorm. Welt-Kinematograph in Liqu., Freiburg i. Br.,",1503,90201,90202,90206
+1923,Kurhaus Palmenwald:-,1503,90206,90206,90238
+1924,"Städtisches Schwimmbad Friedberg, Akt.-Ges.",1504,90238,90238,90257
+1925,Sanatorium Schloss Fürstenberg i. M. Akt.-Ges.,1504,90257,90257,90283
+1926,Hotel-Aktiengesellschaft Oberland in Liqu.,1505,90283,90283,90303
+1927,Schlosshotel Aktiengesellschaft,1505,90303,90303,90333
+1928,Römerbrunnen „Romanis“ Aktiengesellschaft,1505,90333,90333,90352
+1929,Hagener Badeanstalt Aktiengesellschaft,1506,90352,90352,90372
+1930,Aktien-Gesellschaft des Fährhauses auf der Uhlenhorst,1506,90372,90372,90393
+1931,Akt.-Ges. Zoologischer Garten in Liqu.,1506,90393,90393,90425
+1932,Panoptikum Aktiengesellschaft,1507,90425,90425,90443
+1933,"Sagebiel’s Etablissement A.-G. in Liqu., Hamburg,",1507,90443,90443,90474
+1934,Bad Heidelberg A.-G.,1508,90474,90474,90501
+1935,Coblenzer Hof Akt.-Ges.,1508,90501,90501,90523
+1936,Aktiengesellschaft Flora,1508,90523,90523,90560
+1937,Kölner Bürgergesellschaft,1509,90560,90560,90600
+1938,Westdeutscher Rundfunk Akt.-Ges.,1509,90600,90600,90630
+1939,Östpreussische Landwirtschafts- und Industriefilm-A.-G.,1510,90630,90630,90655
+1940,Kolberger Hotel-Betriebs-Akt.-Ges.,1510,90655,90655,90674
+1941,Kreuznacher Soolbäder-Aktien-Gesellschaft,1511,90674,90674,90703
+1942,Bad Lausick Stahl- u. Moorbad Aktiengesellschaft,1511,90703,90703,90743
+1943,Actiengesellschaft „Carl zur Eintracht“,1512,90743,90743,90757
+1944,Aktien-Ges. des Bades Nassau,1512,90757,90757,90789
+1945,Neusser Gesellschaft für Krankenpflege A.-G.,1512,90789,90789,90811
+1946,"Neusser Volksbadeanstalt, Aktiengesellschaft",1513,90811,90811,90833
+1947,Neustadter Volksbad A.-G.,1513,90833,90833,90856
+1948,Saalbau-Actien-Gesellschaft,1513,90856,90856,90891
+1949,Tiergarten Nürnberg Aktiengesellschaft,1514,90891,90891,90936
+1950,Bürgergesellschaft Oberhausen Akt.-Ges.,1515,90936,90936,90959
+1951,*Golf-Hotel und Hotel Kurhaus Aktiengesellschaft,1515,90959,90959,90983
+1952,Nassau-Selterser Mineralquellen Aktiengesellschaft,1515,90983,90983,91010
+1953,Hohenzollern-Hof Akt.-Ges.,1516,91010,91010,91034
+1954,Vinzentius-Verein Offenburg Act.-Ges.,1516,91034,91034,91044
+1955,"Bad Pyrmont, Akt.-Ges.",1516,91044,91044,91090
+1956,Rothenfelder Saline Aktiengesellschaft,1517,91090,91090,91114
+1957,„Resbag“ Restaurationsbetrieb Aktiengesellschaft,1517,91114,91114,91130
+1958,Saalbau-Actiengesellschaft,1518,91130,91130,91149
+1959,Aktiengesellschaft Bad Salzschlirf,1518,91149,91149,91209
+1960,Haus Rosengarten Akt.-Ges.,1519,91209,91209,91227
+1961,"Zum Herzog Christoph, evangelisches Vereinsgasthaus",1519,91227,91227,91253
+1962,Krankenheiler Jodquellen Aktiengesellschaft,1520,91253,91253,91300
+1963,"Mineralbrunnen Ueberkingen-Teinach-Ditzenbach, Akt.-Ges.",1520,91300,91300,91342
+1964,Saalbau-Verein Ulin a. D. Akt.-Ges.,1521,91342,91342,91364
+1965,A.-G. Katholisches Vereinshaus,1521,91364,91364,91385
+1966,"Augusta-Vietoria-Bad und Hötel Kaiserhof,",1522,91385,91385,91410
+1967,Park-Hotel-Aktiengesellschaft in Liqu. in Wiesbaden.,1522,91410,91410,91414
+1968,"Fürstliche Wildunger Mineralquellen, A.-G.",1522,91414,91414,91459
+1969,Bad Wildunger Heilquellen-Akt.-Ges. Königsquelle.,1523,91459,91459,91486
+1970,Actien-Gesellschaft „Zoologischer Garten“,1523,91486,91486,91514
+1971,Plantagen- u. Kolonial-Gesellschaften. Neu Guinea Compagnie,1524,91514,91515,91645
+1972,Deutsche Südseephosphat-Aktiengesellschaft,1526,91645,91645,91721
+1973,Guatemala Plantagen-Gesellschaft,1527,91721,91721,91811
+1974,Hernsheim & Co. Akt.-Ges.,1528,91811,91811,91861
+1975,Plantagengesellschaft Clementina,1529,91861,91861,91898
+1976,"Versicherungs-esellschaften aller Branchen. Aachener u. Münchener Feuer-Versicherungs-Gesellschaft,",1529,91898,91899,92061
+1977,Aachener-Leipziger Versicherungs-Act.-Ges.,1532,92061,92061,92129
+1978,Aachener Rückversicherungs-Gesellschaft,1533,92129,92129,92216
+1979,„Agrippina“ Lebensversicherungsbank Akt.-Ges.,1534,92216,92216,92283
+1980,Aktiengesellschaft für Lebens- und Rentenversicherung,1535,92283,92283,92315
+1981,Allianz und Stuttgarter Verein Versicherungs -Akt.- Ges.,1535,92315,92315,92631
+1982,Berliner Hagel-Assecuranz-Gesellschaft von 1832,1540,92631,92631,92710
+1983,Berlinische Feuer-Versicherungs-Anstalt,1541,92710,92710,92809
+1984,Berlinische Lebensversicherungs-Gesellschaft,1542,92809,92809,92902
+1985,Berlinische Spiegelglas-Versicherungs- Actien-Gesellschaft,1544,92902,92902,92938
+1986,Ceres-Assekuranz Aktiengesellschaft,1544,92938,92938,92961
+1987,Deutsche Allgemeine Versicherungs-Akt.-Ges.,1545,92961,92961,93013
+1988,Deutsche Feuerversicherung Akt.-Ges.,1545,93013,93013,93086
+1989,Deutsche Kranken -Versieherungs-Akt.-Ges.,1546,93086,93086,93129
+1990,Deutsche Lebensversicherung Gemeinnützige Akt.-Ges.,1547,93129,93129,93226
+1991,"Deutscher Gemeinnütziger Rückversicherungs-Verband,",1548,93226,93226,93268
+1992,Deutscher Roland Versicherungs-Aktiengesellschaft,1549,93268,93268,93276
+1993,industriellen Unternehmungen).,1549,93276,93276,93291
+1994,Deutscher Versicherungsbund für die Beamtenschaft u.,1549,93291,93291,93293
+1995,"Wehrmacht, Sachversicherung, Akt.-Ges. in Liqu..",1549,93293,93293,93307
+1996,Europäische Güter- u. Reisegepäck-Versicherungs- Akt.-Ges.,1550,93307,93307,93347
+1997,Evangelische Vorsorge Gemeinnützige Versicherungs-Aktien-Gesellschaft,1550,93347,93348,93388
+1998,Friedrich Wilhelm Lebensversicherungs-Akt.-Ges.,1551,93388,93388,93465
+1999,Hermes Kreditversicherungsbank A.-G.,1552,93465,93465,93594
+2000,Iduna-Germania Allgemeine Versicherungs-Aktiengesellschaft,1554,93594,93595,93733
+2001,Iduna-Germania Lebens-Versicherungs-Aktiengesellschaft,1556,93733,93733,93857
+2002,Katholische Volkshilfe Gemeinnützige Versicherungs-Aktien-Gesellschaft,1557,93857,93858,93905
+2003,Kraft Versicherungs-Aktien-Gesellschaft des Automobilelubs von Deutschland,1558,93905,93906,93950
+2004,Nordstern Allgemeine Versicherungs-Aktiengesellschaft,1559,93950,93950,94001
+2005,Versicherungs-Gesellschaften. 3013,1560,94001,94001,94135
+2006,Nordstern Lebensversicherungsbank Aktiengesellschaft,1561,94135,94135,94230
+2007,"Pototzky & Co., Akt.-Ges. für Versicherungswesen",1563,94230,94230,94253
+2008,Providentia Allgemeine Versicherungs-Aktiengesellschaft,1563,94253,94254,94294
+2009,Regeno-Raiffeisen Allgemeine Versicherungs-Aktiengesellschaft,1564,94294,94295,94365
+2010,„Rühag“ Rückversicherungs-Akt.-Ges.,1565,94365,94365,94386
+2011,Sehlesisch-Kölnische Lebensversicherungsbank Akt.-Ges.,1565,94386,94386,94436
+2012,Schwarzmeer- und Ostsee- Transportversicherungsaktiengesellschaft,1566,94436,94437,94462
+2013,Transatlantische Güterversich.-Gesellschaft,1566,94462,94462,94544
+2014,„Union und Rhein“ Versicherungs-Aktien-Gesellschaft,1567,94544,94544,94637
+2015,"Kranken- und Sterbekasse für selbständige Handwerker, Gewerbetreibende und Landwirte, Aktiengesellschaft",1569,94637,94638,94667
+2016,„Brema“ Versicherungs-Aktien-Gesellsehaft,1569,94667,94667,94685
+2017,Deutsche Versicherungs-Gesellschaft in Bremen.,1570,94685,94685,94732
+2018,Schlesische Feuerversicherungsgesellschaft,1570,94732,94732,94829
+2019,"Allgemeine Versich.-Ges. für See-, Fluss- u. Landtransport.",1572,94829,94829,94910
+2020,„Industrie“ Versicherungs-Akt.-Ges.,1573,94910,94910,94937
+2021,Sächsische Versicherungs- Aktiengesellschaft,1573,94937,94937,95017
+2022,"Düsseldorfer Lloyd, Versicherungs-Akt.-Ges.",1574,95017,95017,95082
+2023,„Eos“ Deutscher Bestattungs- und Lebens-Versicherungs- Verein Aktiengesellschaft,1575,95082,95083,95131
+2024,Die Versicherungsgesellschaft Thuringia,1576,95131,95131,95267
+2025,Frankfurter Lloyd Versicherungs-Verwaltungs- und Vermittlungs-Akt.-Ges.,1578,95267,95268,95300
+2026,Neue Frankfurter Allgemeine Versicherungs-Akt.-Ges.,1579,95300,95300,95342
+2027,Hallesche Rück -Versicherungs-Aktien-Gesellschaft,1579,95342,95342,95366
+2028,Rothenburger Lebensversicherungs-Akt.-Ges.,1580,95366,95366,95435
+2029,„Albingia“ Versicherungs-Aktiengesellschaft,1581,95435,95435,95575
+2030,Deutscher Rhederei-Verein,1583,95575,95575,95600
+2031,Deutscher Ring Allg. Versicherungs-Aktiengesellschaft,1583,95600,95600,95636
+2032,"""zainsteller Ges.-Kasse.",1583,95636,95636,95638
+2033,Deutscher Ring Lebensversicherungs-Aktiengesellschaft,1584,95638,95638,95710
+2034,Deutscher Ring Transport- u. Fahrzeug-Versicherungs- Aktiengesellschaft,1585,95710,95711,95763
+2035,„Eigenhilfe“ Feuer- und Sachversicherungs-Akt.-Ges.,1585,95763,95763,95792
+2036,Hamburg-Bremer Feuer-Versicherungs- Gesellschaft,1586,95792,95792,95877
+2037,Hamburg-Bremer Rückversicherungs-Aktien-Gesellschaft,1587,95877,95877,95932
+2038,Hamburg-Mannheimer Versicherungs- A.-G.,1588,95932,95932,96003
+2039,"Erich Warburg, Hamburg.",1589,96003,96003,96005
+2040,"„Hamburg-Nürnberger Lloyd“, Versicherungs-Akt.-Ges.",1589,96005,96005,96010
+2041,"„Hamburger Phönix“, früher Gaedesche Versicherungs-Aktien-Gesellschaft",1589,96010,96011,96046
+2042,„Mercator“ Versicherungs-Akt.-Ges.,1590,96046,96046,96070
+2043,"Niedersachsen, Versicherungs-Akt.-Ges.",1590,96070,96070,96100
+2044,„Ora“ Versicherungs-Aktiengesellschaft,1590,96100,96100,96125
+2045,Volksfürsorge Gewerkschaftlich-Genossenschaftliche Versicherungs-Akt.-Ges.,1591,96125,96126,96159
+2046,"Badische Pferdeversicherungs-Anstalt A.-G.,",1591,96159,96159,96196
+2047,Karlsruher Lebensversicherungsbank A.-G.,1592,96196,96196,96283
+2048,"„Agrippina“, See-, Fluss- und Landtransport-Versich.-Ges.",1593,96283,96283,96349
+2049,Central Lloyd Verwaltungs- u. Versicherungs-Kontroll-Akt.-Ges.,1594,96349,96350,96388
+2050,Colonia Kölnische Feuer- u. Kölnische Unfall-Versicherungs-Aktiengesellschaft,1595,96388,96389,96517
+2051,"Concordia, Lebens-Versicherungs-Bank Akt.-Ges.",1596,96517,96517,96595
+2052,Gothaer Kraftfahrzeug- und Transportversicherungsbank,1598,96595,96595,96636
+2053,"Kölner Lloyd, Allgemeine Versicherungs-Act.- ""Ges.",1598,96636,96636,96711
+2054,Kölnische Glas-Versicherungs-Aktien-Gesellschaft,1599,96711,96711,96768
+2055,Mitteleuropäische Versicherungs-Akt.-Ges.,1600,96768,96768,96823
+2056,Rheinische Rückversicherungs-Act.-Ges. in Lign.,1601,96823,96823,96851
+2057,Rückversicherungs-Act.-Ges. „Colonia“,1601,96851,96851,96918
+2058,Silesia Allgemeine Versicherungs-Akt.-Ges.,1602,96918,96918,96973
+2059,Deutscher Lloyd Lebensversicherungsbank Akt.-Ges.,1603,96973,96973,97034
+2060,Leipziger Feuer-Versicherungs-Anstalt,1604,97034,97034,97151
+2061,Leipziger Lebensversicherung Akt.-Ges.,1605,97151,97151,97223
+2062,Leipziger Transport- und Rückversicherungs- Aktien-Gesellsehaft,1606,97223,97224,97279
+2063,Mitteldeutsche Organisations-Akt.-Ges.,1607,97279,97279,97308
+2064,Versichertensehutz Treuhand-Akt.-Ges.,1607,97308,97308,97335
+2065,Magdeburger Allgemeine Lebens- u. Renten- versicherungs-Aktiengesellschaft,1608,97335,97336,97386
+2066,Magdeburger Feuerversicherungs-Ges.,1609,97386,97386,97485
+2067,Magdeburger Hagelversicherungs-Ges.,1610,97485,97485,97573
+2068,Magdeburger Lebens-Versicherungs-Gesellschaft,1611,97573,97573,97668
+2069,Magdeburger Rückversicherungs-Aet.-Ges.,1613,97668,97668,97724
+2070,"Versicherungs-Gesellschaften. ""3067",1614,97724,97724,97740
+2071,Badische Assecuranz-Gesellschaft A.-G.,1614,97740,97740,97812
+2072,"Schiffahrts-Asseeuranz-Gesellschaft, Akt.-Ges.",1615,97812,97812,97847
+2073,"Bayerische Rückversicherungsbank, Akt.-Ges.",1615,97847,97847,97894
+2074,"Bayerische Versicherungsbank Aktiengesellschatt,",1616,97894,97894,97950
+2075,Gisela Deutsche Lebens- u. Aussteuer-Versicherungs- Akt.-Ges. in München,1617,97950,97951,97997
+2076,Gladbacher Feuerversicherungs-Akt.-Ges.,1618,97997,97997,98025
+2077,"Einbruchdiebstahl-Versicherungs-Verband. Erfurt, Hansa-Industrie-Tarif-Vereinig., Ham-",1618,98025,98025,98086
+2078,Gladbacher Rückversicherungs- Akt.-Ges.,1619,98086,98086,98146
+2079,Bavaria Versicherungs-Akt.-Ges.,1620,98146,98146,98185
+2080,Hivag Handel Industrie u. Versicherung Aktiengesellschaft,1620,98185,98185,98215
+2081,Nürnberger Allgemeine Versicherungs-Vermittlungs- Bank Akt.-Ges.,1621,98215,98216,98241
+2082,Nürnberger Lebensversicherungs-Bank,1621,98241,98241,98328
+2083,Oldenburger Versicherungs-Gesellschaft,1622,98328,98328,98395
+2084,"„National“, Allg. Versicherungs-Akt.-Ges.",1623,98395,98395,98506
+2085,„National“ Lebensversicherungs-Akt.-Ges.,1625,98506,98506,98566
+2086,Norddeutsche See- und Fluss-Versich.-Actien-Ges.,1626,98566,98566,98604
+2087,"Allgemeine Rentenanstalt, Lebens- und Rentenversicherungs-Akt.-Ges.",1626,98604,98605,98627
+2088,Lebensversich. Kapitalversich. Rentenversich.,1627,98627,98627,98715
+2089,Allianz und Stuttgarter Lebensversicherungsbank Akt.-Ges.,1628,98715,98715,98914
+2090,Deutsche Versorgungsanstalt Versicherungsbank,1631,98914,98914,98951
+2091,"Württembergische Feuerversicherung, Akt.-Ges.",1631,98951,98951,99077
+2092,Württembergische Rückversicherungs - Aktiengesellschaft,1633,99077,99077,99120
+2093,"Barmenia Lebensversicherungs-Akt.-Ges. in Liqu.,",1634,99120,99120,99138
+2094,Nord-Deutsche Lebensversicherungs-Aktiengesellschaft,1634,99138,99138,99184
+2095,Deutsche Glas-Versicherungs-Aktiengesellschaft,1635,99184,99184,99207
+2096,Leipziger Assekuranz-Compagnie,1635,99207,99207,99209
+2097,Aktiengesellschaft für Versicherungsvermittlung,1635,99209,99209,99243
+2098,"Verkehrs-, Transport- u. Lagerhaus- Gesellschaften. Aachener Kleinbahn-Gesellschaft",1636,99243,99244,99361
+2099,Ahaus-Enscheder Eisenbahn-Gesellschaft,1637,99361,99361,99420
+2100,Altonaer Quai- und Lagerhaus-Gesellschaft,1638,99420,99420,99452
+2101,Akt.-Ges. Franzburger Kreisbahnen,1639,99452,99452,99492
+2102,Akt.-Ges. Franzburger Südbahn,1639,99492,99492,99528
+2103,Aero-Union Aktiengesellschaft,1640,99528,99528,99556
+2104,Aktiengesellschaft für Bahnen und Tiefbauten,1640,99556,99556,99588
+2105,‚Allgemeine Berliner Omnibus-Actien-Gesellschaft in Liqu.,1641,99588,99588,99633
+2106,Allgemeine Lokalbahn- und Kraftwerke-Aktiengesellschaft,1641,99633,99633,99800
+2107,Aschersleben-Schneidlingen-Nienhagener Eisenbahn-Actien-Gesellschaft,1644,99800,99801,99851
+2108,„Behala“ Berliner Hafen- u. Lagerhaus-Akt.-Ges.,1645,99851,99851,99976
+2109,Berliner Nordsüdbahn Akt.-Ges. in Liqu.,1646,99976,99976,100031
+2110,Berliner Verkehrs-Aktiengesellschaft,1647,100031,100031,100296
+2111,Brandenburgische Luftverkehrs-Aktiengesellschaft,1650,100296,100296,100330
+2112,Brandenburgische Städtebahn-Akt.-Ges.,1651,100330,100330,100406
+2113,Breslau-Trebnitz-Prausnitzer Kleinbahn-Aktiengesellschaft,1652,100406,100406,100437
+2114,Buckower Kleinbahn Aktiengesellschaft,1652,100437,100437,100477
+2115,"Deutsche Eisenbahn-Betriebs-Gesellschaft, A.-G.",1653,100477,100477,100621
+2116,Deutsche Luft Hansa Aktiengesellschaft,1655,100621,100621,100696
+2117,Deutsche Reichsbahn-Gesellschaft.,1656,100696,100696,100761
+2118,| 1913 1928 1929 1080,1657,100761,100761,100792
+2119,Reichsbank.,1657,100792,100792,101206
+2120,Eisenbahn-Ges. Mihlhausen-Ebeleben.,1663,101206,101206,101236
+2121,Germanischer Lloyd,1664,101236,101236,101281
+2122,Gesellschaft für elektrische Hoch- und Untergrundbahnen,1664,101281,101281,101319
+2123,Kandelhardt Automobil-Aktiengesellschaft,1665,101319,101319,101354
+2124,Kleinbahn-Aktiengesellsehaft Freienwalde-Zehden,1665,101354,101354,101396
+2125,Kleinbahn- Aktien -Gesellschaft Gransee -Neuglobsow,1666,101396,101396,101436
+2126,Marienborn-Beendorfer Kleinbahn-Gesellschaft.,1667,101436,101436,101481
+2127,Mitropa Mitteleuropäische Schlafwagen- und Speisewagen-A.-G.,1667,101481,101482,101582
+2128,Niederbarnimer Eisenbahn-Akt.-Ges.,1669,101582,101582,101697
+2129,"Osterwieck-Wasserlebener Eisenbahn, Aktiengesellschaft.",1670,101697,101697,101738
+2130,Reise- & Verkehrsbüro Akt.-Ges.,1671,101738,101738,101755
+2131,Strausberg-Herzfelder Kleinbahn-Akt.-Ges.,1671,101755,101755,101824
+2132,Südharz-Eisenbahn-Gesellschaft.,1672,101824,101824,101854
+2133,Teltower Eisenbahn Akt.-Ges.,1673,101854,101854,101884
+2134,Teltowkanal-Akt.-Ges.,1673,101884,101884,101916
+2135,Trachenberg-Militscher Kreisbahn-Actien-Gesellschaft,1674,101916,101916,101962
+2136,Zehlendorfer Eisenbahn- u. Hafen-Akt.-Ges.,1674,101962,101962,101982
+2137,Ziegel -Transport- Aktiengesellschaft,1675,101982,101982,102005
+2138,Rhein-Sieg-Eisenbahn-A ctien-Gesellschaft,1675,102005,102005,102110
+2139,Halberstadt-Blankenburger-Eisenbahn-Gesellschaft,1676,102110,102110,102258
+2140,Bochum-Gelsenkirchener Strassenbahnen,1679,102258,102258,102331
+2141,Braunschweigische Landes-Eisenbahn-Gesellschaft,1680,102331,102331,102440
+2142,Blektrizitätswerk und Strassenbahn Braunschweig A.-G.,1681,102440,102440,102576
+2143,Bremer Lagerhaus-Gesellschaft,1683,102576,102576,102627
+2144,Dampfschifffahrts-Gesellschaft „Neptun“,1684,102627,102627,102702
+2145,Deutsche Dampfschifffahrts-Gesellschaft „Hansa“,1685,102702,102702,102843
+2146,Frachtverkehr Aktiengesellschaft,1687,102843,102843,102866
+2147,„Globus“ Reederei Aktiengesellschaft in Liqu.,1687,102866,102866,102912
+2148,F. W. Neukirch Aktiengesellschaft,1688,102912,102912,102937
+2149,Norddeutscher Lloyd,1688,102937,102937,103306
+2150,Übersee-Reederei Akt.-Ges.,1694,103306,103306,103336
+2151,Unterweser Reederei Aktiengesellschaft,1694,103336,103336,103376
+2152,Weser-Lagerungs-Aktien-Gesellschaft,1695,103376,103376,103401
+2153,"Ostdeutsche Flussschiffahrts-Akt.-Ges., Breslau,",1695,103401,103401,103424
+2154,Sehlesische Luftverkehrs-Aktiengesellschaft,1695,103424,103424,103462
+2155,Brohlthal-Eisenbahn-Gesellschaft,1696,103462,103462,103532
+2156,"Rheinische Eisenbahn-Verkehrsmittel Akt.-Ges.,",1697,103532,103532,103550
+2157,Butzbach-Licher Eisenbahn Akt.-Ges.,1697,103550,103550,103588
+2158,Cranzer Fischdampfer Akt.-Ges.,1698,103588,103588,103622
+2159,Dahme-Uckro’er Eisenbahn-Gesellschaft,1698,103622,103622,103665
+2160,Danziger Elektrische Strassenbahn Akt.-Ges.,1699,103665,103665,103747
+2161,Hessische Eisenbahn-Aktiengesellschaft,1700,103747,103747,103925
+2162,Hessische Flugbetriebs-Akt.-Ges.,1703,103925,103925,103950
+2163,Süddeutsche Eisenbahn-Gesellschaft,1703,103950,103950,104118
+2164,Dessau-Wörlitzer Eisenbahn-Gesellschaft,1705,104118,104118,104166
+2165,Luftverkehrs-Aktiengesellschaft Westfalen (Welu),1706,104166,104166,104215
+2166,Westfälische Transport-Aktien-Gesellschaft,1707,104215,104215,104279
+2167,Dresdner Fuhrwesengesellschaft,1708,104279,104279,104340
+2168,Dresdner Strassenbahn Aktiengesellschaft,1709,104340,104340,104390
+2169,Elblagerhaus Akt.-Ges.,1709,104390,104390,104415
+2170,Kraftverkehr Freistaat Sachsen Akt.-Ges.,1710,104415,104415,104482
+2171,"Neue Deutseh-Böhmische Elbeschiffahrt, Akt.-Ges.",1711,104482,104482,104553
+2172,Sächsiseh-Böhmische Dampfschiffahrt-Akt.-Ges.,1712,104553,104553,104593
+2173,"Sächs. Industriebahnen-Gesellschaft, Akt.- Ges.",1712,104593,104593,104667
+2174,Dampfschifffahrts-Gesellschaft für den Nieder- u. Mittelrhein,1713,104667,104667,104732
+2175,Rheinische Bahn-Gesellschaft,1714,104732,104732,104866
+2176,Kreis Ruhrorter Strassenbahn A.-G.,1716,104866,104866,104954
+2177,"Lehnkering & Cie, Akt.-Ges.",1717,104954,104954,105010
+2178,Gebhardshainer Transportgesellschaft A.-G.,1718,105010,105010,105031
+2179,Kleinbahn-Akt.-Ges. Ellrich-Zorge,1719,105031,105031,105055
+2180,Elmshorn-Barmstedt-Oldesloer Eisenbahn-Akt.-Ges.,1719,105055,105055,105127
+2181,Ems-Lots-Gesellschaft,1720,105127,105127,105147
+2182,"„Westfalen Reederei, Akt.-Ges.“",1720,105147,105147,105165
+2183,Vorwohle-Emmerthaler Eisenbahn-Ges.,1721,105165,105165,105213
+2184,Eutin-Lübecker Eisenbahn-Gesellschafi.,1721,105213,105213,105301
+2185,Zschipkau-Finsterwalder Eisenbahn-Ges.,1723,105301,105301,105403
+2186,"Ffreihala, Flensburger Freihafen und Lagerhaus-Akt.-Ges.",1724,105403,105403,105453
+2187,Isergebirgsbahn Akt.-Ges.,1725,105453,105453,105489
+2188,Bremisch-Hannoversche Kleinbahn,1725,105489,105489,105534
+2189,Frankfurter Localbahn-Aktien-Gesellschaft,1726,105534,105534,105615
+2190,Vereinigte Kleinbahnen Aktiengesellschaft,1727,105615,105615,105734
+2191,Schauinslandbahn-Aktiengesellschaft,1729,105734,105734,105777
+2192,Neubrandenburg-Friedländer Eisenbahngesellschaft.,1730,105777,105777,105805
+2193,""" Deutsche Luftschiffahrts-Akt.-Ges.",1730,105805,105805,105848
+2194,Bayerische Zugspitzbahn-Aktiengesellschaft,1731,105848,105848,105879
+2195,Gernrode-Harzgeroder Eisenbahn-Ges.,1731,105879,105879,105953
+2196,Verkehrsbetriebe Oberschlesien Aktiengesellschaft,1732,105953,105953,105994
+2197,Görlitzer Kreisbahn-Aktiengesellschaft,1733,105994,105994,106030
+2198,Stepenitzer Dampfschiflsgesellschaft Akt.-Ges.,1733,106030,106030,106051
+2199,Lissa-Guhrau-Steinauer Kleinbahn-Akt.-Ges.,1734,106051,106051,106088
+2200,Flugsport Halle Aktiengesellschaft,1734,106088,106088,106116
+2201,"G. Vester, Akt.-Ges.",1735,106116,106116,106162
+2202,Bahnamtliches Rollfuhrunternehmen A.-G.,1735,106162,106162,106197
+2203,Bergedorf-Geesthachter Eisenbahn -Akt.- Ges.,1736,106197,106197,106380
+2204,China Rhederei Akt.-Ges.,1738,106380,106380,106409
+2205,Deutsche Ost-Afrika-Linie,1739,106409,106409,106516
+2206,Elektrische Kleinbahn Altrahlstedt-V.olksdorf Akt.-Ges.,1740,106516,106516,106542
+2207,„Express“ Akt.-Ges. für Internationale Transporte,1741,106542,106542,106561
+2208,Güterschnellverkehr Aktiengesellschaft,1741,106561,106561,106580
+2209,Hamburg-Amerika Linie,1741,106580,106580,106996
+2210,Hamburg-Südamerikanische Dampfschifffahrts-Gesellschaft,1747,106996,106996,107156
+2211,Ss. „Kapital“ ),1749,107156,107156,107168
+2212,Hamburger Hochbalın-Akt.-Ges.,1749,107168,107168,107471
+2213,Hanseatische Dampfschiffahrts-Gesellschaft,1753,107471,107471,107525
+2214,Hanseatische Reederei Aktiengesellschaft,1754,107525,107525,107548
+2215,Kühlhaus Rosshafen 8. Behr Aktiengesellschaft,1754,107548,107548,107569
+2216,Lagerhaus- Merkur - Akt.- Ges.,1755,107569,107569,107588
+2217,Mathies Reederei Aktien-Gesellschaft,1755,107588,107588,107616
+2218,Neue Norddeutsche und Vereinigte Elbeschiffahrt Aktiengesellschaft,1755,107616,107617,107728
+2219,August & Emil Nieten Akt.-Ges.,1757,107728,107728,107750
+2220,"Norddeutsche Lagerei-Aktiengesellschaft in Liqu., Hamburg,",1757,107750,107750,107755
+2221,Vellager Akt.-Ges.,1757,107755,107755,107784
+2222,Oldenburg-Portugiesische Dampfschiffs-Rhederei,1758,107784,107784,107822
+2223,Reederei Akt.-Ges. „Phönix“,1758,107822,107822,107846
+2224,Seereederei „Frigga“ Akt.-Ges.,1759,107846,107846,107892
+2225,Usa Übersee Speditions Aktiengesellschaft,1759,107892,107892,107910
+2226,"Woermann-Linie, Aktiengesellschaft",1760,107910,107910,108024
+2227,Überlandwerke u. Strassenbahnen Hannover Akt.-Ges,1761,108024,108024,108142
+2228,Heidelberger Strassen- u. Bergbahn-Akt.-Ges.,1763,108142,108142,108236
+2229,"Schleppschiffahrt auf dem Neckar, A.-G.",1764,108236,108236,108288
+2230,Hirschberger Thalbahn Akt.-Ges.,1765,108288,108288,108350
+2231,Hohenlimburger Kleinbahn- Gesellschaft,1766,108350,108350,108381
+2232,Hoyaer Eisenbahn-Gesellschaft,1766,108381,108381,108432
+2233,Karlsruher Schiffahrts-Aktien-Gesellschaft,1767,108432,108432,108461
+2234,Reisebüro Karlsruhe Akt.-Ges.,1767,108461,108461,108483
+2235,Turmbergbahn Durlach A.-G.,1768,108483,108483,108518
+2236,Grosse Kasseler Strassenbahn Act.-Ges.,1768,108518,108518,108648
+2237,Koblenzer Strassenbahn-Gesellschaft,1770,108648,108648,108736
+2238,Köln-Bonner Eisenbahnen Aktiengesellschaft,1771,108736,108736,108853
+2239,Koll & Kubach Akt.-Ges.,1773,108853,108853,108873
+2240,Preussisch-Rheinische Dampfschiffahrts-Gesellschaft,1773,108873,108873,108925
+2241,M. Grünbaum Aktiengesellschaft,1774,108925,108925,108953
+2242,Ostdeutsche Eisenbahn-Gesellschaft,1775,108953,108953,108990
+2243,Aktiengesellschaft der Vereinigten Kleinbahnen,1775,108990,108990,109038
+2244,Krefelder Verkehrs-Aktiengesellschaft (Krevag),1776,109038,109038,109097
+2245,Regenwalder Kleinbahnen-Aktien-Gesellschaft,1777,109097,109097,109132
+2246,Mittelbadische Eisenbahnen Akt.-Ges.,1777,109132,109132,109173
+2247,Aktiengesellschaft Lokalbahn Lam-Kötzting,1778,109173,109173,109221
+2248,Kleinbahn-Akt.-Ges. Chottschow-Garzigar.,1779,109221,109221,109245
+2249,Kleinbahn-Aktiengesellschaft Neustadt-Prüssau.,1779,109245,109245,109279
+2250,Lehniner Kleinbahn-Act.-Ges.,1780,109279,109279,109327
+2251,Kühltransit-Verkehrs-Aktiengesellschaft,1780,109327,109327,109351
+2252,Leipziger Aussenbahn-Aktien-Gesellschaft,1781,109351,109351,109413
+2253,Leipziger Luftschiffhafen- u. Flugplatz-Akt.-Ges.,1782,109413,109413,109466
+2254,Leipziger Speicherei u. Spedition Akt.- Ges.,1782,109466,109466,109557
+2255,Mitteldeutsche Luftverkehrs-Akt.-Ges.,1784,109557,109557,109627
+2256,Rauchwaren-Lagerhaus-Aktiengesellschaft,1785,109627,109627,109663
+2257,Lübeck-Büchener Eisenbahn-Gesellschaft,1785,109663,109663,109791
+2258,Kreis Altenaer Eisenbahn-A.-G.,1787,109791,109791,109882
+2259,Magdeburger Strassen-Eisenbahn-Gesellsch.,1788,109882,109882,110011
+2260,"Magdeburger Vorortbahnen, Akt.-Ges.",1790,110011,110011,110053
+2261,Kleinbahn-Aktiengesellschaft Selters-Hachenburg,1791,110053,110053,110086
+2262,Badisch-Pfälzische Luft-Hansa-Akt.-Ges.,1791,110086,110086,110129
+2263,Oberrheinische Eisenbahngesellschaft. Akt.-Ges.,1792,110129,110129,110157
+2264,Merseburger Ueberlandbahnen Aktiengesellschaft,1792,110157,110157,110236
+2265,Prettin-Annaburger Kleinbahn-Aktien-Gesellschaft,1794,110236,110236,110270
+2266,"Bavaria Auto-Fernverkehrs-Akt.-Ges. Oberbayern,",1794,110270,110270,110290
+2267,"Süddeutsche Lufthansa Aktiengesellsehaft, München",1794,110290,110290,110325
+2268,Münsterische Schiffahrts- u. Lagerhaus-Akt.-Ges.,1795,110325,110325,110364
+2269,Neuhaldensleber Eisenbahn-Ges.,1795,110364,110364,110422
+2270,Ruppiner Eisenbahn-Aktien-Gesellschaft,1796,110422,110422,110500
+2271,Mecklenburgische Friedrich-Wilhelm-Eisenbahn-Ges.,1797,110500,110500,110579
+2272,Deutsche Verkehrsflug Aktiengesellschaft,1799,110579,110579,110638
+2273,Eiltransport Akt.-Ges.,1799,110638,110638,110665
+2274,Nürnberger Lagerhaus-Gesellschaft,1800,110665,110665,110683
+2275,Transport-Akt.-Ges. vorm. Franz Hiltner,1800,110683,110683,110701
+2276,Sport- & Schwebebahn-Verkehrs Akt.-Ges. Oberwiesenthal,1800,110701,110701,110730
+2277,Wank-Bahn Aktiengesellschaft,1801,110730,110730,110760
+2278,Prignitzer Eisenbahngesellschaft,1801,110760,110760,110828
+2279,Bayerischer Lloyd Sehiffahrts-Aktiengesellschaft,1802,110828,110828,111011
+2280,Kleinbahn Piesberg-Rheine,1805,111011,111011,111044
+2281,"Niederrheinische Eisenbahngesellschaft, Akt.-Ges.",1805,111044,111044,111071
+2282,Speicherei- und Speditions-Aktiengesellschaft,1806,111071,111071,111166
+2283,"Mecklenburgische Bäderbahn-Akt.-Ges,,",1807,111166,111166,111202
+2284,Rostocker Strassenbahn-Akt.-Ges.,1808,111202,111202,111288
+2285,Jade Seebäderdienst Akt.-Ges. Wilhelmshaven-Rüstringen,1809,111288,111288,111314
+2286,Speditions- und Elbschifffahrts-Kontor Aktiengesellschaft,1809,111314,111314,111370
+2287,Eisern-Siegener Eisenbahn-Gesellschaft,1810,111370,111370,111416
+2288,W. Hippenstiel.,1811,111416,111416,111418
+2289,Akt.-Ges. Ruhr-Lippe-Kleinbahnen,1811,111418,111418,111487
+2290,Kleinbahn-Akt.-Ges. Cüstrin - Hammer.,1812,111487,111487,111543
+2291,Kraftverkehr Pommern Akt.-Ges.,1813,111543,111543,111566
+2292,Stettiner Dampfer-Compagnie Aktiengesellschaft in Liqu.,1813,111566,111566,111640
+2293,Stettiner Strassen-Eisenbahn-Gesellschaft,1814,111640,111640,111745
+2294,Strausberger Eisenbahn-Aktien-Gesellschaft,1815,111745,111745,111783
+2295,Kraftverkehr Württemberg Akt.-Ges.,1816,111783,111783,111811
+2296,Luftverkehr Württemberg Akt.-Ges.,1816,111811,111811,111847
+2297,Stendal-Tangermünder Eisenbahn-Ges.,1817,111847,111847,111884
+2298,Eisenbahn-Aktienges. Schaftlach-Gmund-Tegernsee.,1817,111884,111884,111916
+2299,Moselbahn-Aktiengesellschaft,1818,111916,111916,111962
+2300,Speditions-Verein Mittelelbische Hafen- u. Lagerhaus-A.-G.,1819,111962,111962,112009
+2301,Thüringische Eisenbahn-Akt.-Ges.,1819,112009,112009,112045
+2302,Nordhausen-Wernigeroder Eisenbahn-Gesellschaft,1820,112045,112045,112135
+2303,"Strassenbahn Bremerhaven-Wesermünde, Akt.-Ges.",1821,112135,112135,112226
+2304,Kleinbahn-Aktiengesellschaft Wallwitz-Wettin,1822,112226,112226,112258
+2305,"Kraftverkehr Wupper-Sieg, Aktiengesellschaft",1823,112258,112258,112295
+2306,Kleinbahn-Akt.-Ges. Wolmirstedt— Colbitz.,1823,112295,112295,112322
+2307,Wüstewaltersdorfer Kleinbahn-Aktiengesellschaft,1824,112322,112322,112349
+2308,Bergische Kleinbahnen,1824,112349,112349,112451
+2309,Elektrische Strassenbahn Barmen-Elberfeld,1826,112451,112451,112541
+2310,"Schwebebahn Vohwinkel — Elberfeld — Barmen, Akt.-Ges. (Schwebebahngesellschaft)",1827,112541,112542,112608
+2311,Energie- und Verkehrs-Aktiengesellschaft Westsachsen,1828,112608,112608,112722
+2312,"Brauereien, Mälzereien und Presshefefabriken. Brauerei Mergell, Aktiengesellschaft",1830,112722,112723,112756
+2313,"Brauerei Alex Stötter, Akt.-Ges.",1830,112756,112756,112797
+2314,Brauerei K. Silbernagel Aktiengesellschaft,1831,112797,112797,112830
+2315,Bezugsvereinigung Deutscher Brauereien Akt.-Ges.,1831,112830,112830,112861
+2316,Schultheiss-Patzenhofer Brauerei-Aktiengesellschaft,1832,112861,112861,113325
+2317,Vereinsbrauerei Jüterbog Aktien-Gesellschaft in Liqu.,1838,113325,113325,113340
+2318,Breslauer Actien-Malzfabrik,1838,113340,113340,113386
+2319,Schlesische Engelhardt-Brauerei Aktiengesellschaft,1839,113386,113386,113453
+2320,Brauerei u. Malzfabrik Gebrüder Voerkelius Akt.-Ges.,1840,113453,113453,113495
+2321,"Niederlausitzer Hefe-Fabrik, Akt.-Ges.",1841,113495,113495,113530
+2322,Dortmunder Bürgerliches Brauhaus A.-G.,1841,113530,113530,113552
+2323,Actien-Bierbrauerei zu Reisewitz,1842,113552,113552,113612
+2324,Brauerei zum Felsenkeller bei Dresden,1843,113612,113612,113695
+2325,Actienbrauerei Erfurt in Ligu. in Erfurt.,1844,113695,113695,113711
+2326,"J. Andreas, Klosterbrauerei Akt.-Ges.",1844,113711,113711,113743
+2327,"Kronen - Brauerei Aktien -Gesellschaft,",1844,113743,113743,113789
+2328,Brauhaus Forchheim Akt.-Ges. vorm. B. & J. Schneider,1845,113789,113789,113826
+2329,‚Christian Rose Aktiengesellschaft,1846,113826,113826,113859
+2330,Gebr. Jost Akt.-Ges.,1846,113859,113859,113902
+2331,Harzer Brauerei Akt.-Ges.,1847,113902,113902,113969
+2332,Phönix Brauerei Akt.-Ges.,1848,113969,113969,113990
+2333,"Bierbrauerei Kelbra vorm. Gebr. Joch, Akt.-Ges.",1848,113990,113990,114015
+2334,Kölner Union Brauerei Aktiengesellschaft,1849,114015,114015,114054
+2335,"Bayerische Malzfabrik Kulmbach, Akt.-Ges.",1849,114054,114054,114083
+2336,"Bierbrauerei Gebr. Müser, Act.-Ges.",1850,114083,114083,114195
+2337,Brauerei C. W. Naumann Aktiengesellschaft,1851,114195,114195,114260
+2338,Bayerische Bierbrauerei Lichtenfels Akt.-Ges.,1852,114260,114260,114311
+2339,Kloster-Langheimer Urbräu u. Bürgerbräu Akt.-Ges.,1853,114311,114311,114353
+2340,Löninger Actienbrauerei zum Palmberg,1853,114353,114353,114368
+2341,Vereinsbrauerei Mecklenburgischer Wirte Akt.-Ges.,1854,114368,114368,114447
+2342,Pfälzische Malzfabrik A.-G.,1855,114447,114447,114477
+2343,"Brauerei Hack, Akt.-Ges.",1855,114477,114477,114505
+2344,Schwerter - Brauerei Akt.-Ges.,1856,114505,114505,114545
+2345,Malzfabrik Mellrichstadt,1856,114545,114545,114604
+2346,Waitzingerbräu Akt.-Ges.,1857,114604,114604,114694
+2347,Actien-Brauerei Feldschlösschen,1859,114694,114694,114774
+2348,"Rheinische Presshefe- u. Spritwerke, Akt.-Ges.",1860,114774,114774,114808
+2349,"Brauerei Hübner, Aktiengesellschaft",1860,114808,114808,114846
+2350,Germania-Brauerei F. Dieninghoff Akt.-Ges.,1861,114846,114846,114890
+2351,Schlossbrauerei Neunkirchen vorm. Fr. Schmidt,1862,114890,114890,114920
+2352,Brauerei-Akt.-Ges. Schönbeck,1862,114920,114920,114945
+2353,Pfalzbrauerei vorm. Geisel & Mohr Akt.-Ges.,1862,114945,114945,114987
+2354,"Gebr. Beyschlag, Brauerei zum Sixen, Akt.-Ges.",1863,114987,114987,115013
+2355,"Brauhaus Pfaffenhofen a. Ilm, Akt.-Ges.",1863,115013,115013,115049
+2356,Klosterbrauerei Pfullingen-Reutlingen Akt.-Ges.,1864,115049,115049,115098
+2357,Brauerei zum Felsenkeller Pirna A.-G.,1865,115098,115098,115128
+2358,"Brauerei W. Senst, Aktiengesellschaft",1865,115128,115128,115157
+2359,Hofkräuhaus Bierzentrale A.-G.,1866,115157,115157,115199
+2360,"Brauhaus Schwabach, A.-G.",1866,115199,115199,115236
+2361,Bärenbrauerei Akt.-Ges.,1867,115236,115236,115263
+2362,"Klosterbräu Sankt Veit-Neumarkt a. R., Akt.-Ges.",1867,115263,115263,115305
+2363,E. G. Kuppermann Akt.-Ges.,1868,115305,115305,115334
+2364,Gebr. Niemann Akt.-Ges.,1868,115334,115334,115377
+2365,Sehlossbrauerei Stein a. d. Traun Aktiengesellschaft,1869,115377,115377,115406
+2366,Feldschlossbrauerei Lübben Akt.-Ges.,1869,115406,115406,115429
+2367,"C. Oellrich, Akt.-Ges.",1870,115429,115429,115450
+2368,Bürgerbräu Weiden Akt.-Ges.,1870,115450,115450,115484
+2369,"Brauerei zum Bräuwastl, Akt.-Ges.",1871,115484,115484,115518
+2370,Erste Wernesgrüner Aktienbrauerei,1871,115518,115518,115565
+2371,Actien-Bierbrauerei Wittenberg Akt.-Ges.,1872,115565,115565,115600
+2372,Vereinigte Brauereien Nagelschmidt & Cramer Akt.-Ges.,1872,115600,115600,115622
+2373,Vereinigte Malzfabriken Aktiengesellschaft,1873,115622,115622,115650
+2374,"Nahrunes- u. Genussmittelindustrie, Zuckerfabriken, Mühlenfabrikate, Sämereien, Futterartikel.",1874,115650,115651,115653
+2375,"C. Hedrich, Akt.-Ges.",1874,115653,115653,115678
+2376,"Aktien-Gesellschaft für Obstbau in Liqu., Berlin.",1874,115678,115678,115682
+2377,Julius Meinl Kaffeeimport Akt.-Ges.,1874,115682,115682,115706
+2378,Hermann Meyer & Co. Aktiengesellschaft,1875,115706,115706,115798
+2379,Reis- und Handels-Aktiengesellschaft,1876,115798,115798,115975
+2380,Hans Below Akt.-Ges.,1878,115975,115975,116002
+2381,Emil Uhlmann Akt.-Ges.,1879,116002,116002,116092
+2382,Dortmunder Mühlenwerke Akt.-Ges.,1880,116092,116092,116132
+2383,Frankfurter Margarin-Gesellschaft Aktiengesellschaft,1881,116132,116132,116155
+2384,Riquet & Co. Aktiengesellschaft,1881,116155,116155,116226
+2385,Ascher Handelsgesellschaft Aktiengesellschaft in Liqu.,1882,116226,116226,116242
+2386,Export-Schlachterei und Schmalz-Raffinerie Akt.-Ges.,1882,116242,116242,116270
+2387,"Michaölkuchen, Aktiengesellschaft",1883,116270,116270,116291
+2388,"Zeppolit Akt.-Ges,, Hannover. (An Konkurs.)",1883,116291,116291,116295
+2389,"Oldenburger Margarinewerke, Akt.-Ges.",1883,116295,116295,116334
+2390,"Michael Kaufmann Söhne, Akt.-Ges.",1884,116334,116334,116374
+2391,"Königsberger Mühlenwerke, Act.-Ges.",1884,116374,116374,116416
+2392,Ludwigshafener Walzmühle,1885,116416,116416,116507
+2393,Konditorei-Rohstoff-Akt.-Ges.,1886,116507,116507,116533
+2394,Pfälzische Mühlenwerke,1887,116533,116533,116554
+2395,kapital: M. 2.000 000.,1887,116554,116554,116601
+2396,Josef Zitzelsberger Akt.-Ges.,1888,116601,116601,116624
+2397,Zuckerfabrik Münsterberg A.-G.,1888,116624,116624,116687
+2398,Akt.-Ges. Fleischwarenfabrik Heinrich Zulauf in Liquid.,1889,116687,116687,116691
+2399,"Pasquay-Werke Akt.-Ges. in Liqu., Saarbrücken,",1889,116691,116691,116701
+2400,Absatz-Aktiengesellschaft der Schleswig-Holsteinischen Meiereien,1889,116701,116702,116732
+2401,C. W. Kemp Nachf. Akt-Ges.,1890,116732,116732,116801
+2402,* Vereinigte Schokoladen- und Zuckerwaren-Fabriken Aktiengesellschaft,1891,116801,116802,116827
+2403,". Handelsgesellschaften, Warenhäuser, Konsumvereine.",1892,116827,116827,116829
+2404,"Leopold David & Co., Aktiengesellschaft",1892,116829,116829,116850
+2405,Oesterlin & Co. Akt.-Ges.,1892,116850,116850,116869
+2406,Lebensmittel-Grosshandels Akt.-Ges.,1892,116869,116869,116903
+2407,Akt.-Ges. für Erwerb und Verwertung von Industrie- vermögen,1893,116903,116904,116921
+2408,Aktiengesellschaft für Mineralölprodukte (Milag),1893,116921,116921,116952
+2409,Akt.-Ges. für Zündholzvertrieb,1894,116952,116952,116973
+2410,"Allgemeine Verwertungs- und Handels-Aktiengesellschaft,",1894,116973,116973,116978
+2411,„Behag“ Benzin- und Erdöl-Handelsgesellschaft Akt.-Ges.,1894,116978,116978,116999
+2412,"Brandenburgische Wirtschafts-Akt.-Ges,.,",1894,116999,116999,117004
+2413,Colonialexport Akt.-Ges.,1894,117004,117004,117026
+2414,Credit Aktiengesellschaft für Ford-Fahrzeuge.,1895,117026,117026,117052
+2415,„Crewa“ Akt.-Ges. für Credit- u. Warenverkehr zu Berlin.,1895,117052,117052,117069
+2416,„Dehages“ Deutsche Export- u. Handels-Aktiengesellschaft,1895,117069,117069,117090
+2417,Deutsche Bussan Akt.-Ges.,1896,117090,117090,117113
+2418,Deutsche Zündwaren-Monopolgesellschaft,1896,117113,117113,117253
+2419,Edelmetalle-Vertriebs-Aktiengesellschaft,1898,117253,117253,117285
+2420,„Epa“ Einheitspreis-Aktiengesellschaft,1899,117285,117285,117343
+2421,Exportgemeinschaft Deutscher. Werkzeug- und Maschinenfabriken Akt.-Ges.,1899,117343,117344,117365
+2422,Ferro-Metall und Pyrit Aktiengesellschaft,1900,117365,117365,117390
+2423,„Gedelag“ Gemeinschaft Deutscher Lebensmittel-Gross- händler Aktiengesellschaft,1900,117390,117391,117424
+2424,"Handels-Aktiengesellschaft Grunewald,",1901,117424,117424,117440
+2425,Industrie-Interessen Akt.-Ges.,1901,117440,117440,117464
+2426,Industrie-Unternehmungen Aktiengesellschaft,1901,117464,117464,117481
+2427,Kaffee- u. Lebensmittel-Vertriebs-A.-G. Max Müller & Co.,1902,117481,117481,117516
+2428,*Kaufhaus Heinrich Jordan Aktiengesellschaft,1902,117516,117516,117528
+2429,Londexpoco Export- und Import-Akt.-Ges.,1902,117528,117528,117554
+2430,Nordische Holzeinfuhr Aktiengesellschaft,1903,117554,117554,117571
+2431,Rohstoffhandel- Aktiengesellschaft,1903,117571,117571,117593
+2432,Max Schachnow & Co. Akt.-Ges. für Toilette-Artikel,1903,117593,117593,117615
+2433,"August Schmits, Kohlengrosshandlung, Akt.-Ges.",1904,117615,117615,117638
+2434,Sehüler & Heilgendorff Brenn- und Baumaterialien,1904,117638,117638,117661
+2435,* Sera“ Serien- Einkaufs- und Revisions-Aktiengesellschaft,1904,117661,117661,117675
+2436,"„Iransbaltic“ Handelsaktiengesellschaft, Berlin.",1905,117675,117675,117677
+2437,"Turnus, Akt.-Ges. für Güteraustausch und Verkehr",1905,117677,117677,117680
+2438,Wostwag West-Osteuropäische Warenaustausch- Akt.-Ges.,1905,117680,117680,117708
+2439,Zentralmarkt Akt.-Ges. für Verwertung landwirtschaftlicher Erzeugnisse,1905,117708,117709,117743
+2440,Seehandel-A.-G.,1906,117743,117743,117767
+2441,Fritz Klindworth Akt.-Ges. für flüssige Brennstoffe,1906,117767,117767,117797
+2442,Schlesische Wirtschafts-Akt.-Ges.,1907,117797,117797,117822
+2443,"Zahlstelle: Ges.-Kasse. Gebrüder Trier, K.-G. a. A.",1907,117822,117823,117843
+2444,"Aktiengesellschaft Holstein & Kappert in Liqu,,",1907,117843,117843,117861
+2445,Dahag Handels-Akt.-Ges.,1908,117861,117861,117882
+2446,Görlitzer Waren-Einkaufs-Verein Aktiengesellschaft,1908,117882,117882,118015
+2447,Frowein & Nolden Akt.-Ges.,1910,118015,118015,118038
+2448,"„Meag“, Möbel-Engros-Akt.-Ges,.,",1910,118038,118038,118061
+2449,Spezialitäten Westhandels-Aktiengesellschaft,1911,118061,118061,118080
+2450,"Gebrüder Passmann, Akt.-Ges., Essen,",1911,118080,118080,118098
+2451,Nauheim & Co. Akt.-Ges.,1911,118098,118098,118118
+2452,Strauch Gebrüder Aktiengesellschaft in Liqu.,1911,118118,118118,118149
+2453,Tillmanns-Gayer Eisenhandels-Aktiengesellschaft,1912,118149,118149,118170
+2454,"Vereinigte Fellhandlungen Rosenthal Akt.-Ges.,",1912,118170,118170,118205
+2455,Getreide-Aktiengesellschaft,1913,118205,118205,118225
+2456,"Michael Brücken, Aktiengesellschaft",1913,118225,118225,118246
+2457,Allgemeine Produkten Akt.-Ges.,1913,118246,118246,118274
+2458,Deutsch-Amerikanische Petroleum-Ges.,1914,118274,118274,118357
+2459,Eekhardt & Co. Aktien-Gesellschaft,1915,118357,118357,118383
+2460,M. J. Emden Söhne Export-Akt.-Ges.,1915,118383,118383,118407
+2461,Handels- und Landbau-Aktiengesellschaft,1916,118407,118407,118433
+2462,Hanseatische Industrie- und Handels- Aktiengesellschaft,1916,118433,118433,118438
+2463,"Horschitz & Co. Akt.-Ges. in Liqu., Hamburg.",1916,118438,118438,118442
+2464,Kaufhaus Dittmer Aktien-Ges.,1916,118442,118442,118474
+2465,Kraft & Kalmann „Kuk“ Lebensmittel-Handels-Akt.-Ges.,1917,118474,118474,118479
+2466,"Merkur, Eisen-Akt.-Ges., Hamburg.",1917,118479,118479,118483
+2467,Seehandels-Aktiengesellschaft in Liqu.,1917,118483,118483,118499
+2468,"Toro Motorpflug Aktiengesellschaft in Liqu., Hannover.",1917,118499,118499,118510
+2469,"Heinr. Hill, Aktiengesellschaft",1918,118510,118510,118531
+2470,Autovertrieb Aktiengesellschaft,1918,118531,118531,118549
+2471,„Gastag“ Akt.-Ges. Badischer Gastwirte,1918,118549,118549,118577
+2472,*Mineralölprodukten-Handel Aktiengesellschaft,1919,118577,118577,118591
+2473,Arthur Wertheim Aktiengesellschaft,1919,118591,118591,118612
+2474,Westdeutsche Handelsvereinigung Akt.-Ges.,1919,118612,118612,118635
+2475,„Gepag“ Gross-Einkaufs- und Produktions-Akt.-Ges.,1920,118635,118635,118637
+2476,deutscher Konsumvereine,1920,118637,118637,118689
+2477,Leonhard Tietz Akt.-Ges.,1920,118689,118689,118894
+2478,"""Albert Westermann Aktiengesellschaft in Liqu.,",1923,118894,118894,118898
+2479,Raeder & Malbin Akt.-Ges.,1923,118898,118898,118915
+2480,Westmärkisehe Handels-Aktien-Gesellschaft,1924,118915,118915,118968
+2481,A.S. Danziger Akt.-Ges.,1924,118968,118968,118993
+2482,"Waren-Einkaufs-Verein Lauban, Act.-Ges.",1925,118993,118993,119022
+2483,"Gebr. Assuschkewitz, Akt.-Ges.",1925,119022,119022,119044
+2484,G. Erich Besser Akt.-Ges.,1926,119044,119044,119064
+2485,Deutsch-Amerikanische Rauchwaren-Akt.-Ges.,1926,119064,119064,119084
+2486,"Phil. Jac. Weydt jun. A.-G. in Leipzig,",1926,119084,119084,119090
+2487,„Getreide-Einkauf Aktiengesellschaft“ in Liqu.,1926,119090,119090,119115
+2488,Gebr. Schwabenland Aktiengesellschaft,1927,119115,119115,119139
+2489,L. Wolleriberg Aktiengesellschaft,1927,119139,119139,119162
+2490,"Sehwäbische Glashandelsgesellschaft, Akt.-Ges.",1927,119162,119162,119188
+2491,Konsum-Verein Miechowitz Aktiengesellschaft,1928,119188,119188,119204
+2492,"H. & J. Gutmann, Akt.-Ges.",1928,119204,119204,119226
+2493,Handelsgesellsehaft für Autowesen Aktiengesellschaft,1928,119226,119226,119254
+2494,"Joh. Horn, Aktiengesellschaft",1929,119254,119254,119275
+2495,Zeichenbedarf Akt.-Ges.,1929,119275,119275,119296
+2496,Mühlenprodukten - Aktiengesellschaft,1930,119296,119296,119315
+2497,Saarländische Ein- u. Verkaufs-Akt.-Ges. „Sevag“,1930,119315,119315,119330
+2498,Fichtel & Sachs Verkaufs-Akt.-Ges.,1930,119330,119330,119360
+2499,Fahrrad- und Maschinen-Industrie Akt.-Ges. Citroöngarage,1931,119360,119360,119384
+2500,Ferdinand Garelly Aktiengesellschaft,1931,119384,119384,119410
+2501,C. Hartung Akt.-Ges.,1931,119410,119410,119433
+2502,"Arthur Dorp, Akt.-Ges. für Hütten- und Walzwerks- produkte, Solingen, Sonnenstr. 12/14.",1932,119433,119434,119448
+2503,"Pommer & Thomsen, K.-G. a. A.",1932,119448,119448,119471
+2504,"Landeswirtschaftsstelle für das württembergische Handwerk, Akt.-Ges.",1932,119471,119472,119496
+2505,Holz- und Baumaterialien-Handels-Akt. Ges.,1933,119496,119496,119514
+2506,"Nathan & Gumpertz, Akt.-Ges.",1933,119514,119514,119534
+2507,Obermeier & Perker Akt.-Ges.,1933,119534,119534,119557
+2508,Sachsenpapier Aktiengesellschaft,1934,119557,119557,119576
+2509,"Verschiedene Gesellschaften, neueste Gründungen, Nachträge. Akzeptbank Aktiengesellschaft",1935,119576,119577,119586
+2510,"Dresdner Bank, Berlin; Mendelssohn & Co., Berlin; PreussischeStaatsbank (Seehandlung), Berlin; PreussischeZentralgenossenschaftskasse, Berlin; Reichs-Kredit- Gesellschaft Aktiengesellschaft,",1935,119586,119587,119681
+2511,Bank für deutsche Industrie-Obligationen,1936,119681,119681,119937
+2512,"""Union Hypotheken-Aktiengesellschaft",1940,119937,119937,119949
+2513,*Mittel- und Westdeutsche Treuhand-Aktiengesellschaft,1940,119949,119949,119981
+2514,„Agib“ Akt.-Ges. für industrielle Beteiligungen in Liqu.,1940,119981,119981,119996
+2515,"Deutsch-Asiatische Bank, Schanghai",1941,119996,119996,120106
+2516,"Bahnhof Jungfernheide Boden-Akt.-Ges. in Liqu., Berlin.",1942,120106,120106,120120
+2517,Bau-Akt.-Ges. am Anhalter Bahnhof,1942,120120,120120,120149
+2518,Baumaterialien- und Grundstücks-Akt.-Ges.,1943,120149,120149,120169
+2519,Beton- u. Monierbau Aktien-Gesellschaft,1943,120169,120169,120261
+2520,"Gagfah, Gemeinnützige Aktien-Gesellschaft für Angestellten - Heimstätten",1944,120261,120262,120366
+2521,„Grundag“ Grundstückserwerbs-Aktiengesellschaft,1946,120366,120366,120383
+2522,Industriegelände Schöneberg Akt.-Ges. in Lign.,1946,120383,120383,120414
+2523,„Rustica“ Akt.-Ges. für Grunderwerb,1947,120414,120414,120432
+2524,„Zukunft“ Akt.-Ges. für Patentverwertung,1947,120432,120432,120449
+2525,"Gebrüder Kiefer, Akt.-Ges.",1947,120449,120449,120475
+2526,Wohnungsbau-Aktiengesellschaft Duisburg,1948,120475,120475,120493
+2527,Löwenthals Grundstücks-Aktiengesellschaft,1948,120493,120493,120513
+2528,Frankfurter Boden-Akt.-Ges. in Frankfurt a. M.,1948,120513,120513,120562
+2529,Odenkirchener Aktien-Baugesellschaft,1949,120562,120562,120588
+2530,Nast-Bau-Akt.-Ges.,1949,120588,120588,120612
+2531,Hirschberger Grundstücks-Aktiengesellschaft,1950,120612,120612,120645
+2532,"Bayerisches Bauwerk, Akt.-Ges.",1950,120645,120645,120671
+2533,Bergbaugesellschaft Teutonia,1951,120671,120671,120730
+2534,Braunkohlen-Industrie Akt.-Ges. Zukunft,1952,120730,120730,120931
+2535,*Brennabor-Werke Aktiengesellschaft,1954,120931,120931,120966
+2536,Clemens Müller A.-G.,1955,120966,120966,121052
+2537,"Dürener Metallwerke, Akt.-Ges.",1956,121052,121052,121160
+2538,"J. Banning, Actien-Gesellschaft",1958,121160,121160,121219
+2539,Mundlos Aktien-Gesellschaft,1959,121219,121219,121284
+2540,"Faber & Schleicher, Aktien-Gesellschaft",1960,121284,121284,121354
+2541,Wanderer-Werke vorm. Winklhofer & Jaenicke Akt.-Ges.,1961,121354,121354,121502
+2542,Rheinische Elektrieitäts- und Kleinbahnen-Aktien-Ges.,1963,121502,121502,121600
+2543,Carl Lindström Akt.-Ges.,1964,121600,121600,121681
+2544,Roschützer Porzellanfabrik Unger & Schilde Aktien-Ges.,1965,121681,121681,121702
+2545,"Baumaterialienvertrieb für Mecklenburg,",1966,121702,121702,121718
+2546,"Hartstein, Akt.-Ges. in Liqu., Saarbrücken.",1966,121718,121718,121731
+2547,"Portland-Cementwerk Malstatt A.-G.,",1966,121731,121731,121762
+2548,"Saarländische Spiegelfabrik, Akt.-Ges.",1967,121762,121762,121785
+2549,Guss- & Tafelglashütten Aktiengesellsehaft,1967,121785,121785,121809
+2550,Steingutfabrik Akt.-Ges.,1967,121809,121809,121859
+2551,- Actien-Gesellschaft für Baubedarf,1968,121859,121859,121878
+2552,Spergauer Kaolin- und Sandwerke Akt.-Ges.,1968,121878,121878,121901
+2553,"Striegauer Porzellanfabrik Aktiengesellschaft,",1969,121901,121901,121940
+2554,"Vereinigte Baumaterialienhandlungen Felix Müller & Th. Osterritter, Akt.-Ges.",1969,121940,121941,121980
+2555,Steinfabrik Ulm A.-G.,1970,121980,121980,122010
+2556,Süddeutsche Wetzsteinwerke Akt.-Ges. in Liqu. in Ulm a.D.,1970,122010,122010,122014
+2557,_Buntweberei Moseus & Gronau Aktiengesellschaft,1970,122014,122014,122034
+2558,Westdeutsche Handelsgesellschaft Akt.-Ges.,1971,122034,122034,122140
+2559,Pongs & Zahn Textilwerke Akt.-Ges.,1972,122140,122140,122215
+2560,*=Dr. J. Perl & Co. Aktiengesellschaft,1973,122215,122215,122233
+2561,*Pektin-Aktiengesellschaft,1974,122233,122233,122244
+2562,"H. C. Kurz, Akt.-Ges.",1974,122244,122244,122274
+2563,Zellstofffabrik Waldhof.,1974,122274,122274,122590
+2564,*Forssmanholz Aktiengesellschaft,1979,122590,122590,122604
+2565,Deutsche Continental-Gas-Gesellschaft,1979,122604,122604,122883
+2566,Einkaufs-Gesellschaft für Gastwirte Aktiengesellschaft,1983,122883,122883,122909
+2567,Süddeutsche Lieferzentrale für die Toilettenartikel-Branche Aktiengesellschaft,1983,122909,122910,122949
+2568,Aktiengesellschaft für Automaten-Unternehmungen,1984,122949,122949,122968
+2569,Aktiengesellschaft für Gärungs-Technik,1984,122968,122968,122985
+2570,Aktiengesellschaft für Strahlentherapie,1984,122985,122985,123005
+2571,Akt.-Ges. für wirtschaftliche Unternehmungen Nobis,1985,123005,123005,123008
+2572,Berlin-Cöpenicker Betriebsgesellschaft für Anschlussgleise,1985,123008,123008,123025
+2573,Deutsche Industrie u. Handels-Beratungs-Akt.- Ges.,1985,123025,123025,123044
+2574,Edos Aktiengesellschaft für Patent- und Grundbesitz- verwertung in Berlin.,1985,123044,123045,123050
+2575,Europahaus Musterschau Aktiengesellschaft,1986,123050,123050,123074
+2576,"Hilfsgemeinschaft für Katholische Wohlfahrts- und Kulturpflege, Gemeinnützige Aktiengesellschaft",1986,123074,123075,123100
+2577,"IMAG, Immobilien und Maschinen Aktiengesellschaft",1986,123100,123100,123121
+2578,Landkultur Aktiengesellschaft in Liqu.,1987,123121,123121,123151
+2579,Orga Aktiengesellschaft,1987,123151,123151,123171
+2580,"Werbezentrale Lloyd Berlin-Bremen, Akt.-Ges.",1987,123171,123171,123196
+2581,"Wirtschafts- u. Wohlfahrtseinriehtungen des Allgemeinen Deutschen Beamtenbundes, Akt.-Ges.",1988,123196,123197,123243
+2582,"Wirtschaftsberatung Deutscher Städte Aktiengesellschaft,",1989,123243,123243,123285
+2583,Breslauer Messe- und Ausstellungs-Aktiengesellschaft,1989,123285,123285,123332
+2584,N. Schäffer Aktiengesellschaft,1990,123332,123332,123356
+2585,Akt.-Ges. für hygienischen Lehrbedarf,1990,123356,123356,123385
+2586,E. Siede Akt.-Ges.,1991,123385,123385,123405
+2587,Rotothek Aktiengesellschaft,1991,123405,123405,123428
+2588,Bohemia Akt.-Ges. für industrielle Beteiligungen,1991,123428,123428,123446
+2589,"Kapazella-Aktiengesellschaft,",1992,123446,123446,123465
+2590,Sandblom Hammer Akt.-Ges.,1992,123465,123465,123491
+2591,"Sanitas Actien-Gesellschaft in Hamburg,",1992,123491,123491,123541
+2592,Hannoversche Industrie Aktiengesellschaft,1993,123541,123541,123625
+2593,Oski-Aktiengesellschaft,1994,123625,123625,123663
+2594,Ingenieurgesellschaft für Wärmewirtschaft Akt.-Ges.,1995,123663,123663,123687
+2595,J. €. Richter Aktiengesellschaft,1995,123687,123687,123737
+2596,Werkwagen-Aktiengesellschaft,1996,123737,123737,123760
+2597,Lübecker Transport- und Müllabfuhr Akt.-Ges.,1996,123760,123760,123805
+2598,Adler Verwaltungs-Aktiengesellschaft in Liqu.,1997,123805,123805,123810
+2599,Intergarant Aktiengesellschaft für Grenzverkehrserleichterung,1997,123810,123811,123832
+2600,"*Marta Junghann, Beteiligungs-Aktiengesellschaft",1997,123832,123832,123855
+2601,"Emsa-Werke, Aktiengesellschaft",1998,123855,123855,123875
+2602,"Franz Ströher, Aktiengesellschaft",1998,123875,123875,123896
+2603,Puppenfabrik Akt.-Ges.,1998,123896,123896,123919
+2604,Frei und Kasser. Aktiengesellschaft,1999,123919,123919,123941
+2605,Karl Gerber Akt.-Ges.,1999,123941,123941,123947
+2606,Stuttgarter Handelshof Akt.-Ges. Ausstellungs- u. Tagungsstelle,1999,123947,123948,123980
+2607,Schuhbaum Akt.-Ges.,2000,123980,123980,124000
+2608,Kammgarnspinnerei Meerane,2000,124000,124000,124053
+2609,"Frika Schuhfabrik Akt.-Ges., Mannheim.",2001,124053,124053,124055
+2610,Stabelwitzer Kammgarnspinnerei Akt.-Ges.,2001,124055,124055,124072
+2611,"Sektkellerei J. Oppmann, Aktiengesellschaft",2001,124072,124072,124117
+2612,"J. 6. Schrimper, Akt.-Ges.",2002,124117,124117,124135
+2613,"M. Kamberg Akt.-Ges., Offenbach a. M., Nordring.",2002,124135,124135,124159
+2614,Erven Lucas Bols Akt.-Ges.,2003,124159,124159,124178
+2615,"Carl Stahl Akt.-Ges, Weinbrennerei u. Domhofdestillerie",2003,124178,124178,124200
+2616,"Mamlok & Söhne Wein und Spirituosen Akt.-Ges., Berlin",2003,124200,124200,124203
+2617,"Pfalzbrennerei Akt.-Ges. in Liqu. in Landau, Pfalz.",2003,124203,124203,124214
+2618,Danziger Lachs Deutsche V ertriebs-Aktiengesellschaft,2003,124214,124214,124239
+2619,Schönberger Cabinet Akt.-Ges.,2004,124239,124239,124261
+2620,Johann Walter van Munster Akt.-Ges.,2004,124261,124261,124283
+2621,E. Remy Martin & Co. Akt.-Ges.,2005,124283,124283,124305
+2622,"Fried. Rückforth Ww., Akt.-Ges.",2005,124305,124305,124348
+2623,"Siegforth Rheinische Likörfabrik Akt.-Ges. in Liqu., Stettin.",2006,124348,124348,124366
+2624,Schaumweinkellereien Breisach Aktiengesellschaft,2006,124366,124366,124388
+2625,J. H. Huth & Co. Akt.-Ges.,2006,124388,124388,124415
+2626,"Albert Buchholz, Rheinbetrieb Akt.-Ges.",2007,124415,124415,124436
+2627,Sprithandels-Aktiengesellschaft,2007,124436,124436,124458
+2628,Veränderungen während des Druckes. Berichtigungen.,2007,124458,124458,

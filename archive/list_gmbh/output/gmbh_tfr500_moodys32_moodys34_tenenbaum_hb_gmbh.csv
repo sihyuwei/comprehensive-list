@@ -1,0 +1,271 @@
+,Master US firm name,Master German firm name,in TFR-500,in Moodys 32,in Moodys 34,in Tenenbaum,HB GmbH class,IDed in HB GmbH
+0,"Swiss ""Borvisk"" Company","""Borvisk"" Kunstseiden-Vertriebsgesellschaft, m.b.H.",True,False,False,False,,False
+1,Standard Oil Company (New Jersey),"""Gluckauf"" Deutsche Oel Gesellschaft Hersfeld & Co., G.m.b.H.",True,False,False,False,,False
+2,International Telephone and Telegraph Corp.,"""Volta"" Telephon & Signalbau G.m.b.H.",True,False,False,True,,False
+3,Edward G. Budd Manufacturing Company,"A. B. P. Gefolgschoftsheime, G.m.b.H.",True,False,False,False,,False
+4,The ARMCO International Corporation,ARMCO Eisen G.m.b.H.,True,False,False,True,,False
+5,Addressograph-Multigraph Corporation,Addressograph-Multigraph G.m.b.H.,True,False,False,True,USO,True
+6,Underwood Elliott Fisher Company,Adrema Maschinenebau G.m.b.H.,True,False,False,False,,False
+7,Aeolian Company,Aeolian Company,False,False,False,False,USO,True
+8,Jadev Corporation,"Allgemeine Erdol Gesellschaft, m.b.H.",True,False,False,False,,False
+9,General Motors Acceptance Corporation,Allgemeine Finanzierungs Gesellschaft m.b.H.,True,True,True,False,,False
+10,The Atlantic Refining Company,"Allgemeine Oel-Handels, GmbH. (Oelhag)",True,False,True,True,,False
+11,Standard Oil Company (New Jersey),Allgemeine Oel-Handels-Gesellschaft mit beschrankter Haftung,True,False,False,False,,False
+12,The American Laundry Maschinery Co.,"Almco Waschereimaschinen, GmbH",True,False,False,False,,False
+13,Edward G. Budd Manufacturing Company,"Ambi-Budd Presswerk, G.m.b.H.",True,False,False,True,,False
+14,"The American Express company, Incorporated.",American Express Company mit Beschrankter Haftung,True,False,False,True,,False
+15,"American News Company, Inc.",American News Company,False,False,False,False,USC,True
+16,American Oil Company,American Oil Company,False,False,False,False,USO,True
+17,"Hugo Stinnes Industries, Inc.",Anker Kohlen & Brikettwerke G.m.b.H.,True,False,False,False,,False
+18,"Hugo Stinnes Industries, Inc.",Artus Hanse Transport G.m.b.H.,True,False,False,False,,False
+19,Associated Merchandising Corporation,Associated Merchandising Corp. GmbH,True,False,False,False,,False
+20,The Atlantic Refining Company,Atreco Oel-Handels GmbH.,True,False,False,False,,False
+21,The Yale & Towne Manufacturing Company,B.K.S. Handelsgesellschaft m.b.H.,True,True,True,False,,False
+22,Bakelite Corp.,Bakelite Gesellschaft,False,False,True,False,USO,True
+23,International Telephone and Telegraph Corp.,"Baruta Import and Export, GmbH",True,False,False,False,,False
+24,St. Regis Paper Co.,Bates Maschinen GmbH,True,False,False,False,,False
+25,Bausch & Lomb Optical Co.,Bausch & Lomb Optical Co.,False,False,False,False,USO,True
+26,Silesian-American Corporation,Bergwerkgesellschaft Georg von Giesche's Erben,False,True,True,False,,False
+27,Chicago Pneumatic Tool Co.,"Berlin-Oberschoeneweide, Germany",False,False,True,False,,False
+28,"Hugo Stinnes Industries, Inc.",Bernauer & Co.,True,False,False,False,,False
+29,"Hugo Stinnes Industries, Inc.",Bernhoeft & Wilde,True,False,False,False,,False
+30,Kraft Cheese Company,"Betz & Jay, GmbH",True,False,False,True,,False
+31,Blaw-Knox Co.,Blaw-Knox,False,False,False,False,USO,True
+32,"Hugo Stinnes Industries, Inc.","Born, Mehring & Co, G.m.b.H.",True,False,False,False,,False
+33,United Shoe Machinery Corporation,Boston Blacking Company G.m.b.H.,True,False,False,False,USO,True
+34,Butler Brothers,"Butler Brothers, G.m.b.H.",True,False,False,False,USO,True
+35,Schoonmaker-Scott Company,"Butler Brothers, G.m.b.H.",True,False,False,False,,False
+36,"Hugo Stinnes Industries, Inc.",Cehapon Werk G.m.b.H.,True,False,False,False,,False
+37,Eastman Kodak Company,Chemische Werke Odin (Germany),False,True,True,False,,False
+38,Chesebrough Manufacturing Co. Consolidated,Chesebrough Manufacturing Co. G.m.b.H.,True,False,False,False,USO,True
+39,"The Coca-Cola Company (101 W. 10th Street Wilmington, Delaware)",Coca-Cola G.m.b.H.,True,False,False,True,USO,True
+40,"The Coca-Cola Export Corporation (101 W. 10th Street Wilmington, Delaware)",Coca-Cola G.m.b.H.,True,False,False,True,,False
+41,Columbia Pictures Corp.,Columbia Film,False,False,False,False,USC,True
+42,Felt & Tarrant Mfg. Co.,Comptometer G.m.b.H.,True,False,False,False,,False
+43,"B. F. Goodrich Rubber Co., Akron, Ohio",Continale Cautchoucgesellschaft,False,False,False,True,,False
+44,Crown Cork International Corporation,"Continentale Crown Cork & Seal Co., G.m.b.H., Frankenthal Germany",False,False,True,False,,False
+45,Corn Products Refining Company,Corn Products Co.,False,False,False,False,USO,True
+46,American Nickel Alloy Mfg. Corp.,Cosmo Montangesellschaft fuer metallurgische Interessen m.b.H.,True,False,False,False,,False
+47,International Telephone and Telegraph Corp.,Creed Telegraph Apparate G.m.b.H.,False,False,False,True,,False
+48,"New Jersey Industries, Inc.","Defaka, Deustche Familienkaufhaus G.m.b.H.",True,False,False,False,,False
+49,Denver Chemical Mfg. Co.,Denver Chemical Mfg. Co. G.m.b.H.,True,False,False,False,,False
+50,"Lykes Bros. Steamship Co., Inc.",Deutsche American Shipping Co. (Bremen) G.m.b.H.,True,False,False,False,,False
+51,The Melltone Corporation,Deutsche Carborumdum Werke,True,False,False,False,,False
+52,Celotex Co.,Deutsche Celotex Vertrieb,False,False,False,False,USO,True
+53,International Business Machine Corp.,"Deutsche Geschaftmaschinen Gesellschaft, m.b.H.",False,True,False,False,,False
+54,"B. F. Goodrich Rubber Co., Akron, Ohio",Deutsche Goodrich Compagnie G.m.b.H.,False,False,False,True,,False
+55,International Business Machine Corp.,"Deutsche Hollerith Maschinen Gesellschaft, m.b.H.",True,True,False,True,,False
+56,"Libby, McNeill & Libby","Deutsche Libby Gesellschaft, m.b.H.",True,False,False,False,,False
+57,Corn Products Refining company,Deutsche Maizena G.m.b.H.,False,False,False,True,,False
+58,Norton Company,"Deutsche Norton-Gesellschaft, m.b.H.",True,True,True,True,,False
+59,Royal Baking Powder Company,"Deutsche Royal Backpulver, Gesellschaft m.b.H, Berlin, Germany.",False,True,True,False,,False
+60,"The Scholl Mfg. Co., Inc.",Deutsche Schollwerke G.m.b.H.,True,False,False,False,,False
+61,American Radiator & Standard Sanitary Corporation,Deutsche Standard Werke G. m. b. H.,False,False,True,False,,False
+62,The Timken Roller Bearing Company,"Deutsche Timken G.m.b.H., of Berlin",False,True,False,True,,False
+63,Underwood Elliott Fisher Company,Deutsche Underwood Elliott Fisher G.m.b.H.,True,False,False,False,USO,True
+64,United Shoe Machinery Corporation,Deutsche Vereinigte Schuhmaschinen Gesellschaft,True,False,False,False,,False
+65,"The Coca-Cola Company (101 W. 10th Street Wilmington, Delaware)",Deutsche Vertriebs Gesellschaft m.b.H. für Naturgetränke,False,False,False,True,,False
+66,Worthington Pump and Machinery Corp.,Deutsche Worthington Gesellschaft m.b.H.,True,True,True,True,,False
+67,Dietaphone Corporation,Dietaphone Co. m.b.H.,True,False,False,False,,False
+68,The Dorr Co.,Dorr Gesellschaft m.b.H.,True,False,False,True,,False
+69,Oliver United Filters Inc.,"Dorr-Oliver G.m.b.H., Berlin, Germany",False,True,False,False,,False
+70,International Telephone and Telegraph Corp.,Dr. Erich F. Huth G.m.b.H.,True,False,False,True,,False
+71,"Durant Motors, Inc.",Durant Motors,False,False,False,False,USO,True
+72,The Durer Corporation,"Durer Scheifmittel, G.m.b.H.",True,False,False,False,,False
+73,Eagle Oil Company,Eagle Oil Company of New York,False,False,False,False,USO,True
+74,Pan American Foreign Corporation (Controlled by Standard Oil Co. [N. J.]),Ebano Asphalt Gesellschaft m.b.H.,False,False,True,False,,False
+75,"Hugo Stinnes Industries, Inc.",Eisenhof G.m.b.H.,True,False,False,False,,False
+76,Hugo Stinnes Corporation,Eisenlager G.m.b.H.,True,False,False,False,,False
+77,"Servel, Inc.",Elektrolux,False,False,False,False,USO,True
+78,Arden Investing Co.,Elisabeth Arden G.m.b.H.,True,False,False,False,,False
+79,Pan Foreign Corporation,"Emas Gesellschaft Fuer Strassenbaubedarf, m.b.H.",True,False,False,False,,False
+80,North European Oil Corp.,"Erdoelwerke Wathlingen, Wuerttembergische Mineralgesellschaft m.b.H.",False,False,True,False,,False
+81,"New England Industries, Inc.",Erkensator G.m.b.H.,True,False,False,False,,False
+82,The Forak Company,Ethyl Gesellschaft m.b.H.,True,False,False,False,,False
+83,Pan American Foreign Corporation (Controlled by Standard Oil Co. [N. J.]),Euphalt Gesellschaft m.b.H.,False,False,True,False,,False
+84,North European Oil Corp.,Explora G.m.b.H.,False,True,False,False,,False
+85,F. W. Woolworth Co.,F. W. Woolworth Co.,True,True,True,True,,False
+86,American Cyanamid Company,Farsals-Gesellschaft m.b.H.,True,False,False,False,,False
+87,Fisk Rubber Co.,Fisk Tyre Co. m.b.H.,False,False,False,True,,False
+88,"Hugo Stinnes Industries, Inc.",Fr. Wwe. Wesseling G.m.b.H.,True,False,False,False,,False
+89,"Hugo Stinnes Industries, Inc.",Fraenkischer Metallhandel G.m.b.H.,True,False,False,False,,False
+90,Hudson Motor Car Company,Frederick Wirth & Company G.m.b.H.,True,False,False,False,,False
+91,Hugo Stinnes Corporation,"Freidreichstrasse, 12, G.m.b.H.",True,False,False,False,,False
+92,"Hugo Stinnes Industries, Inc.","Freidreichstrasse, 12, G.m.b.H.",True,False,False,False,,False
+93,General Motors Corporation (Overseas Operations),Frigidaire G.m.b.H.,True,False,False,True,,False
+94,"Hugo Stinnes Industries, Inc.",Fuhr-Betrieb G.m.b.H.,True,False,False,False,,False
+95,Seiberling Rubber Co.,"Fulda Rubber Co. of Fulda, Germany",False,True,False,False,,False
+96,"New England Industries, Inc.",Fullnerwerk G.m.b.H.,True,False,False,False,,False
+97,"G. Hirsch Sons, Inc.","G. Hirsch & Sohn, G.m.b.H. Nuremberg, Germany",True,False,False,False,,False
+98,"Hugo Stinnes Industries, Inc.",Gebrueder Boewen G.m.b.H.,True,False,False,False,,False
+99,"Hugo Stinnes Industries, Inc.",Gebrueder Born G.m.b.H.,True,False,False,False,,False
+100,"Hugo Stinnes Industries, Inc.",Gebrueder Hein G.m.b.H.,True,False,False,False,,False
+101,General Motors Corporation (Overseas Operations),Gemeinnutsige Opel - Wohnban - G.m.b.H.,True,False,False,False,,False
+102,General Motors Corporation (Overseas Operations),General Motors G.m.b.H.,True,False,False,False,USO,True
+103,German-American Tobacco Co.,German-American Tobacco Co.,False,False,False,False,USO,True
+104,"Standard Commercial Tobacco Co., Inc.",German-American Tobacco Co.,False,True,False,False,,False
+105,International Telephone and Telegraph Corp.,Gesellschaft Fur Telephon-und Telegraphenbeteilungen m.b.H.,True,False,False,False,,False
+106,Corn Products Refining company,Gesellschaft fur Industriebeteiligungen m.b.H.,True,False,False,False,,False
+107,"Mccann-Erickson, Inc.",Gesellschaft fur markt und schgerechte Werberatung,True,False,False,False,,False
+108,International Telephone and Telegraph Corp.,Gesellschaft für Telephon und Telegraphenbeteiligungen G.m.b.H.,False,False,False,True,,False
+109,North European Oil Corp.,Gewerkschaft Regina zu Caan,False,False,True,False,,False
+110,Gillette Safety Rasor Company,"Gillette Safety Rasor Company, G.m.b.H.",True,False,False,True,,False
+111,Gillette Safety Rasor Company,Gillette Safety Razor Co.,False,False,False,False,USO,True
+112,International Finance Company,Gluckskles Import and Export Gesellschaft m.b.H.,True,False,False,False,,False
+113,International Finance Company,Gluckskles Michgesellschaft m.b.H.,True,False,False,False,,False
+114,Crown Cork International Corporation,"H. A. Bender Bohne, of Mannheim, Germany",False,True,False,False,,False
+115,"Hugo Stinnes Industries, Inc.",H. B. Blumenthal,True,False,False,False,,False
+116,"Mccann-Erickson, Inc.","H. K. Mccann Company, m.b.H.",True,False,False,False,,False
+117,"Hugo Stinnes Industries, Inc.",H. Westphal & Co.,True,False,False,False,,False
+118,Tide Water Associated Oil Co.,Hamburg-Amerikanische Mineralol-G.m.b.H.,True,False,True,True,,False
+119,Swift and Company (Illinois),Hanseatische Grundbitz Gesellschaft m.b.H.,True,False,False,False,,False
+120,North European Oil Corp.,Harburger Bergbau G.m.b.H.,False,False,True,False,,False
+121,Haskins & Sells,Haskins & Sells Revision-Gesellschaft m.b.H.,True,False,False,False,,False
+122,The Hobart Manufacturing Company,"Hobart Gesellschaft, Hamburg, Germany",False,False,False,False,USO,True
+123,The Hobart Manufacturing Company,"Hobart Maschinen Gesellschaft, m.b.H.",True,True,True,False,,False
+124,United States Hoffman Machinery Corporation,Hoffman Bugelmaschinen Gesellschaft m.b.H.,True,False,True,True,,False
+125,"Hugo Stinnes Industries, Inc.",Holm & Molzen G.m.b.H.,True,False,False,False,,False
+126,"Holophane Company, Inc.",Holophane-Gesellschaft,False,False,False,False,USOP,True
+127,Schilling Estate Company,Holzwarth Gasturbinen,True,False,False,False,,False
+128,The Hoover Co.,Hoover G.m.b.H.,True,False,False,False,,False
+129,Hudson Motor Car Company,Hudson Esser Motors Company M.H.,True,False,False,False,,False
+130,"Hugo Stinnes Industries, Inc.",Hugo Stinnes G.m.b.H.,True,True,True,True,,False
+131,Hupp Motor Car Corporation,Hupp Motors,False,False,False,False,USOP,True
+132,Ingersoll-Rand Company,Ingersoll-Rand,False,False,False,False,USO,True
+133,International Harvester Company,"International Harvester Company, m.b.H.",True,True,True,True,USO,True
+134,International Harvester Export Co.,"International Harvester Company, m.b.H.",True,True,True,True,,False
+135,Chicago Pneumatic Tool Co.,Internationale Pressluft und Elektricitats Gesellschaft m.b.H. (Ipeg),True,True,True,True,,False
+136,Intertype Corporation,Intertype Fabrik G.m.b.H.,True,True,True,False,,False
+137,Intertype Corporation,Intertype Setzmaschinen G.m.b.H.,True,True,True,False,,False
+138,Underwood Elliott Fisher Company,Iris Type G.m.b.H.,True,False,False,False,,False
+139,J. E. Bernard & Co. Inc.,J. E. Bernard & Co. G.m.b.H.,True,False,False,False,,False
+140,"Hugo Stinnes Industries, Inc.",Jacob Trefz & Soehne,True,False,False,False,,False
+141,Remington Rand Inc.,Jahresuhren Fabrik G.m.b.H.,True,False,False,False,,False
+142,Kraft Cheese Company,Jocca Werke G.m.b.H.,True,False,False,True,,False
+143,"Hugo Stinnes Industries, Inc.",Johann Lorenz Michel G.m.b.H.,True,False,False,False,,False
+144,International Agricultural Corporation,Kaliwerke Sollstedt Gewerkschaft,False,False,False,True,,False
+145,Remington Rand Inc.,Kardex System G.m.b.H.,True,False,False,False,,False
+146,Corn Products Refining company,Karl Fr. Tollner Nachrmittelfabrik G.m.b.H.,True,False,False,False,,False
+147,Julius Kayser & Company,"Kayser Textile-Gesellschaft, m. b. H. in Saxony",False,True,True,False,,False
+148,I. B. Kleinert Rubbert Company,"Kleinerts Hanseatische, Gummiwerke Gesellschaft mit beschankter Haftung",True,True,True,False,,False
+149,Eastman Kodak Company,Kodak Gesellschaft m. b. H.,False,False,True,False,,False
+150,"Hugo Stinnes Industries, Inc.",Koenigsberger Kohlen & Koks G.m.b.H.,True,False,False,False,,False
+151,Combustion Engineering Co. Inc.,"Kohlenscheidungs-Gesellschaft, m.b.H.",True,True,False,False,,False
+152,Kraft Cheese Company,Kohler-Werke G.m.b.H.,True,False,False,True,,False
+153,"Hugo Stinnes Industries, Inc.",Kohleverkauf Ludwig Jung G.m.b.H.,True,False,False,False,,False
+154,Crown Cork International Corporation,"Korkfabrik, Frankenthal Bender & Co., of Frankenthal, Germany",False,True,False,False,,False
+155,Kraft Cheese Company,Kraft Kaese Werke G.m.b.H.,True,False,False,True,USO,True
+156,L. C. Smith & Corona Typewriters Inc.,L. C. Smith & Corona Schreihmaschinen G.m.b.H.,True,True,True,False,,False
+157,Kraft Cheese Company,Lindor Werke G.m.b.H.,True,False,False,True,,False
+158,Mergenthaler Linotype Company,"Linotype, G.m.b.H.",True,False,False,False,,False
+159,International Telephone and Telegraph Corp.,Lorenz Radio Vertriebe G.m.b.H.,True,False,False,True,,False
+160,International Telephone and Telegraph Corp.,Ludwig Sudicates G.m.b.H.,True,False,False,True,,False
+161,International Telephone and Telegraph Corp.,Ludwig Sudicatis G.m.b.H.,True,False,False,False,,False
+162,"Hugo Stinnes Industries, Inc.",M. Rast & Sohn G.m.b.H.,True,False,False,False,,False
+163,Corn Products Refining company,Maizenhaus Gesellschaft m.b.H.,True,False,False,False,,False
+164,"New England Industries, Inc.",Maschinen-Export G.m.b.H.,True,False,False,False,,False
+165,"Robert Reiner, Incorporated",Maschinenfabril EINSIEDEL G.m.b.H.,True,False,False,False,,False
+166,Gulf Oil Corporation,Maschinenoel Import Gesellschaft m.b.H.,True,False,False,False,,False
+167,"Hugo Stinnes Industries, Inc.",Mathias Stinnes G.m.b.H.,True,False,True,True,,False
+168,Jadev Corporation,Mecklenburgische Erdol G.m.b.H.,True,False,False,False,,False
+169,Mergenthaler Linotype Company,"Mergenthaler Setzmaschinen-Fabrik, G.m.b.H.",True,True,True,True,,False
+170,Central European Holding Corporation c/o Cotton Brenner & Wrigley,"Metallkentor, G.m.b.H.",True,False,False,False,,False
+171,The Torrington Company,"Metallkentor, G.m.b.H.",True,False,False,False,,False
+172,Metallic Products Corp. c/o US Corp. Co.,Metallpulver G.m.b.H.,True,False,False,False,,False
+173,The Torrington Company,"Metallwaaren Gesellschaft m. b. H., of Aachen",False,True,True,True,,False
+174,Gillette Safety Rasor Company,Metallwarenvertrieb G.m.b.H.,True,False,False,False,,False
+175,International Telephone and Telegraph Corp.,"Mix & Genest Hansawerke , G.m.b.H.",True,False,False,True,,False
+176,Corn Products Refining company,Mondamin Gesellschaft,True,False,False,False,,False
+177,Armour & Company,Morris & Co. G.m.b.H.,True,False,False,False,,False
+178,Moto Meter Gauge & Equipment Corp.,"Moto Meter Gesellschaft, m. b. H.",False,True,True,False,,False
+179,"Hugo Stinnes Industries, Inc.",Muelberger & Co. G.m.b.H.,True,False,False,False,,False
+180,The National Cash Register Company,National-Krupp Registrier-Kassen G.m.b.H.,True,False,True,True,,False
+181,American Radiator & Standard Sanitary Corporation,Nationale Radiator Gesellschaft m.b.H.,True,True,True,True,,False
+182,"The International Nickel Company, Inc.","Nickel Informationburo, G.m.b.H.",True,False,False,False,,False
+183,Gulf Oil Corporation,Nobel-Good-Group,False,True,False,False,,False
+184,North European Oil Corp.,Nord-Europaeische Oel,True,False,False,False,,False
+185,Standard Oil Company (New Jersey),Norddeustche Mineraloelwerke Stettin G.m.b.H.,True,False,False,False,,False
+186,North European Oil Corp.,Nordeuropaeische Oelgesellschaft m.b.H.,False,False,True,False,,False
+187,"Hugo Stinnes Industries, Inc.",Nuernberger Kohlenhandles G.m.b.H.,True,False,False,False,,False
+188,O-Cedar Corporation,O-Cedar,False,False,False,False,USC,True
+189,Pure Oil Co.,Oelwerke Julius Schindler G.m.b.H.,True,False,False,True,,False
+190,The Pure Oil Company,Oelwerke Julius Schindler G.m.b.H.,True,False,False,True,,False
+191,Jadev Corporation,Oldenburgische Erdol Gesellschaft m.b.H.,True,True,False,False,,False
+192,North European Oil Corp.,Oldenburgische Oelausbeutungesellschaft m.b.H.,False,False,True,False,,False
+193,Witroth Corporation,Oppelener Lagerhaus Gesellschaft,True,False,False,False,,False
+194,Oppenheimer Casing Co. Del.,Oppenheimer Casing Co. m.b.H. Hamburg,True,False,False,False,,False
+195,North European Oil Corp.,Ost-Oel G.m.b.H.,False,True,False,False,,False
+196,Witroth Corporation,Ostrhederei,True,False,False,False,,False
+197,Otis Elevator Company,Otis Aufzugswerke G.m.b.H.,True,False,True,True,,False
+198,Colgate-Palmolive-Peet Co.,Palmolive-Binder & Ketals G.m.b.H.,True,False,True,True,,False
+199,"Paramount Pictures, Inc.","Paramount Film Vertreib G. m. b. H., Berlin, Germany",False,True,True,False,,False
+200,"Lentheric, Incorporated","Parfume Lentheric, G.m.b.H.",True,False,False,False,,False
+201,Parker Pen Co.,"Parker Pen Co., G.m.b.H., Berlin, Germany",False,True,False,False,USO,True
+202,The Permutit Company,Permutit Filter Co. G.m.b.H.,True,False,False,False,,False
+203,"Philip Morris & Co. Ltd., Inc.",Philip Morris & Co. Limited G.m.b.H.,True,False,False,False,USO,True
+204,Remington Rand Inc.,Powers G.m.b.H.,True,False,False,False,,False
+205,Standard Oil Company (New Jersey),Privatanschlussbahn Borgsdorf-Birkenwerder G.m.b.H.,True,False,False,False,,False
+206,Quaker Oats Co.,"Quaker Nahrmittel, G.m.b.H.",True,False,False,False,,False
+207,Quaker Oats Co.,Quaker Oats Co. G.m.b.H.,True,False,False,False,USO,True
+208,R. Schiffmann Co.,R. Schiffman & Co. G.m.b.H.,True,False,False,False,,False
+209,Hugo Stinnes Corporation,Rastatter Eisenhandel G.m.b.H.,True,False,False,False,,False
+210,The International Button Hole Sewing Machine Company,Reece Machinery Company,True,True,False,False,USO,True
+211,Remington Rand Inc.,Remington Buromaschinen G.m.b.H.,True,False,False,True,,False
+212,"Hugo Stinnes Industries, Inc.",Rheinische-Westfaelische Bergwerks Gesellschaft,False,True,False,True,,False
+213,International Affiliated Corporation,Richard Hudnut G.m.b.H.,True,False,False,False,,False
+214,Richard Hudnut,Richard Hudnut G.m.b.H.,True,False,False,False,,False
+215,International Telephone and Telegraph Corp.,"Rohr & Seilpost Anlagen, G.m.b.H.",True,False,False,True,,False
+216,"United Statess Lines, Co.","Rosskai, G.m.b.H.",True,False,False,False,,False
+217,Gillette Safety Rasor Company,"Roth-Buchner, G.m.b.H.",True,False,False,True,,False
+218,"Royal Typewriter Company, Inc.","Royal Schreihmaschinen, G.m.b.H.",True,True,False,True,,False
+219,Corn Products Refining company,Rudolf Arndt Dextrinfabrik G.m.b.H.,True,False,False,False,,False
+220,Hugo Stinnes Corporation,Rudolf Mueller & Soehne G.m.b.H.,True,False,False,False,,False
+221,Oppenheimer (S.) & Company,S. Oppenheimer & Co.,False,False,False,False,USO,True
+222,Corn Products Refining company,Saatsuchwirtschaft C. Braune G.m.b.H.,True,False,False,False,,False
+223,The Atlantic Refining Company,"Schlafhorst Chemische Werke, G.m.b.H.",True,False,False,False,,False
+224,Eugene Dietzgen Co.,"Siegfried-Caragen Gesellschaft fuer Kraftfahrzeuge, m.b.H.",True,False,False,False,,False
+225,Submarine Signal Co.,Signal Gesellschaft m.b.H.,True,False,False,False,,False
+226,Signode International Limited,Signode System G.m.b.H.,True,False,False,False,,False
+227,Signode Steel Strapping Co.,Signode System G.m.b.H.,True,False,False,False,,False
+228,Spirella International Incorporated,Spirella Gesellschaft m.b.H.,True,False,False,False,,False
+229,"Foreign Investments, Incorporated",Stanley Works,True,False,False,False,,False
+230,"Aris Cloves Co., Inc.",Steinberger Bros.,True,False,False,False,,False
+231,"Aris Cloves Co., Inc.",Steinberger Bros. Clove Corp. G.m.b.H.,True,False,False,False,,False
+232,International Telephone and Telegraph Corp.,Suddeutsche Apparatefabrik Gesellschaft m.b.H.,True,False,False,True,,False
+233,Stauffer Chemical Co.,Suddeutsche Chemische Werke,True,False,False,False,,False
+234,Swift & Company,"Swift & Company, G.m.b.H.",True,False,False,False,,False
+235,Pan American Foreign Corporation (Controlled by Standard Oil Co. [N. J.]),Teerbaustoff Gesellschaft m.b.H.,False,False,True,False,,False
+236,International Telephone and Telegraph Corp.,Tefag Radio Vertriebs G.m.b.H.,True,False,False,True,,False
+237,International Telephone and Telegraph Corp.,Telmo Telephon und Telegraphen Gesellschaft m.b.H.,True,False,False,True,,False
+238,The Atlantic Refining Company,The Atlantic Refining Company Germany GmbH,True,False,True,True,,False
+239,The Brecht Corporation,The Brecht Corporation G.m.b.H.,True,False,False,False,,False
+240,The Fairbanks Company,The Fairbanks G.m.b.H. Company,True,False,False,False,USO,True
+241,"Berth, Levi & Co. Inc.",The Overseas Casing Co. m.b.H.,True,False,False,False,,False
+242,The Stanley Works,The Stanley Works G.m.b.H.,True,True,False,False,,False
+243,Armour & Company,Tietgens & Robertson (G.m.b.H.),True,False,False,False,,False
+244,Standard Oil Company (New Jersey),Titan-Oel-Gesellschaft m.b.H.,True,False,False,False,,False
+245,"Titan Company, Inc.",Titangesellschaft m.b.H.,True,True,True,True,,False
+246,Corn Products Refining company,"Transport und Lagerhaus Gesellschaft, m.b.H.",True,False,False,False,,False
+247,Trubenizing Process Corporation,"Trubenis Lisensverwertungs, G.m.b.H.",True,False,False,False,,False
+248,United Fruit Company,"Unida Schiffstreuhand, G.m.b.H.",True,False,False,False,,False
+249,Union Special Machine Co.,Union Special Maschinenfabrik G.m.b.H.,True,False,False,False,,False
+250,United Press Associations,United Press (Deutschland) G.m.b.H.,True,False,False,False,,False
+251,Pan Foreign Corporation,Vereinigte Asphalt und Teerproducktenfabriken Gesellschaft mit Beschrankter Haftung,True,False,False,False,,False
+252,The ARMCO International Corporation,Vereinigte Stahlwerke,False,False,False,True,,False
+253,International Affiliated Corporation,W. R. Warner & Co. G.m.b.H.,True,False,False,False,,False
+254,"Grant, (W. T.) Company",W. T. Grant Company,False,False,False,False,USOP,True
+255,Walter Kidde & Company,Walter Kidde G.m.b.H.,True,False,False,False,,False
+256,Standard Oil Company (New Jersey),Waried Tankschiff Rhederei G.m.b.H.,True,False,False,False,,False
+257,"William R. Warner & Co., Inc.","Warner, W.R. and Co. G.m.b.H.",True,False,False,False,,False
+258,Waterman Steamship,Waterman Linien (Vertretung Bremen) G.m.b.H.,True,False,False,False,,False
+259,"Hugo Stinnes Industries, Inc.",Welheim Kohlenhandel G.m.b.H.,True,False,False,False,,False
+260,"Standard Commercial Tobacco Co., Inc.",Werkhof G.m.b.H.,True,False,False,False,,False
+261,Kupfer Bros. Co. Inc.,Werola Krepp & Buntpapierfabrik G.m.b.H.,True,False,False,False,,False
+262,"Socony-Vacuum Oil Company, Inc.",West-Oel Gesellschaft m.b.H.,True,True,True,False,,False
+263,Western Electric Export Corporation,Western Electric G.m.b.H.,True,False,False,False,,False
+264,The Westinghouse Air Brake Company,Westinghouse Bremsen Gesellschaft m.b.H.,True,False,False,False,,False
+265,Kupfer Bros. Co. Inc.,Wilheim Stern & Co. G.m.b.H.,True,False,False,False,,False
+266,The Dentists' Supply Co. of New York,Zahnfabrik Wienand Soehne & Co.,True,False,False,False,,False
+267,National Lead Company,Zinnwerke Wilheimsburg G.m.b.H.,True,False,False,False,,False
+268,Gillette Safety Rasor Company,Zoellner Werke G.m.b.H.,True,False,False,False,,False
+269,Corn Products Refining company,Zuckerrubensaftfabrik,True,False,False,False,,False

@@ -1,0 +1,1974 @@
+firm_id,page,block,line,firmname,firmname_y_start,firmname_y_end
+1,163,3,1,"Treuhand- und Finanzierung-Gesellschaften, Lombardgeschäfte. Zwecksparverband für Eigenheime Aktiengesellschaft.",174.26919555664062,191.06182861328125
+2,163,4,42,Schleswig-Holsteinische Treuhand-Aktiengesellschaft.,513.8295288085938,534.8295288085938
+3,163,5,12,"Bankverein Artern, Spröngerts, Büchner & Co.  Kommanditgesellschaft auf Aktien.",640.7395629882812,661.7395629882812
+4,164,4,2,"Augsburger Handels- und Gewerbebank (Viehmarktbank), Akt.-Ges.",346.6959228515625,360.94708251953125
+5,164,7,4,Ranquc des Reglements International!* (B. R. I.). — Banca dei Regolamenti  Internazionali (R. R.I.). — Rank for International Settlements (R. I. S.).,618.9046020507812,633.5400390625
+6,168,9,1,Akt.-Ges. für Verwaltung von Gemeinschaftsvermögen in Liqu.,246.03851318359375,265.7867431640625
+7,168,12,1,Aktiengesellschaft für Wirtschaftsprüfung Deutsche Baurevision.,375.62872314453125,394.20269775390625
+8,168,15,1,Allgemeine Wirtschaftsbank Aktien-Gesellschaft.,592.6808471679688,612.95361328125
+9,169,4,1,Bank Elektrischer Werte Aktiengesellschaft. ,158.33743286132812,174.11669921875
+10,171,4,1,Bank für Kommunal- und Grundkredit Aktiengesellschaft.,129.4746856689453,147.18344116210938
+11,171,7,1,Bank für Landwirtschaft Aktiengesellschaft.,351.65606689453125,368.13629150390625
+12,172,3,1,"„Behak“ Beamten-, Handels- unc",292.5691833496094,309.36181640625
+13,172,8,1,Berliner Revisions-Aktiengesellschaft.,428.5635986328125,446.8937072753906
+14,172,10,22,Berliner Stadfschafts-Bank Aktiengesellschaft.,632.459228515625,650.1223754882812
+15,173,4,1,„Consulta“ Treuhand-Aktiengesellschaft.,593.4974365234375,612.7062377929688
+16,174,4,1,* Continentale Commerz-Gesellschaft Aktiengesellschaft.,130.720947265625,150.16259765625
+17,174,7,1,Deutsche Bauernbank Aktiengesellschaft.,257.6968994140625,274.40020751953125
+18,174,11,1,Deutsche Beamten-Zentral-Bank Aktiengesellschaft.,606.4528198242188,628.2926635742188
+19,175,4,1,"Deutsche Gartenbau-Kredit Aktiengesellschaft,",245.7156219482422,263.9638977050781
+20,176,2,1,Deutsche Genossenschaftsbank Aktiengesellschaft.,70.40229797363281,91.96581268310547
+21,176,5,1,Deutsche Genossenschafts-Hypothekenbank Akt.-Ges. //,168.4021453857422,211.00479125976562
+22,178,8,2,Deutsche Genossenschafts-Revisions- und Treuhand- Aktiengesellschaft.,642.446533203125,657.6202392578125
+23,179,4,1,Deutsche Golddiskonthank. ,203.45220947265625,220.01663208007812
+24,182,38,1,Deutsche Kredit- und Handelsgesellschaft Aktiengesellschaft.,633.07763671875,650.1361694335938
+25,183,4,1,Deutsche Länderbank Aktiengesellschaft.,341.45196533203125,360.4569396972656
+26,184,4,1,Deutsche Landvolk-Bank Akt.-Ges.,200.83616638183594,219.91473388671875
+27,184,7,1,Deutsche Raiffeisenbank A.-G. in Liqu.,539.3562622070312,557.30029296875
+28,185,4,1,Deutsche Revisions- und Treuhand-Aktiengesellschaft.,510.0431823730469,530.8272705078125
+29,186,4,1,Deutsche Treuhand- und Revisions-Aktiengesellschaft.,209.6031951904297,230.38726806640625
+30,186,7,1,Deutsche Unionbank Aktiengesellschaft.,399.0362243652344,417.8509216308594
+31,187,4,1,Deutsche Wirtschaftsbank Aktiengesellschaft.,186.1460418701172,205.818359375
+32,187,7,1,Deutsche Wohnstätten-Hypothekenbank Aktiengesellschaft. //,551.0238647460938,579.4839477539062
+33,190,3,1,"Noten-, Kredit- und Hypothekenbanken. Deutschland Bauspar-Aktiengesellschaft für Stadt u.Land inLiqu.",73.67916870117188,90.47179412841797
+34,190,6,1,Diskont und Kredit Aktiengesellschaft.,359.6776123046875,376.7361145019531
+35,190,9,2,Finanzgesellschaft industrieller Unternehmungen  Aktiengesellschaft.,571.14697265625,586.3333129882812
+36,191,2,1,Grundwerte-Treuhand Aktiengesellschaft in Liqu.,72.39518737792969,90.14279174804688
+37,191,5,1,Handelsbank Aktiengesellschaft in Liqu.,152.25363159179688,170.583740234375
+38,191,7,28,Heine’sche Vermögens-Verwaltung Aktiengesellschaft.,398.2634582519531,418.7569885253906
+39,191,10,1,Immobiliarkredit-Aktiengesellschaft.,499.97601318359375,515.0448608398438
+40,192,2,1,Investa Aktiengesellschaft für Anlage und Verwaltung.,71.18608093261719,90.08012390136719
+41,192,4,15,"F. W. Krause & Go. Bankgeschäft, K.-G. a. A. in Liqu.",218.81874084472656,237.39271545410156
+42,192,6,24,Kreditanstalt Deutscher Brauereien Aktien-Gesellschaft.,433.3255615234375,454.3966979980469
+43,192,8,11,"Kreditanstalt für Verkehrsmittel, Akt.-Ges. in Liqu.",553.30126953125,570.447265625
+44,193,2,1,Kreditbank-Aktiengesellschaft in Liqu.,72.76123809814453,89.57756805419922
+45,193,5,1,Märkische Bank Aktiengesellschaft in Liqu.,228.5768280029297,245.96615600585938
+46,193,8,1,Mercator Aktiengesellschaft für Finanz- u. Versicherungs-Wesen.,402.4706726074219,421.25311279296875
+47,193,11,1,Mühlenindustrie-Bank Akt.-Ges. in Liqu.,594.3447265625,611.9741821289062
+48,194,2,1,Rentenbrief-Aktiengesellschaft.,75.45764923095703,90.6299057006836
+49,194,5,1,A. Scharfenberger & Co. Bank-Kommanditges. auf Aktien.,287.11761474609375,304.1761169433594
+50,194,8,1,Solidaris Treuhand-Aktien-Gesellschaft.,446.0287170410156,464.6026916503906
+51,194,11,1,Spar- und Kredit-Anstalt Aktiengesellschaft.,604.8577880859375,623.5121459960938
+52,195,4,1,Sparkraft-Aktiengesellschaft für Kapiialhildung.,219.9613037109375,241.3151092529297
+53,195,7,1,Textil Treuhand u. Verwaltungs-Aktiengesellschaft.,460.5962219238281,479.4109191894531
+54,195,10,1,August Thyssen-Bank Aktiengesellschaft.,620.265625,635.757080078125
+55,196,4,1,„Treuhand“ Aktiengesellschaft für Buch- und Betriebs-Prüfung.,327.7408142089844,348.0135803222656
+56,196,7,1,"Treuhand Akt.-Ges. für Industrie, Handel und Gewerbe.",542.3135986328125,560.6436767578125
+57,196,10,1,Treuhandgesellschaft Eintracht Aktiengesellschaft.,639.3960571289062,659.068359375
+58,197,4,1,Union Bank Kommanditgesellschaft auf Aktien.,209.85360717773438,228.1837158203125
+59,197,7,2,Vereinigte Industrie-Unternehmungen Aktiengesellschaft // (Viag).,493.64385986328125,508.75518798828125
+60,200,2,1,Wirtschafts-Treuhand Aktiengesellschaft.,72.5709228515625,92.01256561279297
+61,200,5,1,„Wuw“ Akt-Ges. für Waren und Wertpapiere.,285.38604736328125,304.2801208496094
+62,200,8,1,Vereinssparkasse in Bersenbrück Akt.-Ges.,444.7287292480469,463.3027038574219
+63,200,11,1,Treuhand- und Revisionsaktiengesellschaft Bielefeld.,582.1860961914062,601.0801391601562
+64,201,2,1,Kommunalbank Aktiengesellschaft.,74.9114761352539,93.16524505615234
+65,201,5,1,Gewerbebank Böblingen A.-G.,318.4166564941406,334.5531311035156
+66,201,8,2,Fleckenskasse A.-G. (vormals Flecken Bramstedter Spar- und Leihkasse Akt.-Ges.),563.8704833984375,583.1676025390625
+67,202,2,1,Ostpreußische Revisions- u. Treuhand-Aktiengesellschaft.,71.3109130859375,90.75255584716797
+68,202,5,3,"beratung (vorm. Dipl.-Kfm, Willer und Dipl.-Kfm. Lang Treuhandgesellschaft)",211.5128173828125,226.6650390625
+69,202,8,1,Bankverein für Nordwestdeutschland Aktiengesellschaft.,423.7860412597656,442.68011474609375
+70,203,4,1,Bremer Volks- und Sparbank Aktiengesellschaft.,269.7532043457031,290.53729248046875
+71,203,7,1,Norddeutsche Kreditbank Aktiengesellschaft.,412.8408203125,433.11358642578125
+72,204,4,1,Norddeutsche Treuhand-Verwaltung Aktiengesellschaft.,349.5874938964844,368.7962646484375
+73,204,7,1,Breslauer Baubank. ,503.8013610839844,520.9473266601562
+74,205,4,1,Breslauer Kassenverein u. Effektengirobank Aktiengesellschaft.,385.1177673339844,403.7721252441406
+75,206,2,1,Hansa-Bank Schlesien Aktiengesellschaft.,69.19664001464844,88.32737731933594
+76,206,6,1,Bank für Handel u. Verkehr Aktiengesellschaft.,391.7760925292969,410.670166015625
+77,207,2,1,Chemnitzer Bank Aktiengesellschaft.,73.2138671875,90.62033081054688
+78,207,5,1,Chemnitzer Bank für Grundbesitz Aktiengesellschaft.,311.4538879394531,329.4538879394531
+79,207,8,1,Cochemer Volksbank Actiengesellschaft.,580.5156860351562,598.7639770507812
+80,208,3,1,Coseler Bankverein,142.1868896484375,162.38571166992188
+81,208,9,1,Demminer Kreisbank Aktiengesellschaft.,388.4538879394531,406.4538879394531
+82,208,12,1,Donauhank Aktiengesellschaft.,633.5374755859375,649.3167114257812
+83,209,4,1,Allgemeine Treuhand-Aktien-Gesellschaft.,157.5355987548828,178.60671997070312
+84,209,7,1,Dresdner Bank.,409.169189453125,425.9618225097656
+85,214,4,1,Sächsische Getreidekreditbank Aktiengesellschaft.,216.72915649414062,234.0494384765625
+86,214,6,29,Sächsische Handelsbank in Liqu.,471.5077819824219,490.1621398925781
+87,215,4,1,Deutsche Werkmeister Sparbank Aktiengesellschaft.,133.27914428710938,150.07177734375
+88,215,7,1,Ernst Tewes Bank- und Verwaltungsaktiengesellschaft.,253.8638458251953,271.86383056640625
+89,215,10,1,Deutsche Schiffskreditbank Aktiengesellschaft. ,477.43603515625,496.3301086425781
+90,217,7,7,Revisions- und Treuhand-Akt-Ges. „Westdeutschland“.,444.6474609375,463.8562316894531
+91,217,8,23,Rheinisch-Westfälischer Kassen-Verein Akt.-Ges.,648.6318359375,668.9046020507812
+92,218,4,1,Frankenthaler Volkshank Aktiengesellschaft.,247.86309814453125,264.9276123046875
+93,218,7,1,Deutsche Effecten- und Wechsel-Bank. ,542.6610107421875,559.8074340820312
+94,220,10,1,Frankfurter Bank. ,384.52764892578125,401.5861511230469
+95,222,2,1,"Frankfurter Baukasse, Aktiengesellschaft.",69.55662536621094,88.68736267089844
+96,222,4,29,Westbank Aktiengesellschaft.,316.0528259277344,332.4844970703125
+97,222,5,41,Oberhessische Bank Actiengesellschaft.,648.027587890625,665.0861206054688
+98,223,4,1,"Volksbank Füssen, Akt.-Ges.",216.62977600097656,234.80661010742188
+99,224,4,1,Gederner Bank Aktiengesellschaft.,115.16680145263672,132.55612182617188
+100,224,7,1,Geltinger Kreditbank Aktiengesellschaft.,351.4021911621094,367.96661376953125
+101,224,10,2,Aktiengesellschaft Spar- und Vorschußverein  Großhartmannsdorf.,552.9506225585938,567.1956176757812
+102,225,2,1,Gross Strehlitzer Bank Aktiengesellschaft.,71.17463684082031,88.88339233398438
+103,225,5,1,Volksbank Groß-Zimmern Aktiengesellschaft.,296.73724365234375,316.81689453125
+104,225,8,1,"Elektro-Spar- und Kreditbank, Aktiengesellschaft.",563.3909301757812,581.94873046875
+105,226,2,1,"Hademarscher Spar- u. Leihkasse, A.-G.",72.53743743896484,91.74622344970703
+106,226,5,1,Gewerbe- u. Handelsbank Aktiengesellschaft. ,253.86387634277344,271.8638610839844
+107,226,7,1,Hallesche Effecten- u. Wechselbank Actiengesellschaft.,635.5960693359375,655.2683715820312
+108,227,4,2,"Hallescher Bankverein von Kulisch, Kaempf & Co. //  Hommandit-Ges. auf Aktien.",288.2860412597656,307.18011474609375
+109,229,2,1,Bank für deutsche Arbeit und Sparbank von 1820 Akt.-Ges.,71.2204360961914,90.5176010131836
+110,229,5,1,Commerz- und Privat-Bank Aktiengesellschaft. ,258.7112121582031,275.5275573730469
+111,232,13,1,Deutsche Schiffsbeleihungs-Bank Akt.-Ges. ,452.97161865234375,473.53350830078125
+112,233,4,1,Hamburger Treuhand Aktiengesellschaft.,646.142822265625,662.574462890625
+113,234,8,1,1923 Aktiengesellschaft.,236.57763671875,253.63613891601562
+114,235,4,1,Hanseatische Kreditanstalt für Verkehrsmittel Aktiengesellschaft.,166.9346466064453,184.64340209960938
+115,235,7,1,Waren-Credit-Anstalt in Hamburg. ,318.2168273925781,335.60614013671875
+116,235,12,1,"Gebr. Dammann Bank Kommandit-Ges, auf Aktien.",602.9768676757812,620.3662109375
+117,236,4,1,Hannoversche Gesellschaft für Industrie u. Bankwesen Akt.-Ges.,140.7193145751953,158.38241577148438
+118,236,7,1,Wirtschaftsbank für Niederdeutschland Aktiengesellschaft.,349.6593017578125,367.3223876953125
+119,237,2,1,Handels- und Gewerbebank Heilbronn A.-G.,69.41680145263672,86.8061294555664
+120,237,6,1,"Industrie- und Landbank, Aktiengesellschaft.",560.4847412109375,578.1141967773438
+121,238,4,1,Spar- und Vorschußbank A.-G.,261.663818359375,279.0702819824219
+122,238,9,1,Hertener Volksbank Aktiengesellschaft.,457.4331359863281,473.49505615234375
+123,239,2,1,Schleswig-Holsteinische Bank. ,72.36090087890625,91.80254364013672
+124,240,13,1,Schleibank.,431.6535339355469,446.6333312988281
+125,241,2,1,"Landkreditbank Schleswig-Holstein, Aktiengesellschaft.",72.91305541992188,89.9775619506836
+126,241,5,1,"Vereinsbank Kirchberg, Aktiengesellschaft.",287.9609680175781,304.18408203125
+127,241,8,1,Rheinische Landbank Aktiengesellschaft.,555.2706909179688,574.0531616210938
+128,242,4,1,Bausparkasse Germania Aktiengesellschaft.,204.41871643066406,222.99269104003906
+129,242,8,1,Kölner Kassen-Verein Aktiengesellschaft.,637.8928833007812,654.3245239257812
+130,243,4,1,Rheinisch-Westfälische „Revision“ Treuhand Akt.-Ges.,279.2368469238281,299.1059875488281
+131,243,7,1,Rheinische Banernbank Aktiengesellschaft in Liqu.,546.8107299804688,565.5932006835938
+132,244,4,2,Rheinische Kreditgesellschaft für Haus- und Grundbesitz Aktiengesellschaft.,280.28692626953125,295.4732666015625
+133,244,7,1,Allgemeine Deutsche Credit-Anstalt. ,454.03607177734375,472.9301452636719
+134,248,4,1,Communal-Bank für Sachsen. ,313.4462585449219,331.39031982421875
+135,250,4,1,„Crehag“ Credit- u. Handels-Aktiengesellschaft.,267.6609191894531,287.1025695800781
+136,250,7,1,Leipziger Kassen-Verein Aktiengesellschaft.,534.3538208007812,551.7603149414062
+137,251,4,1,Kreis-Hypothekenbank Lörrach.,125.10381317138672,140.070068359375
+138,251,7,1,Pfälzische Hypothekenbank. ,580.89111328125,595.5443725585938
+139,254,5,1,"Pfälzische Wirtschaftshank, Gemeinnützige Aktiengesellschaft.",523.2100830078125,543.2596435546875
+140,255,4,1,Commerz-Bank in Lübeck. ,262.1130676269531,279.1775817871094
+141,256,28,1,Landwirtschaftlicher Creditverein für das Wendland.,606.5562744140625,626.070068359375
+142,257,4,1,Magdeburger Viehmarkt-Bank.,205.52684020996094,222.91616821289062
+143,257,7,2,"Rheinische Garantiehank, Kautions-Versicherungs-  Aktiengesellschaft.",464.7865295410156,479.44580078125
+144,258,4,1,Treuhand-Aktiengesellschaft Rheinland.,162.31874084472656,180.89271545410156
+145,258,7,1,Getreide-Kredit Aktiengesellschaft in Liqu.,350.3531799316406,371.13726806640625
+146,258,10,1,Mayener Volksbank.,505.16448974609375,526.4481201171875
+147,259,2,1,Meeraner Bank Aktiengesellschaft.,72.42916870117188,89.22179412841797
+148,259,5,1,Revisions- u. Treuhand-Aktiengesellschaft „Thüringen“.,334.6709289550781,354.1125793457031
+149,259,8,1,Krögiser Bank Aktiengesellschaft.,426.0287170410156,444.6026916503906
+150,259,11,1,Sauerländischer Bankverein Akt.-Ges.,621.6181640625,642.1845703125
+151,260,4,1,Aktiengesellschaft für private Vermögensverwaltung.,226.7093048095703,244.37240600585938
+152,260,7,1,Bayerische Landesgewerbebank-Akt.-Ges.,383.0538635253906,401.0538635253906
+153,261,3,12,Bayerische Treuhand-Aktiengesellschaft.,159.0509490966797,175.27403259277344
+154,261,4,50,"Deutsche Allgemeine Treuhand-Aktiengesellschaft,  München-Nürnberg.",530.7428588867188,545.06396484375
+155,262,4,1,"Deutsche Haupthank für Hypothekenschutz, Aktien-Gesellschaft.",196.1177978515625,214.77215576171875
+156,262,7,2,Landesbank bayerischer Grund- und Hausbesitzervereine Äktien-Geselischaft.,556.084716796875,571.2198486328125
+157,263,4,1,Münchener Bankverein Aktiengesellschaft in Liqu.,200.84085083007812,221.11363220214844
+158,263,6,1,"Im Jahre 1930 konnten 20%, im Jahre 1931 10% an am 25./1. 1934. Münchner Beteiligungs-Aktiengesellschaft.",271.6191711425781,288.939453125
+159,263,9,1,"Süddeutsche Holzwirtschaftsbank, Aktiengesellschaft.",445.0794982910156,466.0794982910156
+160,264,4,1,Süddeutsche Treuhand-Gesellschaft A.-G.,479.31671142578125,499.2915344238281
+161,265,4,1,Kreisbank Gladbach Aktiengesellschaft.,134.8106689453125,153.59310913085938
+162,265,7,1,Amylo-Bank Aktiengesellschaft.,434.1883850097656,452.6705017089844
+163,266,4,1,Ostsachsen-Bank Aktiengesellschaft.,173.91766357421875,190.97616577148438
+164,266,8,1,Neustädter Bank.,400.65277099609375,416.80755615234375
+165,267,4,1,Land- und Forstbank Aktiengesellschaft.,176.163818359375,193.57028198242188
+166,267,7,1,Fritz Neumeyer Aktiengesellschaft.,426.3531799316406,447.13726806640625
+167,268,2,1,Pforzheimer Bankverein A.-G.,68.26092529296875,87.70256805419922
+168,268,7,1,Aktien-Gesellschaft.,336.29949951171875,351.40338134765625
+169,268,9,1,"Grund- und Hypothekenbank, Aktiengesellschaft.",576.8369140625,593.5402221679688
+170,269,4,1,Plauener Bank Aktiengesellschaft. ,218.5538787841797,236.5538787841797
+171,270,27,1,Radeberger Bank Aktiengesellschaft.,478.8291931152344,496.14947509765625
+172,271,4,1,Reichenbacher Bank Aktiengesellschaft.,191.31874084472656,209.89271545410156
+173,271,7,1,Norddeutsche Revisions- und Treuhand-Aktiengesellschaft.,512.769287109375,530.4324340820312
+174,272,4,1,Erste Allgemeine Sparversicherungs-Bank A.-G.,125.96672058105469,145.94151306152344
+175,272,6,47,Genossenschaftliche Zentralbank Aktiengesellschaft.,502.9644775390625,524.2481079101562
+176,273,4,20,Treuhand Aktiengesellschaft für Saar- und Rheinland.,343.76348876953125,364.25701904296875
+177,273,5,18,"Schmiedeberger Bank, Aktiengesellschaft.",527.6578369140625,546.3121948242188
+178,274,4,1,Pommersche Bank Aktiengesellschaft. ,298.3466491699219,317.4773864746094
+179,276,2,1,Stollberger Stadtbank Aktiengesellschaft.,69.1708984375,88.61254119873047
+180,276,5,1,Ohr. Pfeiffer Aktiengesellschaft.,371.8408203125,392.11358642578125
+181,276,8,1,Schwäbische Treuhand-Aktiengesellschaft.,602.1760864257812,621.0701293945312
+182,277,4,2,Stuttgarter Kassen-Verein und Effektengirobank  Aktien-Gesellschafi,380.2179260253906,395.5744323730469
+183,277,7,1,Württembergische Finanz-Aktiengesellschaft.,613.9032592773438,634.6873168945312
+184,278,4,1,Bankverein Werther Aktiengesellschaft.,175.90126037597656,192.7175750732422
+185,278,6,1,Industrie- und Gewerbebank Akt.-Ges.,408.01605224609375,424.49627685546875
+186,278,9,1,Bergisch-Märkische Industrie-Gesellschaft ,558.3630981445312,575.4275512695312
+187,280,2,1,"Merkur Treuhand- u. Grundstücksverwaltungs-Aktiengesellschaft,",71.20096588134766,87.42406463623047
+188,280,5,1,J. Wichelhaus P. Sohn Aktiengesellschaft.,243.2115020751953,261.46527099609375
+189,280,8,1,Wurzener Bank.,474.2060546875,490.686279296875
+190,281,4,2,"Zörbiger Bankverein von Schröter, Körner & Comp., //  Kommanditgesellschaft auf Aktien.",221.6860809326172,240.5801239013672
+191,281,6,2,"Zörbiger Creditverein von Lederer, Kotzsch & Co.,  Kommanditgesellschaft auf Aktien.",571.1038208007812,588.5103149414062
+192,282,4,1,"Zwickauer Stadtbank, Aktiengesellschaft.",233.4676513671875,250.52615356445312
+193,282,9,1,"Schachtbau, Asphaltgewinnung und -Verarbeitung. Actien-Gesellschaft Frankenberg.",591.8676147460938,608.9261474609375
+194,283,4,1,Barbara Akt.-Ges. in Liqu.,158.35382080078125,175.76028442382812
+195,283,7,1,Gemeinnützige Siedlungs-Aktiengesellschaft Altona.,285.9360656738281,304.83013916015625
+196,283,10,1,"Thormaim & Stiefel, Aktiengesellschaft.",465.1474609375,484.3562316894531
+197,284,4,1,„AGEKA“ Aktiengesellschaft für Kleinwohnungsbau.,150.64100646972656,169.1988067626953
+198,284,7,1,Aktiengesellschaft für Büro- u. Geschäftshausausbauten in Liqu.,350.01971435546875,370.3071594238281
+199,284,10,1,Aktiengesellschaft für Eisenbeton- und Tiefbau in Liau.,464.9753112792969,480.8497314453125
+200,284,13,1,Aktiengesellschaft für Grundstücksverwaltung und Außenhandel.,630.3009643554688,647.4473876953125
+201,285,4,1,Aktiengesellschaft für Handel und Grundbesitz in Liqu.,126.04521179199219,143.79281616210938
+202,285,7,1,Alexahaus Aktiengesellschaft.,245.16763305664062,262.22613525390625
+203,285,10,1,Allgemeine Berliner Grundstücks-Aktiengesellschaft.,436.3860778808594,455.2801513671875
+204,285,13,1,Allgemeine Boden-Aktiengesellschaft in Liqu. ,615.8682250976562,636.4346313476562
+205,286,4,1,Anker Grundstücks-Aktiengesellschaft.,286.56561279296875,304.81390380859375
+206,286,7,1,„Astra“ Grundstücks-Aktiengesellschaft.,432.4360656738281,451.33013916015625
+207,286,10,1,Augsburger Str. 37 Grundstücksverwertungs-Aktiengesellschaft.,616.8135986328125,635.1436767578125
+208,287,2,2,"Augusta, Hausverwaltungs- und Grunderwerbs-  Aktiengesellschaft in Liqu.",84.9874496459961,104.19623565673828
+209,287,5,1,Baufmanzierimg Aktiengesellschaft.,199.28912353515625,214.68368530273438
+210,287,8,1,Baugesellschaft Kurfürstenstraße Aktiengesellschaft.,355.37091064453125,374.81256103515625
+211,287,11,1,Bellevue Grundstücks-Aktiengesellschaft.,554.277587890625,571.3361206054688
+212,288,2,1,Bellevue Immobilien Aktiengesellschaft.,67.93608093261719,86.83012390136719
+213,288,5,1,"Julius Berger, Tiefbau-Aktiengesellschaft. ",352.7787170410156,371.3526916503906
+214,290,4,1,Berlinerstraße 86/87 Grundstücks-Aktiengesellschaft.,408.494873046875,430.2660827636719
+215,290,7,1,Berliner Terrain- u. Bau-Aktiengesellschaft.,533.513671875,551.84375
+216,291,4,1,Berlinische Grundbesitz Aktiengesellschaft.,234.45001220703125,254.49957275390625
+217,291,7,1,„Berra“ Bau-Gesellschaft auf Aktien.,378.663818359375,396.0702819824219
+218,291,10,1,Beton- und Monierbau Aktien-Gesellschaft. ,570.9708862304688,590.4125366210938
+219,293,36,1,"Biabag, Bau- u. Industriebeteiligungs-Akt.-Ges. in Liqu.",500.8138732910156,518.8139038085938
+220,293,38,10,Bodengesellschaft am Hochbahnhof Schönhauser Allee //  Aktien-Gesellschaft in Liqu.,619.1536254882812,637.4837036132812
+221,294,4,1,Boswau & Knauer Aktiengesellschaft. ,208.13999938964844,231.11793518066406
+222,296,10,2,"Brandenburgische Bahn-, Straßen- und Tiefbau-  Aktiengesellschaft.",359.4706726074219,374.6784973144531
+223,296,12,1,Brandenburgische Grundwert Aktiengesellschaft.,620.864501953125,642.1481323242188
+224,297,3,12,Brüstra Grunderwerbs-Akt.-Ges. in Liqu.,164.37144470214844,182.62521362304688
+225,297,4,10,„Bubiag“ Grundstücksaktiengesellschaft.,271.420654296875,290.2030944824219
+226,297,5,18,Bürohaus der Berliner Stadtsynode Akt.-Ges.,440.0706787109375,458.8531188964844
+227,297,7,1,Cornelia Hausverwaltungs- und Grunderwerbs-Akt.-Ges. in Liqu.,603.4660034179688,619.9462280273438
+228,298,2,1,Dachdeckung und Bauindustrie Aktiengesellschaft.,69.04080963134766,89.3135757446289
+229,298,5,1,Deutsche Bau- und Grundstücks-Aktiengesellschaft.,254.98690795898438,271.6902160644531
+230,298,8,1,Deutsche Boden-Akt.-Ges.,528.0692749023438,545.732421875
+231,299,4,2,"Deutsche Gesellschaft zur Förderung des Wohnungsbaues,  gemeinnützige Aktiengesellschaft.",134.0606689453125,152.84310913085938
+232,299,5,27,Domus-Bau-Aktiengesellschaft.,377.52239990234375,392.14752197265625
+233,299,7,1,Domus bona Grundstücks-Akt.-Ges. zu Berlin in Liqu.,538.5447998046875,556.1742553710938
+234,299,9,1,Domus optima Grundstücks-Akt.-Ges. zu Berlin in Liqu.,640.3563232421875,658.3003540039062
+235,300,4,1,Elsnerhaus Aktiengesellschaft.,122.1787338256836,140.75270080566406
+236,300,7,1,Elysium Grundstücks-Aktiengesellschaft.,314.00927734375,331.67236328125
+237,300,10,1,Emrovita Hausverwaltung Oranienburgerstraße Akt.-Ges.,440.7244873046875,462.0080871582031
+238,300,13,1,„Erda“ Aktiengesellschaft für Bodenbesitz und Hypotheken.,604.9287109375,623.502685546875
+239,301,2,1,Europahaus Aktiengesellschaft.,69.53911590576172,84.93367767333984
+240,301,5,1,Farche Grundstücks-Verwaltungs-Aktiengesellschaft.,282.77911376953125,305.5603332519531
+241,301,8,1,Feldag Grundstücks-Aktien-Gesellschaft.,417.90130615234375,435.04730224609375
+242,301,11,1,„Freia“ Grundstücksverwertungs-Aktiengesellschaft.,580.0051879882812,597.7527465820312
+243,302,4,1,"Friedrich-Wilhelmstädtisches Theater Verwaltimgs-A,-G.",171.80189514160156,191.38739013671875
+244,302,7,1,Große Frankfurterstraße 12—13 Grundstücks-Aktiengesellschaft.,317.95220947265625,334.5166320800781
+245,302,10,1,Grund und Boden Aktiengesellschaft für Realwerte.,490.6448059082031,508.27423095703125
+246,303,2,1,Grunderwerbs- u. Verwertungs-Akt.-Ges. Zentrum.,71.66120147705078,88.47753143310547
+247,303,5,2,Grundstück Hochstraße 2—4 Aktiengesellschaft.,282.9614562988281,301.2152404785156
+248,303,8,1,Grundstücks-Aktiengesellschaft Augustus.,470.33099365234375,488.8887634277344
+249,303,11,1,Gnmdstücks-Akt.-Ges. Carolus.,567.61669921875,588.448974609375
+250,304,2,1,Grundstücks-Akt.-Ges. Dido.,68.82551574707031,88.1951675415039
+251,304,5,1,Grundstücks-Akt.-Ges. Großstadt-Idyll.,175.94627380371094,193.89031982421875
+252,304,8,1,Grundstücks-Aktiengesellschaft Hermes.,259.21307373046875,276.277587890625
+253,304,11,1,Grundstücks-Aktiengesellschaft Krimhild in Liqu.,373.7562561035156,391.7003173828125
+254,304,14,1,Grundstücks-Aktiengesellschaft Neuland.,514.8522338867188,531.4166870117188
+255,304,18,1,"Grundstücks-Akt.-Ges. Paulshornerstraße,",629.6962890625,647.6403198242188
+256,305,4,1,Grundstücks-Aktiengesellschaft Romains.,159.9331512451172,175.99505615234375
+257,305,7,2,"Grundstücksgesellschaft Berliner Straße 165, 167, 168 Aktiengesellschaft.",315.1969299316406,330.3832702636719
+258,305,10,2,Grundstücks-Gesellschaft Kaiserin Augustastr. 57  Aktiengesellschaft.,555.690185546875,570.8853759765625
+259,306,2,2,Grundstücksgesellschaft Stubenrauchstr. 51/52  Aktiengesellschaft.,86.40422821044922,101.5809326171875
+260,306,5,1,Grundstücks-Ges. Wittenhergplatz Akt.-Ges.,207.0638885498047,225.0638885498047
+261,306,8,1,Grundstücksverwaltungs-Akt.-Ges. Bellevuestraße 13.,403.9419860839844,426.25775146484375
+262,306,11,1,"Grundstücksverwaltungsgesellschaft Inselstraße 7, Akt.-Ges.",552.20361328125,570.53369140625
+263,307,2,1,Grundverwertungs- Aktiengesellschaft.,70.62236022949219,85.761962890625
+264,307,5,1,Grundwert Aktiengesellschaft Kaiserdamm.,227.7831268310547,243.84503173828125
+265,307,8,1,Grunewaldstraße 63 Grundstücks-Verwaltungs-Akt.-Ges.,377.31231689453125,398.8758239746094
+266,307,10,1,Gruwag Grundstücksverwaltungsaktiengesellschaft in Liqu.,459.86669921875,479.8415222167969
+267,307,13,1,„Habe“ Haus- u. Boden-Akt.-Ges.,613.5408325195312,633.8135986328125
+268,308,2,1,Habermann & Guckes-Lietoold Aktiengesellschaft. //,45.08696746826172,94.38407135009766
+269,309,14,1,Hamarro Grunderwerbs-Akt.-Ges. in Liqu.,639.8606567382812,658.6431274414062
+270,310,3,26,"Handelsvereinigung für Industriewerte, Akt.-Ges.",285.65673828125,305.6315612792969
+271,310,4,19,"Haus Bernburger Straße 26, Grundstücks-Aktiengesellschaft.",464.9374694824219,484.146240234375
+272,310,5,12,Haus Katharinenstraße 4 Aktiengesellschaft.,594.4432373046875,615.227294921875
+273,311,2,1,Haus Oranienburg Grundstücks-Aktiengesellschaft.,66.71968841552734,87.00712585449219
+274,311,5,1,"Haus Schönhauser Allee 121, Grundstücks-Akt.-Ges.",175.3304443359375,193.63836669921875
+275,311,7,1,Haus Uhlandstraße 15 Akt.-Ges.,261.6372375488281,281.71685791015625
+276,311,10,1,Kapital: 10 000 RM in 20 Aktien zu 500 RM. I Haus der Technik Aktiengesellschaft.,377.6009521484375,393.8240661621094
+277,311,12,1,Haus Weimarerstraße 27/28 Aktiengesellschaft.,629.6106567382812,648.3931274414062
+278,312,4,1,Hausbaugesellschaft Kanzowstraße Akt-Ges.,120.50627136230469,138.4503173828125
+279,312,6,1,Heimdall Handels-Aktiengesellschaft.,266.6468200683594,286.5159606933594
+280,312,9,1,„Hubertus“ Grundstücks-Aktiengesellschaft.,395.27069091796875,414.0531311035156
+281,312,11,1,Industrie u. Wohnhaus Akt.-Ges.,516.8278198242188,532.4351806640625
+282,312,14,1,Industrie-Baugesellschaft Centrum am Bülowplatz Akt.-Ges.,636.7462768554688,654.6903076171875
+283,313,4,1,Industriehaus Lindowerstraße Aktiengesellschaft.,187.68081665039062,207.95359802246094
+284,313,7,1,„Inva“ Grundstücks- und Handels-Aktien-Gesellschaft*,344.2895202636719,365.2895202636719
+285,313,9,1,Invalidenstraße 5 Grundstücksaktiengesellschaft.,436.4428405761719,452.87451171875
+286,313,12,1,Georg Jacobowitz Baugeschäft Aktiengesellschaft.,563.0966186523438,582.2273559570312
+287,314,3,18,Juliana Grundstücks-Aktiengesellschaft.,190.802001953125,209.80697631835938
+288,314,6,2,"Kaiser-Friedrichstrasse 43, Charlottenburg,  Grundstücks-Erwerbs- u. Verwertungs-Aktiengesellschaft.",325.57684326171875,342.9661560058594
+289,314,7,12,Kalckreuthstraße Grundstücks-Aktiengesellschaft.,445.566650390625,466.39892578125
+290,314,8,7,Königsberger Grundwert Aktiengesellschaft.,533.6062622070312,551.55029296875
+291,315,2,1,Köstra Grunderwerbs-Akt.-Ges. in Liqu.,67.63622283935547,86.71478271484375
+292,315,5,1,„Konkordia“ Grundstücksverwaltungs-Akt.-Ges.,167.43682861328125,187.30596923828125
+293,315,7,1,Kontor-Haus Aktien-Gesellschaft.,325.3560485839844,341.8362731933594
+294,315,9,1,Kosmos Aktiengesellschaft für Grundbesitz.,497.51068115234375,516.2931518554688
+295,315,11,1,Kreuzzeitung Grundstücks Aktiengesellschaft.,630.2114868164062,648.4652099609375
+296,316,4,1,"120 000, Gebäude 178 200, Umlaufsvermögen 4629, Posten  Kronenburg Hausverwaltungs- u. Grunderwerbs-Akt.-Ges. in Liqu.",143.12307739257812,160.1875762939453
+297,316,7,1,"Lambertus, Finanzierungs- und Baugesellschaft Akt.-Ges.",253.4714813232422,271.7252502441406
+298,316,10,1,Land Parzellierungs-Aktien-Gesellschaft in Liqu.,408.55279541015625,423.79736328125
+299,316,13,1,Lichtenberger Handels-Aktiengesellschaft.,529.26123046875,546.0775756835938
+300,316,15,1,Lichtenberger Terrain-Aktiengesellschaft. ,619.510986328125,635.7340698242188
+301,318,4,1,Liegenschaftsnutzungs-Akt-Ges.,214.90492248535156,230.146728515625
+302,318,7,1,Lübecker Straße 48 Grundstücks-Akt.-Ges.,318.6538391113281,336.6538391113281
+303,318,10,1,Maaßenstraße 14 Grundstücksverwertungs-Aktiengesellschaft.,438.81671142578125,458.7915344238281
+304,318,13,1,Mädler’sche Grundstücks-Verwertungs-Aktiengesellschaft.,568.7686767578125,587.3426513671875
+305,319,4,1,Märkische Bau- und Grundstücksverwertungs-Akt.-Ges.,141.40623474121094,159.35028076171875
+306,319,6,1,Magdeburgische Grundwert Aktiengesellschaft.,404.0216369628906,424.5835266113281
+307,319,8,1,Marburgerstrasse 16 Gnmdstücksverwertungs-Akt.-Ges.,557.2657470703125,571.7677612304688
+308,320,2,1,„Mowega“ Grundstücksverwertungs-Aktiengesellschaft.,67.47049713134766,86.76766204833984
+309,320,4,1,Mundus Grundstiicks-Verwaltungs-Aktiengesellschaft.,229.0157012939453,250.5747833251953
+310,320,6,1,Neue Berliner Bau- und Boden-Aktiengesellschaft.,372.10125732421875,388.9176025390625
+311,320,9,1,Neue Grünstraße 39 Grundstücks-Akt.-Ges. in Liqu.,503.1114807128906,521.365234375
+312,320,11,1,Norddeutsche Grundstücks-Aktiengesellschaft.,614.7900390625,634.5890502929688
+313,321,3,6,Nordhausener Str. 23 Hausverwaltungs-Akt.-Ges*,113.5874252319336,132.79620361328125
+314,321,4,13,"Nord-Süd Bau-Aktiengesellschaft für Siedlungs-, Hoch-, Tief- und Eisenbetonbau.",253.33314514160156,269.3950500488281
+315,321,6,1,„Potsdamer Brücke“ Bau-Akt.-Ges. ■al-von-Scliroeder-Straße 6.,478.3226013183594,492.3935852050781
+316,321,6,19,Priko Grundstücksverwaltungs-Aktiengesellschaft.,624.119140625,640.9118041992188
+317,322,2,1,Radius Grundstücks-Akt.-Ges.,66.72850799560547,86.47673797607422
+318,322,4,1,Real-Interessen Aktien-Gesellschaft.,182.37924194335938,199.171875
+319,322,6,1,Reale Grundstücks-Aktiengesellschaft.,305.8609619140625,325.3026123046875
+320,322,8,1,„Revag“ Grundstücksverwaltungs-Aktiengesellschaft.,461.43695068359375,478.1402587890625
+321,322,10,1,Rittereck Grundstücks-Aktien-Gesellschaft.,636.9432373046875,657.727294921875
+322,323,3,11,Sächsische Grundwert-Aktiengesellschaft.,153.14083862304688,173.4136199951172
+323,323,5,1,Saxonia Grundstücks-Aktiengesellschaft.,351.6592712402344,369.3223571777344
+324,323,7,1,Schrobsdorff Grundstücksverwaltung Aktiengesellschaft.,501.1167297363281,521.091552734375
+325,323,8,14,Sedes Grundstücks-Aktiengesellschaft.,638.9048461914062,660.676025390625
+326,324,8,1,Terrain-Aktiengesellschaft Nieder-Schönhausen in Liqu.,330.0768127441406,347.46612548828125
+327,324,11,2,Terrain-Gesellschaft am Teltow-Canal Rudow-Johannisthal // Aktiengesellschaft.,502.9626159667969,517.6666259765625
+328,326,2,1,Terraingesellschaft Frankfurter Chaussee. ,75.29521179199219,93.04281616210938
+329,327,10,1,Tiergartenviertel-Bau-Actien-Gesellschaft.,408.63739013671875,423.3086853027344
+330,327,13,1,Vorort Steglitz Grundstücks-Verwertungs-Aktiengesellschaft.,532.7461547851562,551.82470703125
+331,327,16,2,Wiederaufbau-Aktien-Gesellschaft für Errichtung von  Hochbauten „Widag“.,647.0767822265625,664.4661254882812
+332,328,4,1,Wilhelmsaue Terrain-Akt-Gesellschaft.,205.13690185546875,221.8402099609375
+333,328,8,1,Wilmersdorfer Straße 143/144 Grundstücks-Akt.-Ges.,370.0287170410156,388.6026916503906
+334,328,11,1,Winnifred Grundstücks-Verwaltungs-Aktiengesellschaft.,504.5609130859375,524.0025634765625
+335,328,14,1,H. Wittner Aktiengesellschaft für Baustoffe.,639.0966186523438,658.2273559570312
+336,329,4,1,"Wochenend West, Grundstücks-Aktiengesellschaft.",142.88848876953125,162.63671875
+337,329,7,1,"Wörther Straße 10, Aktiengesellschaft.",316.0066223144531,335.1373596191406
+338,329,10,2,"Wohnungshaugesellschaft Eintracht,  Gemeinnützige Aktiengesellschaft.",434.5755920410156,452.8238830566406
+339,330,4,1,"„Zukunft“ Akt.-Ges. für Patentverwertung,",236.81381225585938,254.22027587890625
+340,330,7,1,Bielefelder Baugesellschaft Akt.-Ges. in Liqu.,373.7566223144531,392.8873596191406
+341,330,10,1,Hammermühle Bischofsheim Aktiengesellschaft.,514.6452026367188,532.3927612304688
+342,331,2,1,Baugesellschaft Heilbronn A.-G.,69.33839416503906,87.82051849365234
+343,331,5,1,Bontal Aktiengesellschaft.,322.2166442871094,338.3531188964844
+344,331,8,1,Europahaus Aktien-Gesellschaft.,502.4463195800781,520.390380859375
+345,332,2,1,Hohentors-Grundstücks-Aktiengesellschaft.,71.63822937011719,86.63822937011719
+346,332,5,1,Huta Hoch- und Tiefbau-Aktiengesellschaft. ,397.1551818847656,414.9028015136719
+347,334,13,1,"Schlesische Bau-Aktien-Gesellschaft Pfeffer, Pringsheim & Co.",462.13604736328125,481.0301208496094
+348,335,2,1,Schlesische Immobilien-Aktien-Gesellschaft. ,64.31449890136719,85.5981216430664
+349,335,4,1,Schlesische Industriebau Lenz & Co. Aktiengesellschaft.,493.1295166015625,514.1295166015625
+350,336,2,1,Terrain-Aktien-Gesellschaft Grabscheit. ,65.4499740600586,85.24897003173828
+351,336,7,1,Terrain-Aktiengesellschaft Kleinburg. ,567.3714599609375,585.6251831054688
+352,337,6,2,Hessische gemeinnützige Aktiengesellschaft  für kleine Wohnungen.,465.86273193359375,482.01751708984375
+353,338,3,5,Ballgesellschaft Westfalen Aktiengesellschaft.,108.4592514038086,126.12234497070312
+354,338,5,27,"Löwenbrauerei vorm. Peter Overbeck, Aktien-Gesellschaft.",351.2138366699219,369.2138366699219
+355,338,7,24,Ruhrwohnungsbau-Aktiengesellschaft*,570.0699462890625,585.0281372070312
+356,339,3,72,Westfälische Werkswohnungs-Aktiengesellschaft.,619.4039306640625,637.4039306640625
+357,340,7,1,Garagen Aktiengesellschaft.,346.3609619140625,365.8026123046875
+358,340,9,1,Gemeinnützige Wohnungsbau-Aktiengesellschaft (Gewobag).,594.7374877929688,613.9462890625
+359,341,4,1,"Gemeinnütziger Bauverein, Aktiengesellschaft.",263.793212890625,284.5773010253906
+360,341,7,1,Gretschel & Ulbrich Aktiengesellschaft.,547.5038452148438,564.9103393554688
+361,342,4,1,Grundstücksgesellschaft Dresden-Johannstadt Aktiengesellschaft.,104.88690948486328,121.59020233154297
+362,342,7,1,Allgemeine Hoch- und Tiefbau-Aktiengesellschaft.,386.15386962890625,404.15386962890625
+363,343,4,1,"Baugesellschaft Reisholz, Aktiengesellschaft.",105.8038330078125,123.21029663085938
+364,343,6,22,Benrather Aktiengesellschaft für gemeinnützige Bauten.,305.83746337890625,325.0462341308594
+365,343,8,24,Düsseldorfer Ton- und Ziegelwerke Aktiengesellschaft.,495.5609130859375,515.0025634765625
+366,344,2,1,Gebrüder Goedhart Aktiengesellschaft. ,64.9000473022461,84.69904327392578
+367,345,33,1,"Gebrüder Kiefer, Aktiengesellschaft.",519.3422241210938,535.9066772460938
+368,346,4,1,Rheinische Werkswohnungs-Aktiengesellschaft.,167.91673278808594,187.8915252685547
+369,346,7,5,Wohnungsbau-Aktiengesellschaft Duisburg.,480.8208923339844,500.2625427246094
+370,346,10,1,Grundstücksaktiengesellschaft Moltkestraße.,627.61376953125,645.020263671875
+371,347,3,67,Issen Aktiengesellschaft. Allbauhaus (am Oettingplatz).,564.4829711914062,578.4091796875
+372,348,4,1,Dortmunder Grundstücks-Aktiengesellschaft.,326.71148681640625,344.96527099609375
+373,348,8,1,vorm. Gehr . Helfmann.,564.0560913085938,580.5363159179688
+374,351,3,8,Rheinisch-Westfälische Werkswohnungs- Aktiengesellschaft.,123.96380615234375,141.37026977539062
+375,351,5,41,Actiengesellschaft Vulcan.,472.3028259277344,488.7344970703125
+376,351,7,18,Aktiengesellschaft für Kapital-Anlagen.,632.11376953125,649.520263671875
+377,352,3,9,Aktien-Gesellschaft zur gemeinnützigen  Beschaffung von Wohnungen.,149.22915649414062,166.5494384765625
+378,352,5,24,Bau- und Ansiedelungs-Aktiengesellschaft.,365.7192687988281,383.3823547363281
+379,352,7,22,Frankfurter Boden-Aktiengesellschaft.,565.1192626953125,582.7824096679688
+380,353,4,1,Philipp Holzmann Aktiengesellschaft. ,172.60284423828125,189.03451538085938
+381,356,41,1,Kübeihaus -Verwaltungs - Akt. - Ges.,628.8896484375,643.4260864257812
+382,357,4,1,"Neue Baugesellschaft Wayss & Freytag, Aktiengesellschaft.",169.2109375,188.652587890625
+383,358,5,1,"Wayß & Freytag, Akt.-Ges.",308.91766357421875,325.9761657714844
+384,361,4,1,Freiburger Gemeinnützige Baugesellschaft Aktiengesellschaft.,132.8472137451172,150.8691864013672
+385,361,7,1,Freiburger Wohnungsbau Aktiengesellschaft.,226.0304412841797,245.3275909423828
+386,361,10,1,Oberrheinische Bauindustrie Akt.-Ges. in Liqu.,397.30218505859375,413.8666076660156
+387,361,13,1,W. Wessling Aktiengesellschaft.,608.4130859375,625.4775390625
+388,362,4,1,Odenkircheper Aktien-Baugesellschaft.,144.62449645996094,165.9081268310547
+389,362,7,1,Rheydter Actien-Baugesellschaft.,367.31927490234375,384.98236083984375
+390,362,10,1,Kleinwolmungsbau Halle Aktiengesellschaft.,619.7638549804688,637.7638549804688
+391,363,4,1,Aktiengesellschaft für Bau- und Grundstücksbedarf.,378.18841552734375,396.6705322265625
+392,363,7,1,Bauhütte Groß-Hamburg Aktiengesellschaft.,533.91748046875,554.2738647460938
+393,364,2,1,Bauverein zu Hamburg Aktiengesellschaft.,73.2113265991211,90.35731506347656
+394,364,5,1,„Haus des Fortschritts“ Aktiengesellschaft.,351.663818359375,369.0702819824219
+395,364,8,1,Messehaus Aktiengesellschaft.,589.1067504882812,609.08154296875
+396,365,2,1,Norddeutsche Asphalt-Aktien-Gesellschaft.,71.84519958496094,89.59280395507812
+397,365,5,1,Seelhorst Grundstücks-Aktiengesellschaft.,263.646240234375,282.4609375
+398,365,8,1,Hildener Aktien-Bau-Gesellschaft.,419.7187194824219,438.2926940917969
+399,365,12,2,"Gemeinnützige Ballgesellschaft zu Hildesheim,  Aktiengesellschaft.",601.2042236328125,616.3809204101562
+400,366,4,1,"Villenkolonie Hildesheim, Akt.-Ges.",173.84475708007812,191.4741973876953
+401,366,7,1,Akt.-Ges. für Kleinwohnungsbau in Hofheim a. Ts.,353.490966796875,372.0487365722656
+402,366,10,1,Badische Grundwert Aktiengesellschaft.,533.9872436523438,554.0668334960938
+403,367,2,1,Nordische Ballgesellschaft Aktiengesellschaft.,71.07869720458984,89.65267181396484
+404,367,5,1,Gebrüder Ottenheimer Aktien-Gesellschaft.,226.27761840820312,243.33612060546875
+405,367,8,1,Aktiengesellschaft für Grundbesitz.,390.5032043457031,411.28729248046875
+406,367,11,1,Balsam Aktiengesellschaft.,587.9231567382812,603.9850463867188
+407,368,4,1,Grundstücks-Verwertungs-Aktien-Gesellschaft.,166.12289428710938,181.14312744140625
+408,368,7,1,Heimwohl Aktiengesellschaft Mivremia.,299.0256042480469,317.2738952636719
+409,368,10,1,Kölnische Hausbesitz-Aktiengesellschaft.,492.3638610839844,510.3638610839844
+410,369,4,1,Wohnbau Akt.-Ges. Köln.,235.41685485839844,252.80618286132812
+411,369,7,1,Akt.-Ges. für Grundstücksverwertung.,409.9560852050781,426.4363098144531
+412,369,10,1,Aktiengesellschaft für Haus- und Grundbesitz.,592.0631103515625,609.1275634765625
+413,370,4,2,"„Baupflege“, Aktiengesellschaft für Arealverwertung  und Grandstückserhaltung.",351.4291687011719,368.2218017578125
+414,370,8,1,Freie Wohnungsbau-Aktiengesellschaft.,513.128662109375,531.70263671875
+415,371,2,1,Grundbesitz-Aktiengesellschaft zu Leipzig.,69.50666046142578,90.33892059326172
+416,371,5,1,Grundstücks-Aktiengesellschaft in Liqu.,440.1962585449219,458.14031982421875
+417,371,8,1,Grundstücks-Aktiengesellschaft Markt.,572.1809692382812,590.73876953125
+418,372,2,1,Schlosskellerbau Aktiengesellschaft.,72.36564636230469,90.61392974853516
+419,372,5,1,Wohnungshaugesellschaft Leipzig-West Akt.-Ges.,210.95677185058594,230.9315643310547
+420,372,8,1,"Zentrale für Wohnungsbaugesellschaften, Aktiengesellschaft.",447.8285217285156,467.5767517089844
+421,372,11,1,Auerswald & Sauerhrunn Aktiengesellschaft. ,643.1038818359375,660.5103759765625
+422,373,5,1,Hansa-Haus Aktien-Gesellschaft.,267.2787170410156,285.8526916503906
+423,373,8,1,Mannheimer Börsenbau-Aktiengesellschaft.,446.23907470703125,461.6336364746094
+424,374,2,1,Baugesellschaft Widenmayerstraße Akt.-Ges.,69.51390075683594,87.51390075683594
+425,374,5,1,Bayerische Immobilien-Gesellschaft.,212.89627075195312,231.71095275878906
+426,374,8,1,Bayerische Wohnstätten Aktiengesellschaft.,475.5874938964844,494.7962646484375
+427,375,2,1,Bayerisches Bauwerk^ Akt.-Ges.,72.27452850341797,89.00730895996094
+428,375,5,1,Fundus Akt.-Ges. für Grundbesitz u. Grundstücksverwaltung.,241.05218505859375,257.6166076660156
+429,375,7,1,Grund-Besitz- unc,408.5609436035156,424.7840576171875
+430,375,12,1,Hausgesellschaft Dachauerstrasse München Aktiengesellschaft.,497.0214538574219,515.2752075195312
+431,376,3,6,Immohiliengesellschaft München-Berlin Aktiengesellschaft. //,107.18043518066406,137.47857666015625
+432,378,9,1,Lindwurmhof-Aktiengesellschaft in Liqu.,527.9638671875,545.9638671875
+433,378,10,10,München-Pasinger Terraingesellschaft Aktiengesellschaft. ///,628.1331787109375,655.0772705078125
+434,379,6,1,"Münchener Wohnungsfürsorge, Aktiengesellschaft.",301.57916259765625,318.3717956542969
+435,379,9,1,„Orag“ Aktiengesellschaft für Schneidereibedarf.,632.0860595703125,650.9801025390625
+436,380,4,1,Süddeutsche Held & Francke Bauaktiengesellschaft.,249.16094970703125,268.60260009765625
+437,380,6,2,„Südhaiis“ Grundstücksverwaltungs- und Verwertungs- Aktiengesellschaft.,546.4869384765625,561.6732788085938
+438,381,4,1,Terrainaktiengesellschaft Bavaria.,187.44627380371094,205.39031982421875
+439,381,7,1,Terrain-Aktiengesellschaft Herzogpark München-Gern. ///,440.5310974121094,476.3023986816406
+440,382,8,1,Gladbacher Actien-Baugesellschaft.,513.1018676757812,532.6873779296875
+441,383,2,1,Bremer-Häuser-Actien-Gesellschaft.,75.16136169433594,90.24960327148438
+442,383,5,1,Deutsche Schachtbau-Aktiengesellschaft. ,226.26766967773438,243.326171875
+443,385,2,1,Tiefbau- u. Kälteindustrie-Akt.-Ges. vorm. Gebhardt & Koenig. //,70.11549377441406,89.48514556884766
+444,387,2,1,Nürnberger Wohnungs-Verein Aktiengesellschaft.,70.48463439941406,88.19338989257812
+445,387,5,1,Wohnungs- und Bau-Aktiengesellschaft Oberhausen.,262.3999938964844,282.198974609375
+446,387,8,1,Grundstücksverwertungs-Aktiengesellschaft Oberhof.,476.8752746582031,492.74969482421875
+447,387,11,1,Bauverein H. L. Sterkel A.-G. in Liqu.,631.90625,649.8502807617188
+448,388,8,1,Deutsche Grimdbesitz-Akt.-Ges.,374.30780029296875,392.962158203125
+449,388,11,1,Grundstück Aktiengesellschaft Saarbrücken.,518.0167846679688,537.9915771484375
+450,389,2,1,Obertor Geschäftshaus Aktiengesellschaft.,64.5787582397461,83.1527328491211
+451,389,3,16,"Saarow-Pieskow, Landhaus-Siedlung am Scharmützelsee, Akt.-Ges. in Liqu.",219.84519958496094,237.59280395507812
+452,389,4,17,Bahnhofplatz-Ges. Stuttgart Akt.-Ges.,379.1466369628906,398.2773742675781
+453,390,2,1,Bau-Aktiengesellschaft Königstrasse.,63.22562789916992,81.47391510009766
+454,390,4,1,"Haus Wiesenstraße Nr,",205.5709228515625,225.0125732421875
+455,390,9,1,Xndustriehof-Akt.-Ges.,359.3176574707031,374.01495361328125
+456,391,4,1,Kontorhaus Merkur Aktiengesellschaft,210.08741760253906,229.29620361328125
+457,391,7,1,Schloßgartenbau-Aktiengesellschaft,357.81610107421875,373.0431213378906
+458,391,11,1,Stuttgarter Gemeinnützige Baugesellschaft Akt.-Ges.,631.4969482421875,653.5423583984375
+459,392,4,1,Uhlandshöhe Akt.-Ges. für Grundstücksverwaltung.,226.0304412841797,245.3275909423828
+460,393,2,1,"Ed. Züblin & Cie., Aktiengesellschaft.",72.11873626708984,90.69271087646484
+461,393,3,37,Wohnungsbau-Aktiengesellschaft.,382.78680419921875,397.8414611816406
+462,393,4,16,Aktien-Baugesellschaft Uerdingen.,540.2276611328125,557.2861938476562
+463,394,2,1,Wohnungsverein Ulm.,78.46920013427734,95.78948974609375
+464,394,5,2,"Gemeinnützige Bau- und Wohnungsgesellschaft,  Aktien-Gesellschaft.",293.47210693359375,308.5461730957031
+465,394,8,1,Weimar-Halle Aktiengesellschaft.,387.1038513183594,404.51031494140625
+466,394,11,1,Alsterthal-Terrain-Actiengesellschaft in Liqu.,624.34326171875,645.1273193359375
+467,395,4,1,Dyckerhoff & Widmann Aktiengesellschaft. ,207.86383056640625,225.27029418945312
+468,398,5,2,"Actiengesellschaft zur Erbauung billiger Wohnungen,  namentlich zum Besten von Arbeitern.",344.3609619140625,363.8026123046875
+469,398,8,1,Barmer Baugesellschaft für Arbeiterwohnungen A.-G.,563.7676391601562,580.826171875
+470,399,4,1,Deutsch-Spanische Immobilien-Gesellschaft.,326.5028381347656,342.93450927734375
+471,399,9,1,"Erdöl-, Torf- und Graphit-Gewinnung, Walzwerke, Gießereien mit Hochöfen. Frank’sche Eisenwerke, Aktiengesellschaft.",490.056640625,509.1873779296875
+472,400,3,39,Zwitterstocks-Aktiengesellschaft.,380.5643615722656,395.72772216796875
+473,400,4,29,Deutsche Tiefhohr-Aktiengesellschaft.,633.486083984375,652.380126953125
+474,401,3,15,Stahlwerk Augustfehn A. G.,187.50363159179688,205.833740234375
+475,401,4,23,Bantorfer Kohlenzechen Aktiengesellschaft.,402.7593078613281,420.4223937988281
+476,401,6,1,Duxer Kohlenverein in Liqu.,512.452880859375,528.884521484375
+477,401,8,12,Kali-Chemie Aktiengesellschaft. ,643.3036499023438,661.6337280273438
+478,407,3,9,Niederlausitzer Kohlenwerke. ,138.46119689941406,155.2775115966797
+479,409,21,1,Oehringen Bergbau Aktiengesellschaft.,365.4791564941406,382.27178955078125
+480,410,2,2,„Phönix“ Aktiengesellschaft für Braunkohlenverwertung zu Berlin. //,66.34974670410156,101.12031555175781
+481,411,29,1,Preußengrube Aktiengesellschaft ,551.296875,568.0001831054688
+482,413,16,1,Wintershall Aktiengesellschaft. ,461.3187255859375,479.8927001953125
+483,418,4,1,Deutsche Solvay-Werke-Aktien-Gesellschaft. ,561.9960327148438,581.6683349609375
+484,421,2,1,Schlesische Bergwerks- u. Hütten-Aktiengesellschaft. //,47.2563591003418,90.59208679199219
+485,423,11,1,Neuburger Kieselweiß.,321.0346374511719,338.743408203125
+486,425,25,1,Bremer Torfwerke Aktiengesellschaft.,291.3260498046875,310.2201232910156
+487,425,28,1,„Ebag“ Erdölbergbau-Aktiengesellschaft.,486.13690185546875,502.8402099609375
+488,426,4,1,Harpener Bergbau-Aktien-Gesellschaft. ,242.90660095214844,262.037353515625
+489,430,4,36,Kohlenvertriebs-Aktiengesellschaft.,441.00030517578125,456.18218994140625
+490,430,6,1,Aktien-Gesellschaft Oberbilker Stahlwerk.,589.1638793945312,607.1638793945312
+491,431,4,1,Press- & Walzwerk Aktiengesellschaft.,158.56356811523438,176.8936767578125
+492,431,7,1,Steinkohlen-Bergbau-Gesellschaft „Humboldt“.,427.1138000488281,444.520263671875
+493,431,10,1,Duisburger Kupferhütte.,624.2382202148438,639.2382202148438
+494,432,4,1,Klöckner Eisen Aktiengesellschaft.,414.99322509765625,435.7773132324219
+495,433,2,1,Essener Bergwerks-Verein König Wilhelm.,67.53685760498047,87.40601348876953
+496,436,18,12,Rheinische Stahlwerke.,637.7548828125,655.7548828125
+497,441,19,1,"Oberschlesische Eisenhahn-Bedarfs-Actien- Gesellschaft, //",483.4521179199219,519.3407592773438
+498,445,5,1,Anhaitische Kohlenwerke zu Halle a. Saale. ,228.5885009765625,248.33673095703125
+499,448,4,1,A. Riebeck’sche Montanwerke Aktiengesellschaft. ,155.33094787597656,173.8887481689453
+500,451,10,1,Werschen-Weißenfelser Braunkohlen-Aktien-Gesellschaft. //,405.8796081542969,440.34698486328125
+501,454,4,1,Aktiengesellschaft für Zink-Industrie vormals Wilhelm Grillo.,143.0768280029297,160.46615600585938
+502,454,7,1,Norddeutsche Affinerie.,444.9706726074219,463.75311279296875
+503,455,5,1,Erdöl Aktiengesellschaft.,394.7036437988281,413.03375244140625
+504,455,8,1,Harbker Kohlenwerke.,576.7609252929688,596.2025756835938
+505,456,3,14,Salz werk Heilbronn. ,177.97679138183594,195.36611938476562
+506,457,28,1,Norddeutsche Braunkohlenwerke Aktiengesellschaft.,540.6331787109375,556.695068359375
+507,458,4,2,"Rheinische Aktiengesellschaft für Braunkohlenbergbau und Brikettfahrikation, Köln. ",156.0267791748047,173.41610717773438
+508,462,13,1,"Krefelder Stahlwerk, Actien-Gesellschaft in Liqu.",567.9638671875,585.9638671875
+509,463,4,1,Burbach-Kaliwerke Aktiengesellschaft. ,294.33837890625,312.82049560546875
+510,466,4,1,Braunkohlenactiengesellschaft „Vereinsglück“.,298.9919738769531,321.3077392578125
+511,466,7,1,Mülheimer Bergwerks-Verein. ,548.8831176757812,564.9450073242188
+512,469,4,1,Berg- und Hüttenprodukte Aktiengesellschaft.,241.48690795898438,258.1902160644531
+513,469,7,1,Oberbayerische Aktiengesellschaft für Kohlenbergbau. ///,443.3244934082031,482.7451171875
+514,470,3,39,Südanatolische Bergbau-Aktiengesellschaft.,365.0708923339844,384.5125427246094
+515,471,2,1,Niederrheinische Bergwerks-Aktien-Gesellschaft.,69.02610778808594,87.92015075683594
+516,471,6,1,Tschoepelner Werke Aktiengesellschaft.,621.9156494140625,640.1639404296875
+517,472,4,1,Rasselsteiner Eisenwerksgesellschaft Aktiengesellschaft.,316.0192565917969,333.6823425292969
+518,473,4,1,Mitteldeutsche Stahlwerke Aktiengesellschaft. ,144.12867736816406,162.70265197753906
+519,477,4,1,Eisenwerk-Gesellschaft Maximilianshütte. ,184.1776123046875,201.23611450195312
+520,482,4,1,Kaliwerke Salzdetfurth Aktiengesellschaft. ,244.5052032470703,262.2528076171875
+521,485,3,6,Eisen-Industrie zu Menden und Schwerte Aktiengesellschaft.,117.40385437011719,135.4038543701172
+522,485,4,34,"Schwarzburger Saline Oberilm, Akt.-Ges.",398.76385498046875,416.76385498046875
+523,486,2,1,Eisenhüttenwerk Thale Aktien-Gesellschaft. ,70.86922454833984,88.53231811523438
+524,487,10,1,"Röchling’sche Eisen- & Stahlwerke, Aktiengesellschaft.",612.0109252929688,631.4525756835938
+525,488,5,1,„Weilerbacher Hütte“.,568.3192138671875,585.1118774414062
+526,489,2,1,"„Eintracht“, Braunkohlenwerke und Briketfahriken. //",47.87749099731445,94.87873077392578
+527,491,2,1,Consolidirte Alkaliwerke. ,70.4252700805664,86.2996826171875
+528,494,11,1,A.-G. Buderus’sche Eisenwerke zu Wetzlar. ,327.3062438964844,345.25030517578125
+529,497,4,1,Stahlwerke Röchling-Buderus Akt-Ges.,308.170654296875,326.9530944824219
+530,498,4,1,Saline Ludwigshalle.,153.05516052246094,170.80276489257812
+531,498,7,1,"Brauiikohienwerke Leonhard, Aktiengesellschaft. //",494.2128601074219,546.5755004882812
+532,500,11,1,Erzgebirgischer Steinkohlen-Aktienverein. ,313.0846252441406,330.79339599609375
+533,501,4,1,Zwickau-Oberhohndorfer Steinkohlenbau-Verein.,264.5460205078125,280.06329345703125
+534,502,3,2,Cappel & Co. Motorwagen- und Tractoren-Verkaufsgesellschaft Akt.-Ges.,171.83888244628906,186.62693786621094
+535,502,6,1,J. G. Merckens Aktiengesellschaft.,412.5609130859375,432.0025634765625
+536,502,9,1,Ostertag-Werke Vereinigte Geldschrankfabriken A.-G.,564.9531860351562,585.7372436523438
+537,503,4,1,"Th. Buschhoff, Aktiengesellschaft.",351.11602783203125,367.59625244140625
+538,503,7,1,"Rollmann & Tovar, Aktiengesellschaft.",580.0346069335938,597.743408203125
+539,504,4,1,Hermann Köhler Aktiengesellschaft.,164.3186798095703,182.8926544189453
+540,504,7,1,Karl Kaltenbach & Söhne Aktiengesellschaft.,581.8138427734375,599.8138427734375
+541,505,4,1,Altonaer Maschinenbau-Akt.-Ges.,113.74688720703125,133.94570922851562
+542,505,7,1,Ottensener Eisenwerk Aktiengesellschaft. ,288.9974060058594,304.77667236328125
+543,506,4,1,Vereinigte Metallwaarenfabriken A.-G. vormals Haller & Co. //,275.2650146484375,306.5859375
+544,508,9,1,Rösler Draht-Aktiengesellschaft.,421.9755859375,440.223876953125
+545,509,2,1,Gottfried Lindner Aktiengesellschaft. ,69.81356811523438,88.14366912841797
+546,510,5,2,„Heag“ Hannoversche Eisengießerei und Maschinenfabrik Aktiengesellschaft.,208.11380004882812,223.27789306640625
+547,511,2,1,Gebr. Ulrich Glockengießerei Aktiengesellschaft.,71.86306762695312,88.92757415771484
+548,511,4,1,Aktien-Maschinenfabrik Kyffhäuserhütte vorm. Paul Reuß ///,251.60618591308594,276.5941467285156
+549,513,4,1,"Eisenwerk Brünner, Aktiengesellschaft.",247.60096740722656,263.8240661621094
+550,513,7,1,"* Ernst Hecker, Aktiengesellschaft, Metallwarenfabrik.",583.134765625,600.7642211914062
+551,514,2,1,Bayerische Eisengesellschaft Aktien-Gesellschaft.,65.5369644165039,87.5823745727539
+552,514,5,1,Johne-Werk Grafische Maschinen-Aktiengesellschaft.,223.1077880859375,241.76214599609375
+553,514,8,1,Aktiengesellschaft für Industriegasverwertung.,570.8192138671875,587.6118774414062
+554,515,4,1,Aktiengesellschaft für Metallwerte.,206.12762451171875,223.18612670898438
+555,515,7,1,Ambi Maschinenbau Aktiengesellschaft.,410.71380615234375,428.1202697753906
+556,515,10,1,Arca-Regler Aktiengesellschaft.,584.8775634765625,601.9360961914062
+557,516,4,1,„Autohag“ Automobil-Handels-Akt.-Ges.,170.3566131591797,189.4873504638672
+558,516,7,1,Automatic Aktiengesellschaft für automatische Druckmaschinen.,317.3166809082031,337.29150390625
+559,516,10,1,Automatische Schraubensicherung Aktiengesellschaft.,569.66357421875,587.99365234375
+560,517,2,1,Bahn-Bau- und Maschinenbedarf-Aktiengesellschaft.,69.57161712646484,90.13351440429688
+561,517,4,7,Bamag-Meguin Aktiengesellschaft.,172.4921875,189.05661010742188
+562,519,4,1,Bergmann & Franz Naehf. Aktien-Gesellschaft.,448.3268127441406,465.71612548828125
+563,519,8,1,"Berlin-Erfurter Maschinenfabrik Henry Pels & Co., Akt-Ges.",628.8909301757812,647.44873046875
+564,522,4,1,Berliner Broncegießerei Hohrbach & Cq. Kommanditges. a. Aktien.,274.57916259765625,291.3717956542969
+565,522,7,1,Berliner Eisenindustrie Aktiengesellschaft.,431.2192687988281,448.8823547363281
+566,522,10,2,H. Berthold Messinglinienfabrik und Schriftgießerei // Aktien-Gesellschaft.,581.39404296875,592.5610961914062
+567,525,4,1,Breuers Rotafix Aktiengesellschaft.,141.90525817871094,159.65286254882812
+568,525,8,1,Aktiengesellschaft.,308.3465270996094,323.5202941894531
+569,525,10,1,"Daimler-Benz Aktiengesellschaft, Berlin-Stuttgart. //",490.67022705078125,538.8550415039062
+570,529,4,2,Defag Aktiengesellschaft für Spezialartikel der Kraftfahrzeug- und Allgemeinen Industrie.,120.82763671875,137.88613891601562
+571,529,7,1,Denserifwerke Akt.-Ges.,304.3287048339844,322.9026794433594
+572,529,10,1,Deutsche Messingwerke Carl Eveking Aktiengesellschaft.,546.2031860351562,566.9872436523438
+573,530,4,1,Deutsche Niles Werke Aktiengesellschaft.,151.68087768554688,171.9536590576172
+574,531,4,1,Deutsche Werke Aktiengesellschaft in Liqu.,173.5067596435547,193.48155212402344
+575,531,7,1,G. C. Dornheim Aktiengesellschaft.,322.8692932128906,340.5323791503906
+576,531,9,1,Eisenbahn-Automatic Aktiengesellschaft.,629.6195678710938,645.3037109375
+577,532,4,1,Erze und Metalle Hirsch Aktiengesellschaft.,181.5686798095703,200.1426544189453
+578,532,7,1,Europäische Titeflex Metallschlauch-Aktiengesellschaft.,460.6460266113281,480.3183288574219
+579,532,9,1,Gustav Genschern & Co. Aktiengesellschaft. ,630.027587890625,647.0861206054688
+580,535,2,1,Gestetner Aktiengesellschaft.,69.14524841308594,86.89285278320312
+581,535,5,1,J. Godet & Sohn Aktiengesellschaft.,298.65386962890625,316.65386962890625
+582,535,8,1,David Grove Aktiengesellschaft.,402.6000671386719,422.6496276855469
+583,536,4,1,Johannes Haag Zentralheizungen Aktiengesellschaft.,254.1708984375,273.612548828125
+584,537,4,3,"Hein, Lehmann & Co., Actiengesellschaft,  Eisenkonstruktionen, Brücken- und Signalbau. '",245.38145446777344,272.65753173828125
+585,539,2,1,Hirsch Kupfer- und Messingwerke Aktiengesellschaft.,72.3138427734375,89.72030639648438
+586,539,5,2,Internationaler Maratti-Maschinenverkauf-Aktiengesellschaft Berlin.,598.94287109375,613.8047485351562
+587,540,4,2,"Israel-Frister A.-G., Fabrik für Beleuchtungskörper,  Heiz- u. Kochapparate.",239.2638702392578,257.26385498046875
+588,540,7,1,Otto Jachmann Aktiengesellschaft.,469.9667053222656,489.9415283203125
+589,541,2,1,Kammerich-Werke Aktiengesellschaft.,76.56222534179688,91.20075988769531
+590,541,5,1,"Gebr. Koppe, Aktien-Gesellschaft.",562.7019653320312,581.7069091796875
+591,542,4,1,"Ernst Krause & Co., Akt.-Ges.",139.44479370117188,157.07423400878906
+592,542,7,1,Gebr. Krüger & Co. Aktiengesellschaft. ,348.0021667480469,364.56658935546875
+593,544,4,18,Lindcar-Fahrrad-Werk Aktiengesellschaft.,206.3562469482422,224.30029296875
+594,544,7,1,Maaß & Hübsch Aktiengesellschaft für Kraftfahrzeugteile.,608.4214477539062,626.6751708984375
+595,545,4,1,Marelli-Motoren Aktien-Gesellschaft.,156.70924377441406,174.37234497070312
+596,545,5,14,*„Metag“ Berliner Metallverarbeitungs-Aktiengesellschaft.,293.0067138671875,312.9815368652344
+597,545,8,1,Mix & Genest Aktiengesellschaft. ,396.15362548828125,414.4837341308594
+598,548,4,1,"Fritz £. Moeller, Eisenwarengroßhandlung Aktiengesellschaft.",178.252197265625,194.81661987304688
+599,548,7,1,Wolf Netter & Jacobi-Werke Kommanditges. auf Aktien.,320.27777099609375,335.8851013183594
+600,549,4,1,Norddeutsche Schrauben- u. Metall-Werke Aktiengesellschaft.,398.0760498046875,416.9701232910156
+601,550,2,1,Orga Aktiengesellschaft.,73.75279998779297,90.18447875976562
+602,550,5,1,Orenstein & Koppel Aktiengesellschaft. ,247.0360565185547,265.93011474609375
+603,553,4,1,Julius Pintsch Aktiengesellschaft. ,165.27914428710938,182.07177734375
+604,555,5,1,Preßluftwerkzeug- und Maschinenbau A.-G. „Premag“.,173.32676696777344,190.71609497070312
+605,557,2,1,Ravene Fabrik- u. Handelsbetriebe Aktiengesellschaft.,69.11668395996094,89.09147644042969
+606,557,5,1,H. Römmler Aktiengesellschaft.,305.163818359375,323.163818359375
+607,558,2,1,Rotaprint Aktiengesellschaft.,73.11767578125,90.17617797851562
+608,558,3,34,Scharfenbergkupplung Aktiengesellschaft.,353.9156494140625,372.1639404296875
+609,558,4,20,Schüler-Motoren-Aktiengesellschaft.,532.8466796875,547.9542846679688
+610,559,2,1,Franz Seiffert & Co. Aktiengesellschaft. ,72.5374984741211,91.74628448486328
+611,561,4,1,"Sielaff, Maschinenfabrik Akt-Ges.",124.87682342529297,142.26614379882812
+612,561,7,1,"Steffens & Nölle, Aktiengesellschaft.",365.1360168457031,384.03009033203125
+613,562,2,1,Taxameter Aktiengesellschaft.,68.06388854980469,86.06388854980469
+614,562,5,1,Thermos- Aktiengesellschaft.,250.37066650390625,265.5784912109375
+615,562,8,1,Paul Thom Aktiengesellschaft.,566.8638916015625,584.8638916015625
+616,563,2,1,Todtenhöfer Aktiengesellschaft.,70.89281463623047,87.32449340820312
+617,563,5,1,Voran Automobilbau-Aktiengesellschaft.,299.60662841796875,318.73736572265625
+618,563,8,1,Wärmemesser Aktien-Gesellschaft.,442.168212890625,462.7346496582031
+619,563,11,1,Fritz Werner Aktiengesellschaft.,605.1284790039062,624.876708984375
+620,564,3,1,Hans Windhoff Apparate- ui,273.226806640625,290.6161193847656
+621,564,8,1,Blechwarenfabrik Schmid-Hausmann Aktiengesellschaft.,493.4797058105469,513.7671508789062
+622,565,4,1,Dürkoppwerke Aktiengesellschaft. ,157.03500366210938,171.90733337402344
+623,567,5,1,Kochs Adlernähmaschinen Werke Aktiengesellschaft. //,237.89495849609375,279.79473876953125
+624,569,4,1,Kuxmann & Co. K.-G. a. A.,264.41668701171875,284.3915100097656
+625,569,7,1,E. Otto Dietrich Rohrleitungsbau-Aktiengesellschaft.,528.2468872070312,544.9501953125
+626,570,4,1,"Emanuel Bode, Oberschlesische Drahtseilwerke Aktiengesellschaft.",193.30096435546875,210.4473876953125
+627,570,7,1,Westfalia Dinnendahl Groppel Aktiengesellschaft.,388.514404296875,409.5475158691406
+628,571,5,1,Schuchmann-Werke.,423.77740478515625,438.1980895996094
+629,571,8,2,"Excelsior-Fahrrad-Werke, Gehr. Conrad & Patz, //  Akt.-Ges. in Liqu.",609.2509765625,625.4740600585938
+630,572,4,1,Büssing-NAG Vereinigte Nutzkraftwagen Aktiengesellschaft.,265.935546875,287.0066833496094
+631,572,7,1,"Clemens & Vogl, Aktiengesellschaft",619.4566040039062,638.5873413085938
+632,573,4,1,"Deutsches Blechwarenwerk, Aktiengesellschaft.",136.82757568359375,153.88607788085938
+633,573,6,1,Kuthe & Meiner! Aktiengesellschaft.,370.0287170410156,388.6026916503906
+634,573,8,1,„Miag“ Mühlenbau und Industrie Aktiengesellschaft //,510.838134765625,557.8912963867188
+635,577,10,1,Atlas-Werke Aktiengesellschaft. ,454.81927490234375,472.48236083984375
+636,579,31,1,Deutsche Schiff- und Maschinenbau Aktiengesellschaft.,618.5109252929688,637.9525756835938
+637,581,4,1,Superior-Stahlwaren-Aktiengesellschaft in Liqu.,622.1974487304688,637.9766845703125
+638,582,2,1,Eisenhandel Aktiengesellschaft.,68.80387878417969,86.80387878417969
+639,582,5,1,Georgi & Bartsch Akt.-Ges.,261.1428527832031,277.57452392578125
+640,582,8,1,Hydrometer Aktiengesellschaft.,439.2874755859375,455.0667419433594
+641,583,4,1,H. Meinecke Aktiengesellschaft. ,207.567626953125,224.62612915039062
+642,584,36,1,"Gewinn 208 023 (Vorz.-Div. 800, Vortrag 207 223). — ' Metallhüttenwerke Schaefer & Schael Aktiengesellschaft.",599.0855102539062,620.1566772460938
+643,585,4,2,"Heinrich Hollmann & Co., Fabrik landwirtschaftlicher  Maschinen und Eisengießerei, Akt.-Ges.",181.36927795410156,199.03237915039062
+644,585,7,1,"Vereinigte Werke für Bahnmaterial, Aktiengesellschaft.",403.3138122558594,420.72027587890625
+645,585,10,1,Allgemeine Maschinenbau-Gesellschaft Aktiengesellschaft.,581.3667602539062,601.341552734375
+646,586,4,1,H. Felber & Co. Akt.-Ges.,161.6287384033203,180.2027130126953
+647,586,7,1,"L. J. Joachimsthal, Akt.-Ges.",329.4792175292969,346.2718505859375
+648,586,10,1,"G. Krautheim, Aktiengesellschaft.",528.7291870117188,545.5218505859375
+649,587,3,15,Isolierrohrwerke Max Haas Aktiengesellschaft in Liqu. //,167.44215393066406,208.22447204589844
+650,587,4,46,"Maschinenfabrik Germania vorm. J. S. Schwalbe & Sohn,",566.3846435546875,584.0934448242188
+651,588,3,67,"David Richter, Aktiengesellschaft. ",566.9528198242188,583.3844604492188
+652,590,30,1,Sander & Graff Aktiengesellschaft.,552.6966552734375,571.827392578125
+653,591,4,1,Werkzeugmaschinenfabrik „Union“ (vorm. Diehl). //,89.53691864013672,138.83401489257812
+654,593,2,1,"Eisenwerk G. Meurer, Aktiengesellschaft.",65.93682098388672,85.80597686767578
+655,593,5,1,Franz Wagner Akt.-Ges. in Liqu.,644.1145629882812,660.8473510742188
+656,594,4,1,Goebel Aktiengesellschaft.,250.50929260253906,268.1723937988281
+657,594,7,1,Maschinenhauanstalt Venuleth & Ellenberger Aktiengesellschaft.,513.706787109375,533.6815795898438
+658,595,4,2,"Askaniawerke Aktiengesellschaft vorm. Centralwerk­ statt, Dessau, und Carl Bamberg, Friedenau.",269.8135986328125,288.1437072753906
+659,597,10,1,"B. Holthaus, Maschinenfabrik, Aktiengesellschaft.",320.37066650390625,339.1531066894531
+660,598,2,1,Aufbereitung Aktiengesellschaft.,70.89620208740234,89.71089172363281
+661,598,5,1,Heemaf S. K. A. Motorenwerk Aktiengesellschaft.,216.80662536621094,235.93736267089844
+662,598,8,1,Aktiengesellschaft für Cartonnagenindnstrie. ,395.0613098144531,412.2073059082031
+663,600,38,1,Aktiengesellschaft vorm. Seidel & Naumann. ,616.5452270507812,634.2927856445312
+664,602,19,1,Eisenschutz-Aktiengesellschaft.,606.0750732421875,621.290283203125
+665,603,2,1,"Elbe-Werke Hermann Haelbig, Aktiengesellschaft. ///",47.81090545654297,96.33769989013672
+666,603,4,1,Hille-Werke Aktiengesellschaft.,438.7908020019531,459.0635681152344
+667,604,4,1,Sächsische Cartoimagen-Maschinen-Actiengesellschaft.,599.30322265625,620.0872802734375
+668,605,4,1,Schriftguß-Aktiengesellschaft vorm. Brüder Butter.,527.0639038085938,545.0639038085938
+669,606,6,1,Zeppernick & Hartz Aktien-Gesellschaft,129.81382751464844,147.81382751464844
+670,606,7,1,Dürener Metallwerke,328.3860168457031,347.28009033203125
+671,608,10,1,"Eduard Rippert, Metallwaren- und Maschinenfabrik A.-G.",338.2611999511719,355.0775451660156
+672,608,13,1,Berluto- Armaturen- Aktiengesellschaft.,562.3717041015625,577.063720703125
+673,609,4,1,Citogen Aktiengesellschaft für Metallbearbeitung.,115.94517517089844,133.69277954101562
+674,609,7,1,"Fiender-Aktiengesellschaft für Eisen-, Brücken- u. Schiffbau.",298.86383056640625,316.86383056640625
+675,610,4,1,Handels-Aktiengesellschaft für Industriebedarf.,156.32603454589844,175.22007751464844
+676,610,7,1,"„Hohenzollern“, Aktiengesellschaft für Lokomotivbau in Liqu.",349.3192443847656,366.9823303222656
+677,610,10,1,"„Idag“, Industrie- und Dental-Schleifmittel, Aktien-Gesellschaft.",562.8667602539062,582.841552734375
+678,611,2,1,Jota-Werk Gebr. Funke Aktiengesellschaft.,66.86189270019531,86.4473876953125
+679,612,2,3,Losenhausenwerk. Düsseldorfer Maschinenbau-Actiengesellschaft.,85.60711669921875,98.5376205444336
+680,613,19,1,Schloemann Aktiengesellschaft,484.6260681152344,503.5201416015625
+681,614,4,1,Wotan- und Zimmermann-Werke Aktiengesellschaft.,120.47003936767578,141.0999755859375
+682,615,2,1,Gritzner-Kayser A.-G. ,70.97305297851562,88.03755950927734
+683,617,4,1,Frerichswerft Aktiengesellschaft.,120.03844451904297,139.78668212890625
+684,617,7,1,Gebrüder Demmer Aktiengesellschaft. ,627.1390991210938,642.5336303710938
+685,619,10,1,— 1930: Verlust 312 073 RM (vorgetragen). — 1931: I (25 276 abzügl. Verlustvortrag 10 952) 14 324 RM. Eisflether Werft A.-G.,550.913818359375,568.3203125
+686,620,4,1,"Phönicia-Werke, Aktien-Gesellschaft. ",196.34686279296875,213.0501708984375
+687,620,6,1,Wehrle-Werk Aktiengesellschaft.,556.2551879882812,574.0027465820312
+688,621,4,1,„Fledermaus“ Akt.-Ges. für Metallindustrie u. Maschinenbau.,125.55183410644531,145.1373291015625
+689,621,7,1,"J. A. John, Aktien-Gesellschaft. ",207.2112579345703,224.02757263183594
+690,623,4,1,Didier-Kogag Koksofenbau und Gasverwertung Aktiengesellschaft,135.4138641357422,153.4138641357422
+691,623,7,1,"Pyrophor-Metallgesellschaft, Aktien-Gesellschaft.",330.4384765625,350.18670654296875
+692,623,10,1,„Skip Compagnie“ Aktien-Gesellschaft.,550.1531982421875,570.937255859375
+693,624,2,1,Maschinenfabrik Eßlingen. ,70.97147369384766,89.2252426147461
+694,625,4,1,Fella-Werk Aktiengesellschaft.,140.1786651611328,158.7526397705078
+695,625,7,1,Reichelt-Metallschrauben-Aktiengesellschaft. ,596.404541015625,611.501708984375
+696,627,10,1,Flensburger Schiffsbau-Gesellschaft. ,396.3755798339844,414.6238708496094
+697,628,14,2,Diskus Werke Frankfurt am Main Maschinenbau-  Aktiengesellschaft.,596.2030639648438,610.8536376953125
+698,629,4,3,Frankfurter Maschinenbau-Aktien-Gesellschaft  vorm. Pokorny & Wittekind.,431.0192565917969,448.6823425292969
+699,632,4,1,Maschinenfabrik Moenus Aktiengesellschaft. ,149.67721557617188,169.75685119628906
+700,633,2,1,Maschinenfabrik Turner Aktiengesellschaft.,68.39813232421875,86.47169494628906
+701,633,4,34,"Schriftgießerei D. Stempel, Aktien-Gesellschaft. ",346.98480224609375,364.6142272949219
+702,634,4,1,"Cumulus - W erke, Aktiengesellschaft.",352.8214416503906,371.0752258300781
+703,634,7,1,Metallwerke Unterweser Aktiengesellschaft.,470.3714294433594,488.6252136230469
+704,635,4,1,"Hutzier & Pretsfelder Aktiengesellschaft, Metallwarenfabriken.",385.5304260253906,404.8276062011719
+705,635,6,1,Emaillirwerk Akt.-Ges.,616.8160400390625,633.2962646484375
+706,636,4,1,Württembergische Metallwarenfabrik. ,256.6109313964844,272.83404541015625
+707,637,5,1,"Karl Hamacher, Aktiengesellschaft.",336.91876220703125,355.49273681640625
+708,637,8,1,"Bockhacker Werk, Aktiengesellschaft.",565.7036743164062,584.0337524414062
+709,638,2,1,Gleiwitzer Maschinen- und Apparate-Bau-Anstalt Akt.-Ges.,68.7204360961914,88.0176010131836
+710,638,5,1,APAG Apollo-Plantectorwerk-Aktiengesellschaft.,262.8368225097656,282.7059631347656
+711,638,7,32,J. G. Wiedermann Hermanns- u. Friedrichshütte Akt.-Ges.,540.466064453125,556.9462890625
+712,639,2,1,Rheinische Blattmetall Aktiengesellschaft.,67.2686996459961,85.8426742553711
+713,639,5,1,Sächsische Drahtindustrie-Aktiengesellschaft in Liqu.,321.96002197265625,342.00958251953125
+714,639,8,1,* Bing-Emaillier-Werke Aktiengesellschaft.,453.8138427734375,471.8138427734375
+715,639,12,1,Vereinigte Maschinenfabriken Aktiengesellschaft. //,536.2807006835938,587.4854736328125
+716,641,6,1,Bergisch-Märkische Röhren -Aktiengesellschaft in Liqu.,345.3346252441406,363.04339599609375
+717,641,8,1,"Hasper Eisengießerei, A.-G.",450.3109436035156,466.5340576171875
+718,642,2,1,Concordia Maschinenbau-Akt.-Ges. in Liqu.,72.46601104736328,88.94621276855469
+719,642,5,1,Hallesche Röhrenwerke Akt.-Ges. ,235.71603393554688,252.1962432861328
+720,642,7,1,"Reuter u. Straube, Aktiengesellschaft.",580.8519897460938,599.85693359375
+721,643,3,7,"Paul Schreck, Akt.-Ges.",137.7156219482422,155.9639129638672
+722,643,8,1,"Lückhoff, Aktiengesellschaft,",598.9260864257812,617.8201293945312
+723,644,4,1,Actiengesellschaft der Holler’schen Carlshütte bei Rendsburg. ///,171.4038543701172,189.4038543701172
+724,644,6,1,Alfred Gutmann Actiengesellschaft für Maschinenbau. /,507.6470642089844,551.2589111328125
+725,646,10,1,Kampnagel Aktiengesellschaft (vormals Nagel & Kaemp). ///,467.2795104980469,489.86236572265625
+726,647,5,1,Norderwerft Aktiengesellschaft.,241.2638702392578,259.26385498046875
+727,647,8,1,Nordgas Aktiengesellschaft.,507.5638427734375,524.9703369140625
+728,648,4,1,Aktiengesellschaft.,70.93022155761719,86.12545776367188
+729,648,6,1,Vereinigte Herd- und Ofenfabriken C. Woeste Aktiengesellschaft.,263.46875,282.042724609375
+730,648,9,1,G. D. Bracker Söhne Maschinenbau-Aktiengesellschaft.,485.9567565917969,505.93157958984375
+731,649,2,1,Heraeus-Vakuumschmelze Akt.-Ges.,76.28621673583984,95.10090637207031
+732,649,5,2,Hannoversche Maschinenbau-Actien-Gesellschaft  vormals Georg Egestorff (Hanomag).,388.5687255859375,407.1427001953125
+733,651,4,1,Körting-Heizung-Maschinen- u. Apparate-Aktiengesellschaft.,292.2847900390625,309.9142150878906
+734,651,7,1,"Vereinigte Schmirgel- u. Maschinen-Fahriken, Aktiengesellschaft. /",461.17742919921875,475.8487243652344
+735,653,11,1,Harburger Eisen- und Bronzewerke Aktiengesellschaft. //,394.4115295410156,432.3851013183594
+736,655,4,1,Eisenwerk L. Meyer jun. & Co. Aktiengesellschaft.,278.5862731933594,297.4009704589844
+737,656,2,1,Schnellpressenfabrik Akt.-Ges. Heidelberg.,68.0186996459961,86.5926742553711
+738,657,2,1,Ostdeutsche Maschinenfabrik vorm. Rud. Wermke Akt.-Ges.,66.36183166503906,85.94732666015625
+739,657,5,1,"Aluminium und Magnesium Fabrik, Act-Ges. ",563.010986328125,580.1574096679688
+740,658,4,1,Bremer Draht- und Seilindustrie Aktiengesellschaft.,179.40093994140625,196.54736328125
+741,658,7,1,"Herdfabrik und Eisengießerei, Aktiengesellschaft.",394.39715576171875,412.4191589355469
+742,658,9,1,"Eduard Ahlborn, Aktiengesellschaft.",627.1483154296875,645.6304321289062
+743,659,9,1,Freund-Starkehoffmann-Maschinen Aktiengesellschaft.,506.6803894042969,525.9775390625
+744,660,2,1,Schiele & Bruchsaler — Industriewerke Akt.-Ges.,68.4474105834961,87.65619659423828
+745,660,5,1,Deutsche Spinnerei-Maschinenbau Aktien-Gesellschaft.,410.1600341796875,430.2095947265625
+746,661,2,1,G. M. Pfaff Akt.-Ges.,71.41092681884766,87.63402557373047
+747,661,4,1,Junker & Ruh Aktiengesellschaft.,309.4730529785156,326.5375671386719
+748,661,6,1,Fahrradwerke Bismarck Aktiengesellschaft.,582.0346069335938,599.743408203125
+749,662,4,1,"Gottfried Hagen, Aktiengesellschaft.",162.2860565185547,181.1800994873047
+750,662,7,1,Ostermann & Flüs Aktiengesellschaft.,397.663818359375,415.663818359375
+751,662,10,1,Walther & Cie. Aktiengesellschaft.,601.7960205078125,621.4683227539062
+752,663,4,1,Waggonfabrik L. Steinfurt Aktiengesellschaft. ,298.413818359375,315.8202819824219
+753,665,2,2,Maschinen- und Werkzeugfabrik Aktiengesellschaft ///  vormals Aug. Paschen.,85.06604766845703,101.54624938964844
+754,666,4,1,Bayerische Pflugfabrik Aktiengesellschaft.,169.4331512451172,185.49505615234375
+755,666,7,1,Eisenwerk Laufach A.-G.,342.3135681152344,360.6436767578125
+756,666,10,2,"Sächsische Emaillier- und Stanzwerke vormals Gehr. ///  Gnüchtel, Aktiengesellschaft in Lauter.",631.0137939453125,648.4202880859375
+757,668,33,1,"Mitteldeutsche Flanschenfabrik, Aktiengesellschaft.",635.3785400390625,655.1267700195312
+758,669,5,1,Moritz Blank Nachf. Akt.-Ges.,304.726806640625,322.1161193847656
+759,669,6,21,Adolf Bleichert & Co. Akf.-Ges. in Liqu.,494.9706726074219,513.7531127929688
+760,670,4,1,"Leipziger Stahlfederfabrik Herrn. Müller, Aktiengesellschaft.",231.87091064453125,251.31256103515625
+761,670,7,1,Leipziger Tangier-Werk Aktiengesellschaft.,447.0360412597656,465.93011474609375
+762,670,10,1,Otto Müller Aktiengesellschaft.,616.8776245117188,633.9361572265625
+763,671,4,1,Pittier Werkzeugmaschinenfabrik Aktiengesellschaft. //,217.60894775390625,261.3238525390625
+764,673,26,1,Preusse & Co. Aktiengesellschaft. ,392.5066223144531,411.6373596191406
+765,674,4,1,"Hugo Schneider, Aktiengesellschaft („Hasag“). ",270.253173828125,291.0372619628906
+766,676,10,1,Gustav Tietze Aktiengesellschaft.,391.9692687988281,409.6323547363281
+767,676,13,1,"Sohler-Werke, Aktiengesellschaft.",567.8636474609375,586.1937255859375
+768,677,4,1,Eumuco Aktiengesellschaft für Maschinenbau.,197.23477172851562,214.8642120361328
+769,677,7,1,Behrisch & Comp. A.-Gr.,498.519775390625,516.6965942382812
+770,678,2,1,Benkiser-Werk Akt.-Ges.,69.86306762695312,86.92757415771484
+771,678,5,1,Metall- und Lackierwaren-Fabrik Aktiengesellschaft.,273.4137878417969,288.3800354003906
+772,678,7,1,"Gebrüder Sulzer, Akt.-Ges.",637.4076538085938,658.2399291992188
+773,679,4,1,Georg Harder Maschinenfabrik Akt.-Ges.,290.5631103515625,307.62762451171875
+774,679,7,1,Lübecker Maschinenbau-Gesellschaft.,624.1660766601562,640.6463012695312
+775,680,4,1,Berg & Nolte Akt.-Ges.,387.10662841796875,406.23736572265625
+776,680,6,2,"Westfälische Kupfer- und Messingwerke Act.-Ges. /  vorm, Casp. Noell",611.72607421875,630.6201171875
+777,682,12,1,"Potthoff & Flume, Aktiengesellschaft.",466.4276123046875,483.4861145019531
+778,682,14,17,Eisenmatthes Aktiengesellschaft.,631.1176147460938,648.1761474609375
+779,683,4,1,Kosmos-Mühlenbau Aktiengesellschaft.,540.4298095703125,558.6066284179688
+780,684,2,1,"Magdeburger Werkzeugmaschinenfabrik, Aktiengesellschaft.",68.61090087890625,88.05254364013672
+781,684,5,1,Maschinen- u. Armaturenfabrik vorm. C. Louis Struhe Akt.-Ges;//,447.11358642578125,465.4436950683594
+782,685,4,1,Maschinenfabrik Buckau R. Wolf Aktiengesellschaft. //,104.10623168945312,148.87997436523438
+783,688,2,1,"Ferd, Roloff Nachfolger, Akt.-Ges.",70.15099334716797,87.29742431640625
+784,688,5,1,Schrottaktiengesellschaft in Magdeburg.,242.52467346191406,260.2334289550781
+785,688,8,1,"Julius Römheld, Akt.-Ges.",415.6962890625,433.6403503417969
+786,688,11,1,Heinrich Lanz Aktiengesellschaft.,597.7205200195312,617.0176391601562
+787,690,4,1,Schiffs- und Maschinenbau-Actien-Gesellschaft.,135.43173217773438,155.436767578125
+788,690,7,2,„Sümap“ Südwest deutsche Metallwarenfabrik u. Apparatebau Akt-Ges.,447.9803771972656,463.2413635253906
+789,690,9,1,Joseph Vögele Aktiengesellschaft.,632.2466430664062,651.3773803710938
+790,691,4,68,Meissner Blech-Industrie-Werke Aktiengesellschaft.,574.3286743164062,592.9026489257812
+791,692,4,1,Melitta-Werke Aktiengesellschaft.,143.61383056640625,161.02029418945312
+792,692,7,1,Bayerische Industriewerke Akt.-Ges. in Liqu.,327.16925048828125,344.83233642578125
+793,692,10,1,"Bayerische Motoren Werke, Aktiengesellschaft. ",517.163818359375,535.163818359375
+794,695,2,3,Metallpapier-Bronzefarben-Blattmetallwerke-  Aktiengesellschaft.,88.07280731201172,103.22503662109375
+795,695,8,2,Vereinigte Kapselfabriken  Nackenheim-Beyerbach Nachflg. Aktiengesellschaft,595.2138061523438,612.6203002929688
+796,696,4,1,Weigelwerk Aktiengesellschaft.,528.253662109375,546.583740234375
+797,697,4,1,Maschinenfabrik Lythall Aktiengesellschaft.,194.89480590820312,212.5242462158203
+798,697,6,2,Interessengemeinschaft Holzschraubenwerke  Aktiengesellschaft.,503.1622619628906,517.80078125
+799,698,4,1,Arn. Georg Aktiengesellschaft.,213.1019287109375,232.10690307617188
+800,698,7,1,C. S. Schmidt Drahtwerke Aktiengesellschaft.,632.3206787109375,651.1031494140625
+801,699,4,1,Christoph & Unmack A.-G. ,315.8060607910156,332.2862854003906
+802,701,12,1,"Ardie-Werk, Aktiengesellschaft.",411.9432067871094,432.727294921875
+803,701,15,1,Leonische Drahtwerke Aktiengesellschaft. ,637.9539184570312,655.9539184570312
+804,703,13,1,Enzinger-Union-Werke A.-G. ,444.36602783203125,460.84625244140625
+805,706,4,1,Allgemeine Gold- u. Silberscheide-Anstalt.,162.5709228515625,182.0125732421875
+806,706,7,1,Heimerle & Meule Aktiengesellschaft.,463.3755798339844,481.6238708496094
+807,707,2,1,"Schmidt & Bruckmann, Aktiengesellschaft.",69.36121368408203,86.17754364013672
+808,707,5,1,Schön & Co. Akt.-Ges.,254.51095581054688,271.6573791503906
+809,707,8,1,H. B. Seissenschmidt Akt.-Ges.,437.5409851074219,456.0987548828125
+810,707,11,1,Göhring & Hebenstreit Maschinenfabrik Betriebs-Akt.-Ges.,618.2461547851562,637.32470703125
+811,708,4,1,Waggonfabrik Actiengesellschaft.,165.71925354003906,183.38235473632812
+812,708,7,1,"Wilhelm Hegenscheidt, Aktiengesellschaft.",453.91357421875,472.2436828613281
+813,709,2,1,Deutsche Last-Automobil-Fabrik A.-G. in Liqu.,71.85126495361328,88.66759490966797
+814,709,7,1,Maschinenfabrik Ravensburg Akt.-Ges. vorm. F. X. Honer.,268.5631103515625,285.62762451171875
+815,709,10,1,Maschinencentrale Landmaschinenfabrik Aktiengesellschaft.,508.6060791015625,525.0863037109375
+816,710,3,13,Pfingstmann-Werke Aktiengesellschaft.,158.17343139648438,178.66696166992188
+817,710,5,19,"Johann L. L. Brandner, Akt.-Ges.",336.2638244628906,354.2638244628906
+818,710,7,16,David Kotthaus Aktiengesellschaft.,490.1286926269531,508.7026672363281
+819,710,10,1,Ernst von den Steinen Aktiengesellschaft.,640.393798828125,656.825439453125
+820,711,4,1,Fortunabetten-Fabrik Aktiengesellschaft.,159.82676696777344,177.21609497070312
+821,711,6,1,Hilgers Aktien-Gesellschaft. ,326.8447570800781,344.47418212890625
+822,713,2,1,"Rheiner Maschinenfabrik Windhoff, Aktiengesellschaft.",70.66602325439453,87.14622497558594
+823,713,5,1,N. Pelzer Wwe. Aktiengesellschaft.,354.5062561035156,372.4503173828125
+824,713,8,1,Maschinenfabrik Stumbeck Akt.-Ges.,567.144775390625,584.7742309570312
+825,714,4,1,"C. A. Lux, Aktiengesellschaft.",153.57566833496094,171.82395935058594
+826,714,6,21,Actien-Gesellschaft Wilhelmshütte.,344.4145202636719,365.6981201171875
+827,714,8,16,August Reissmann Maschinenfabrik Aktien-Gesellschaft.,500.2638854980469,518.263916015625
+828,715,2,1,"Sanicentral, Aktiengesellschaft.",70.79521179199219,88.54281616210938
+829,715,4,23,Bergedorfer Eisenwerk Aktiengesellschaft Astra-Werke.,268.2552185058594,286.0028381347656
+830,715,6,29,Aktien-Feilen-Fabrik Sangerhausen.,518.2609252929688,537.7025756835938
+831,716,2,1,"J. Bautz Aktiengesellschaft, Erntemaschinenwerk.",69.93082427978516,90.2035903930664
+832,716,5,1,Elmore’s Metall-Aktien-Gesellschaft.,264.71875,283.292724609375
+833,716,8,1,Metallwarenfabrik H. A. Erbe Aktiengesellschaft.,434.8428649902344,451.2745361328125
+834,717,4,1,Wanderer-Werke vorm. Winklhofer & Jaenicke Akt.-Ges. //,107.98933410644531,143.36724853515625
+835,720,4,1,Metall-Industrie Schönebeck A.-G. ,183.24745178222656,202.45623779296875
+836,721,18,2,"Patronen-, Zündhütchen- und Metallwarenfabrik  Aktiengesellschaft, vormals Sellier & Bellot.",586.0062866210938,603.9503173828125
+837,722,4,1,Bayerische Schrauben- und Federnfahriken Richard Bergner A.-G.,251.06097412109375,268.2073974609375
+838,722,7,1,Fr. Gross jr. Aktiengesellschaft.,454.4118347167969,473.9973449707031
+839,723,2,1,Reinstrom & Pilz Aktiengesellschaft.,67.62847137451172,87.37670135498047
+840,723,5,1,"Gebr. Voigtmann, Akt.-Ges.",428.37872314453125,446.95269775390625
+841,723,8,1,Vereinigte Kugellagerfabriken Aktiengesellschaft.,617.1177978515625,635.7721557617188
+842,725,4,1,Siegener Eisenbahnbedarf Aktien-Gesellschaft.,257.25518798828125,275.0028076171875
+843,725,7,1,Elite-Diamantwerke Aktiengesellschaft.,446.6256103515625,464.8739013671875
+844,726,4,1,Gebr. Hartkopf Aktiengesellschaft in Liqu.,474.976806640625,492.3661193847656
+845,726,7,1,"Kronprinz, Aktiengesellschaft für Metallindustrie. //",565.109130859375,614.1790771484375
+846,729,4,1,Aktiengesellschaft Pfalz in Liqu.,254.98605346679688,270.5033264160156
+847,729,7,3,Pommersche Eisengießerei und Maschinenfabrik  Aktiengesellschaft Stralsund-Barth.,424.4106750488281,443.193115234375
+848,731,2,2,"Süddeutsche Messer-, Sägen- u. Werkzeugfabrik  Aktiengesellschaft.",88.80562591552734,103.45286560058594
+849,731,5,1,Carmenwerk Akt.-Ges.,338.7706604003906,357.5531005859375
+850,731,8,1,"Eisemann-Werke, Aktiengesellschaft.",495.28460693359375,512.993408203125
+851,732,2,1,Fortuna-Werke Spezialmaschinenfabrik Aktiengesellschaft.,69.00627136230469,86.9503173828125
+852,732,5,1,Albert Hirth Aktiengesellschaft.,329.776611328125,345.9130859375
+853,732,8,1,Igetro Aktiengesellschaft.,608.3062744140625,626.2503051757812
+854,733,8,1,C. D. Magirus Aktiengesellschaft. ,494.976806640625,512.3661499023438
+855,735,29,1,"Stahlwerk Westig, Aktiengesellschaft.",388.8130798339844,405.8775939941406
+856,735,32,1,"Bremer Vulkan Schiffbau und Maschinenfabrik, Vegesack. //",553.2625732421875,589.1902465820312
+857,737,4,1,Messingwerk Schwarzwald Aktiengesellschaft.,297.765625,316.013916015625
+858,737,7,1,Edelstahlwerk Röchling Aktiengesellschaft.,564.8038330078125,582.2103271484375
+859,738,4,1,Carl Prinz Aktiengesellschaft für Metallwaren.,254.67869567871094,273.252685546875
+860,738,7,2,"Maschinenfabrik Weingarten, vorm. Heinrich Schatz, /// Aktiengesellschaft.",462.43792724609375,477.6361083984375
+861,739,4,2,"Schiffbau-Gesellschaft Unterweser, Aktiengesellschaft, ///  Schiffswerft u. Maschinenfabrik.",258.811279296875,275.957275390625
+862,739,7,1,Wiedaer Hütte Aktiengesellschaft.,645.8046264648438,664.1347045898438
+863,740,3,33,Fahrzeug Akt.-Ges. Wilhelmshaven.,326.0846252441406,343.79339599609375
+864,740,6,2,"Alba-Werke Adolf Lübbertsmeier Aktien-Gesellschaft  Kaltwalzwerk, Maschinen- u. Werkzeug-Fabrik.",498.2109375,514.4340209960938
+865,740,8,15,Bergische Schrauben- & Mutternfabrik Hein & Co. Akt.-Ges.,645.9929809570312,664.9979248046875
+866,741,4,1,Silier & Jamart Aktiengesellschaft.,195.25384521484375,212.66030883789062
+867,741,7,1,"Franz Braun, Aktiengesellschaft. ",383.4538879394531,401.4538879394531
+868,742,4,1,Zwickauer Maschinenfabrik.,311.2752685546875,327.1496887207031
+869,743,6,1,"und orthopädische Apparate, Uhren. Rheinische Kohlenbürstenfabrik Aktiengesellschaft.",239.09632873535156,257.0403747558594
+870,743,8,1,Altenburger Land-Kraftwerke Akt.-Ges. ,455.26312255859375,472.32763671875
+871,744,4,1,Elektricitätswerk Unterelbe Aktiengesellschaft.,617.5285034179688,637.2767333984375
+872,746,3,28,Lech-Elektrizitätswerke Aktien-Gesellschaft. ,279.2566223144531,298.3873596191406
+873,748,4,1,Fränkische Licht- u. Kraftversorgung Aktiengesellschaft.,564.6036376953125,582.9337158203125
+874,749,4,1,"Ueberlandwerk Oberfranken, Aktiengesellschaft.",418.8168640136719,436.2061767578125
+875,750,4,1,Kraftwerk Altwürttemberg Aktiengesellschaft. ,581.8360595703125,600.7301025390625
+876,752,2,1,Accumulatoren-Fabrik Aktiengesellschaft. ,70.72872161865234,89.30269622802734
+877,754,10,1,Ago-Elektrizitäts-Aktiengesellschaft.,316.3036804199219,331.48114013671875
+878,754,13,1,Aktiengesellschaft für Energiewirtschaft.,479.0276184082031,496.08612060546875
+879,755,4,1,Allgemeine Elektricitäts-Gesellschaft. ,187.3138427734375,204.72030639648438
+880,761,15,1,Ariadne Draht- u. Kabelwerke Aktiengesellschaft.,594.8509521484375,611.9973754882812
+881,762,8,1,"Bergmann-Elektricitäts-Werke, Aktiengesellschaft. //",334.00750732421875,381.628662109375
+882,765,2,1,Deutsche Kabelwerke Aktiengesellschaft. ,72.11687469482422,89.5062026977539
+883,768,4,1,Deutsche Telephonwerke u. Kabelindustrie Aktiengesellschaft. //,177.28692626953125,197.48574829101562
+884,770,12,1,Elektrolux Aktiengesellschaft.,516.8331909179688,532.8950805664062
+885,771,4,1,Paul Funke Aktiengesellschaft für Apparatebau in Liqu.,127.05278778076172,143.48446655273438
+886,775,10,30,Dr. Erich F. Huth Aktiengesellschaft für Funkentelegraphie.,623.57763671875,640.6361694335938
+887,776,2,1,Ideal Werke Aktiengesellschaft für drahtlose Telephonie.,72.83617401123047,91.91473388671875
+888,776,5,2,Injecfa Aktiengesellschaft zur Fabrikation chirurgischer Instrumente.,383.01116943359375,397.5192565917969
+889,777,2,1,Kodak Aktiengesellschaft.,69.74626159667969,87.6903076171875
+890,777,4,1,Arnold Laboschinski Aktiengesellschaft Bandagen-Fabrikation.,493.0206604003906,511.8031005859375
+891,777,7,3,"C. Lorenz Aktiengesellschaft,  Telephon- und Telegraphen-Werke, Eisenbahnsignal-Bauanstalt.",639.8823852539062,655.8133544921875
+892,781,3,3,"(Landesversorgung von Brandenburg, Pommern, Mecklenburg, Grenzmark Posen- W estpreußen).",96.6047134399414,106.4254379272461
+893,782,5,1,Medicihaus Aktiengesellschaft.,634.2349853515625,649.1072998046875
+894,783,4,2,Norddeutsche Kabelwerke Aktiengesellschaft. ,264.8109130859375,284.2525634765625
+895,785,4,1,Radiologie Aktiengesellschaft.,230.88693237304688,247.59024047851562
+896,785,7,1,Adam Schneider Aktien-Gesellschaft.,433.67608642578125,452.5701599121094
+897,786,2,2,"Ferdinand Schuchhardt, Berliner Fernsprech- u. Telegraphenwerk Aktiengesellschaft.",82.66094970703125,102.10259246826172
+898,786,3,41,"Signalapparatefabrik Julius Kräcker, Aktiengesellschaft.",415.1156311035156,433.3639221191406
+899,786,4,27,Telegraphon Aktiengesellschaft.,645.44287109375,661.87451171875
+900,787,4,1,Telephonfabrik Berliner Aktiengesellschaft.,271.5469055175781,288.2502136230469
+901,788,2,1,Vereinigte Isolatorenwerke Akt.-Ges.,69.61383056640625,87.02029418945312
+902,788,5,1,Weissmainkraftwerk Röhrenhof Aktiengesellschaft.,413.163818359375,431.163818359375
+903,788,8,1,Elektricitätswerk Brandenburg (Havel) Aktiengesellschaft.,628.0709228515625,647.5125732421875
+904,789,5,1,Gas- und Elektricitäts-Werke Bredow A.-G.,384.5846252441406,402.29339599609375
+905,789,7,1,Hoffmannwerk Aktiengesellschaft.,623.953125,638.6036987304688
+906,790,4,1,Lloyd Dynamowerke Aktiengesellschaft.,138.2638397216797,156.2638397216797
+907,790,6,1,„Schinag“ Schiffs-Installation Aktiengesellschaft.,607.756591796875,626.8873291015625
+908,791,4,1,Ueberlandwerk Nord-Hannover Aktiengesellschaft.,197.91282653808594,213.0122528076172
+909,791,7,1,Verkaufszentrale für Orthodontie Aktiengesellschaft.,447.1709289550781,466.6125793457031
+910,791,10,1,W. Ludolph Aktiengesellschaft.,548.6136474609375,566.9437255859375
+911,792,4,1,"Elektrizitätswerk Schlesien, Aktiengesellschaft. ",168.7466278076172,187.8773651123047
+912,795,16,1,Schlesische Elektricitäts- und Gas-Actien-Gesellschaft. //,483.31451416015625,522.735107421875
+913,798,13,1,Elektrizitäts-Aktiengesellschaft Cosel.,557.6708984375,577.112548828125
+914,799,4,1,Elektricitätswerk Crottorf Aktiengesellschaft. ,214.28611755371094,233.18016052246094
+915,800,2,1,Wilhelm Böhmer Aktiengesellschaft für Elektrobedarf.,72.65380859375,90.06027221679688
+916,800,5,1,Aktiengesellschaft für Hochvoltisolation.,242.76382446289062,260.1702880859375
+917,800,8,1,"Energieversorgung Groß-Dresden, Aktiengesellschaft.",456.4919738769531,478.8077392578125
+918,801,2,1,Rheinische Telefon-Gesellschaft Aktiengesellschaft in Liqu.,70.3192367553711,87.98233032226562
+919,801,5,1,Westdeutsche Telephonfabrik Aktiengesellschaft.,176.34078979492188,196.6135711669922
+920,801,8,1,Kabelwerk Duisburg.,338.3612976074219,355.5072937011719
+921,802,2,1,Elektricitätswerk Eisenach Aktiengesellschaft.,68.27093505859375,87.71257781982422
+922,802,5,1,Strelow Aktiengesellschaft.,525.1692504882812,542.8323974609375
+923,803,2,1,Rheingau-Elektricitätswerke Aktiengesellschaft.,69.1291732788086,86.449462890625
+924,803,6,1,"Grosskraftwerk Erfurt, Aktiengesellschaft.",501.1136169433594,519.4437255859375
+925,804,4,1,Neckarwerke Aktiengesellschaft. ,180.4260711669922,199.3201141357422
+926,807,4,1,Württemtoergische Gesellschaft für Elektrizitätswerke Akt.-Ges.,198.92306518554688,215.98756408691406
+927,807,7,1,"Überlandzentrale Grenzmark, Aktiengesellschaft.",354.8019714355469,373.80694580078125
+928,808,4,1,Main-Kraftwerke Aktien-Gesellschaft. ,131.56918334960938,148.88946533203125
+929,810,4,1,"Plaubel, Aktiengesellschaft für Feinmechanik und Optik.",326.4331359863281,342.49505615234375
+930,810,7,1,Voigt & Haeffner Aktiengesellschaft. ,461.2260437011719,480.1201171875
+931,813,2,1,"Voltohm, Seil- und Kabelwerke, Aktiengesellschaft. //",51.067684173583984,97.94992065429688
+932,814,9,1,Frankfurter Elektrizitäts-Industrie-Akt.-Ges.,460.8474426269531,480.05621337890625
+933,814,12,1,S. Siedle & Söhne Telefon- u. Telegrafenwerke Akt.-Ges.,624.378662109375,642.95263671875
+934,815,4,2,Aktiengesellschaft für wirtschaftliche Unternehmungen  des Ennepe-Ruhr-Kreises.,190.31918334960938,207.11181640625
+935,815,7,1,Uhrenfabrik Aktiengesellschaft.,478.6551818847656,496.4028015136719
+936,815,10,1,Kraftwerke Haag Aktiengesellschaft.,626.9112548828125,644.0572509765625
+937,816,4,1,Kommunales Elektrizitätswerk Mark Aktien-Gesellschaft. //,281.8020935058594,316.0947265625
+938,819,4,1,Elektrizitätswerk Sachsen-Anhalt Aktiengesellschaft (Esag).,110.72088623046875,130.16253662109375
+939,820,4,1,H. Maihak Aktiengesellschaft.,113.7092514038086,131.37234497070312
+940,820,7,2,Hannover-Braunschweigische Stromversorgungs-  Aktiengesellschaft.,416.8879699707031,432.0861511230469
+941,821,4,1,Rundfunkvermittlung Germania Aktiengesellschaft.,382.3860168457031,401.28009033203125
+942,821,7,1,"Elbtalwerk, Elektrizitäts-Aktiengesellschaft.",572.7286376953125,591.3026123046875
+943,822,3,41,Niederschlesische Elektrizitäts-Aktiengesellschaft.,382.2638244628906,399.6702880859375
+944,823,3,17,Jenaer Elektricitätswerke Aktien-Gesellschaft.,198.46499633789062,219.95901489257812
+945,824,4,1,Ostpreußenwerk Aktiengesellschaft. ,175.2637939453125,192.67025756835938
+946,827,2,1,Exnerwerk Aktiengesellschaft.,68.00286102294922,84.43453979492188
+947,827,4,1,"Ueberlandwerk Krimibach, Aktiengesellschaft.",275.1592712402344,292.8223571777344
+948,827,7,1,"Körting & Mathiesen, Aktiengesellschaft.",507.1592712402344,524.8223876953125
+949,828,4,1,Langbein-Pfanhauser-Werke Aktiengesellschaft. ///,122.2359619140625,173.23597717285156
+950,829,3,22,Uhren-Rohwerke-Fabrik Glashütte Aktiengesellschaft.,227.04319763183594,247.8272705078125
+951,829,4,21,"Bischoff & Hensel, Elektrotechnische Fabrik Aktiengesellschaft.",426.4709167480469,445.9125671386719
+952,829,5,25,Elektrizitätswerk Westerwald Aktiengesellschaft.,643.1196899414062,661.6936645507812
+953,830,4,1,Bayerische Kraftwerke Aktiengesellschaft.,322.8638000488281,340.270263671875
+954,831,4,1,Bayernwerk Aktiengesellschaft. ,164.0677490234375,182.72210693359375
+955,833,4,1,Mittlere Isar Aktiengesellschaft. ,361.8791809082031,378.67181396484375
+956,834,4,1,Walchenseewerk Aktiengesellschaft. ,480.7974548339844,500.0062255859375
+957,835,4,1,Elektrizitäts-Aktiengesellschaft vormals Schlickert & Co. //,414.7496643066406,447.4757995605469
+958,838,28,1,Elektrische Ueberland-Centrale Oberhausen Aktien-Gesellschaft.,369.2255859375,387.473876953125
+959,838,31,1,"Steigerwald Ueberlandwerk, Gebrüder Zwanziger, Akt.-Ges.",624.7286987304688,643.3026733398438
+960,839,4,1,Stettiner Electricitäts-Werke. ,201.95281982421875,218.38449096679688
+961,843,2,1,Württembergische Sammelschienen-Aktiengesellschaft.,67.92607116699219,86.82011413574219
+962,843,3,28,"Sfromversorgungs-Aktiengesellschaft, Weißenfels-Zeitz.",304.1567077636719,324.13153076171875
+963,844,3,1,"Kachel- und Töpferwarenindustrie, Schiefergewinnung und -Verarbeitung, synthetische Steine, Schmirgelwerke. Louis Nicolai, Aktiengesellschaft.",181.70924377441406,199.37234497070312
+964,844,6,1,Alaunwerk Tonindustrie-Aktiengesellschaft.,416.7469482421875,438.7923583984375
+965,845,2,1,Solenhofer Aktien-Verein.,69.45287322998047,85.88455200195312
+966,845,4,1,Amberger Flaschenhütten-Aktiengesellschaft.,610.4038696289062,628.4038696289062
+967,846,4,1,Arloffer Thonwerke Aktiengesellschaft.,220.27870178222656,238.85267639160156
+968,846,7,1,Kalksandsteinwerk-Aktien-Gesellschaft.,438.5865783691406,453.6546630859375
+969,846,10,1,Kalkwerke Aktiengesellschaft vorm. Hein & Stenger.,607.796875,624.5001831054688
+970,847,4,1,Alemannia Vereinigte Ton werke Aktiengesellschaft.,209.31356811523438,227.6436767578125
+971,847,7,1,Dampfziegelei Bergenhorst Aktiengesellschaft.,553.1136474609375,571.4437255859375
+972,848,4,1,Keramische Industrie-Bedarfs-Aktiengesellschaft.,347.37872314453125,365.95269775390625
+973,848,6,2,"* Tabbertwerke Aktiengesellschaft, Mörtelwerke  Kies- und Sandgruben.",622.6676025390625,639.7261352539062
+974,849,4,1,Portland-Cementfabrik Blaubeuren Gebrüder Spohn A.-G.,187.9761199951172,206.8701629638672
+975,849,7,1,Marienberger Mosaikplattenfabrik Aktiengesellschaft. //,512.9774169921875,556.9317626953125
+976,851,4,1,"Steingutfahrik Colditz, Aktiengesellschaft. ",265.17559814453125,283.42388916015625
+977,853,4,1,"Odenwälder Hartstein-Industrie, Aktiengesellschaft. //",143.43539428710938,190.7427520751953
+978,855,2,1,Aktiengesellschaft Tonwerke Wübbenhorst.,63.796810150146484,83.66596221923828
+979,855,5,1,"Klinkerwerke Dettingen a. A. und Giengen Brz., Aktiengesellschaft",247.5959930419922,262.4538269042969
+980,855,8,1,Westdeutsche Marmor- und Granit werke Aktiengesellschaft.,527.6166381835938,548.4489135742188
+981,856,4,1,Aktiengesellschaft für Glasindustrie vorm. Friedr. Siemens. //,104.14418029785156,128.9633026123047
+982,858,4,1,C. Frommherz Müller Nachflg. Aktiengesellschaft.,192.2287139892578,210.8026885986328
+983,858,5,25,Aktiengesellschaft für Ofen- und Tonwarenfabrikation  vormals Gustav Schwendke & Sohn.,420.8755798339844,439.1238708496094
+984,858,6,18,Eisenacher Ziegelei-Actien-Gesellschaft.,590.9287109375,609.502685546875
+985,859,4,1,Süddeutsche Glashandels-Aktiengesellschaft.,205.58694458007812,227.63235473632812
+986,859,7,1,Jacob Büchenbacher & Söhne Akt.-Ges.,403.7756042480469,422.0238952636719
+987,859,11,1,Deutsche Tafelglas Aktiengesellschaft (Detag). ,612.5639038085938,630.5639038085938
+988,862,2,2,"Deutsche Libbey-Owens-Gesellschaft für maschinelle  Glasherstellung, Aktiengesellschaft (Delog).",86.58833312988281,105.0704574584961
+989,862,4,1,"Gelsenkirchener Zementwarenfabrik Ostermann & Comp., Akt.-Ges.",649.84521484375,664.2964477539062
+990,863,6,1,Alsen’sche Portland-Cement-Fabriken. ,299.2808532714844,319.5536193847656
+991,865,2,1,Portland-Cementfabrik „Germania“ Aktiengesellschaft. //,53.00114822387695,92.30744934082031
+992,867,2,1,Portland-Cementwerke Heidelberg-Mannheim-Stuttgart A.-G.///,67.52093505859375,86.96257781982422
+993,868,4,1,Glashütte Heidenau Aktiengesellschaft.,423.4291687011719,440.2218017578125
+994,868,7,1,Glashütte Heilbronn A.-G.,562.163818359375,580.163818359375
+995,869,4,3,"Portland-Cement-Fabrik Karlstadt am Main,  Aktiengesellschaft.",221.05380249023438,236.2178955078125
+996,870,4,2,Bayerisches Portlandzementwerk Kiefersfelden  Aktiengesellschaft.,194.77066040039062,209.9784698486328
+997,870,7,2,Tonplatten- und Dachziegelfabriken Kleinblittersdorf (Saar) Aktiengesellschaft.,557.6751098632812,572.8243408203125
+998,871,4,1,Deutsche Spiegelglas-Actien-Gesellschaft. ,122.62091064453125,142.06256103515625
+999,872,40,1,"Deutsche Asbestonwerke, Aktiengesellschaft.",585.8884887695312,605.63671875
+1000,873,4,1,Steinbruch-Aktiengesellschaft.,164.72390747070312,179.87464904785156
+1001,873,7,1,Vereinigte Moselschiefergruben Aktiengesellschaft.,373.3135986328125,391.6437072753906
+1002,873,10,1,Westdeutsche Kalkwerke Aktiengesellschaft.,563.7384643554688,583.4866943359375
+1003,874,4,1,Altenhainer Hartsteinwerke Aktiengesellschaft.,500.71002197265625,520.7595825195312
+1004,875,2,1,Kalk- und Mergelwerke vorm. Cementfabrik Aktiengesellschaft.,67.23606872558594,86.13011169433594
+1005,875,5,1,Baustoffe-Großvertrieb Aktiengesellschaft.,280.1275939941406,297.18609619140625
+1006,875,8,2,Deutsche Steinzeugwarenfabrik für Kanalisation und // chemische Industrie.,449.5360412597656,468.43011474609375
+1007,877,10,3,"Bayerisches Portlandcementwerk Marienstein,  Aktiengesellschaft.",426.79693603515625,441.9832763671875
+1008,878,4,1,Rheinische Chamotte- und Dinas-Werke.,279.9109191894531,299.3525695800781
+1009,880,2,1,„Keramag“ Keramische Werke Aktiengesellschaft. //,43.914249420166016,94.94291687011719
+1010,881,14,1,Vereinigte Freiburger Ziegelwerke Aktiengesellschaft.,528.3860473632812,547.2800903320312
+1011,882,4,1,Friedr. Remy Nachfolger A.-G.,272.7255859375,290.973876953125
+1012,882,7,1,Keramische Fabrik München-Schwaben Aktiengesellschaft.,567.989501953125,588.989501953125
+1013,883,4,1,"Czarnowanzer Glashütte, Aktiengesellschaft.",229.80096435546875,246.9473876953125
+1014,883,5,25,"Fleinssteinwerk, Akt.-Ges. Murrhardt in Liqu.",449.4706726074219,468.25311279296875
+1015,883,7,1,Naturwetzsteinwerk Aktiengesellschaft.,550.911865234375,570.4973754882812
+1016,884,2,1,Aktien-Ziegeleien Frisia.,69.65277099609375,85.80757141113281
+1017,884,3,22,Beton-Schleuderwerke Aktiengesellschaft.,255.91348266601562,276.4070129394531
+1018,884,4,28,Georg Radimaier Aktiengesellschaft.,491.7187805175781,510.2927551269531
+1019,884,5,14,Schieferbau-Actien-Gesellschaft „Nuttlar“.,638.7687377929688,657.3427124023438
+1020,885,4,1,Glasplakatefabrik Offenburg Aktiengesellschaft.,245.11924743652344,262.7823486328125
+1021,885,6,1,Metallglas-Aktiengesellschaft.,430.84234619140625,445.9014892578125
+1022,885,8,1,Oldenhurgische Glashütte Aktiengesellschaft.,625.1638793945312,643.1638793945312
+1023,886,4,1,Osnabrücker Ziegelwerke Aktiengesellschaft.,325.817626953125,342.8761291503906
+1024,886,6,32,Aktiengesellschaft Glashüttenwerke Adlerhütten. //,572.76416015625,625.4417114257812
+1025,888,37,2,Vereinigte Zwieseler & Pirnaer Farbenglaswerke  Äktien-Gesellschaft.,577.5009765625,592.6160278320312
+1026,890,2,1,Rheinische Ziehglas Aktiengesellschaft.,68.56356811523438,86.89366912841797
+1027,890,5,1,Querfurter Kalkindustrie Aktiengesellschaft.,297.8786926269531,316.4526672363281
+1028,890,8,1,"Glashütte Kauscha, Betriebs-Aktiengesellschaft.",545.91357421875,564.24365234375
+1029,891,3,7,Deutsche Steinindustrie A.-G.,128.0869140625,144.79022216796875
+1030,891,5,1,"Marmorwerke Gustav Schulze, Aktiengesellschaft.",396.15362548828125,414.4837341308594
+1031,891,7,1,Portland-Cementwerk Malstaft Aktiengesellschaft.,595.0428466796875,611.4744873046875
+1032,892,4,1,Westdeutsche Ton- und Keramik-Werke Akt.-Ges.,182.86102294921875,200.0074462890625
+1033,892,7,1,Schmiedeberger Klinker- und Dachsteinwerk Akt.-Ges.,460.6107177734375,479.3931579589844
+1034,893,2,1,Keramische Hütte Aktiengesellschaft.,69.4527587890625,85.60755920410156
+1035,893,5,1,Stettiner Portland-Cement-Fabrik. ,283.7176513671875,300.7761535644531
+1036,895,3,23,"Vereinigte Baumaterialienhandlungen  Felix Müller & Th. Osterritter, Aktiengesellschaft.",247.6066131591797,266.73736572265625
+1037,895,4,27,Tonofenfabrik Wallner Aktiengesellschaft.,484.0691833496094,500.86181640625
+1038,896,2,1,Theis-Schlackenverwertungs- Aktiengesellschaft.,69.49696350097656,84.68330383300781
+1039,896,5,1,Stuttgarter Gipsgeschäft. ,306.63946533203125,327.63946533203125
+1040,896,10,1,Veltag Veltener Ofen und Keramik Aktien-Gesellschaft. //,611.1865234375,649.7998046875
+1041,898,16,3,Porzellanfabrik Waldsassen Bareuther & Co.  Aktiengesellschaft.,521.2716674804688,536.4912719726562
+1042,899,5,1,Vereinigte Harzer Portlandcement- und Kalkindustrie. //,382.27313232421875,423.3971862792969
+1043,901,4,1,Schlesische Basaltwerke Aktiengesellschaft.,232.9860382080078,251.8800811767578
+1044,901,7,1,Tonwarenindustrie Wiesloch Aktiengesellschaft.,542.3286743164062,560.9026489257812
+1045,902,4,1,Tonwerke Aktiengesellschaft.,377.226806640625,394.6161193847656
+1046,902,7,1,Fr. Chr. Fikentscher Keramische Werke Akt.-Ges.,607.6304931640625,626.9276123046875
+1047,903,6,1,"Roßhaarspinnerei und -Verarbeitung. Tuchfabrik G. H. & J. Croon, Aktiengesellschaft.",328.234619140625,345.9433898925781
+1048,903,9,1,Carl Nottrott Aktien-Gesellschaft.,509.94195556640625,528.9468994140625
+1049,904,4,2,"Actien-Gesellschaft für Bleicherei, Färberei, Appretur ///  und Druckerei Augsburg.",297.8509521484375,314.0740661621094
+1050,905,2,1,Baumwollspinnerei am Stadtbach. ,70.16686248779297,87.55619049072266
+1051,906,2,1,Mech. Baumwoll-Spinnerei und Weberei Augsburg. ///,45.397666931152344,91.6468276977539
+1052,906,3,59,Mechanische Seilerwaarenfabrik Bamberg.,551.0908203125,571.3635864257812
+1053,907,4,1,Barther Jute-Spinnerei u. Weberei Akt.-Ges.,283.72528076171875,299.5997009277344
+1054,907,5,20,Bekleidungswerke Aktiengesellschaft  vorm. H. Thalheimer und J. & S. Marx.,465.6730651855469,482.7375793457031
+1055,908,2,1,Aktiengesellschaft Gebr. Seelig.,70.41386413574219,88.41386413574219
+1056,908,3,19,Akt.-Ges. für Leinen- u. Baumwollwaren-Unternehmungen.,248.0137939453125,265.4202575683594
+1057,908,4,16,Bekleidung-Handels-Aktiengesellschaft.,403.7621154785156,418.9284362792969
+1058,908,5,18,Berliner Seidengarnfabrik Aktiengesellschaft.,564.3860473632812,583.2800903320312
+1059,909,3,7,Berliner Velvetfabrik M. Mengers & Söhne Aktiengesellschaft.,127.08833312988281,145.57044982910156
+1060,909,5,1,"D. Counde, Aktiengesellschaft in Liqu.",512.3292846679688,531.021240234375
+1061,909,8,2,"* Davistan Krimmer-, Plüsch- und Teppichfabriken  Aktiengesellschaft.",629.693115234375,644.3436889648438
+1062,910,3,1,F. Ducharne Seiden,126.95390319824219,144.9539031982422
+1063,910,8,1,Globus Schuh-Aktiengesellschaft.,291.6731872558594,307.735107421875
+1064,910,11,1,Bernward Leineweber Aktiengesellschaft.,457.2452392578125,474.99285888671875
+1065,911,4,2,"„Mefa“ Bleicherei, Färberei, Appretur und Textilhandeis- Aktiengesellschaft.",194.65306091308594,209.30364990234375
+1066,911,7,1,Michels & Cie Aktiengesellschaft.,419.81561279296875,441.3747253417969
+1067,912,3,6,"Persische Teppichgesellschaft, Aktiengesellschaft.",127.21871185302734,145.7926788330078
+1068,914,4,1,Regenmäntelfabrik Esko-Pluvius Aktiengesellschaft.,118.48607635498047,138.15838623046875
+1069,914,7,1,Louis Rosenthal & Co. Aktiengesellschaft.,291.23748779296875,310.4462585449219
+1070,914,8,19,Spezialhaus für Pelze Adolf Doll Akt.-Ges.,473.0036315917969,491.333740234375
+1071,914,10,1,Conrad Tack & Cie. Aktiengesellschaft. ,589.7808837890625,610.0536499023438
+1072,916,10,25,Ueberholz & Müller Aktiengesellschaft.,543.0192260742188,560.682373046875
+1073,917,2,2,Vereinigte Textilwerke Wagner & Moras Aktiengesellschaft // in Liqu.,86.69741821289062,102.4766845703125
+1074,918,4,2,"R. Zernik, Großvertrieb von Weißwaren u. Stickereien Aktiengesellschaft.",225.14871215820312,240.3986358642578
+1075,918,7,1,Bielefelder Actien-Gesellschaft für Mechanische Weberei. //,444.0318908691406,477.5729064941406
+1076,920,3,13,"Ravensberger Spinnerei A.-G,",171.31922912597656,188.98233032226562
+1077,921,28,1,Actien-Gesellschaft für Baumwoll-Industrie.,573.4063110351562,591.350341796875
+1078,922,4,1,Erste Deutsche Fein-Jute-Garn-Spinnerei Aktien-Gesellschaft. //,121.25923919677734,138.92233276367188
+1079,923,30,1,Jute-Spinnerei und Weberei Bremen. ,492.413818359375,509.8202819824219
+1080,924,4,1,Wollgarnfabrik Tittel & Krüger und Sternwoll-Spinnerei A.-G.,424.3191833496094,441.11181640625
+1081,925,4,1,Albert Schaffer Aktiengesellschaft.,317.9462585449219,335.89031982421875
+1082,925,7,1,Gebrüder Grossmann Aktiengesellschaft in Liqu. ,530.6962890625,548.6403198242188
+1083,927,4,1,"Tuchfabriken A. Paasche, Aktiengesellschaft.",126.11349487304688,146.60702514648438
+1084,927,5,21,Bräunsdorfer Strumpffabrik Aktiengesellschaft.,311.2760925292969,330.170166015625
+1085,927,7,20,Cammann & Co. Aktiengesellschaft.,495.15673828125,515.1315307617188
+1086,928,2,1,"Gebrüder Goeritz, Aktiengesellschaft.",66.37874603271484,84.95272064208984
+1087,928,5,1,Harnisch & Oertel Aktiengesellschaft.,253.8860626220703,272.7801208496094
+1088,928,6,18,Hellas Aktiengesellschaft.,423.7028503417969,440.134521484375
+1089,928,9,1,Meichsner Moda Aktiengesellschaft.,577.95361328125,596.28369140625
+1090,929,4,1,"C. F. Solbrig Söhne, Aktiengesellschaft.",158.01358032226562,176.34368896484375
+1091,929,6,37,Hermann Stärker Aktiengesellschaft.,462.7187194824219,481.2926940917969
+1092,930,2,1,Buntweberei J. P. M. Forkel Aktiengesellschaft.,61.76228332519531,83.32579803466797
+1093,930,3,20,Vereinigte Smyrna-Teppich-Fabriken A.-Gr. ,238.93556213378906,260.0066833496094
+1094,931,33,1,"Hermann Gubelt, Aktiengesellschaft.",633.9776611328125,651.0361938476562
+1095,932,4,1,Dittersdorfer Filz- nnd Kratzentuchfabrik. ,221.8052215576172,239.55282592773438
+1096,932,6,1,Cd. & Hch. von Beckerath Nachf. Aktiengesellschaft.,638.138427734375,657.3472290039062
+1097,933,4,1,Fröhlich & Lipmann Aktiengesellschaft.,187.9374542236328,207.146240234375
+1098,933,7,1,Erste Deutsche Ramiegesellschaft.,411.8609313964844,431.3025817871094
+1099,934,2,2,Erdmannsdorfer Actien-Gesellschaft für Flachsgarn-  Maschinen-Spinnerei und Weberei.,82.26560974121094,100.5138931274414
+1100,936,2,1,Baumwollindustrie Erlangen-Bamberg Aktiengesellschaft //,59.65672302246094,89.26068115234375
+1101,938,4,1,Falkensteiner Gardinen-Weberei und Bleicherei. ,208.49522399902344,226.24282836914062
+1102,939,48,12,"Färberei Forst, Akt.-Ges., vorm. Scherzer & Honig.",639.800048828125,659.849609375
+1103,940,4,2,"Sächsische Leinen-Industrie-Gesellschaft,  vormals H. G. Müller & Hirt, Aktiengesellschaft.",216.22088623046875,235.66253662109375
+1104,940,7,1,Deutsche Acetat-Kunstseiden Aktiengesellschaft „Rhodiaseta“.,518.9755859375,537.223876953125
+1105,941,4,1,Hanfwerke Füssen-Immenstadt A.-G. ,144.4356231689453,165.50674438476562
+1106,942,4,1,Filzfabrik Aktiengesellschaft.,331.1668395996094,348.55615234375
+1107,943,4,1,Hutstoffwerke Aktiengesellschaft.,125.47760009765625,142.53610229492188
+1108,943,7,1,Hanfspinnerei Baumhüter Aktiengesellschaft.,267.2474365234375,283.0267028808594
+1109,943,10,1,"Fr. Feistkorn, Aktiengesellschaft.",448.4276123046875,465.4861145019531
+1110,944,2,1,Gera-Greizer Kammgarnspinnerei.,74.22975158691406,92.40658569335938
+1111,944,5,1,Färberei Glauchau Aktiengesellschaft. ,431.47528076171875,447.3497009277344
+1112,945,4,1,Seidenhaus Altgassen Aktiengesellschaft.,302.42529296875,318.2997131347656
+1113,945,7,2,"Blödner & Vierschrodt, Gummiwarenfabrik  und Hanfschlauchweberei Aktiengesellschaft.",458.7660217285156,475.2462463378906
+1114,946,2,1,Zirnite & Kolbig Aktiengesellschaft.,70.8786849975586,89.4526596069336
+1115,946,4,1,"Grevener Baumwollspinnerei, Act.-Ges.",183.9092559814453,201.57235717773438
+1116,946,6,1,.-G. vorm. C. H. Michelsen. /// Bremer Tauwerk-Fabrik A,389.01385498046875,407.01385498046875
+1117,947,4,1,Baumwollspinnerei Gronau.,238.42982482910156,256.6066589355469
+1118,948,4,1,Westfälische Baumwollspinnerei.,129.03628540039062,147.85096740722656
+1119,948,6,1,Vogtländische Carbonisiranstalt.,347.8260803222656,366.72015380859375
+1120,948,8,1,Berlin-Gubener Hutfabrik Actiengesellscbaft vormals A. Cohn. II,535.52392578125,563.9840087890625
+1121,950,15,1,Sponner Textil Aktiengesellschaft.,490.9051818847656,508.6528015136719
+1122,950,17,1,Hamburger Juteindustrie Aktiengesellschaft.,634.5109252929688,653.9525756835938
+1123,951,4,1,Wm. Klöpper Aktiengesellschaft.,173.60667419433594,192.73741149902344
+1124,951,7,1,Textil Grosshandels Akt.-Ges.,439.6038818359375,457.6038818359375
+1125,952,2,1,Vereinigte Jute-Spinnereien und Webereien.,73.88609313964844,92.78013610839844
+1126,953,4,1,"Pigge & Marquardt, Aktiengesellschaft.",252.03912353515625,267.1697998046875
+1127,953,5,1,M. L. Berlizheimer & Söhne Aktiengesellschaft.,483.3860168457031,502.28009033203125
+1128,954,4,1,Mechanische Weberei zu Linden.,382.6192626953125,400.2823486328125
+1129,957,4,1,Jul. Fein Söhne Aktiengesellschaft.,211.0692901611328,228.73239135742188
+1130,957,6,1,"Paul Hartmann, Aktiengesellschaft.",509.2931823730469,530.0772705078125
+1131,958,4,1,Heilbronner Schürzenfabrik Akt.-Ges. in Liqu.,138.47605895996094,157.37010192871094
+1132,958,9,1,"J. Elsbach & Co., Aktiengesellschaft. ",345.9038391113281,363.310302734375
+1133,960,2,1,Schuhfabrik Ferd. Rinne Aktiengesellschaft.,72.1627197265625,88.31752014160156
+1134,960,5,1,Garn-Aktiengesellschaft.,266.6831970214844,281.7557678222656
+1135,960,8,1,Buntweberei Moseus & Gronau Aktiengesellschaft.,415.4638366699219,433.4638366699219
+1136,960,11,1,J. H. Sweering & Co. Aktiengesellschaft.,605.3286743164062,623.9026489257812
+1137,961,4,1,Mechanische Baumwoll-Spinn- und Weberei Kempten. Hl,163.96315002441406,203.6494140625
+1138,961,6,1,Joh. Otto Thanscheidt Aktiengesellschaft.,640.3038940429688,658.3038940429688
+1139,962,4,1,"Seidenweberei Kleinlaufenburg, Aktiengesellschaft.",220.87091064453125,240.31256103515625
+1140,962,7,1,Aktiengesellschaft.,390.764404296875,405.9936828613281
+1141,962,10,1,Michel & Co. Verwaltungs-Aktiengesellschaft.,631.4708862304688,650.9125366210938
+1142,963,6,1,Wallach & Steinherg Aktien-Gesellschaft.,213.5952911376953,228.63873291015625
+1143,963,8,2,"Königsberger Segeltuchwaren- und Flaggenfabrik,  J. £. W. Hellgardt, Aktiengesellschaft.",388.14520263671875,405.892822265625
+1144,963,11,1,"Kötitzer Ledertuch- u. Wachstuch-Werke, Aktiengesellschaft //",552.8670043945312,577.9066772460938
+1145,965,16,1,Salamander Aktiengesellschaft.,626.709228515625,644.3723754882812
+1146,966,4,1,J. G. Schmidt jun. Söhne Aktiengesellschaft.,441.796630859375,460.9273681640625
+1147,967,4,1,"Hoeninghaus & Thyssen Aktiengesellschaft,",132.3677978515625,151.02215576171875
+1148,967,7,1,"Krefelder Stückfärberei, Aktiengesellschaft.",306.796630859375,325.9273681640625
+1149,967,10,1,Krefelder Teppichfabrik Aktiengesellschaft.,542.5861206054688,561.4801635742188
+1150,968,4,1,Jos. Roosen Aktiengesellschaft.,170.04745483398438,185.82672119140625
+1151,968,6,1,Eugen Vogelsang Aktiengesellschaft.,350.169189453125,366.9618225097656
+1152,968,9,1,"Wilhelm Schüller & Co., Aktien-Gesellschaft.",507.7613220214844,524.9072875976562
+1153,969,2,1,Christian Dierig Aktiengesellschaft.,73.76067352294922,92.54312133789062
+1154,970,5,1,"Petzoldt & Co., Aktiengesellschaft.",639.0119018554688,658.4535522460938
+1155,971,3,15,Kammgarnspinnerei Stöhr & Co. Aktiengesellschaft. //,168.91566467285156,216.06436157226562
+1156,973,11,1,Leipziger Baumwollspinnerei. ,406.4612121582031,423.2775573730469
+1157,974,4,1,"Ernst Mallinckrodt, Aktiengesellschaft.",469.2730712890625,486.33758544921875
+1158,975,2,1,Nordheimer Schuh-Aktiengesellschaft in Liqu.,70.74287414550781,92.58269500732422
+1159,975,5,1,Thüringer Wollgarnspinnerei Actien-Geselischaft. ///,221.30810546875,271.02581787109375
+1160,976,2,1,Baumwollspinnerei Lengenfeld i. V. Aktiengesellschaft.,71.80674743652344,91.78153991699219
+1161,976,5,1,Ernst Wentzel Aktiengesellschaft.,331.5609436035156,351.0025939941406
+1162,976,8,1,Vigogne-Aktien-Spinnerei Werdau.,535.7023315429688,557.265869140625
+1163,977,4,1,"Conradi & Friedemann, Akt.-Ges.",150.4145965576172,167.1473846435547
+1164,977,7,2,"Vornweg & Co., Aktiengesellschaft für feine Herren- u. Knabenbekleidung.",549.0746459960938,566.783447265625
+1165,978,2,1,Heinrich Mittag Akt.-Ges.,73.93045806884766,93.22762298583984
+1166,978,5,1,Concordia Spinnerei und Weberei in Marklissa u. Bunzlau. //,281.3097229003906,316.5288391113281
+1167,980,14,1,Wolldeckenfabrik Zoeppritz Aktiengesellschaft.,513.5167236328125,533.4915161132812
+1168,981,4,1,Aktien-Färberei Münchberg vorm. Knab & Linhardt. ///,139.05104064941406,179.55776977539062
+1169,982,4,1,Friedr. Schoedel Aktiengesellschaft.,246.13465881347656,263.8434143066406
+1170,982,7,1,Bayerische Wolldecken-Fabrik Bruckmühl Akt.-Ges. ///,430.3237609863281,473.6365051269531
+1171,983,4,1,"Sächsische Nähfadenfahrik, vorm. R. Heydenreich, in Liqu.",284.13623046875,303.21478271484375
+1172,983,6,1,Naundorf & Poser Akt.-Ges. für Teppichfabrikation.,454.2509765625,470.4740905761719
+1173,983,8,1,"Buntweberei Fellinger & Peltzer, Aktiengesellschaft.",640.1115112304688,658.365234375
+1174,984,4,1,Vereinigte Rumpus-Werke Akt.-Ges. ,151.79661560058594,170.92735290527344
+1175,984,8,1,H. Steudten Aktiengesellschaft.,577.8677978515625,596.5221557617188
+1176,985,3,1,Badische Baumwoll-Spinnerei,370.0536193847656,388.38372802734375
+1177,985,6,1,Overbeck Akt.-Ges. für Herren- und Knabenkleidung.,624.3308715820312,644.6036376953125
+1178,986,4,1,Hermann Grobe Aktiengesellschaft.,185.41563415527344,203.66392517089844
+1179,986,6,1,Lorenz Summa Söhne Akt.-Ges.,391.15386962890625,409.15386962890625
+1180,986,8,1,Tüllfabrik Mehltheuer Aktiengesellschaft.,598.4556274414062,613.9470825195312
+1181,987,4,1,"Oberwiehler Kunstwollfabrik Carl Hans & Co., A.-G.",331.11602783203125,347.59625244140625
+1182,987,6,1,"Gebrüder Wolfgang, Aktiengesellschaft.",552.9447021484375,570.5741577148438
+1183,988,2,1,"Gustav Wäntig, Aktiengesellschaft.",71.77849578857422,91.52672576904297
+1184,988,5,2,Aktien-Gesellschaft für Warpsspinnerei & Stärkerei zu Oldenburg i. O.,371.5609436035156,391.0025939941406
+1185,989,4,1,"G. H. Nüster, Aktiengesellschaft.",156.9092559814453,174.57235717773438
+1186,989,7,1,Deutsche Baumwoll-Aktiengesellschaft (Debag). //,303.30621337890625,356.7196960449219
+1187,992,23,1,"Pausaer Tüllfabrik, Aktiengesellschaft.",464.6109619140625,484.0526123046875
+1188,993,4,1,Tüllfabrik Flöha Aktiengesellschaft. ,173.56533813476562,189.43975830078125
+1189,995,3,9,Xndustriewerke Aktiengesellschaft. ,139.52529907226562,155.39971923828125
+1190,996,24,1,Plauener Baumwollspinnerei Aktiengesellschaft.,631.855224609375,649.602783203125
+1191,997,4,1,S tickereiwerke Plauen Aktiengesellschaft. ,324.7464904785156,339.9202575683594
+1192,998,13,1,Carl Oswald & Co. Aktiengesellschaft.,646.1519775390625,663.2984008789062
+1193,999,3,13,Tricotfabriken J. Schiesser Akt.-Ges.,172.21876525878906,190.79273986816406
+1194,999,4,25,Leinenspinnerei Schornreute Aktlen-Gesellschaft.,397.42852783203125,417.1767578125
+1195,999,5,25,"A. Schradin & Co., Aktiengesellschaft.",618.8609619140625,638.3026123046875
+1196,1000,4,1,Schwarzwälder Tuchfabrik Rohrdorf Akt.-Ges.,187.91064453125,206.69308471679688
+1197,1000,7,1,"Carl Julius Nestler, Aktien-Gesellschaft.",390.6214294433594,408.8752136230469
+1198,1000,10,1,Berberich Aktiengesellschaft.,573.2062377929688,591.1502685546875
+1199,1001,4,1,Hermann Friedrich Aktiengesellschaft.,135.92306518554688,152.98756408691406
+1200,1001,6,1,Richard Schubert Aktiengesellschaft.,323.9609680175781,341.1073913574219
+1201,1001,8,1,Heinrich Goebel Aktiengesellschaft.,520.6011962890625,537.4175415039062
+1202,1002,2,1,Kammgarnspinnerei Schedewitz Aktiengesellschaft. iii,51.69426345825195,96.7607192993164
+1203,1003,2,2,Tuchfabrik Aktiengesellschaft  vorm. Fischer-Schnabl Aktiengesellschaft.,88.34808349609375,106.42164611816406
+1204,1003,4,1,Zwirnerei Ackermann A.-G.,324.4560546875,340.936279296875
+1205,1003,6,1,Mechanische Weberei Fischen. ,593.9768676757812,611.3662109375
+1206,1004,7,1,Mechanische Weberei Sorau vormals F. A. Martin & Co. //,353.05120849609375,392.35748291015625
+1207,1006,2,1,"Gust. Tragmann & Söhne, Tuchfabrik, Aktiengesellschaft.",72.9208984375,92.36254119873047
+1208,1006,5,1,Schlager Textilwerke Aktiengesellschaft.,282.0138244628906,299.4202880859375
+1209,1006,8,1,Trikot-Aktiengesellschaft Stuttgart.,543.0667114257812,563.04150390625
+1210,1007,2,1,"Ledertuchfabrik Bernhard Maerker, Aktiengesellschaft.",76.37464904785156,94.08340454101562
+1211,1007,5,1,Wallersteiner Aktiengesellschaft in Liqu.,358.7109680175781,375.8573913574219
+1212,1007,8,1,"Konrad Hornschuch, Aktiengesellschaft.",518.5606689453125,537.3431396484375
+1213,1008,3,5,Vereinigte Trikotfabriken (R. Vollmoeller) Aktiengesellschaft.//,119.39659118652344,138.52732849121094
+1214,1009,24,1,"Gebr. Schüller Aktiengesellschaft,",618.0787353515625,636.6527099609375
+1215,1011,3,6,Schöne & Böhme Aktiengesellschaft.,121.15277099609375,137.3075714111328
+1216,1011,5,1,Weidaer Jute-Spinnerei & Weberei.,405.3656311035156,423.6139221191406
+1217,1012,4,1,Wolldeckenfabrik Weilderstadt Akt.-Ges. ,206.9192657470703,224.58236694335938
+1218,1012,6,1,Süddeutsche Wäscheindustrie-Akt.-Ges.,579.3181762695312,599.8845825195312
+1219,1013,2,1,Leipziger Baumwollweberei.,76.11100006103516,92.33409881591797
+1220,1013,5,1,Thüringer Wattenfabrik Gebrüder Weinrich Akt.-Ges.,299.2928161621094,314.5373840332031
+1221,1013,8,1,Meyer Kauffmann Textilwerke Aktien-Gesellschaft //,457.6104736328125,503.8295593261719
+1222,1016,2,1,H. Brüninghaus Söhne Akt.-Ges. in Liqu.,73.33467102050781,91.04342651367188
+1223,1016,5,1,Westdeutsche Textil-Aktiengesellschaft.,269.8483581542969,288.3304748535156
+1224,1016,8,2,Wuppertaler Seidentrocknungs-Aktiengesellschaft. (Oeffentliches Warenprüfungsamt für das Textilgewerbe.),501.2290344238281,514.6450805664062
+1225,1017,4,1,Spinnerei und Webereien Zell-Schönau A.-G.,140.60386657714844,158.60386657714844
+1226,1017,7,1,Bindfaden-Manufaktur Aktiengesellschaft.,467.5592956542969,485.2223815917969
+1227,1018,3,1,"photochemische Industrie, Seifenfabriken. Aktiengesellschaft „Union“.",197.8726806640625,213.02505493164062
+1228,1018,6,1,Chemische Werke vorm. H. & E. Albert. ,587.8060302734375,604.2862548828125
+1229,1020,7,20,Aktiengesellschaft Carbidwerk Lechbruck.,433.87725830078125,453.9569091796875
+1230,1020,8,23,Bronzefarbenwerke A.-G. vorm. Carl Schlenk. ,642.5668334960938,659.9561767578125
+1231,1021,4,2,"Rheinische Gerbstoff- u. Farbholz-Extrakt-Fabrik ///  Gehr. Müller, Aktiengesellschaft.",524.4063110351562,542.350341796875
+1232,1022,4,1,Aktiengesellschaft Lignose.,245.02761840820312,262.08612060546875
+1233,1022,7,1,Asphaltfabrik Rudow Dr.-Ing. Wilhelm Schliemann Akt-Ges.,649.3602294921875,667.0233764648438
+1234,1023,4,1,Büsscher & Hoffmann Aktiengesellschaft.,244.47915649414062,261.27178955078125
+1235,1024,4,1,Chemische Fabrik Grünau Landshoff & Meyer Akt.-Ges. //,191.5655517578125,229.0194091796875
+1236,1026,4,1,Chemische Fabrik Siegfried Kroch Aktiengesellschaft.,159.72605895996094,178.62010192871094
+1237,1026,8,1,Chemische Fabrik „Oldin“ Aktiengesellschaft.,470.60662841796875,489.73736572265625
+1238,1026,10,1,„Coho“ Chemie-Vertriebs-Aktiengesellschaft.,640.1109008789062,659.5525512695312
+1239,1027,4,1,Deutsche Zündholzfabriken Akt.-Ges.,202.11680603027344,219.50613403320312
+1240,1028,4,1,"Heko-Werk, Chemische Fabrik Akt.-Ges.",360.4346618652344,378.1434326171875
+1241,1028,6,1,"C. F. Heyde, Chemische Fabrik Aktiengesellschaft.",617.7268676757812,635.1162109375
+1242,1029,4,1,Industriegas Aktiengesellschaft.,252.05287170410156,267.1523132324219
+1243,1030,2,1,Jünger & Gebhardt Akt.-Ges.,75.45124053955078,92.26757049560547
+1244,1030,5,1,Kreiner & Brandt Manna-Werk Aktiengesellschaft in Liqu.,259.73101806640625,278.2887878417969
+1245,1030,8,1,Metallochemische Fabrik A.-G.,443.1883850097656,461.6705017089844
+1246,1030,11,2,"* Professor Dr. med. Much’sche Präparate Aktiengesellschaft,  chemisch-pharmazeutische Erzeugnisse.",651.7178344726562,669.107177734375
+1247,1031,4,1,Dr. J. Perl & Co. Aktiengesellschaft.,172.33604431152344,191.23008728027344
+1248,1031,7,1,Rütgerswerke-Aktiengesellschaft. ,376.2397155761719,391.36962890625
+1249,1035,2,2,Schrauben- und Mutternfabrik vorm. S. Riehm & Söhne Aktiengesellschaft.,90.61227416992188,105.25080871582031
+1250,1035,5,1,Soteria Chemische Fabrik Aktiengesellschaft.,421.02069091796875,439.8031311035156
+1251,1035,8,1,Vitriolfabrik Johannisthal Aktiengesellschaft.,632.4847412109375,650.1141967773438
+1252,1036,8,1,Wormser Druckfarbenwerke Aktiengesellschaft i. Liqu.,508.8109436035156,525.0340576171875
+1253,1036,11,1,Zeppelin-Wasserstoff- und Sauerstoff-Werke Akt.-Ges.,642.3528442382812,661.9383544921875
+1254,1037,4,1,Asta Aktiengesellschaft Chemische Fabrik.,239.21359252929688,257.543701171875
+1255,1037,6,25,Fett-Raffinerie Akt.-Ges.,469.5638122558594,486.97027587890625
+1256,1038,4,1,Hansawerke Aktiengesellschaft. ,209.5452117919922,227.29281616210938
+1257,1038,6,1,Mineraloel-Raffinerie vorm. August Korff.,581.7860717773438,601.4583740234375
+1258,1039,4,1,Oelfabrik Gross-Gerau-Bremen.,222.0768280029297,239.46615600585938
+1259,1039,7,1,Günther & Haussner Aktiengesellschaft.,581.8012084960938,598.6175537109375
+1260,1040,4,2,F. J. Collin Aktiengesellschaft  zur Verwertung von Brennstoffen und Metallen.,221.71678161621094,239.10610961914062
+1261,1040,6,1,Lack- und Farben-Großeinkaufs-Aktien-Gesellschaft.,385.2749938964844,400.1473388671875
+1262,1040,8,1,Aug. Leonhardi Aktiengesellschaft.,479.8062744140625,497.7503356933594
+1263,1041,4,1,"Mimosa, Aktiengesellschaft, ",126.02271270751953,141.17507934570312
+1264,1043,4,2,"Dr. L. Naumann, Aktiengesellschaft,  Chemisch-technische Lackfabrik.",302.7168273925781,320.10614013671875
+1265,1043,7,1,Trapp & Münch Aktiengesellschaft. ,479.1753234863281,495.04974365234375
+1266,1044,4,1,"Henkel & Cie., Aktien-Gesellschaft.",217.6009521484375,234.74737548828125
+1267,1044,10,1,Chemische Fabrik Ergolding Akt.-Ges.,560.9462890625,578.8903198242188
+1268,1045,4,1,Lohmann Aktiengesellschaft.,138.2109375,155.35736083984375
+1269,1045,7,1,I. G. Farbenindustrie Aktiengesellschaft. ,454.0111999511719,470.8275451660156
+1270,1055,35,1,Aktien-Gesellschaft für chemische Industrie. ,389.5653076171875,405.4397277832031
+1271,1057,4,1,Chemische Fabrik Güstrow Aktiengesellschaft.,232.0474395751953,251.2562255859375
+1272,1057,7,1,Dynamit-Actien-Gesellschaft vormals Alfred Nobel & Co. //,557.0226440429688,593.4779052734375
+1273,1060,5,1,Gehag Gesellschaft der Hamburg-Altonaer Apotheker Akt.-Ges.,253.3645782470703,270.09735107421875
+1274,1060,8,1,"Glasurit-Werke M. Winkelmann, Aktien-Gesellschaft.",516.1273193359375,536.2069091796875
+1275,1061,4,1,"Hans Hauenschild, Chemische Fabrik Aktiengesellschaft.",195.43853759765625,215.186767578125
+1276,1061,7,1,„Herold“ Aktiengesellschaft in Liqu.,394.2691955566406,411.06182861328125
+1277,1061,10,1,Oelwerke W. B. Dick & Co. Aktiengesellschaft.,637.2587890625,655.9131469726562
+1278,1062,4,1,"Pearson & Co., Aktiengesellschaft.",240.60926818847656,258.2723693847656
+1279,1062,7,1,Pulverfabrik Tinsdal Aktien-Gesellschaft.,449.0077819824219,467.6621398925781
+1280,1062,10,1,H. Schlinck & Cie. Akt.-Ges. ,597.40673828125,617.3815307617188
+1281,1063,4,1,Harburger Chemische Werke Schön & Co. Aktiengesellschaft.,477.34478759765625,494.9742126464844
+1282,1064,4,1,"Leprince & Siveke, Akt.-Ges.",143.89659118652344,163.02732849121094
+1283,1064,7,1,Elektrochemische Werke München Aktiengesellschaft.,360.9208984375,380.362548828125
+1284,1064,10,2,"Dragoco, Aktiengesellschaft, Spezialfahrik konzentrierter  Riech- und Aromastoffe.",589.4468994140625,606.1502075195312
+1285,1065,4,1,Zünderwerke Ernst Brün Aktiengesellschaft.,173.1983184814453,191.68043518066406
+1286,1065,7,2,"Dermatoid-Werke Paul Meissner, Aktien-Gesellschaft. ///",370.1311340332031,409.0153503417969
+1287,1066,4,1,Fritz Schulz jun. Aktiengesellschaft. ,175.01919555664062,191.81182861328125
+1288,1067,16,12,"Concordia, chemische Fabrik auf Aktien. ",643.5972900390625,661.5413208007812
+1289,1069,6,9,Bezüge des Vorstandes und Aufsichtsrates 1933: 0 RM und 2 600 RM. Chemische Fabrik Budenheim Aktiengesellschaft.,361.51776123046875,380.172119140625
+1290,1070,2,1,Werner & Mertz Aktiengesellschaft.,73.84834289550781,92.3304672241211
+1291,1070,5,1,Goerig & Go. Aktiengesellschaft.,364.1109619140625,381.25738525390625
+1292,1070,8,1,"Lackfabrik Forrer, Akt.-Ges.",537.6304931640625,556.9276123046875
+1293,1071,4,1,Verein deutscher Oelfabriken. ,215.81356811523438,234.1436767578125
+1294,1072,4,2,Chemische Fabrik Marktredwitz Aktiengesellschaft Marktredwitz i. B.,183.46530151367188,199.3397216796875
+1295,1072,11,1,"Nymphosan Aktiengesellschaft. 27, Am Priel 10.",400.0882263183594,415.253662109375
+1296,1072,13,1,Aktiengesellschaft.,523.8394775390625,538.5081176757812
+1297,1073,2,1,C. H. Boehringer Sohn Aktiengesellschaft.,78.13909149169922,93.53365325927734
+1298,1073,5,2,"Bayerische Celluloidwaaren-Fabrik vorm. Albert Wacker, A.-G. in Liqu.",397.5128479003906,412.6122741699219
+1299,1073,8,1,Redeker & Hennis Aktien-Gesellschaft.,605.8192138671875,623.4823608398438
+1300,1074,4,1,„Sandoz“ Aktiengesellschaft.,230.0714569091797,248.32522583007812
+1301,1074,6,24,Metall- und Farbwerke Aktiengesellschaft.,450.5625915527344,465.2665710449219
+1302,1074,8,22,Zinkfarben Aktiengesellschaft.,642.961669921875,661.744140625
+1303,1075,4,1,Dünger- Abfuhr-Actiengesellschaft.,188.93336486816406,203.99249267578125
+1304,1075,7,1,Riesaer Dünger-Abfuhr-Actien-Gesellschaft.,390.0287170410156,408.6026916503906
+1305,1075,10,1,"„Phapag“ Pharmazeutische Präparate, Aktiengesellschaft.",482.6038513183594,500.6038513183594
+1306,1076,2,1,Blei- und Zink-Farben-Vertrieb Aktiengesellschaft.,75.82566833496094,94.0739517211914
+1307,1076,5,1,"„Montana“, Aktiengesellschaft",165.79750061035156,185.00628662109375
+1308,1076,8,1,"Pharmazeutisches Werk Pharmasaar Akt-Ges, in Liqu.",345.1260681152344,364.0201416015625
+1309,1076,11,1,Vereinigte Uerdinger Oelwerke Alberdingk & Boley A.-G.,555.6874389648438,574.896240234375
+1310,1077,4,1,Gustav Ruth Aktiengesellschaft.,228.74688720703125,245.4501953125
+1311,1077,7,1,Chemische Fabrik Wesseling Aktiengesellschaft.,432.3384704589844,452.0867004394531
+1312,1078,4,1,Dr. Paul Bruch Fabrik pharmazeutischer Präparate A.-G. in Liqu.,147.5509490966797,163.77403259277344
+1313,1078,7,1,Kalle & Co. Aktiengesellschaft.,298.71978759765625,316.8966369628906
+1314,1078,10,1,Arti Akt.-Ges. vorm. Farbwerk Emil Jansen & Co.,645.8663330078125,661.74072265625
+1315,1079,8,1,Zwickauer Abfuhr-Gesellschaft.,526.3753662109375,542.249755859375
+1316,1080,2,1,"Fritz Häuser, Aktiengesellschaft.",172.61956787109375,188.3037109375
+1317,1080,5,1,Berliner Lederbetrieb Aktiengesellschaft.,538.4256591796875,556.6739501953125
+1318,1081,2,1,Hermann Kluge Lederfabrik Aktiengesellschaft.,77.3447494506836,94.97419738769531
+1319,1081,5,1,"F. G. Sohre, Aktiengesellschaft.",309.99835205078125,328.48046875
+1320,1081,8,1,Emil Brandt Nachf. A.-G. in Liqu.,562.3777465820312,577.985107421875
+1321,1082,2,1,"Lederfabrik Johann Metzger, Aktiengesellschaft.",74.29688262939453,91.00017547607422
+1322,1082,5,1,Süddeutsche Leder- u. Riemenfabrik Aktiengesellschaft.,325.347412109375,341.1266784667969
+1323,1082,8,1,"Just & Co., Aktien-Gesellschaft. ",510.6222229003906,528.7431030273438
+1324,1083,4,1,Wandsbeker Lederfabrik Aktiengesellschaft in Liqu.,373.5638427734375,391.5638427734375
+1325,1083,7,2,"Actiengesellschaft Hilchenbacher Lederwerke  vormals Giersbach, Hüftenhein & Kraemer.",566.1538696289062,584.1538696289062
+1326,1084,3,16,Lederfabrik Hirschberg vorm. Heinrich Knoch & Co. //,182.11770629882812,226.54647827148438
+1327,1085,27,1,Lederwerke Rothe A.-G.,554.3909912109375,572.9487915039062
+1328,1086,4,1,Emil Waeldin Lederfabrik A.-G.,307.7609558105469,324.9073791503906
+1329,1086,5,21,Indo-Persian Rauchwaren Aktiengesellschaft.,496.7706604003906,515.5531005859375
+1330,1086,6,15,Kanin-Handels-Akt.-Ges.,638.1699829101562,652.5872192382812
+1331,1087,4,1,Leipziger Rauchwaren-Färberei Aktiengesellschaft.,156.1323699951172,171.27197265625
+1332,1087,6,22,F. L. Mertens Aktiengesellschaft.,356.52874755859375,375.10272216796875
+1333,1087,9,1,Rauchwaren-Walter Aktien-Gesellschaft.,599.7874145507812,618.9962158203125
+1334,1089,35,1,Fr. Stephan Lederwerke Aktiengesellschaft.,395.63720703125,413.6591796875
+1335,1089,38,1,Adolf Arnhold Akfien-Gesellschaft.,545.1668090820312,562.55615234375
+1336,1090,4,1,"Lederfabrik Gehr. Goebels, Aktiengesellschaft.",142.0452117919922,159.79281616210938
+1337,1090,7,1,"Feldmeier & Bock, Akt.-Ges.",280.413818359375,297.8202819824219
+1338,1090,10,1,Karl Seeger Aktiengesellschaft.,454.8756103515625,473.1239013671875
+1339,1090,13,1,Schuhfabrik Pfullingen Aktien-Gesellschaft.,623.5639038085938,641.5639038085938
+1340,1091,4,1,J. J. Schlayer Aktien-Gesellschaft.,187.86927795410156,205.53237915039062
+1341,1091,7,1,A. Th. Meissner Aktiengesellschaft.,361.2709045410156,380.7125549316406
+1342,1091,10,1,Alfred Bühler Aktiengesellschaft.,597.1734008789062,617.6669921875
+1343,1092,4,1,C. F. Roser Aktiengesellschaft.,171.4346466064453,189.14340209960938
+1344,1092,7,1,Tauchaer Rauchwaren-Zurichterei u. Färberei-Akt.-Ges.,425.1752624511719,441.0496826171875
+1345,1092,10,2,Niederrheinische Aktien-Gesellschaft für Lederfabrikation // (vormals Z. Spier).,630.961181640625,647.7775268554688
+1346,1095,2,1,Cornelius Heyl Akt.-Ges.,75.1705093383789,94.4676742553711
+1347,1095,5,1,Lederfabrik Zuffenhausen Sihler & Cie. Aktiengesellschaft.,369.3883972167969,387.8705139160156
+1348,1096,3,2,Hannoversche Papierfabriken Alfeld-Gronau  vormals Gebr. Woge.,184.74632263183594,202.69036865234375
+1349,1097,2,1,Aktien-Gesellschaft für Zellstoff- & Papier-Fabrikation.,73.66120147705078,90.47753143310547
+1350,1100,4,1,Buntpapierfabrik Aktiengesellschaft. ,295.2638244628906,313.2638244628906
+1351,1102,15,1,W. Euler Maschinenpapierfabrik Aktiengesellschaft.,644.9972534179688,662.9412841796875
+1352,1103,4,1,* Deupa“ Aktiengesellschaft für Papiertechnik.,278.60284423828125,295.0345153808594
+1353,1103,7,1,"Albert Labus, Aktiengesellschaft.",419.503173828125,440.2872619628906
+1354,1103,10,1,F. Lüdecke Aktiengesellschaft.,631.9287109375,650.502685546875
+1355,1104,4,1,Papierfabrik Krappitz Aktiengesellschaft.,209.36532592773438,225.23974609375
+1356,1104,7,1,Sulfit-Cellulose-Fabrik Tillgner & Co. Aktiengesellschaft.,563.7205200195312,583.0176391601562
+1357,1105,3,1,Bremer Papier- u. Wellpappen-Fabrik Akt-Ges. ,186.66070556640625,205.44314575195312
+1358,1105,5,1,"Papierfabrik Bruckmühl, Akt.-Ges. in Liqu.",523.2109375,540.3573608398438
+1359,1106,4,1,Dresdner Emballagenfabrik Aktiengesellschaft.,175.82875061035156,194.40272521972656
+1360,1106,6,1,"„Mapra“ Aktiengesellschaft für Papier- und Pappenvertrieb,",422.8676452636719,439.9261474609375
+1361,1106,7,9,Streich & Co. Aktiengesellschaft.,530.21875,548.792724609375
+1362,1107,2,1,Vereinigte Strohstoff-Fabriken. ,75.08605194091797,94.75836181640625
+1363,1107,4,1,"L. & E. Sabor Aktiengesellschaft,",621.2760620117188,640.1701049804688
+1364,1108,4,1,Zucker & Co. A.-G. Schreibwarenfabrik.,174.54000854492188,194.3389892578125
+1365,1108,7,1,M. Vogel Akt.-Ges.,466.4012145996094,483.2175598144531
+1366,1108,9,19,J. Rung & Co. Akt.-Ges. für Papierverarbeitung und Buchdruck.,643.228271484375,663.307861328125
+1367,1109,4,1,Vohlit-Werke Aktiengesellschaft.,205.03834533691406,223.5204620361328
+1368,1109,7,1,Bunt- u. Luxuspapierfabrik Goldbach.,456.36981201171875,474.5466613769531
+1369,1110,4,1,Papierfabrik Großenhain Aktiengesellschaft.,139.7562713623047,157.7003173828125
+1370,1110,7,1,Kartonpapierfabriken Aktiengesellschaft. ,631.327392578125,651.6837768554688
+1371,1112,7,9,Papierfabrik Kabel Aktiengesellschaft.,457.2230529785156,474.2875671386719
+1372,1113,4,1,Heidenauer Papierfabrik Aktiengesellschaft. ,155.31097412109375,172.4573974609375
+1373,1114,10,1,Osthushenrich-Werke Aktiengesellschaft.,541.8638916015625,559.8638916015625
+1374,1115,2,1,Gebrüder Rauch Akt.-Ges.,74.0860366821289,89.60331726074219
+1375,1115,5,1,"Th. D. Lovis Söhne, Aktiengesellschaft.",336.2109680175781,353.3573913574219
+1376,1115,8,1,"Gißler & Paß, Aktiengesellschaft.",535.644775390625,553.2742309570312
+1377,1116,4,1,Otto Ficker A.-G.,178.4138641357422,196.4138641357422
+1378,1116,7,1,"Knoeckel, Schmidt & Cie,, Papierfabriken Aktiengesellschaft.",386.5734558105469,407.0669860839844
+1379,1117,5,1,Industriewerke Landsberg; a. Lech Aktiengesellschaft.,226.95281982421875,243.38449096679688
+1380,1117,7,1,Buchgewerbe Aktiengesellschaft.,475.7474365234375,494.9562072753906
+1381,1117,9,1,Fritzsche-Hager Aktien-Gesellschaft. ,619.5709228515625,639.0125732421875
+1382,1118,6,1,Julius Hager Aktiengesellschaft.,606.4638671875,624.4638671875
+1383,1119,4,2,Vereinigte Zellstoff- und Papierfabriken Kostheim-  Oberleschen Aktiengesellschaft.,169.61917114257812,186.41180419921875
+1384,1122,9,20,Max Nitzsche & Co. Aktiengesellschaft.,502.8360290527344,521.7301025390625
+1385,1123,2,1,"Stiefel & Manzinger, Aktien-Gesellschaft.",67.67916107177734,84.99945068359375
+1386,1123,5,1,"Otto Naumann & Co., Aktiengesellschaft.",240.6708984375,260.112548828125
+1387,1123,9,1,Emballage Aktiengesellschaft (Societe Anonyme d’Emballages).,483.56817626953125,504.1346130371094
+1388,1124,2,1,"F. Maas & Sohn, Aktien-Gesellschaft.",68.07560729980469,86.32389068603516
+1389,1124,4,25,Papierfabrik Spechthausen Aktiengesellschaft.,292.5209045410156,311.9625549316406
+1390,1124,6,27,"Clemens Claus, Aktiengesellschaft.",512.8756103515625,531.1239013671875
+1391,1124,9,1,Aktiengesellschaft für Papier- und Pappenfabrikaiion Ullersdorf.,647.1176147460938,664.1761474609375
+1392,1125,4,1,Papierfabrik Zell am Harmersbach Aktiengesellschaft.,316.8638610839844,334.8638610839844
+1393,1125,7,1,Warburger Papierfabrik Aktiengesellschaft.,478.1138610839844,496.1138610839844
+1394,1125,10,1,R. Rübe & Co. Aktiengesellschaft.,617.7100219726562,637.7595825195312
+1395,1126,8,2,Weißenfelser Kartonnagenfabrik Bodewin Zinkernagel. Aktiengesellschaft.,536.5806884765625,551.7884521484375
+1396,1127,2,1,Elberfelder Papierfabrik Aktiengesellschaft.,72.36306762695312,89.42757415771484
+1397,1127,5,2,Holzstoff- u. Lederpappen-Fabriken vorm. Gebr. Fünfstück Akt.-Ges.,350.0777282714844,364.3529357910156
+1398,1128,3,1,"Telegraphen- und Annoncen-Büro, Vervielfältigungsindustrie, Reklame-Institute. Dr. J. Kirsch Buchdruckerei und Verlagsanstalt Aktiengesellschaft.",166.3027801513672,181.54736328125
+1399,1128,6,1,Keramos-Verlag Aktiengesellschaft.,340.3109436035156,356.5340576171875
+1400,1128,9,1,Bazar-Actien-Gesellschaft.,576.986572265625,591.5929565429688
+1401,1130,4,1,Bergmann-Briefumschläge Aktiengesellschaft in Liqu.,116.03946685791016,137.0394744873047
+1402,1130,7,1,Dondorf Kunstverlag Aktiengesellschaft.,334.11383056640625,352.11383056640625
+1403,1130,10,1,Germania Actiengesellschaft für Verlag und Druckerei.,470.11358642578125,488.4436950683594
+1404,1131,3,1,F. A. Günther & Sohn Actien-Gesellschaft. ,142.8052215576172,160.55282592773438
+1405,1132,12,1,"Carl Kühn & Söhne, Akt-Ges.",504.984619140625,522.6934204101562
+1406,1133,2,1,Pallas-Verlag Aktiengesellschaft.,70.93746185302734,90.14624786376953
+1407,1133,5,1,"Dietrich Reimer (Ernst Vohsen), Aktiengesellschaft.",261.69287109375,278.1245422363281
+1408,1133,8,1,"„Tolirag“, Ton- und Lichtbild-Reklame, Aktiengesellschaft.",473.20361328125,491.5337219238281
+1409,1134,2,1,Verlag für Kunstgeschichte Aktiengesellschaft in Liqu.,72.09660339355469,91.22734069824219
+1410,1134,4,6,Verlagsgesellschaft Textilwoche Aktiengesellschaft in Liqu.,146.2894744873047,167.2894744873047
+1411,1134,5,10,E. Gundlach Aktiengesellschaft. ,254.0138702392578,272.01385498046875
+1412,1135,24,1,Friedr. Vieweg & Sohn Akt.-Ges.,424.1466369628906,443.2773742675781
+1413,1135,26,25,Th. Schatzky Aktiengesellschaft.,648.2119140625,667.653564453125
+1414,1136,3,31,Schlesische Druckerei A.-G.,311.3612976074219,328.5072937011719
+1415,1136,6,1,"„Danubiana“, Aktiengesellschaft für Verlag.",535.642822265625,552.074462890625
+1416,1137,2,1,Adressen-Miiller Aktiengesellschaft.,73.56929779052734,91.23239135742188
+1417,1137,4,20,"Wilhelm Wirth, Klischeefabrik Aktiengesellschaft.",260.4187316894531,278.9927062988281
+1418,1137,6,16,"Flensborg Avis, Aktiengesellschaft.",422.38690185546875,439.0902099609375
+1419,1137,8,23,"Geographische Verlagsanstalt und Druckerei Ludwig Ravenstein, Aktiengesellschaft.",639.404296875,654.5809936523438
+1420,1138,8,1,"Aktien-Gesellschaft Görlitzer Nachrichten und Anzeiger,",408.6469421386719,430.6923522949219
+1421,1139,2,1,Grünberger Verlagsdruckerei Aktiengesellschaft.,71.2308120727539,91.50357818603516
+1422,1139,5,1,Mitteldeutsche Verlags-Aktien-Gesellschaft.,217.92872619628906,236.50270080566406
+1423,1139,8,1,Mitteldeutsche Kunstanstalt Aktiengesellschaft.,648.5548706054688,666.5548706054688
+1424,1140,3,29,Beobachter im Iser- und Riesengebirge Aktiengesellschaft.,292.753173828125,313.5372619628906
+1425,1141,2,2,"Badenia in Karlsruhe, Aktiengesellschaft für Verlag und Druckerei",88.41120147705078,105.22753143310547
+1426,1141,5,1,"Ostpreussische Druckerei u. Verlags-Anstalt, Akt.-Ges.",392.62738037109375,412.9837951660156
+1427,1142,2,1,Koehler & Volckmar Aktiengesellschaft.,75.37874603271484,93.95272064208984
+1428,1142,5,2,"Leipziger Graphische Werke Aktiengesellschaft,  vorm. Vogel & Vogel G. m. b. H.",295.0760498046875,313.9701232910156
+1429,1142,8,2,Leipziger Verlagsdruckerei Aktiengesellschaft  vorm. Fischer & Kürsten.,502.13690185546875,518.8402099609375
+1430,1143,4,2,"Matgra, Material-Beschaffungsstelle für das graphische  Gewerbe, Aktiengesellschaft.",152.7637939453125,170.17025756835938
+1431,1143,7,1,"Emil Pinkau & Co., Aktiengesellschaft. ",381.2287292480469,399.8027038574219
+1432,1144,2,1,E. Baensch jun. Aktiengesellschaft.,73.21380615234375,90.62026977539062
+1433,1144,5,2,"Badischer General-Anzeiger — Mannheimer Tageblatt,  Gengenbach & Hahn, Druckerei und Verlag, Akt.-Ges.",387.60516357421875,405.352783203125
+1434,1144,8,1,Aktien-Geseilschaft Pressverein Messkirch.,632.9908447265625,653.2636108398438
+1435,1145,4,1,Begra Handels-Aktiengesellschaft für das graphische Gewerbe.,112.80094146728516,129.02403259277344
+1436,1145,7,1,"F. Bruckmann, Aktiengesellschaft ",463.01123046875,479.82757568359375
+1437,1146,3,44,„Uvachrom“ Akt-Ges. für Farben-Photographie.,401.3609619140625,418.50738525390625
+1438,1147,2,1,Aktien-Gesellschaft für Verlag u. Druckerei „Der Westfale“.,71.54319763183594,92.32726287841797
+1439,1147,5,1,"Gerhard Stalling, Aktiengesellschaft.",246.50926208496094,264.17236328125
+1440,1147,12,2,Verlagsdruckerei Akt.-Ges. Babnßofstraße 13.,462.5777893066406,476.39117431640625
+1441,1147,14,1,Westfälisches Volksblatt Aktiengesellschaft.,627.5452270507812,645.2927856445312
+1442,1148,4,1,"Saar-Zeitung, Akt-Ges. zur Förderung katholischer Interessen.",194.562744140625,210.71754455566406
+1443,1148,7,1,Westpfälzische Verlagsdruckerei Aktiengesellschaft.,378.2908020019531,398.5635681152344
+1444,1148,10,1,Bergische Verlags-Aktiengesellschaft.,549.8395385742188,570.8395385742188
+1445,1149,4,1,Ostsee-Druck- und -Verlag Akt.-Ges.,130.12681579589844,147.51614379882812
+1446,1149,7,1,Union Deutsche Verlagsgesellschaft. ,310.8409729003906,329.39874267578125
+1447,1150,4,1,"E. Wunderlich & Comp., Aktiengesellschaft. ",495.5512390136719,512.3675537109375
+1448,1152,5,1,Dietsch & Brückner Aktiengesellschaft.,221.72348022460938,242.21701049804688
+1449,1152,8,1,Königl. Universitätsdruckerei H. Stürtz Aktiengesellschaft. ///,419.97979736328125,442.4963073730469
+1450,1153,4,1,Friedr. Müller Söhne Aktiengesellschaft.,178.76145935058594,197.01522827148438
+1451,1153,7,1,Wupperfaler Druckerei A.-G.,353.5109558105469,370.6573791503906
+1452,1153,12,1,"Holz, Stroh, Rohr, Bast, Binsen, Holzimprägnieranstalten. Holsatia-Werke Aktiengesellschaft.",605.490966796875,624.0487670898438
+1453,1154,4,1,Vereinigte Möbelwerke Akt.-Ges.,438.6708984375,458.112548828125
+1454,1154,6,1,Adler Phonograph Aktiengesellschaft.,634.4786987304688,653.0526733398438
+1455,1155,4,1,"Boyen & Co., Piano-Flügel-Fabrik K.-G. a. A.",174.01092529296875,191.1573486328125
+1456,1155,7,1,Deutsche Ultraphon Akt.-Ges. in Liqu.,336.70623779296875,354.6502990722656
+1457,1155,10,1,"Albert Gleiser, Möbelfabrik Aktiengesellschaft.",585.021484375,603.2752075195312
+1458,1156,3,14,J. C. Pfaff Aktiengesellschaft.,183.23846435546875,202.9866943359375
+1459,1156,5,33,Spandauer Holzindustrie Aktiengesellschaft.,466.1734619140625,486.6669921875
+1460,1156,7,18,Heinrich Zeiss (Unionzeiss) Aktiengesellschaft.,634.8192138671875,652.4823608398438
+1461,1157,5,23,Ostdeutsche Holzverwertungs-Aktiengesellschaft.,467.4100341796875,487.4595947265625
+1462,1158,2,1,"Schuberth-Werke, Aktiengesellschaft.",71.90666198730469,91.03739929199219
+1463,1158,5,1,Stuhlrohrfabrik Bremen-Burg Aktiengesellschaft.,284.00360107421875,302.3337097167969
+1464,1158,8,1,"Gebrüder Schürmann, Aktiengesellschaft.",595.7667846679688,615.7415771484375
+1465,1159,6,1,"Wickingsche Industrie für Holz und Baubedarf, Akt.-Ges. Holzstraße 17—19.",139.1151123046875,153.53695678710938
+1466,1159,8,1,Chr. Graze Aktiengesellschaft.,436.8766174316406,453.0130920410156
+1467,1159,11,1,Bürstenfabrik Emil Kränzlein Aktiengesellschaft.,609.1206665039062,627.9031372070312
+1468,1160,4,1,"Industrie für Holzverwertung Akt.-Ges,",393.72607421875,412.6201477050781
+1469,1161,2,1,Festenberger Holzindustrie Aktiengesellschaft.,76.09687042236328,92.80016326904297
+1470,1161,4,1,Hubertusmühle Aktiengesellschaft.,318.8744812011719,340.1580810546875
+1471,1161,6,1,Nutzholz-Aktiengesellschaft.,519.7435913085938,534.8683471679688
+1472,1162,2,1,Vereinigte Möbelfabriken Aktien-Gesellschaft.,76.62874603271484,95.20272064208984
+1473,1162,5,1,Holzwaren-Industrie Aktiengesellschaft.,221.08604431152344,240.75836181640625
+1474,1162,8,1,* Gehlsen Holzhandels-Aktiengesellschaft.,349.58746337890625,368.7962341308594
+1475,1162,11,1,Fehr & Wolff Actiengesellschaft. ,500.5187072753906,519.0926513671875
+1476,1163,5,1,Pfälzische Möbelfabrik Aktiengesellschaft.,233.2286834716797,251.8026580810547
+1477,1163,8,1,König & Böschke Aktiengesellschaft.,398.2051696777344,415.9527893066406
+1478,1163,11,1,Fr. Poggenpohl Akt.-Ges.,640.4666137695312,658.7149047851562
+1479,1164,4,1,Säge- und Ueberlandwerk Hofheim Aktiengesellschaft.,211.8310089111328,230.38880920410156
+1480,1164,7,1,Furnier- & Sperrholzwerk-Aktiengesellschaft.,544.9088134765625,566.66162109375
+1481,1165,4,1,Striegel- und Rechenfabrik Langenstein Aktiengesellschaft.,127.7686996459961,146.34266662597656
+1482,1165,6,1,Gebrüder Himmelheber Aktiengesellschaft.,327.0428466796875,343.4745178222656
+1483,1165,9,1,"Möbelhaus Holstein, Aktiengesellschaft.",502.1374206542969,517.9166870117188
+1484,1165,11,7,Mitteldeutsche Stuhlfabrik Aktiengesellschaft.,594.763916015625,612.763916015625
+1485,1166,3,10,Holzwerk Kornwestheim Aktiengesellschaft.,157.5374298095703,176.7462158203125
+1486,1166,5,13,"Brauer-Schnitzler, Schirmfabrik, Aktiengesellschaft.",297.49688720703125,314.2001953125
+1487,1166,7,24,Holzindustrie Aktiengesellschaft.,504.2760314941406,523.1701049804688
+1488,1167,2,1,C. W. Neumann Aktiengesellschaft.,75.90386962890625,93.31033325195312
+1489,1167,5,1,"Rexroth-Lynen, Aktiengesellschaft.",299.3187561035156,317.8927307128906
+1490,1167,8,1,Althann Holz-Aktien-Gesellschaft.,590.2609252929688,609.7025756835938
+1491,1168,5,1,"Gebrüder Freundlich, Aktiengesellschaft,",230.9268035888672,248.31613159179688
+1492,1168,9,1,Theodor Kirsch & Söhne Aktiengesellschaft.,444.38043212890625,463.6776123046875
+1493,1169,2,1,Süddeutsche Holzindustrie Aktiengesellschaft in Liqu.,74.05625915527344,92.00030517578125
+1494,1169,5,1,Möbelwerkstätte Aktien-Gesellschaft in Liqu.,360.7206726074219,379.50311279296875
+1495,1169,8,1,Holzwerke Zapfendorf Aktiengesellschaft.,475.39837646484375,493.8804931640625
+1496,1170,2,1,Oldenburger Möbelmagazin und Miethaus Akt.-Ges.,75.95281219482422,91.1973876953125
+1497,1170,5,2,"Heinrich Brot je, Holzbearbeitungs-Werkstätten und Dampfmühle Akt.-Ges.",230.69618225097656,249.77474975585938
+1498,1170,8,1,Jakob Bischof! Aktiengesellschaft.,408.89617919921875,427.9747314453125
+1499,1170,11,1,"C. F, Förster Aktiengesellschaft.",618.5421752929688,635.1066284179688
+1500,1171,4,1,Albt. Jürß & Crotogino Aktiengesellschaft.,170.7637939453125,188.17025756835938
+1501,1171,7,1,Schönecker Sägewerk Akt.-Ges.,354.5066223144531,373.6373596191406
+1502,1171,10,1,"Tekton- und Sägewerk, Akt.-Ges.",568.9066162109375,588.037353515625
+1503,1172,4,1,Matth. Hohner Aktiengesellschaft. ,138.40127563476562,155.54725646972656
+1504,1172,5,66,Steinberg & Vorsänger Aktiengesellschaft.,652.4696655273438,671.0436401367188
+1505,1173,4,1,Carl Intelmann Akt.-Ges.,208.70628356933594,226.65032958984375
+1506,1173,10,1,"Gas-, Wasser- und Eis werke. Achim, Aktien-Gesellschaft.",400.8268127441406,418.21612548828125
+1507,1173,13,1,Augsburger Eiswerk A.-G.,597.0160522460938,613.4962768554688
+1508,1174,4,1,Gas- und Kraftwerke Aktiengesellschaft.,159.86387634277344,177.86387634277344
+1509,1174,9,1,Eiswerk und Kühlhaus Huxmann Aktiengesellschaft.,502.0638122558594,520.0638427734375
+1510,1175,4,1,Gas- u. Elektricitätswerke Breisach Aktiengesellschaft.,130.14747619628906,149.35626220703125
+1511,1175,7,1,"Gas- u. Elektrizitäts-Werke Senftenberg, A.-G.",339.34521484375,357.09283447265625
+1512,1175,10,1,Gaswerk Oettingen Aktiengesellschaft.,553.7156372070312,571.9639282226562
+1513,1176,4,1,Talsperren-Akt.-Ges. Crimmitschau.,153.45323181152344,174.2373046875
+1514,1176,7,1,Licht- und Kraftwerke Heldrungen-Oldisleben Aktiengesellschaft.,379.53607177734375,398.4301452636719
+1515,1176,10,1,Westfälische Ferngas-Aktiengesellschaft.,649.8109130859375,669.2525634765625
+1516,1177,4,1,"Dresdner Gas-, Wasser- und Elektrizitätswerke Aktiengesellschaft.",615.2109985351562,631.43408203125
+1517,1178,4,1,Groß-Gaswerk Erfurt Aktiengesellschaft.,446.46124267578125,463.277587890625
+1518,1179,4,1,Kühltransit-Aktiengesellschaft. ,126.8218994140625,141.90939331054688
+1519,1181,4,1,Gasanstalt Kaiserslautern.,266.8928527832031,283.32452392578125
+1520,1181,7,1,Gas- und Stromversorgung Mittelsachsen A.-G.,598.776123046875,617.670166015625
+1521,1182,3,27,Rhenag Rheinische Energie Aktiengesellschaft. ,276.2884826660156,296.0367126464844
+1522,1183,4,2,"Wirtschaftliche Vereinigung deutscher Gaswerke,  Gaskokssyndikat, Aktiengesellschaft.",509.42095947265625,528.8626098632812
+1523,1184,19,1,Gas- und Elektricitätswerke Neuenahr A.-G.,414.3268127441406,431.71612548828125
+1524,1184,23,1,"Städtische Werke, Akt.-Ges.",631.23046875,650.527587890625
+1525,1185,11,1,Stolberger Wasserwerks-Gesellschaft Aktiengesellschaft.,559.275634765625,577.52392578125
+1526,1186,6,1,"Linoleumfabriken, Hartgummiwaren (ausschließlich Grammophonplatten). August Riedinger Ballonfabrik Augsburg Akt.-Ges. in Liqu. ///",198.67230224609375,223.6521453857422
+1527,1186,9,1,Deutsche Linoleum-Werke Aktiengesellschaft.,349.8692932128906,367.5323791503906
+1528,1190,4,1,C. Müller Gummiwaarenfabrik Aktien-Gesellschaft. //,205.2994384765625,251.21644592285156
+1529,1191,27,1,"Vereinigte Asbestwerke Danco, Wetzeil & Co. Aktiengesellschaft.",523.7308349609375,544.0036010742188
+1530,1192,4,1,Wrigley Aktiengesellschaft.,146.37144470214844,164.62521362304688
+1531,1192,10,1,New-York Hamburger Gummi-Waaren Compagnie.,373.8752746582031,389.74969482421875
+1532,1193,5,1,Deutsche Dunlop Gummi Compagnie Aktiengesellschaft.,219.88723754882812,239.9668731689453
+1533,1193,8,1,Oontinental-Gummi-Werke Aktiengesellschaft. ,544.670654296875,563.453125
+1534,1197,13,1,Harburger Gummiwaren-Fabrik „Phönix“ Aktiengesellschaft. //,618.7274780273438,639.0838623046875
+1535,1200,4,1,Kölnische Gummifäden-Fabrik vormals Ferd. Kohlstadt & Co. ///,206.28834533691406,224.7704620361328
+1536,1201,4,1,Zieger & Wiegand Aktiengesellschaft.,142.6360321044922,161.5300750732422
+1537,1201,7,1,"Gummi-Werke „Elbe“, Aktiengesellschaft.",378.7474365234375,397.9562072753906
+1538,1202,4,1,Veithwerke Aktiengesellschaft.,150.3638153076172,168.3638153076172
+1539,1203,3,1,"Restaurants, Zoologische Gärten, Vereine, Heil- und Pflege-Anstalten. Altheide, Akt.-Ges. für Kur- und Badebetrieb.",179.06130981445312,196.20729064941406
+1540,1203,6,1,Actien-Verein des zoologischen Gartens zu Berlin.,444.4638366699219,462.4638366699219
+1541,1204,4,1,Capitol Film Aktiengesellschaft.,317.35113525390625,333.521240234375
+1542,1204,7,1,* Commerz-Film Aktiengesellschaft.,504.02093505859375,523.4625854492188
+1543,1204,10,1,Deutsches Lichtspiel-Syndikat Aktiengesellschaft.,627.9052124023438,645.6527709960938
+1544,1205,4,1,Hüttenhaus-Aktiengesellschaft.,407.9110107421875,423.0788269042969
+1545,1205,7,1,Logierhaus Berner Aktiengesellschaft (Lobeag).,543.5635986328125,561.8936767578125
+1546,1206,4,1,Paramount Film Aktiengesellschaft.,154.06130981445312,171.20729064941406
+1547,1206,7,1,Süd-Film Akt.-Ges. in Liqu.,311.913818359375,329.3202819824219
+1548,1206,10,1,* Westeuropäische Filmaktiengesellschaft in Liqu.,583.3636474609375,601.6937255859375
+1549,1207,2,1,Bonner Bürger-Verein Aktiengesellschaft.,69.01781463623047,87.67217254638672
+1550,1207,5,1,Grand Hotel Royal Act.-Ges.,246.61093139648438,266.0525817871094
+1551,1207,8,1,Breslauer Hallenschwimmbad-Actiengesellschaft.,469.28607177734375,488.9583740234375
+1552,1208,2,1,"Schwefel- und Stahlhad „Siebener Sprudel“, Akt.-Ges.",66.15318298339844,86.93724822998047
+1553,1208,4,21,Hotel zum Römischen Kaiser A.-G.  vormals Fr. Wenker-Paxmann.,258.8135681152344,277.1436767578125
+1554,1208,6,24,Europahof Aktiengesellschaft. ,476.88311767578125,492.9450378417969
+1555,1209,4,1,Dr. Lahmanns Sanatorium Weisser Hirsch Aktiengesellschaft.,238.9612274169922,258.53436279296875
+1556,1209,6,1,Sportgelände und Reitbahn Aktiengesellschaft.,402.28851318359375,422.0367431640625
+1557,1209,8,1,Disch Hotel und Verkehrs-Aktiengesellschaft. ,552.1592407226562,569.8223876953125
+1558,1211,24,1,31 859 Frankfurter Hof Aktiengesellschaft. ,258.6192626953125,276.2823486328125
+1559,1212,2,1,Kurhaus Palmenwald.,75.35382080078125,92.76028442382812
+1560,1212,5,1,Göppinger Badgesellschaft Aktiengesellschaft.,297.86358642578125,316.1936950683594
+1561,1212,8,1,Hagener Badeanstalt Aktiengesellschaft.,472.8013000488281,489.9472961425781
+1562,1212,11,1,„Zoo“ Ausstellungshallen Akt.-Ges.,644.0548706054688,662.0548706054688
+1563,1213,4,1,Bad Heidelberg Aktiengesellschaft.,243.15283203125,259.5845031738281
+1564,1213,7,1,Huberfussprudel Aktiengesellschaft.,451.2135925292969,469.543701171875
+1565,1214,2,1,Aktien-Gesellschaft Erholung.,80.87461853027344,96.01124572753906
+1566,1214,5,1,Kreuznacher Soolbäder-Aktien-Gesellschaft.,318.1138610839844,336.1138610839844
+1567,1214,7,1,Leipziger Krystall-Palast-Aktien-Gesellschaft.,531.2760620117188,550.1701049804688
+1568,1215,4,1,Münchener Lichtspielkunst Aktiengesellschaft in Liqu. ///,144.4021453857422,182.58590698242188
+1569,1215,7,1,Saalhau-Actien-Gesellschaft.,529.2431030273438,544.3685913085938
+1570,1216,2,1,"Bad Rippoldsau, Aktiengesellschaft.",77.25517272949219,95.00277709960938
+1571,1216,5,1,Hotel Aktiengesellschaft Saarbrücken.,283.93603515625,302.8301086425781
+1572,1216,8,1,Saalbau- Actiengesellschaft.,460.75262451171875,475.99737548828125
+1573,1216,11,2,"Zum Herzog Christoph, evangelisches Vereinsgasthaus (christliches Hospiz).",631.4776000976562,648.5361328125
+1574,1217,4,1,Dr. med. Gmelin Nordsee-Sanatorium Akt.-Ges.,174.2708740234375,193.7125244140625
+1575,1217,7,1,Krankenheiler Jodquellen Aktiengesellschaft.,434.7791748046875,451.5718078613281
+1576,1218,3,9,"Kaiserhof, Hotel-Aktiengesellschaft.",138.7065887451172,157.8373260498047
+1577,1218,6,1,Plantagen- und Kolonialgesellschaften. Kaffeeplantage Sakarre Aktiengesellschaft.,430.3462219238281,449.1609191894531
+1578,1219,2,1,Ostafrikanische Bergwerks- u. Plantagen-Aktiengesellschaft.,79.45518493652344,97.20278930664062
+1579,1219,5,1,"Mercator-Oloff, Bremer Kolonial- u. Handels-Akt.-Ges.",374.1360168457031,393.03009033203125
+1580,1220,2,2,Deutsche Handels- u. Plantagen-Gesellschaft der Südsee-Inseln zu Hamburg.,91.88748168945312,107.666748046875
+1581,1220,4,1,Guatemala Plantagen-Gesellschaft in Hamburg.,574.8361206054688,593.7301635742188
+1582,1221,4,1,Jaluit-Gesellschaft.,502.97503662109375,518.124267578125
+1583,1222,5,1,"Verkehrs-, Transport- und Lagerhausgesellschaften. Drahtseilbahn Augustusburg Akt.-Ges.",599.20361328125,617.53369140625
+1584,1223,4,1,Marienborn-Beendorfer Kleinbahn-Gesellschaft. ,178.9756317138672,197.2239227294922
+1585,1224,27,1,Aero-Union Aktiengesellschaft.,289.12921142578125,305.9218444824219
+1586,1229,2,2,Aschersleben-Schneidlingen-Nienhagener  Eisenbahn- Actien-Gesellschaft.,91.370361328125,106.44666290283203
+1587,1229,5,1,Automobil-Verkehrs- u. Uebungs-Strasse Akt.-Ges. (Avus).,486.36761474609375,503.4261169433594
+1588,1230,2,1,Breslau-Trebnitz-Prausnitzer Kleinbahn-Aktiengesellschaft.,76.64287567138672,93.07455444335938
+1589,1230,5,1,Cicero-Garagen Aktiengesellschaft.,336.49664306640625,355.62738037109375
+1590,1230,8,1,„Das Auto-Hotel“ Aktiengesellschaft.,499.86761474609375,516.9261474609375
+1591,1230,11,1,Deutsche Luftfahrt- und Handels-Aktiengesellschaft.,651.5784912109375,671.3267211914062
+1592,1231,3,18,Europäische Tanklager- und Transport Aktiengesellschaft.,207.8909454345703,226.44874572753906
+1593,1231,4,51,Germanischer Lloyd.,621.7206420898438,640.5031127929688
+1594,1232,4,1,Mitropa Mitteleuropäische Schlafwagen- und Speisewagen-A.-G.,276.98846435546875,296.7366943359375
+1595,1233,4,1,Reise- & Verkehrsbüro Aktiengesellschaft.,191.08604431152344,209.98008728027344
+1596,1233,7,1,Teltower Eisenbahn Akt.-Ges.,296.4791564941406,313.7994384765625
+1597,1233,10,1,Teltowkanal-Aktiengesellschaft.,541.83984375,556.9564208984375
+1598,1234,3,16,Trachenberg-Militscher Kreisbahn-Actien-Gesellschaft.,198.9390869140625,214.33364868164062
+1599,1234,5,1,Halfoerstadt-Blankenburger Eisenbahn. ,497.8287048339844,516.4026489257812
+1600,1237,4,1,Bochum-Gelsenkirchener Straßenbahnen Aktiengesellschaft. //,121.1712646484375,142.5250701904297
+1601,1238,13,1,Wendelstein-Bahn- & Hotel Aktiengesellschaft.,504.228759765625,522.01123046875
+1602,1239,4,1,Bremer Lagerhaus-Gesellschaft.,210.62908935546875,226.02365112304688
+1603,1239,7,1,Dampfschifffahrts-Gesellschaft „Neptun“. ,540.1536865234375,558.4837646484375
+1604,1241,10,1,Deutsche Dampfschifffahrts-Gesellschaft „Hansa“. //,432.0536193847656,480.40533447265625
+1605,1244,7,1,Norddeutscher Lloyd. ,241.97528076171875,257.8497009277344
+1606,1250,4,1,Uebersee-Reederei Akt.-Ges.,187.0655975341797,205.3138885498047
+1607,1250,7,1,Weser-Lagerungs- Aktien-Gesellschaft.,410.32470703125,425.408447265625
+1608,1250,10,1,Breslauer Lagerhaus A.-G.,591.419189453125,609.0823364257812
+1609,1251,4,1,Hessische Eisenbahn-Aktiengesellschaft.,192.9667205810547,212.94151306152344
+1610,1253,2,1,Dresdner Straßenbahn Aktiengesellschaft.,74.37911224365234,91.69940185546875
+1611,1253,5,1,Emder Verkehrsgesellschaft A.-G.,472.37091064453125,491.81256103515625
+1612,1254,4,1,Erfurter Elektrische Strassenbahn.,140.41915893554688,157.73944091796875
+1613,1255,2,1,Zschipkau-Finsterwalder Eisenbahn-Gesellschaft. //,47.2515983581543,100.35456085205078
+1614,1256,29,1,Industriebahn-Aktiengesellschaft.,511.8100280761719,526.9132080078125
+1615,1257,4,1,Bayerische Zugspitzhahn Aktiengesellschaft.,180.3756561279297,198.6239471435547
+1616,1257,7,1,Luftverkehr Aktiengesellschaft Oberhessen-Lahngau in Liqu.,514.40673828125,534.3815307617188
+1617,1257,10,1,Greifenberger Kleinbahnen-Aktiengesellschaft.,644.4176025390625,661.4761352539062
+1618,1259,6,1,"Westfälische Kleinbahnen, Aktiengesellschaft.",334.17608642578125,353.0701599121094
+1619,1260,2,1,"Bugsier-, Reederei- und Bergungs-Aktiengesellschaft. m",60.5511360168457,99.85743713378906
+1620,1260,4,54,„Express“ Aktiengesellschaft für Internationale Transporte.,589.013916015625,607.013916015625
+1621,1261,4,1,Hafen-Dampfschiffahrt A.-G.,148.0331268310547,164.09503173828125
+1622,1261,7,2,Hamburg-Amerikanische Packetfahrt-Actien- Gesellschaft. // („Hamburg-Amerika Linie“.),535.0485229492188,547.9903564453125
+1623,1267,5,1,Hamburg-Südamerikanische Dampf schiff fahrts-Gesellschaft. //,438.5111389160156,463.88824462890625
+1624,1270,4,1,Hamburger Hochbahn-Aktiengesellschaft. ,151.54483032226562,169.1742706298828
+1625,1275,2,2,"Jordaberg’s Transport-, Speicherei- u. Hafenbetriebs- Aktiengesellschaft.",92.02013397216797,107.16270446777344
+1626,1275,5,1,"Lexzau, Scharbau & Co. Aktiengesellschaft in Liqu.",240.1067657470703,260.0815734863281
+1627,1275,8,1,Oellager Aktiengesellschaft.,342.7192077636719,360.03948974609375
+1628,1275,11,1,Oldenburg-Portugiesische Dampfschiffs-Rhederei.,545.263916015625,563.263916015625
+1629,1276,4,1,Sylter Inselbahn Aktiengesellschaft.,213.1760711669922,232.0701141357422
+1630,1276,7,2,Transport-Actien-Gesellschaft (vormals J. Hevecke) in Hamburg. ,444.70928955078125,462.37237548828125
+1631,1277,5,1,Usa Uebersee Speditions Aktiengesellschaft.,236.2360382080078,255.1300811767578
+1632,1277,8,1,Hanauer Kleinbahn-Gesellschaft Aktiengesellschaft.,370.913818359375,388.3202819824219
+1633,1277,11,1,Koblenzer Straßenbahn-Gesellschaft.,547.0756225585938,565.3239135742188
+1634,1278,4,1,Krefelder Eisenbahn-Gesellschaft.,493.26776123046875,511.922119140625
+1635,1279,4,1,Krefelder Verkehrs-Aktiengesellschaft (Krevag).,538.9832153320312,555.0451049804688
+1636,1280,4,1,Regenwalder Kleinbahnen-Aktien-Gesellschaft.,350.2135009765625,370.70703125
+1637,1280,7,1,Kleinbahn-Akt.-Ges. Chottschow-Garzigar.,609.6709594726562,629.1126098632812
+1638,1281,4,1,Kleinbahn-Aktiengesellschaft Neustadt-Prüssau.,150.63848876953125,170.38671875
+1639,1281,6,1,„Furtransit“ Rauchwaren-Lagerhaus-Aktiengesellschaft.,391.753173828125,412.5372619628906
+1640,1281,7,30,Leipziger Luftschiffhafen- und Flugplatz-Aktiengesellschaft.,647.5938110351562,664.0254516601562
+1641,1282,4,1,Lübeck-Wyburger Dampfschiffahrts-Gesellschaft.,378.6531677246094,399.437255859375
+1642,1282,7,1,Badisch-Pfälzische Luft-Hansa-Akt.-Ges.,554.8566284179688,573.9873657226562
+1643,1283,4,1,Müllheim-Badenweiler Eisenbahn-Aktiengesellschaft.,258.5550231933594,280.0490417480469
+1644,1283,7,2,Kleinbahn-Aktiengesellschaft Gardelegen-Neuhaldensleben- Weferlingen.,627.9641723632812,642.9813842773438
+1645,1284,4,1,Straßen- und Kleinbahn-Aktiengesellschaft.,406.4638366699219,424.4638366699219
+1646,1285,2,1,Deutsche Verkehrsflug Aktiengesellschaft in Liqu.,67.61873626708984,86.19271087646484
+1647,1285,4,32,Lagerhaus Noris Aktiengesellschaft.,348.7578125,367.41217041015625
+1648,1285,6,17,Transport-Aktiengesellschaft vorm. Franz Hiltner.,510.111328125,531.4651489257812
+1649,1285,9,1,Kraftverkehrsaktiengesellschaft Wittekind in Liqu.,597.4360961914062,617.1083984375
+1650,1286,2,1,Wank-Bahn Aktiengesellschaft.,68.9287338256836,87.5027084350586
+1651,1286,3,20,Gesellschaft für Straßenbahnen im Saartal A.-G.,248.97763061523438,266.0361328125
+1652,1287,2,1,Kleinbahn-Akt.-Ges. Schönberg-Nikolausdorf.,73.5296859741211,93.81712341308594
+1653,1287,7,2,Speditions- und Elbschifffahrts-Kontor Aktiengesellschaft  zu Schöneheck vormals C. Fritsche.,381.0706481933594,399.85308837890625
+1654,1288,4,1,Stendaler Kleinbahn-Aktiengesellschaft.,190.11387634277344,208.11387634277344
+1655,1288,7,1,Stendaler Verkehrsgesellschaft Aktiengesellschaft.,518.3734130859375,538.8670043945312
+1656,1289,2,2,„Renata“ Dampfschiffs-Gesellschaft in Stettin Th. Gribel K.-G. a. A.,89.39046478271484,106.5639877319336
+1657,1289,4,1,Stettin-Rigaer Dampfschiffs-Gesellschaft Th. Gribel K.-G. a. A.,355.51092529296875,374.95257568359375
+1658,1289,7,1,"Stettiner Dampfer-Compagnie, Aktiengesellschaft in Liqu.",550.8360595703125,570.5083618164062
+1659,1290,4,1,Stettiner Strassen-Eisenbahn-Gesellschaft. ,139.4032440185547,160.18731689453125
+1660,1291,52,1,"durch die Öffentlichen Werkbetriebe der Stadt Stettin G. m. b. H. entsandten Aufsichtsratsmitglieder sind, wie im Vorjahre, an die genannte Gesell­ Wüstewaltersdorf er Kleinbahn-Aktiengesellschaft.",637.777587890625,654.8361206054688
+1661,1292,4,1,Elektrische Strassenbahn Barmen-Elberfeld. ,259.27606201171875,278.1701354980469
+1662,1293,50,1,Energie- und Verkehrs-Aktiengesellschaft Westsachsen.,606.2653198242188,622.1397094726562
+1663,1294,4,1,Oberhohndorf-Reinsdorfer Kohleneiseitbahn.,620.8653564453125,636.73974609375
+1664,1295,6,1,"Brauereien, Mälzereien, Preßhefefabriken. Brauerei Aldersbach, Aretin-Werke Akt.-Ges.",364.4428405761719,380.87451171875
+1665,1296,2,1,Brauerei K. Silbernagel Aktiengesellschaft.,74.12344360351562,94.61697387695312
+1666,1296,5,1,Aktiengesellschaft für Biervertrieb.,371.89605712890625,391.568359375
+1667,1296,8,1,Berliner Schlossbrauerei Aktiengesellschaft.,613.629150390625,630.949462890625
+1668,1297,4,1,Borussia Aktiengesellschaft für Brauereibeteiligungen.,438.7600402832031,458.8096008300781
+1669,1298,2,1,Norddeutsche Hefeindustrie Aktiengesellschaft.,70.5709228515625,90.01256561279297
+1670,1299,3,23,Braunschweiger Aktien-Brauerei Aktiengesellschaft,243.96438598632812,264.99749755859375
+1671,1299,4,40,"Actien-Bierbrauerei zu Reisewitz,",580.0021362304688,596.5665893554688
+1672,1301,27,1,"i getragen). National-Brauerei, Act.-Ges.",399.0368957519531,419.2357177734375
+1673,1301,30,1,Aktien-Bierbrauerei „Falkenkrug“,613.418701171875,631.99267578125
+1674,1302,4,1,Löwenbrauerei Aktiengesellschaft in Liqu.,362.1168212890625,379.5061340332031
+1675,1302,7,1,Actien-Brauerei Greussen.,433.1861877441406,452.2647399902344
+1676,1303,2,1,Nord-West-Deutsche Hefe- u. Spritwerke A.-G.,71.31382751464844,89.31382751464844
+1677,1303,5,1,Haynauer Malzfabrik Aktiengesellschaft.,342.413818359375,360.413818359375
+1678,1303,8,1,"Brauerei-Gesellschaft Gg. Neff, Aktienbrauerei.",577.0408325195312,597.3135986328125
+1679,1304,4,1,Städtische Brauerei Jena Aktiengesellschaft.,338.2474365234375,357.4562072753906
+1680,1305,4,1,"Bayerische Malzfabrik Kulmbach, Akt.-Ges.",137.8009490966797,154.02403259277344
+1681,1305,6,1,Brauerei Nies-Weissenburg Aktiengesellschaft.,351.3447570800781,368.97418212890625
+1682,1306,2,1,"Brauerei Bodenstein, Aktien-Gesellschaft zu Magdeburg.",77.23912811279297,92.6336898803711
+1683,1306,5,1,Aktien-Bierbrauerei Meissner Felsenkeller. ,434.7192077636719,452.03948974609375
+1684,1307,15,1,Aktien-Bierbrauerei Mittweida.,586.90380859375,604.310302734375
+1685,1309,2,1,"Brauerei Hübner, Aktiengesellschaft.",74.61603546142578,91.09623718261719
+1686,1309,5,1,Germania-Brauerei F. Dieninghoff Akt.-Ges.,410.07305908203125,427.1375732421875
+1687,1310,4,1,Bergschloss-Aktien-Brauerei „Magdeburg“ in Liqu.,126.25657653808594,145.38731384277344
+1688,1310,7,1,Aktien-Bierbrauerei Neustadt a. d. Orla.,264.2638244628906,282.2638244628906
+1689,1310,10,1,Brauerei zum Felsenkeller Pirna A.-G.,512.7468872070312,529.4501953125
+1690,1311,4,1,"Exportbierbrauerei Rehau, Aktiengesellschaft.",121.46672058105469,141.44151306152344
+1691,1311,6,1,Brauereigesellschaft vorm. Meyer & Söhne.,407.0209045410156,426.4625549316406
+1692,1311,9,1,Hofbräuhaus Bierzentrale A.-G.,634.3775634765625,651.4360961914062
+1693,1312,9,1,Gebr. Niemann Aktiengesellschaft.,559.2528076171875,575.6844482421875
+1694,1313,4,1,Brauerei Gold-Ochsen Aktiengesellschaft.,269.4609680175781,288.9026184082031
+1695,1313,7,1,Ulmer Brauerei-Gesellschaft Akt.-Ges. ,540.7676391601562,557.826171875
+1696,1316,4,1,Weissbierbrauerei und Mälzerei Ulm Aktiengesellschaft.,207.97915649414062,224.77178955078125
+1697,1316,7,1,"Brauerei zum Bräuwastl, Aktiengesellschaft.",345.1592712402344,362.8223571777344
+1698,1316,10,1,Lorenz Pfannenberg Söhne Act.-Ges.,626.09521484375,643.8427734375
+1699,1317,6,1,"Zuckerfabriken, Mühlenfabrikate, Getreide- und Futterproduktion und -Verarbeitung. Aktiengesellschaft Kunstmühle Aichach.",296.8307189941406,319.8736877441406
+1700,1317,8,1,Johs. Oswaldowski Aktiengesellschaft.,612.4808959960938,632.753662109375
+1701,1318,4,1,Goldsiegel Kakao- u. Schokoladenfabrik Akt.-Ges.,129.03851318359375,148.7867431640625
+1702,1319,4,1,Julius Meinl Kaffeeimport Aktiengesellschaft.,193.37608337402344,212.27012634277344
+1703,1319,8,1,Eduard Palm Aktiengesellschaft.,382.5156555175781,400.7639465332031
+1704,1319,11,1,Spratt’s Aktiengesellschaft.,595.4036865234375,613.7337646484375
+1705,1320,4,1,Konservenfabrik Gebr. Grabe Aktiengesellschaft.,220.92721557617188,241.00685119628906
+1706,1320,7,1,Bremer Cigarren-Fabriken vorm. Biermann & Schörling. ///,421.981689453125,450.1808166503906
+1707,1321,42,1,"174 310 Hanseaten-Werke Aktiengesellschaft,",563.169189453125,580.8323364257812
+1708,1322,4,1,Kaffee-Handels-Aktiengesellschaft.,196.178955078125,211.38897705078125
+1709,1322,7,1,Reis- und Handels-Aktiengesellschaft. ,618.9360961914062,637.8301391601562
+1710,1325,3,8,Wendt’s Cigarrenfabriken Aktiengesellschaft. ,139.53680419921875,159.40594482421875
+1711,1325,4,31,Schlesische Mtihlenwerke Aktiengesellschaft.,407.8447570800781,425.47418212890625
+1712,1326,4,1,absetzung des A.-K. von 4 400 000 RM auf 2 200 000 RM i Kronenwerke Aktiengesellschaft.,470.2947692871094,487.9241943359375
+1713,1327,2,1,Wilhelm Hieronimi Akt.-Ges.,70.44627380371094,88.39031982421875
+1714,1327,5,1,Danziger Tabak-Monopol Aktiengesellschaft.,237.970703125,256.7531433105469
+1715,1328,4,1,Zuckerfabrik Aktien-Gesellschaft.,165.9409942626953,184.49879455566406
+1716,1328,7,1,Sinalco-Aktien-Gesellschaft. ,497.58740234375,512.2587280273438
+1717,1329,4,1,König Friedrich-August-Mühlenwerke Aktiengesellschaft.,453.2730712890625,470.33758544921875
+1718,1330,4,1,Dr. Volkmar Klopf er’s Nahrungsmittel- Aktiengesellschaf t in Liqu.,235.81309509277344,250.51641845703125
+1719,1330,7,1,Cigarrenfabriken Transatlantic Aktiengesellschaft.,379.75,399.5489807128906
+1720,1330,9,1,Melcher & Co. Aktiengesellschaft.,548.0160522460938,564.4962768554688
+1721,1331,2,1,Stuttgarter Bäckermühlen Akt.-Ges. ,75.13465881347656,92.84341430664062
+1722,1331,4,1,Flensburger Walzenmühle.,459.6460266113281,475.1632995605469
+1723,1331,7,1,Adler-Margarine-Werk Aktiengesellschaft.,634.6268310546875,652.0161743164062
+1724,1332,4,1,Malzextraktfabrik Freudenstadt Rekordmalt-Akt.-Ges.,212.94093322753906,231.4987335205078
+1725,1332,6,21,Riquet & Co. Aktiengesellschaft. ,399.8252868652344,415.69970703125
+1726,1333,4,1,Darm- und Fleischwaren-Industrie Aktiengesellschaft.,377.90185546875,397.48736572265625
+1727,1333,7,1,„Albumin“ Akt.-Ges. zur Verwertung von Pflanzeneiweiß.,622.5947875976562,640.2242431640625
+1728,1334,3,7,Egon Braun Akt.-Ges.,126.37559509277344,144.62388610839844
+1729,1334,6,1,Export-Schlachterei und Schmalz-Raffinerie Aktiengesellschaft.,338.5635681152344,356.8936767578125
+1730,1334,9,1,Hamburger Reismühle Aktiengesellschaft.,558.0638427734375,576.0638427734375
+1731,1335,3,17,Keksfabrik Hamburg Aktiengesellschaft.,204.9468994140625,221.65020751953125
+1732,1335,5,24,Stück Aktiengesellschaft.,423.7135925292969,442.043701171875
+1733,1335,7,23,H. W. Appel Feinkost-Aktiengesellschaft.,634.55517578125,652.302734375
+1734,1336,4,1,Ruma Nahrungsmittel Aktiengesellschaft.,469.96563720703125,485.45709228515625
+1735,1337,2,1,F. Thörl’s Vereinigte Harburger Oelfabriken Aktiengesellschaft.//,72.5287094116211,91.1026840209961
+1736,1339,2,1,Actiengesellschaft vorm. Burgeff & Co.,73.85126495361328,90.66759490966797
+1737,1339,5,1,"Oldenburger Margarinewerke, Akt.-Ges.",365.1509704589844,381.37408447265625
+1738,1339,8,1,"vom Rath, Schoeller & Skene Aktiengesellschaft.",642.1570434570312,658.6372680664062
+1739,1340,6,1,"Albert Buchholz, Rheinhetrieh Aktiengesellschaft.",540.0761108398438,558.9701538085938
+1740,1341,2,1,Carl Jarzembowski Aktiengesellschaft.,72.16360473632812,90.49370574951172
+1741,1341,4,18,"Carl Petereit, Aktiengesellschaft. ",241.22760009765625,258.2861022949219
+1742,1341,5,52,Deutsche Aktiengesellschaft für Nestle Erzeugnisse.,649.7548217773438,667.1613159179688
+1743,1342,3,49,Ludwigshafener Walzmühle. ,438.90399169921875,460.20147705078125
+1744,1344,2,1,Pfälzische Mühlenwerke.,71.58617401123047,90.66473388671875
+1745,1345,11,1,"Große Mühle Neiße, Aktiengesellschaft.",392.0630798339844,409.1275939941406
+1746,1346,2,1,„Doornkaat“ Aktien-Gesellsckaft. ,65.51091766357422,82.6573486328125
+1747,1347,23,1,Rhume-Mühle in Northeim.,325.3138122558594,343.3138122558594
+1748,1347,28,1,"J. G. Schrimper, Akt.-Ges. O., Achtemstraße 9.",569.0032348632812,582.2685546875
+1749,1348,2,1,Neunkirchener Spritwerke Aktiengesellschaft in Liqu.,69.97850799560547,89.72673797607422
+1750,1348,5,1,"Gebr. Rasch, Akt.-Ges.",163.05361938476562,181.38372802734375
+1751,1348,8,1,Friedr. Bauer A.-G.,400.16094970703125,419.60260009765625
+1752,1349,3,1,Alle nur Handel treibenden Gesellschaften. Akt.-Ges. für Erwerb und Verwertung von Industrievermögen.,158.97531127929688,174.8497314453125
+1753,1349,5,12,Aktiengesellschaft für Zündholzvertrieb.,272.92742919921875,293.2838134765625
+1754,1349,7,15,Bramarco Export und Import Akt.-Ges.,434.2660217285156,450.7462463378906
+1755,1349,10,1,* Chemnitzer Einkaufs- und Kontorhaus Aktiengesellschaft.,636.5562744140625,654.5003051757812
+1756,1350,4,1,Deutsche Bussan Aktiengesellschaft.,129.13316345214844,145.195068359375
+1757,1350,7,1,Deutsche Zündwaren-Monopolgesellschaft.,332.003173828125,352.7872619628906
+1758,1352,4,2,"Ludwig Helbig, Kraftfahrzeug- und Hallenbetriehs-  Aktiengesellschaft.",207.5369415283203,222.72328186035156
+1759,1352,12,1,Julius Lion Aktiengesellschaft für Lebensmittel.,496.0192565917969,513.682373046875
+1760,1352,15,1,Bremer Futtermittelhändler Akt.-Ges.,639.5746459960938,654.7112426757812
+1761,1353,3,14,Jacob Meyer Aktiengesellschaft.,181.27146911621094,199.52523803710938
+1762,1353,4,23,"Ansgar, Aktiengesellschaft.",391.8268127441406,409.21612548828125
+1763,1353,7,1,Geo. Borgfeldt & Co. Aktiengesellschaft in Liqu.,556.5753173828125,572.44970703125
+1764,1354,2,1,Getreide-Aktiengesellschaft.,73.33013153076172,88.47270202636719
+1765,1354,5,1,M. J. Emden Söhne Export-Aktiengesellschaft.,213.55662536621094,232.68736267089844
+1766,1354,10,1,Aktiengesellschaft.,410.77166748046875,425.9913024902344
+1767,1354,12,1,Emil Wolsdorff Aktiengesellschaft.,611.3974609375,627.1766967773438
+1768,1355,4,1,"Getreide-Aktiengesellschaft,",148.94383239746094,164.05517578125
+1769,1355,6,1,Saar-Aktiengesellschaft.,311.9729919433594,327.1118469238281
+1770,1355,9,1,Curt Seeliger Aktiengesellschaft.,466.9755859375,488.0467224121094
+1771,1356,2,1,Aachener-Leipziger Versicherungs-Actien-Geselischaft.,140.65821838378906,161.22463989257812
+1772,1357,2,1,Aachener und Münchener Feuer-Versicherungs-Gesellschaft. //,70.60621643066406,93.54956817626953
+1773,1360,4,1,Aaehener Rückversicherungs-Gesellschaft. ,317.81927490234375,335.48236083984375
+1774,1362,8,26,„Agrippina“ Lebensversicherungsbank Aktiengesellschaft.,451.01348876953125,471.50701904296875
+1775,1363,4,1,Allianz und Stuttgarter Verein Versicherungs-A.-G. //,400.9350280761719,447.8603210449219
+1776,1368,3,20,Berlinische Feuer-Versicherungs-Anstalt. ,223.94602966308594,243.61834716796875
+1777,1370,14,2,Berlinische Lebensversicherungs-Gesellschaft  Aktiengesellschaft.,640.0706787109375,655.2784423828125
+1778,1372,4,2,Berlinische Spiegelglas-Versicherungs-Actien-Gesellschaft zu Berlin.,208.05279541015625,224.48446655273438
+1779,1372,11,1,Brandenburger Lebensversicherungs- Aktiengesellschaft.,597.4638671875,615.4638671875
+1780,1373,4,1,Deutsche Versicherungsbank Aktiengesellschaft.,365.23748779296875,384.4462585449219
+1781,1374,2,1,Deutsche Welt Lebensversicherungs-Aktiengesellschaft.,66.9287338256836,85.5027084350586
+1782,1374,5,1,Deutscher Herold Versicherungs-Dienst Aktiengesellschaft.,464.37872314453125,482.95269775390625
+1783,1374,7,2,Deutscher Herold Volks- und Lebensversicherungs- Aktiengesellschaft.,646.0571899414062,661.216796875
+1784,1376,2,1,Deutscher Lloyd Versicherungs-Actien-Gesellschaft.,66.3499984741211,86.14899444580078
+1785,1377,4,1,Europäische Güter- u. Reisegepäck-Versicherungs-Akt.-Ges.,346.9804382324219,366.2776184082031
+1786,1378,2,2,Evangelische Vorsorge Gemeinnützige Versicherungs- Aktien-Gesellschaft.,85.95943450927734,101.06332397460938
+1787,1378,4,43,Frankona Rück- u. Mitversicherimgs-Aktiengesellschaftt. ,445.1028137207031,461.53448486328125
+1788,1381,2,1,Friedrich Wilhelm Lebensversicherungs-Aktiengesellschaft.,72.36761474609375,89.42611694335938
+1789,1382,4,1,Hermes Kreditversicherungsbank A.-G. ,139.10382080078125,156.51028442382812
+1790,1384,4,2,Iduna-Germania Allgemeine Versicherungs-Aktiengesellschaft.,408.94097900390625,427.4987487792969
+1791,1385,4,1,Iduna-Germania Lebens-Versicherungs-Aktiengesellschaft.,588.5804443359375,607.8775634765625
+1792,1387,4,1,„Kraft“ Versicherungs-Aktien-Gesellschaft.,180.56918334960938,197.36181640625
+1793,1387,8,1,Nordstern Allgemeine Versicherungs-Aktiengesellschaft. //,534.7346801757812,572.0841064453125
+1794,1391,7,1,Nordstern Lebensversicherungsbank A.-G. ,433.26763916015625,450.3261413574219
+1795,1394,13,1,„Providentia“ Allgemeine Versicherungs-Aktiengesellschaft,607.908203125,628.474609375
+1796,1395,4,1,Schlesisch-Kölnische Lebensversicherungsbank Akt.-Ges.,419.9067077636719,439.88153076171875
+1797,1396,4,1,Transatlantische Güterversicherungs-Gesellschaft. //,154.8365020751953,205.12342834472656
+1798,1398,4,1,Union und Rhein Versicherungs-Aktien-Gesellschaft.,141.660888671875,161.1025390625
+1799,1399,4,2,"Vereinigte Krankenversicherungs-Aktiengesellschaft. (vormals Gedevag, Kosmos und Selbsthilfe).",419.9988098144531,433.0062255859375
+1800,1400,4,1,Victoria Feuer-Versicherungs-Actien-Gesellschaft. /,258.5028991699219,311.4063415527344
+1801,1402,8,3,"„Victoria zu Berlin“,  Allgemeine Versicherungs-Actien-Gesellschaft.",470.9760437011719,489.8701171875
+1802,1405,4,1,sind zum ersten Male seit Beginn der Krise deutliche  Zukunft Lebensversicherungsbank Aktiengesellschaft.,471.7384948730469,491.4867248535156
+1803,1406,4,2,Braunschweigische Lebensversicherungs-Bank  Aktiengesellschaft,243.52938842773438,259.002685546875
+1804,1407,4,1,Deutsche Versicherungs-Gesellschaft in Bremen.,126.66123962402344,146.234375
+1805,1407,7,1,Schlesische Feuerversicherimgs-Gesellschaft. ,480.1634826660156,500.6570129394531
+1806,1410,5,2,"Allgemeine Versicherungs-Gesellschaft für See-, Fluß- //  und Land-Transport in Dresden.",222.52561950683594,240.77391052246094
+1807,1412,4,26,S ächsische Versicherungs-Aktiengesellschaft. ,268.0760803222656,286.97015380859375
+1808,1414,8,2,Eos und Excelsior Deutsche Volks- und Lebens­ versicherungs-Aktiengesellschaft.,286.58514404296875,301.78704833984375
+1809,1415,4,1,"Victoria am Rhein, Allgemeine Versicherungs-Akt.-Ges.",239.27467346191406,256.9834289550781
+1810,1416,4,1,"Victoria am Rhein, Feuer- und Transport-Versieh.-A.-G.",233.65122985839844,250.46754455566406
+1811,1417,5,1,Die Versicherungsgesellschaft Thuringia. ,253.00387573242188,270.41033935546875
+1812,1420,10,1,Neue Frankfurter Allgemeine Versicherungs-Akt.-Ges.,384.78948974609375,405.78948974609375
+1813,1421,6,1,Rothenburger Lebensversicherungs-Aktiengesellschaft in Görlitz.,315.37091064453125,334.81256103515625
+1814,1422,4,1,Allgemeine Feuerassekuranz Aktiengesellschaft.,349.2452392578125,366.99285888671875
+1815,1423,2,1,„Globus“ Versicherungs-Akt.-Ges.,75.61148834228516,93.8652572631836
+1816,1423,9,1,Hamburg-Bremer Feuer-Versicherungs-Gesellschaft.,555.3544311523438,576.3875732421875
+1817,1425,2,1,Hamburg-Bremer Rückversicherungs-Aktiengesellschaft.,70.90672302246094,90.88151550292969
+1818,1425,5,61,Hamburger Allgemeine Versicherungs-Aktiengesellschaft.,553.2081909179688,573.7745971679688
+1819,1426,12,1,Hammonia Allgemeine Versicherungs-Aktien-Gesellschaft.,570.99609375,590.6683959960938
+1820,1428,2,1,Nord-Deutsche Lebensversicherungs-Aktiengesellschaft.,68.30320739746094,89.08727264404297
+1821,1428,3,56,Nord-Deutsche Versicherungs-Gesellschaft.,528.1831665039062,544.2450561523438
+1822,1430,3,12,Württembergische Transport-Versicherungs-Gesellschaft /// zu Heilbronn.,173.46678161621094,190.85610961914062
+1823,1432,2,3,"Colonia, Kölnische Feuer- u. Kölnische Unfall-  Versicherungs-Aktiengesellschaft.",89.11616516113281,104.2639389038086
+1824,1435,4,1,Concordia Lebens-Versicherungs-Bank Aktien-Gesellschaft.,139.7256317138672,157.9739227294922
+1825,1436,2,2,Gothaer Kraftfahrzeug- und Transportversicherungsbank A.-G. Tochtergesellschaft der Gothaer Feuerversicherungsbank a. G.,86.16342163085938,99.8110580444336
+1826,1436,7,1,Kölnische Rückversicherungs-Gesellschaft. ,513.777587890625,530.8361206054688
+1827,1439,4,1,Rückversicherungs-Actien-Gesellschaft Colonia. ,156.2375030517578,175.4462890625
+1828,1440,21,1,Deutscher Lloyd Lebensversicherungshank A.-GL,628.7990112304688,643.4549560546875
+1829,1441,4,1,Leipziger Allgemeine Versicherungs-Aktiengesellschaft.,440.663818359375,458.663818359375
+1830,1442,4,1,Leipziger Feuer-Versicherungs-Anstalt. ,244.413818359375,261.8202819824219
+1831,1445,4,2,Magdeburger Allgemeine Lebens- u. Rentenversicherungs- Aktiengesellschaft.,146.7227783203125,161.875
+1832,1446,4,1,Magdeburger Feuerversicherungs-Gesellschaft. ,172.54739379882812,188.32666015625
+1833,1449,2,1,Magdeburger Lebens-Versicherungs-Gesellschaft. ,70.5287094116211,89.1026840209961
+1834,1451,4,1,Magdeburger Rückversicherungs-Actien-Gesellschaft. //,217.42523193359375,260.656982421875
+1835,1453,7,1,Mannheimer Versicherungsgesellschaft. ,411.90521240234375,429.65283203125
+1836,1456,3,5,"Bayerische Rückversicherungsbank, Aktiengesellschaft.",102.90386962890625,120.31033325195312
+1837,1456,4,55,"Bayerische Versicherungsbank Aktiengesellschaft, vormals Versicherungs-Anstalten der Bayer. Hypotheken- und Wechselbank. ",552.9378662109375,566.751220703125
+1838,1458,2,1,Gladbacher Feuerversicherungs-Aktien-Gesellschaft. //,54.696048736572266,100.81537628173828
+1839,1460,4,1,Gladbacher Lebensversicherungsbank Aktiengesellschaft.,176.06382751464844,194.06382751464844
+1840,1461,2,1,Gladbacher Rückversicherungs-Aktien-Gesellschaft.,68.31497192382812,89.8089828491211
+1841,1461,5,1,Feuerversicherungs-Gesellschaft Rheinland A.-G.,547.31005859375,567.359619140625
+1842,1462,6,1,Nürnberger Lebensversicherungs-Bank.,331.4577941894531,350.1121520996094
+1843,1463,4,2,Aachener und Münchener Lebensversicherungs-  Aktiengesellschaft.,378.2042236328125,393.38092041015625
+1844,1464,4,8,Opel Automobil-Versicherungs-Aktiengesellschaft.,269.413818359375,286.8202819824219
+1845,1464,6,44,„National“ Allgemeine Versicherungs-Aktien- Gesellschaft. //,622.7335205078125,654.6235961914062
+1846,1467,10,1,Stettiner Rückversicherungs Aktien-Gesellschaft. ilt,561.0867919921875,610.7138671875
+1847,1470,2,2,"Allgemeine Rentenanstalt, Lebens- und Renten-  versicherungs-A.-G.",87.42820739746094,102.42820739746094
+1848,1471,4,1,Allianz und Stuttgarter Lebensversicherungsbank A.-G. ,354.4521789550781,371.0166015625
+1849,1475,5,2,Süddeutsche Lieferzentrale  für die Toilettenartikel-Branche Aktiengesellschaft.,325.9287109375,344.502685546875
+1850,1475,8,1,Aktiengesellschaft für Amerika-Interessen.,611.2031860351562,631.9872436523438
+1851,1476,4,1,"Werbezentrale Lloyd Berlin-Bremen, Aktiengesellschaft in Liqu.",185.4483184814453,203.93043518066406
+1852,1476,7,1,Geschwister Kopfermann Aktiengesellschaft.,415.4028015136719,430.6473693847656
+1853,1476,10,1,"Standard Zahnfabrik, Akt.-Ges.",632.476806640625,649.8661499023438
+1854,1477,8,1,Heimbau Aktiengesellschaft.,308.001953125,327.0069274902344
+1855,1477,10,1,Friedrichstraße 207 Grundstücks-Aktiengesellschaft.,584.1638793945312,605.46142578125
+1856,1478,3,5,Godrom-Grundstücks-Aktiengesellschaft.,119.51673889160156,134.0173797607422
+1857,1478,5,14,Grundstücks-Aktiengesellschaft Seestraße.,253.6639404296875,274.96142578125
+1858,1478,7,1,* Wohnungsbau-Aktiengesellschaf t Hildesheim.,402.27679443359375,419.6661071777344
+1859,1478,10,1,Grün & Bllflnger Aktiengesellschaft in Mannheim. //,504.5273132324219,550.8692016601562
+1860,1480,38,2,"Actien-Gesellschaft für Bergbau, Blei- und Zinkfabrikation // zu Stolberg und in Westfalen.",609.892578125,623.1060791015625
+1861,1484,6,1,Kaliwerke Aschersleben. ,313.8346252441406,331.54339599609375
+1862,1487,39,1,Hüttenwerke C. Wilh. Kayser & Co.-Niederschöneweide A.-G. //,609.7255249023438,629.09521484375
+1863,1490,4,1,Kokswerke & Chemische Fabriken Aktiengesellschaft. //,265.35736083984375,307.82122802734375
+1864,1495,4,1,Mannesmannröhren-Werke.,185.9496307373047,200.2090301513672
+1865,1499,19,1,Preßwerk Aktiengesellschaft.,609.2447509765625,626.8742065429688
+1866,1500,4,1,Tellus Akt.-Ges. für Bergbau und Hüttenindustrie. ///,251.513427734375,300.37982177734375
+1867,1501,2,1,Bergwerksgesellschaft Dahlbusch. ,66.70606231689453,83.18626403808594
+1868,1502,7,1,Bergwerksgesellschaft Hibernia.,437.7756042480469,456.0238952636719
+1869,1504,4,1,Stahlwerk Mannheim Aktiengesellschaft.,164.56307983398438,181.62757873535156
+1870,1504,8,1,"Graphitwerk Kropfmühl, Aktiengesellschaft.",556.6660766601562,573.1463012695312
+1871,1506,2,1,* Montinag — Montan- und Industrie-Aktiengesellschaft.,80.677734375,96.28507232666016
+1872,1506,5,1,Vereinigte Bleicherdefabriken Aktiengesellschaft.,192.29624938964844,210.24029541015625
+1873,1506,8,1,Ilseder Hütte. ,630.510986328125,646.7340698242188
+1874,1509,4,1,Bergwerks-Aktiengesellschaft Recklinghausen.,353.3458251953125,368.53363037109375
+1875,1510,4,2,"Anthracitgrube Carl Friedrich, Akt.-Ges. für Bergbau u. verwandte Industrien.",311.7113342285156,328.8573303222656
+1876,1510,7,1,Hallesche Salzwerke Aktiengesellschaft. ,592.97607421875,611.8701171875
+1877,1512,4,1,Honsel-Werke Aktien-Gesellschaft.,435.8245544433594,455.2613830566406
+1878,1513,2,1,Heymer & Pilz Aktiengesellschaft.,66.39095306396484,84.94874572753906
+1879,1513,8,1,"Hüttenwerk, Eisengießerei u. Maschinenfabrik Michelstadt.",401.86602783203125,418.34625244140625
+1880,1514,2,1,"Gebr. Franke, Aktiengesellschaft.",75.11121368408203,91.92754364013672
+1881,1514,5,2,Lokomotivfabrik Krauss & Comp.—J. A. Maffei Aktien- // gesellschaft.,409.8021240234375,424.5859069824219
+1882,1516,10,1,"Webstuhlfabrik u. Eisengießerei Gustav Thiele, Akt.-Ges.",342.9230651855469,359.9875793457031
+1883,1516,13,1,Deutsche Metallwerke Akt.-Ges.,556.3268432617188,573.7161865234375
+1884,1517,4,1,Maschinenfabrik vorm. Georg Dorst A.-G.,161.06072998046875,179.84317016601562
+1885,1517,6,28,"Faber & Schleicher, Aktien-Gesellschaft. ",408.0606994628906,426.8431396484375
+1886,1518,5,1,W. Kuhlmann Aktiengesellschaft.,275.1509704589844,291.37408447265625
+1887,1518,8,1,G. Kromschröder Aktiengesellschaft. ,427.9462890625,445.8903503417969
+1888,1520,16,1,R. Stahl Aktiengesellschaft.,418.8135681152344,437.1436767578125
+1889,1520,19,1,Dufa Deutsche Uhrenfabrik Aktiengesellschaft.,606.4638671875,624.4638671875
+1890,1521,4,1,Sartorius-Werke Aktiengesellschaft.,324.9677734375,343.62213134765625
+1891,1521,7,3,Thüringer Elektricitäts-Lieferungs-Gesellschaft  Aktiengesellschaft.,637.9727783203125,653.125
+1892,1525,4,1,"Hackethal-Draht- und Kabel-Werke, Aktiengesellschaft. //",111.07151794433594,149.04507446289062
+1893,1527,4,1,Hellux Aktiengesellschaft.,240.6287078857422,259.20269775390625
+1894,1527,7,1,"R. Jung, Fabrik für Präzisionsapparate, Aktiengesellschaft.",442.21380615234375,459.6202697753906
+1895,1528,4,1,Elektrizitäts-Aktiengesellschaft Mitteldeutschland.,116.18608093261719,135.0801239013672
+1896,1529,2,1,Felten & Guilleaume Carlswerk Actien-Gesellschaft. //,49.193397521972656,94.98645782470703
+1897,1532,4,1,E. Leybold’s Nachfolger Aktiengesellschaft,298.35662841796875,317.48736572265625
+1898,1532,7,1,Rheinisches Elektricitätswerk im Braunkohlenrevier Akt.-Ges. //,487.6638488769531,505.6638488769531
+1899,1534,8,1,4 024 266 Ostkraftwerk Aktiengesellschaft.,294.2787170410156,312.8526916503906
+1900,1534,11,1,"Elektrizitätswerk Mittelbaden, Akt.-Ges.",512.7786865234375,531.3526611328125
+1901,1535,4,1,Kraftwerk Wagingersee Aktiengesellschaft.,292.7209167480469,312.1625671386719
+1902,1535,7,1,Ostbayerische Stromversorgung Aktiengesellschaft. ///,549.1077880859375,594.5389404296875
+1903,1537,6,1,"Electricitäts-Werke Liegnitz, ",207.11927795410156,224.78237915039062
+1904,1539,8,1,Lahnkraftwerke Aktien-Gesellschaft.,480.6176452636719,497.6761474609375
+1905,1540,4,1,Pfalzwerke Akt.-Ges.,135.2109375,154.652587890625
+1906,1541,3,24,"Brown, Boveri & Cie. Aktiengesellschaft. ",228.18478393554688,245.81422424316406
+1907,1545,15,22,Kontakt Akt.-Ges. Fabrik elektrotechnischer Spezialartikel in Liqu.,499.7138366699219,517.7138671875
+1908,1546,2,1,Ringsdorff-Werke Aktiengesellschaft.,68.34687042236328,85.05016326904297
+1909,1546,3,29,"Rhön Elektricitäts-Lieferungs-Gesellschaft, Aktiengesellschaft.",320.913818359375,338.3202819824219
+1910,1546,5,23,Itterkraftwerk Aktiengesellschaft.,529.7791137695312,547.0994262695312
+1911,1547,3,26,Bayerische Elektricitäts-Werke. ,266.2791748046875,283.0718078613281
+1912,1549,2,1,Vereinigte Bayerische Telephonwerke Aktiengesellschaft.,71.07683563232422,88.4661636352539
+1913,1549,5,1,Isarwerke Aktiengesellschaft.,343.174560546875,359.9073181152344
+1914,1549,8,1,"Überlandwerk Oberschlesien, Aktien-Gesellschaft.",612.4156494140625,633.9747314453125
+1915,1550,4,1,"Überlandzentrale Neubrandenburg, Aktiengesellschaft.",361.2304382324219,380.5276184082031
+1916,1551,3,9,Kraftversorgung Rhein-Wied Aktiengesellschaft.,145.34744262695312,161.126708984375
+1917,1551,5,30,Nienburger Stromversorgungs-Aktiengesellschaft.,408.21380615234375,425.6202697753906
+1918,1551,7,26,Großkraftwerk Franken Aktiengesellschaft. ,631.7636108398438,650.0936889648438
+1919,1553,4,1,Kabel- u. Metallwerke Neumeyer Aktiengesellschaft.,178.36917114257812,195.689453125
+1920,1553,7,3,Sächsische Elektrizitätswerk- und Straßenbahn-  Aktiengesellschaft.,586.3387451171875,601.456787109375
+1921,1554,5,1,"Emil Busch, Aktiengesellschaft Optische Industrie. //",545.8034057617188,596.5956420898438
+1922,1556,19,2,Versorgung.,493.930419921875,508.1361083984375
+1923,1558,3,50,Schleswig-Holsteinische Stromversorgungs-Aktiengesellschaft.,448.8634948730469,469.3570251464844
+1924,1559,2,1,Kraftübertragungswerke Rheinfelden. ,72.13040924072266,91.42757415771484
+1925,1562,15,1,Kraftwerk Reutlingen-Kirchentellinsfurt Aktiengesellschaft.,361.2756042480469,379.5238952636719
+1926,1562,18,1,Niederrheinische Licht- u. Kraftwerke Akt.-Ges.,551.5860595703125,570.4801025390625
+1927,1563,4,1,Schorch-Werke Aktiengesellschaft.,351.5138244628906,368.9202880859375
+1928,1564,4,1,Bayerisches Kabelwerk Rilfelmacher & Engelhardt A.-G.,219.48606872558594,238.38011169433594
+1929,1564,7,1,Ueberlandzentrale Pommern Aktiengesellschaft.,465.1551818847656,482.9028015136719
+1930,1566,2,1,N eckar- Aktiengesellschaftt. ,68.03819274902344,83.03819274902344
+1931,1569,5,1,Württembergische Elektrizitäts-Akt.-Ges. ,249.8286895751953,268.4026794433594
+1932,1570,4,1,Himmelwerk Aktiengesellschaft. ,408.7528076171875,425.1844787597656
+1933,1571,4,1,Aktiengesellschaft für Feinmechanik vorm. Jetter & Scheerer. in,256.8974609375,276.1062316894531
+1934,1572,4,1,Aktiengesellschaft Obere Saale.,267.4284973144531,287.1767272949219
+1935,1573,4,1,Thüringische Landeselektrizitätsversorgungs-Aktiengesellschaft.,155.64743041992188,171.42669677734375
+1936,1574,5,1,Kreis-Elektrizitätsversorgung Unterfranken Aktiengesellschaft. //,152.4092559814453,170.07235717773438
+1937,1575,4,1,* Spinnerei und Weberei Aktiengesellschaft Ebersbach.,286.45660400390625,305.58734130859375
+1938,1575,6,1,Norddeutsche Hütte Aktiengesellschaft.,459.5960388183594,479.2683410644531
+1939,1576,4,1,Zinkhütte Hamburg Aktiengesellschaft.,530.8676147460938,547.9261474609375
+1940,1577,4,1,Adler-Kaliwerke Aktiengesellschaft.,167.47462463378906,185.18338012695312
+1941,1578,5,1,Bayerische Braunkohlen-Industrie Aktiengesellschaft.,309.2712707519531,330.6250915527344
+1942,1579,2,1,Th. Groke Aktiengesellschaft.,71.38465881347656,89.09341430664062
+1943,1579,5,1,"Saar-Gefei, Aktiengesellschaft für Maschinenbau.",289.2706604003906,308.0531005859375
+1944,1579,8,2,"Mayer & Schmidt, Schleifmaschinen- u. Schmirgel-Werke Akt.-Ges.",486.57000732421875,500.8025817871094
+1945,1580,4,2,Apparate-Bau- und Vertriebs-Gesellschaft Aktien-Gesellschaft in Liquid.,186.6595458984375,202.34368896484375
+1946,1580,7,1,C. A. Schaefer Aktiengesellschaft.,351.9638366699219,369.9638366699219
+1947,1580,10,1,"Heig Aktiengesellschaft, Elektro-Radio-Großhandlung.",543.3500366210938,563.3995971679688
+1948,1581,2,1,"Großkraftwerk Württemberg, Aktiengesellschaft.",71.07345581054688,91.56698608398438
+1949,1581,5,1,Oberstein-Idarer Elektrizitäts-Aktien-Gesellschaft.,645.6884155273438,664.897216796875
+1950,1582,4,1,Bayerische Elektrozubehör Aktiengesellschaft.,406.6474304199219,425.856201171875
+1951,1582,7,1,J. C. Eckardt Aktiengesellschaft.,649.587890625,669.7867431640625
+1952,1583,4,1,Aktiengesellschaft für Optik und Mechanik.,243.46600341796875,259.94622802734375
+1953,1583,6,1,Aktiengesellschaft für Ernährung und Landwirtschaft.,394.726806640625,412.1161193847656
+1954,1583,9,1,Berliner Milch- u. Butterhandels-Aktiengesellschaft.,560.3267822265625,577.7161254882812
+1955,1584,3,6,Boa-Lie-Aktiengesellschaft.,123.46002197265625,138.681884765625
+1956,1584,9,11,Staege Kaffee Handels-Aktiengesellschaft.,389.90386962890625,407.90386962890625
+1957,1584,11,17,Quabis Akt.-Ges.,553.2232055664062,569.2850952148438
+1958,1585,2,1,Vereinigte Hausener Brotfabriken Aktiengesellschaft.,73.23845672607422,92.98668670654297
+1959,1585,5,1,Altmärkische Getreide-Aktiengesellschaft.,218.39659118652344,237.52732849121094
+1960,1585,8,1,Aktien-Stärke-Fabrik Glüsingen.,377.6286926269531,396.2026672363281
+1961,1585,11,1,Moenania-Kellereien- Aktiengesellschaft.,495.7913818359375,510.9190979003906
+1962,1585,14,1,"Albert Schneider Akt.-Ges., Kunstspeisefett-Fabrik.",632.5709228515625,652.0125732421875
+1963,1586,4,1,"Konditorei-Rohstoff-Akt.-Ges,",170.62515258789062,185.64239501953125
+1964,1586,8,1,Aktiengesellschaft für Tabakhandel.,370.3360290527344,389.2301025390625
+1965,1586,11,1,Früchteverwertung Stuttgart Akt-Ges.,554.0709228515625,573.5125732421875
+1966,1587,2,1,Rittergut Thiede Aktiengesellschaft.,73.53605651855469,92.43009948730469
+1967,1587,5,1,Schlesische Handwerks-Wirtschafts-Aktiengesellschaft.,228.7974395751953,248.0062255859375
+1968,1587,8,1,Wirtschafts-Aktiengesellschaft in Merseburg.,397.4468688964844,417.64569091796875
+1969,1587,11,1,Bergbau-Handelsaktiengesellschaft.,627.763916015625,642.8618774414062
+1970,1588,4,1,Landwirtschaftliche Industrie- u. Handels-Akt.-Ges.,161.12144470214844,179.37521362304688
+1971,1588,7,1,"Heilmittelversorgung deutscher Krankenkassen, Akt-Ges.",349.7109375,366.85736083984375
+1972,1588,10,2,Hölfgebaum & Heinicke Aktiengesellschaft für Zeichenmaterial u. Bürobedarf.,581.9766235351562,598.1130981445312
+1973,1589,2,1,Isolier-Material Aktiengesellschaft (Isolag).,71.54325866699219,92.32732391357422

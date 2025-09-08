@@ -1,0 +1,92 @@
+German subsidiary,US Company,link_type,org_type,US firm (as in book),Affiliated German firm (as in book),Vol,Grossaktionär is a US comp,Director attached to a US company,US location linked to a director,US-sounding names,Bond issuance in the US,Other indicators,Other indicators are strong
+Vereinigte Königs- und Laurahütte,"W. A. Harriman & Co., Inc., New York.",USOP,AG,W. A. Harriman & Co.,"Vereinigte Königs- und Laurahütte, Actien-Gesellschaft für Bergbau und Hüttenbetrieb.","Vol 91, p. 331",False,True,True,False,False,,False
+,,USB,AG,,"Gutehoffnungshütte, Aktienverein für Bergbau und Hüttenbetrieb.","Vol 91, p. 361",False,False,False,False,True,,False
+Deutsche Babcock & Wilcox Dampfkessel-Werke AG,The Babcock & Wilcox Company,USOP,AG,Babcock & Wilcox ,"Deutsche Babcock & Wilcox-Dampfkessel-Werke, Actien-Gesellschaft.","Vol 91, p. 377",False,False,False,False,False,"Mentions '[Babcock & Wilcox Ltd.]', which is a known US-based company with international operations (this entry specifically mentions the UK entity). ",True
+Metallisator Berlin Akt.-Ges.,Metals Coating Company of America,USO,AG,Metals Coating Company of America in Philadelphia,Metallisator Berlin Aktiengesellschaft.,"Vol 91, p. 390",True,False,True,False,False,,False
+Adam Opel Aktiengesellschaft,General Motors Corporation (Overseas Operations),USO,AG,General Motors,Adam Opel Aktiengesellschaft.,"Vol 91, p. 481",True,True,True,True,False,,False
+Kastor & Co. Akt.-Ges.,,USC,AG,,"Kastor & Co., Aktiengesellschaft.","Vol 91, p. 488",False,False,True,False,False,,False
+Berliner Kraft- und Licht-Aktiengesellschaft,"Harris, Forbes & Co.",USOP,AG,Chase Harris Forbes Corporation,Berliner Kraft- und Licht-Aktiengesellschaft.,"Vol 91, p. 509",False,True,True,False,False,,False
+,,USB,AG,,Elektrowerke Aktiengesellschaft (Reichs-Elektrowerke).,"Vol 91, p. 516",False,False,False,False,True,,False
+"Glasfabrik, Aktiengesellschaft.",,USC,AG,,"Glasfabrik, Aktiengesellschaft.","Vol 91, p. 575",False,False,True,False,False,,False
+Niederrheinische Papier- u. Pappenfabrik Aktiengesellschaft.,,USOP,AG,,Niederrheinische Papier- u. Pappenfabrik Aktiengesellschaft.,"Vol 91, p. 737",False,False,False,False,False,"The large shareholder's name 'Ruberoid-Werke in Hamburg' contains 'Ruberoid', which strongly resembles the name of a significant historical US company in a related industry (roofing/building materials). This suggests a potential link, licensing agreement, joint venture, or direct investment.",True
+Allgemeine Transportmittel Aktiengesellschaft,General American Tank Car Corp ,USOP,AG,General American Transportation Corporation,Allgemeine Transportmittel Aktiengesellschaft.,"Vol 91, p. 811",False,True,True,False,False,,False
+Actien-Bierbrauerei,,USC,AG,,Actien-Bierbrauerei in Essen an der Ruhr. ,"Vol 91, p. 946",False,False,True,False,False,,False
+Finkenheerder Obstwerke Richard Sonnenberg AG,,USC,AG,,"Finkenheerder Obstwerke Richard Sonnenburg, Akt.-Ges.","Vol 91, p. 1173",False,False,True,False,False,,False
+Deutsche Maizena Werke AG,,USC,AG,,Deutsche Maizena-Werke Aktiengesellschaft.,"Vol 91, p. 1189",False,False,True,False,False,,False
+Aktiengesellsehaft für Konzessionsunternehmen,,USC,AG,,Aktiengesellschaft für Konzessionsunternehmen in Liqu.,"Vol 91, p. 1239",False,False,True,False,False,,False
+"P. Wohl, Akt.-Ges.",,USC,AG,,"P. Wohl, Akt.-Ges.","Vol 91, p. 1248",False,False,True,False,False,,False
+Ch. Eitingon AG,"Eitingon Schild Co., Inc.",USOP,AG,Eitingon,Ch. Eitingon Aktiengesellschaft.,"Vol 91, p. 1255",False,False,True,False,False,Purpose: Trading in all types of tobacco products. The company was reorganized in 1932 based on an agreement with the banks and the New York parent company.,True
+Iduna Holding Aktiengesellschatt,Rossia International Corporation,USO,AG,Rossia International Corporation in Hartford-Conn. (U.S.A.).,Iduna Holding Aktiengesellschaft.,"Vol 91, p. 1263",True,False,False,False,False,,False
+Münchener Rückversicherungs-Gesellschaft,,USC,AG,,Münchener Rückversicherungs-Gesellschaft.,"Vol 91, p. 1279",False,False,True,False,False,,False
+Commercial Investment Trust Akt.-Ges. (Citag),Commercial Investment Trust Corp.,USO,AG,Commercial Investment Trust Corp. in New York,Commercial Investment Trust Aktien-Gesellschaft (Gitag).,"Vol 91, p. 1302",True,False,True,False,False,,False
+,,USB,AG,,Deutsche Landesbankenzentrale Aktiengesellschaft.,"Vol 91, p. 1325",False,False,False,False,True,,False
+Deutsch-Atlantische Telegraphengesellschaft,,USC,AG,,Deutsch-Atlantische Telegraphengesellschaft.,"Vol 91, p. 1456",False,False,True,False,False,,False
+,,USB,AG,,Commerz- und Privat-Bank Aktiengesellschaft. ,"Vol 92, p. 231",False,False,False,False,True,,False
+,,USB,AG,,Ruhrwohnungsbau-Aktiengesellschaft*,"Vol 92, p. 339",False,False,False,False,True,,False
+Anhaltische Kohlenwerke,,USC,AG,,Anhaitische Kohlenwerke zu Halle a. Saale.,"Vol 92, p. 445",False,False,True,False,False,,False
+Werschen-Weißenfelser Braunkohlen-Aktien-Gesellschaft.,,USC,AG,,Werschen-Weißenfelser Braunkohlen-Aktien-Gesellschaft.,"Vol 92, p. 451",False,False,True,False,False,,False
+Mülheimer Bergwerke Verein AG,,USC,AG,,Mülheimer Bergwerks-Verein.,"Vol 92, p. 466",False,False,True,False,False,,False
+Europäische Titeflex Metallschlauch-Aktiengesellschaft,Titeflex Metal Hose Co.,USOP,AG,"Titeflex Metal Hose Co., Newark N. J. (U.S,A.)",Europäische Titeflex Metallschlauch-Aktiengesellschaft.,"Vol 92, p. 532",False,True,True,False,False,,False
+Mix & Genest AG,International Telephone and Telegraph Corp.,USO,AG,International Telephon & Telegraph Comp.,Mix & Genest Aktiengesellschaft. ,"Vol 92, p. 546",True,False,False,False,False,,False
+„Miag“ Mühlenbau u. Industrie Aktiengesellschaft,,USC,AG,,„Miag“ Mühlenbau und Industrie Aktiengesellschaft.,"Vol 92, p. 573",False,False,True,False,False,,False
+Pittler Werkzeugmaschinenfabrik Aktiengesellschaft,The National Acme Co.,USOP,AG,"[National Acme Company] (Cleveland/Ohio),",Pittier Werkzeugmaschinenfabrik Aktiengesellschaft.,"Vol 92, p. 671",False,True,True,False,False,,False
+Allgemeine Elektricitäts-Gesellschaft,International General Electric Company Inc.,USO,AG,[International General Electric Company] (New York),Allgemeine Elektricitäts-Gesellschaft.,"Vol 92, p. 755",True,False,False,False,False,,False
+C. Lorenz AG,International Telephone and Telegraph Corp.,USO,AG,International Telephone and Telegraph Corp. (I. T. T.).,"C. Lorenz Aktiengesellschaft, Telephon- und Telegraphen-Werke, Eisenbahnsignal-Bauanstalt.","Vol 92, p. 780",True,False,False,False,False,,False
+Ferdinand Schuchhardt Berliner Fernsprech-und Telegraphenwerk AG,,USOP,AG,,"Ferdinand Schuchhardt, Berliner Fernsprech- u. Telegraphenwerk Aktiengesellschaft.","Vol 92, p. 786",False,False,False,False,False,"Großaktionär:  Standard Elektrizitäts-Ges. A.-G., Berlin.",True
+Telephonfabrik Berliner AG,,USOP,AG,,Telephonfabrik Berliner Aktiengesellschaft.,"Vol 92, p. 787",False,False,False,False,False,"Großaktionär:  Standard Elektrizitäts-Ges. A.-G., Berlin.",True
+Deutsche Tafelglas Aktiengesellschaft (Detag). ,,USOP,AG,,Deutsche Tafelglas Aktiengesellschaft (Detag). ,"Vol 92, p. 859",False,False,False,False,False,"A director is associated with Deutsche Libbey-Owens-Gesellschaft, which may be a US company",True
+Mineraloel-Raffinerie vorm. August Korff,Standard Oil Company (New Jersey),USO,AG,"Standard Oil Comp, of New Jersey, New York.",Mineraloel-Raffinerie vorm. August Korff.,"Vol 92, p. 1039",True,False,False,False,False,,False
+Dynamit-Act.-Ges. vormals Alfred Nobel & Co.,E.I. du Pont de Nemours and Company,USO,AG,Du Pont de Nemours,Dynamit-Actien-Gesellschaft vormals Alfred Nobel & Co.,"Vol 92, p. 1060",True,False,False,False,False,,False
+Wrigley Aktiengesellschaft,Wm. Wrigley Jr. Company,USC,AG,Wrigley,Wrigley Aktiengesellschaft.,"Vol 92, p. 1192",False,False,True,True,False,,False
+Paramount Film AG,"Paramount Pictures, Inc.",USOP,AG,Paramount,Paramount Film Aktiengesellschaft.,"Vol 92, p. 1206",False,False,False,True,False,Paramount is very suggestive,True
+Geo. Borgfeldt & Co. Aktiengesellschaft,,USC,AG,,Geo. Borgfeldt & Co. Aktiengesellschaft in Liqu.,"Vol 92, p. 1353",False,False,True,False,False,,False
+Zukunft Lebensversicherungsbank Aktiengesellschaft.,Guardian Life Insurance Co. of America,USOP,AG,Guardian Versicherungs - Gesellschaft von Amerika,Zukunft Lebensversicherungsbank Aktiengesellschaft.,"Vol 92, p. 1405",False,True,False,False,False,,False
+Opel Automobil Versicherungs AG,,USOP,AG,,Opel Automobil-Versicherungs-Aktiengesellschaft.,"Vol 92, p. 1464",False,False,False,True,False,The name Opel is very suggestive,True
+Ilseder Hütte,Brown Harrimann & Company Incorporated,USOP,AG,Brown Harrimann & Company Incorporated,Ilseder Hütte. ,"Vol 92, p. 1506",False,True,False,False,True,,False
+,,USB,AG,,Oberpfalzwerke Aktiengesellschaft für Elektrizitäts-Versorgung.,"Vol 92, p. 1557",False,False,False,False,True,,False
+,,USB,AG,,Mansfeld Akt-Ges. für Bergbau u. Hüttenbetrieb. ,"Vol 93, p. 178",False,False,False,False,True,,False
+,,USB,AG,,Triptis-Aktiengesellschaft.,"Vol 93, p. 204",False,False,False,False,True,,False
+Königstadt-Aktiengesellschaft f. Grundstücke u. Industrie,,USC,AG,,Königstadt Aktien-Gesellschaft für Grundstücke und Industrie in Berlin.,"Vol 93, p. 226",False,False,True,False,False,,False
+,,USB,AG,,Westdeutsche Kaufhof Aktiengesellschaft (vorm. Leonhard Tietz A.-G.).,"Vol 93, p. 459",False,False,False,False,True,,False
+Singer Nahmaschinen AG,,USC,AG,,Singer Nähmaschinen Aktiengesellschaft.,"Vol 93, p. 559",False,False,True,False,False,,False
+Vereinigte Riegel- und Schlossfabriken Act.-Ges.,,USC,AG,,Vereinigte Riegel- und Schlossfabriken Aktiengesellschaft.,"Vol 93, p. 588",False,False,True,False,False,,False
+Bayerische Reisszeugfabrik AG,,USC,AG,,"Bayerische Reißzeugfabrik, Aktiengesellschaft.","Vol 93, p. 601",False,False,True,False,False,,False
+Ritter AG,"Ritter Company, Inc. (Formerly Ritter Dental Mfg. Co., Inc)",USO,AG,Ritter Dental Manufacturing Comp. Inc. in Rochester.,Ritter Aktiengesellschaft.,"Vol 93, p. 651",True,False,False,True,False,,False
+,,USB,AG,,Aktiengesellschaft Sächsische Werke,"Vol 93, p. 691",False,False,False,False,True,,False
+Porzellanfabriken Paul Rauschert Aktiengesellschaft,,USC,AG,,Porzellanfabriken Paul Rauschert Aktiengesellschaft.,"Vol 93, p. 753",False,False,True,False,False,,False
+Vereinigte Elektrizitätswerke Westfalen Aktiengesellschaft.,"Harris, Forbes & Co.",USOP,AG,Bankhaus Chase Harris Forbes Corporation,Vereinigte Elektrizitätswerke Westfalen Aktiengesellschaft.,"Vol 93, p. 877",False,True,False,False,False,,False
+Richard Hudnut Aktiengesellschaft,,USC,AG,,Richard Hudnut Aktiengesellschaft.,"Vol 93, p. 940",False,False,True,False,False,,False
+Herz-Oelfabriken-Wittenberge-Aktiengesellschaft,,USC,AG,,S. Herz Oelfabriken Wittenberge Aktiengesellschaft.,"Vol 93, p. 945",False,False,True,False,False,,False
+Kurt Wachtel AG,,USC,AG,,"Rauchwaren-Zurichterei und -Färberei Kurt Wachtel, Aktiengesellschaft.","Vol 93, p. 1005",False,False,True,False,False,,False
+Optima-Maschinenfabrik A.-G.,,USC,AG,,Optima-Maschinenfabrik Aktiengesellschaft in Liqu.,"Vol 93, p. 1058",False,False,True,False,False,,False
+,,USB,AG,,Ruhrgas Aktiengesellschaft.,"Vol 93, p. 1159",False,False,False,False,True,,False
+Deutsche Fox-Film Aktiengesellschaft,,USC,AG,,Deutsche Fox-Film Aktiengesellschaft,"Vol 93, p. 1204",False,False,True,False,False,,False
+Fox Tönende Wochenschau Aktiengesellschaft,,USC,AG,,Fox Tönende Wochenschau Aktiengesellschaft.,"Vol 93, p. 1208",False,False,True,True,False,,False
+The Goodyear Tire & Rubber Co. Aktiengesellschaft,The Goodyear Tire & Rubber Company,USOP,AG,The Goodyear Tire & Rubber Co.,The Goodyear Tire & Rubber Co. Aktiengesellschaft.,"Vol 93, p. 1276",False,False,False,True,False,The name Goodyear Tire is very suggestive,True
+Claudius Peters Aktiengesellschaft.,The Babcock & Wilcox Company,USOP,AG,Babcock & Wilcox Ltd.,Claudius Peters Aktiengesellschaft.,"Vol 93, p. 1464",False,False,False,False,False,"Large shareholder is Babcock & Wilcox Ltd., London",True
+Ford-Werke AG,Ford Motor Company,USO,AG,"Ford Motor Company, Ltd., London",Ford Motor Company Aktiengesellschaft. ,"Vol 94, p. 165",True,True,False,False,False,,False
+Walsheim Brauerei Aktien-Gesellschaft vorm. Schmidt & Guttenberger.,,USC,AG,,Walsheim Brauerei Aktien-Gesellschaft vorm. Schmidt & Guttenberger.,"Vol 94, p. 194",False,False,True,False,False,,False
+Deutsch-Amerikanische Petroleum-Gesellschaft,Standard Oil Company (New Jersey),USO,AG,Standard Oil Company (N. J.) New York.,Deutsch-Amerikanische Petroleum-Gesellschaft.,"Vol 94, p. 337",True,False,False,False,False,,False
+Bayerische Mineral Industrie AG,Bavarian oil and Gas Corporation,USO,AG,"Bavarian Oil and Gas Corporation, Delaware (USA)",Bayerische Mineral-Industrie Aktiengesellschaft.,"Vol 94, p. 347",True,False,False,False,False,,False
+"Rheinische Schellackbleiche Ernst Kalkhof, Akt.-Ges.",,USC,AG,,"Rheinische Schellackbleiche Ernst Kalkhof, Aktiengesellschaft.","Vol 94, p. 411",False,False,True,False,False,,False
+Akt.-Ges. für Erwerb und Verwaltung von Grundbesitz,,USC,AG,,Aktiengesellschaft für Erwerb und Verwaltung von Grundbesitz.,"Vol 94, p. 476",False,False,True,False,False,,False
+Metallisator Akt.-Ges.,,USC,AG,,Metallisator Akt.-Ges.,"Vol 94, p. 503",False,False,True,False,False,,False
+Pfaudler-Werke AG,,USC,AG,,Pfaudler-Werke A.-G.,"Vol 94, p. 515",False,False,True,False,False,,False
+,,USB,AG,,Dortmunder Gas-Werk Aktiengesellschaft.,"Vol 94, p. 596",False,False,False,False,True,,False
+,,USB,AG,,Braunkohlen-Industrie-Aktiengesellschaft Zukunft.,"Vol 94, p. 610",False,False,False,False,True,,False
+Kardex Akt.-Ges. fir Büroartikel,,USC,AG,,Kardex Aktiengesellschaft für Büroartikel.,"Vol 94, p. 708",False,False,True,False,False,,False
+,,USB,AG,,Gutehoffmmgshiitte Oberhausen Aktiengesellschaft.,"Vol 94, p. 712",False,False,False,False,True,,False
+"Billeter & Klunz, Aktiengesellschaft",,USC,AG,,"Billeter & Klunz, Aktiengesellschaft.","Vol 94, p. 742",False,False,True,False,False,,False
+Mercedes Buromaschinen Werke AG,Underwood Elliott Fisher Company,USO,AG,"Underwood-Elliott-Fisher Co., New York",Mercedes Büromaschinen-Werke Aktiengesellschaft.,"Vol 94, p. 854",True,False,False,False,False,,False
+Credit Aktiengesellschaft für Ford-Fahrzeuge.,,USC,AG,,Credit Aktiengesellschaft für Ford-Fahrzeuge.,"Vol 94, p. 864",False,False,True,False,False,,False
+Rödingshof Grundstücks-Akt.-Ges.,,USC,AG,,Rödingshof Grundstücks-Aktiengesellschaft.,"Vol 94, p. 872",False,False,True,False,False,,False
+Standard Elektrizitats Ges. AG,,USC,AG,,Standard Elektrizitäts-Gesellschaft Aktiengesellschaft.,"Vol 94, p. 911",False,False,True,False,False,,False
+Gasbrennerfabrikation Aktiengesellschaft.,,USC,AG,,Gasbrennerfabrikation Aktiengesellschaft.,"Vol 94, p. 950",False,False,True,False,False,,False
+"Haendler & Natermann, Akt.-Ges.",,USC,AG,,"Haendler & Natermann, Aktiengesellschaft.","Vol 94, p. 956",False,False,True,False,False,,False
+,,USB,AG,,Metallwarenindustrie Aktiengesellschaft.,"Vol 94, p. 972",False,False,False,False,True,,False
+"Alex. Zink, Filzfabrik, Akt.-Ges.",,USC,AG,,"Alex Zink, Filzfabrik, Aktiengesellschaft.","Vol 94, p. 1013",False,False,True,False,False,,False
+Berliner Städtische Elektrizitätswerke Akt.-Ges. (BEWAG),"Harris, Forbes & Co.",USOP,AG,"Chase Harris Forbes Corporation, New York",Berliner Städtische Elektrizitätswerke Akt.-Ges. (BEWAG).,"Vol 94, p. 1015",False,True,True,False,True,,False
+Hirsch-Bräu Aktiengesellschaft.,,USC,AG,,Hirsch-Bräu Aktiengesellschaft.,"Vol 94, p. 1082",False,False,True,False,False,,False
+"Ha-No-Mex, Handels-Akt.-Ges.",,USC,AG,,"Ha-No-Mex, Handels-Aktiengesellschaft in Liqu.","Vol 94, p. 1141",False,False,True,False,False,,False
+National-Film Verleih- u. Vertriebs-Aktiengeseilschaft,,USOP,AG,,National-Film Verleih- u. Vertriebs-Aktiengesellschaft in Liqu.,"Vol 94, p. 1164",False,False,False,False,False,Mentions an 'amerik. Rechtsanw. ' on the board,True
+W. A. Schölten Stärke- und Syrup-Fabriken Aktiengesellschaft.,Corn Products Refining company,USO,AG,Corn. Products Refining Cor. in New York.,W. A. Schölten Stärke- und Syrup-Fabriken Aktiengesellschaft.,"Vol 94, p. 1188",True,False,False,False,False,,False

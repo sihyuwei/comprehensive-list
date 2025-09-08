@@ -1,0 +1,235 @@
+,Master US firm name,TFR-500,Moodys 32,Moodys 34
+0,Addressograph-Multigraph Corporation,True,True,True
+1,Alta United Mines Co.,False,False,True
+2,Aluminum Company of America,False,False,True
+3,American -Austrian Magnesite Corporation,True,False,False
+4,American Bemberg Corp.,False,True,True
+5,American Can Company,False,True,True
+6,American Cyanamid Company,True,False,False
+7,American Foreign Insurance Association,True,False,False
+8,American I. G. Chemical Corp.,False,False,True
+9,American Nickel Alloy Mfg. Corp.,True,False,False
+10,American Radiator & Standard Sanitary Corporation,True,True,True
+11,American Ship & Commerce Corp.,False,False,True
+12,American-Austrian Magnesite Corporation,True,False,False
+13,Arden Investing Co.,True,False,False
+14,"Aris Cloves Co., Inc.",True,False,False
+15,Armour & Company,True,False,False
+16,Associated Merchandising Corporation,True,False,False
+17,Associated Press,True,False,False
+18,Bakelite Corp.,False,False,True
+19,Bausch & Lomb Optical Co.,False,False,True
+20,Bavarian oil and Gas Corporation,True,False,False
+21,Bedford Construction Co.,True,False,False
+22,"Berth, Levi & Co. Inc.",True,False,False
+23,Blaw-Knox Co.,False,True,True
+24,Buffalo Electro-Chemical Co.,False,True,True
+25,Burroughs Adding Machine Company,True,True,True
+26,Butler Brothers,True,False,False
+27,Carnation Co.,False,True,False
+28,Carrier Corporation,False,True,False
+29,Celotex Co.,False,True,True
+30,Central American Plantations Corp.,False,True,False
+31,Central Cuba Sugar Co.,False,True,True
+32,Central European Holding Corporation c/o Cotton Brenner & Wrigley,True,False,False
+33,Chemical Research Corp.,False,False,True
+34,Chesebrough Manufacturing Co. Consolidated,True,False,False
+35,Chicago Pneumatic Tool Co.,True,True,True
+36,Colgate-Palmolive-Peet Co.,True,True,True
+37,Columbia Pictures Corp.,False,False,True
+38,Combustion Engineering Co. Inc.,True,True,False
+39,Consolidated Oil Corporation,False,True,True
+40,"Continental ""Borvisk"" Co.",True,False,False
+41,Continental-Diamond Fibre Co.,False,False,True
+42,Corn Products Refining company,True,False,False
+43,Crown Cork International Corporation,False,True,True
+44,Davega Stores Corp.,False,False,True
+45,"Davis & Company, Incorporated",True,False,False
+46,Delta Finance,True,False,False
+47,Denver Chemical Mfg. Co.,True,False,False
+48,Dewey & Almy Chemical Co.,False,True,False
+49,Dietaphone Corporation,True,False,False
+50,E. F. Houghton & Company,True,False,False
+51,E.I. du Pont de Nemours and Company,True,True,True
+52,Eastman Kodak Company,True,True,True
+53,Eberhard Faber Pencil Company,True,False,False
+54,Edward G. Budd Manufacturing Company,True,False,False
+55,"Eitingon Schild Co., Inc.",True,True,True
+56,Electric Boat Company,False,True,False
+57,Emil Frei Inc.,True,False,False
+58,Equitable Life Assurance Society of the United States,True,False,False
+59,Eugene Dietzgen Co.,True,False,False
+60,F. W. Woolworth Co.,True,True,True
+61,Felt & Tarrant Mfg. Co.,True,False,False
+62,Ford Motor Company,True,True,True
+63,"Foreign Investments, Incorporated",True,False,False
+64,"Fownes Brothers & Co., Inc.",False,False,True
+65,"G. Hirsch Sons, Inc.",True,False,False
+66,General American Transportation Corporation,False,False,True
+67,General Motors Acceptance Corporation,True,True,True
+68,General Motors Corporation (Overseas Operations),True,True,True
+69,German-American Tobacco Co.,False,False,True
+70,Gillette Safety Rasor Company,True,False,False
+71,Globe Steel Tubes Company,False,False,True
+72,Gulf Oil Corporation,True,True,True
+73,Haskins & Sells,True,False,False
+74,Hazeltine Corp.,False,False,True
+75,Heyden Chemical Corp.,False,True,True
+76,Hudson Motor Car Company,True,False,False
+77,Hugo Stinnes Corporation,True,True,True
+78,"Hugo Stinnes Industries, Inc.",True,True,True
+79,I. B. Kleinert Rubbert Company,True,True,True
+80,International Affiliated Corporation,True,False,False
+81,International Business Machine Corp.,True,True,False
+82,International Finance Company,True,False,False
+83,International General Electric Company Inc.,True,True,True
+84,International Harvester Company,True,True,True
+85,International Harvester Export Co.,True,False,False
+86,International Mercantile Marine Co.,False,False,True
+87,International Mortgage & Investment Corporation c/o Alien Property Custodian,True,False,False
+88,International Securities Company,True,False,False
+89,International Standard Electric Corp.,True,False,False
+90,International Telephone and Telegraph Corp.,True,False,False
+91,Intertype Corporation,True,True,True
+92,J. E. Bernard & Co. Inc.,True,False,False
+93,Jadev Corporation,True,False,False
+94,Jones (J. Edward) Royalty Trust,False,False,True
+95,Julius Kayser & Company,False,True,True
+96,Koenig Medicine Co.,True,False,False
+97,Kraft Cheese Company,True,False,False
+98,Kupfer Bros. Co. Inc.,True,False,False
+99,L. C. Smith & Corona Typewriters Inc.,True,True,True
+100,Lehn & Pink Products Corporation,True,False,True
+101,"Lentheric, Incorporated",True,False,False
+102,Libbey-Owens-Ford Glass Company,False,True,True
+103,"Libby, McNeill & Libby",True,False,False
+104,Loew's Incorporated,True,False,False
+105,Lohn & Fink Products Corporation,True,False,False
+106,"Lykes Bros. Steamship Co., Inc.",True,False,False
+107,Magdalena Syndicate,True,True,False
+108,Markt & Co. Inc.,True,False,False
+109,Markt & Hammacher Co.,True,False,True
+110,"Mccann-Erickson, Inc.",True,False,False
+111,Mergenthaler Linotype Company,True,True,True
+112,Metallic Products Corp. c/o US Corp. Co.,True,False,False
+113,Moto Meter Gauge & Equipment Corp.,False,True,True
+114,National Lead Company,True,True,True
+115,"New England Industries, Inc.",True,False,False
+116,"New Jersey Industries, Inc.",True,False,False
+117,New York Shipbuilding Corporation,False,True,True
+118,North European Oil Corp.,True,True,True
+119,Northeastern Insurance Company of Hartford,True,False,False
+120,Norton Company,True,True,True
+121,Oliver United Filters Inc.,False,True,False
+122,Oppenheimer Casing Co. Del.,True,False,False
+123,Otis Elevator Company,True,False,True
+124,Pan American Foreign Corporation (Controlled by Standard Oil Co. [N. J.]),False,True,True
+125,Pan Foreign Corporation,True,False,False
+126,"Paramount Pictures, Inc.",True,True,True
+127,Parker Pen Co.,False,True,True
+128,"Peat, Marwick, Mitchell & Co. (General Partnership)",True,False,False
+129,Penton Publishing Co.,False,True,True
+130,"Philip Morris & Co. Ltd., Inc.",True,False,False
+131,Pitney-Bowes Postage Meter Co.,False,False,True
+132,Pown Corporation,True,False,False
+133,"Price, Waterhouse & Co.",True,False,False
+134,Pueping (Fred) Leather Co.,False,True,False
+135,Pure Oil Co.,True,False,False
+136,Quaker Oats Co.,True,True,True
+137,R. Schiffmann Co.,True,False,False
+138,Radio Corporation of America,False,True,True
+139,Radio-Keith-Orpheum Corporation (Controlled by Radio Corp. of America),False,True,True
+140,Remington Rand Inc.,True,True,True
+141,Richard Hudnut,True,False,False
+142,"Ritter Company, Inc. (Formerly Ritter Dental Mfg. Co., Inc)",True,True,True
+143,"Robert Reiner, Incorporated",True,False,False
+144,Robert W. Hunt Company,True,False,False
+145,Royal Baking Powder Company,False,True,True
+146,"Royal Typewriter Company, Inc.",True,True,True
+147,S O. Realizatio Co. Inc.,False,False,True
+148,Schilling Estate Company,True,False,False
+149,Schoonmaker-Scott Company,True,False,False
+150,Seabrook International Engineering Corp.,False,False,True
+151,Seiberling Rubber Co.,False,True,False
+152,Signode International Limited,True,False,False
+153,Signode Steel Strapping Co.,True,True,True
+154,Silesian-American Corporation,False,True,True
+155,Singer Mfg. Co.,True,False,False
+156,"Socony-Vacuum Oil Company, Inc.",True,False,False
+157,Spirella International Incorporated,True,False,False
+158,St. Andrews Bay Lumber Co.,False,False,True
+159,St. Regis Paper Co.,True,False,False
+160,"Standard Commercial Tobacco Co., Inc.",True,True,False
+161,Standard Oil Company (Indiana),False,True,False
+162,Standard Oil Company (New Jersey),True,True,True
+163,Stauffer Chemical Co.,True,False,False
+164,Steinway & Sons,True,False,False
+165,Submarine Signal Co.,True,False,False
+166,Swift & Company,True,False,False
+167,Swift and Company (Illinois),True,False,False
+168,"Swiss ""Borvisk"" Company",True,False,False
+169,The ARMCO International Corporation,True,False,False
+170,"The American Express company, Incorporated.",True,False,False
+171,The American Laundry Maschinery Co.,True,False,False
+172,The Atlantic Refining Company,True,False,True
+173,The Babcock & Wilcox Company,True,False,False
+174,The Brecht Corporation,True,False,False
+175,"The Coca-Cola Company (101 W. 10th Street Wilmington, Delaware)",True,False,False
+176,"The Coca-Cola Export Corporation (101 W. 10th Street Wilmington, Delaware)",True,False,False
+177,The Deimel Linen-Mesh System Company,True,False,False
+178,The Dentists' Supply Co. of New York,True,False,False
+179,The Dorr Co.,True,False,False
+180,The Durer Corporation,True,False,False
+181,The Fairbanks Company,True,False,False
+182,The Forak Company,True,False,False
+183,The Goodyear Tire & Rubber Company,False,False,True
+184,The Guardian Life Insurance Company of America,True,False,False
+185,The Hobart Manufacturing Company,True,True,True
+186,The Hoover Co.,True,False,False
+187,The International Button Hole Sewing Machine Company,True,True,True
+188,"The International Nickel Company, Inc.",True,False,False
+189,The Lambert Company,False,False,True
+190,The May Department Store Co.,False,False,True
+191,The Melltone Corporation,True,False,False
+192,The National Cash Register Company,True,False,True
+193,The North American Provision Company,False,False,True
+194,The Permutit Company,True,False,False
+195,The Pfaudler Co.,True,True,True
+196,The Pure Oil Company,True,False,False
+197,"The Scholl Mfg. Co., Inc.",True,False,False
+198,The Silica Gel Corporation,False,True,True
+199,The Stanley Works,True,True,False
+200,The Timken Roller Bearing Company,False,True,True
+201,The Torrington Company,True,True,True
+202,The Westinghouse Air Brake Company,True,False,False
+203,The Willys-Overland Company,False,True,True
+204,The Yale & Towne Manufacturing Company,True,True,True
+205,Tide Water Associated Oil Co.,True,False,True
+206,"Titan Company, Inc.",True,False,False
+207,Titeflex Metal Hose Co.,True,False,False
+208,Tobe Deutschmann Corp.,False,False,True
+209,Trubenizing Process Corporation,True,False,False
+210,Turner tanning Machinery Co.,False,True,False
+211,Twentieth Century-Fox Film Corp.,True,True,True
+212,Underwood Elliott Fisher Company,True,True,True
+213,Union Special Machine Co.,True,False,False
+214,United American Bosch Corporation,False,True,True
+215,United Continental Corporation,True,False,False
+216,United Fruit Company,True,False,False
+217,United Press Associations,True,False,False
+218,United Shoe Machinery Corporation,True,False,False
+219,United States Hoffman Machinery Corporation,True,False,True
+220,"United States Lines Operations, Inc.",True,False,False
+221,United States Steel Corporation,False,True,False
+222,"United Statess Lines, Co.",True,False,True
+223,"Universal Picture Co., Inc.",True,False,True
+224,Valvoline Oil Co.,False,False,True
+225,Walter Kidde & Company,True,False,False
+226,Watch Tower Bible & Tract Society,True,False,False
+227,Waterman Steamship,True,False,False
+228,Western Electric Export Corporation,True,False,False
+229,Westhold Corporation,True,False,False
+230,"William R. Warner & Co., Inc.",True,False,False
+231,Witroth Corporation,True,False,False
+232,Wm. Wrigley Jr. Company,False,False,True
+233,Worthington Pump and Machinery Corp.,True,True,True
