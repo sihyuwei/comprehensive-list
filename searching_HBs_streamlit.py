@@ -7,7 +7,10 @@ import string
 # --- Data Sources ---
 HB32 = pd.read_csv('input_handbuch/HB32.csv')
 HB34 = pd.read_csv('input_handbuch/HB34.csv')
-HB_GmbH = pd.read_csv('input_handbuch/HB_GmbH_32.csv')
+HB_GmbH = pd.read_csv('input_handbuch/HB_GmbH_32.csv').rename({'firm_name': 'firmname'})
+
+HB_GmbH = HB_GmbH.rename(columns={'firm_name': 'firmname'}).assign(band=1)
+HB_GmbH = HB_GmbH[['band', 'page', 'firmname', 'location', 'date', 'capital', 'business', 'persons', 'type']]
 
 hb32_volume_links = {
     "Vol 1": "https://www.dropbox.com/scl/fi/91qw3d1lfr1gxznzngxtu/1.-Band-1-1648.pdf?rlkey=syah3x6ytq3tyktmi56josadv&st=ofswqvy5&raw=1",
@@ -25,6 +28,12 @@ hb34_volume_links = {
 
 hb_gmbh_volume_links = {
     "Vol 1": "https://www.dropbox.com/scl/fi/jkg34lu5tsh7vnjk2q9b2/Handbuch_GmbH_1932.pdf?rlkey=necgm2cxc231w31u6qul0hsye&st=jlc1hzvf&raw=1"
+}
+
+volume_link_dicts = {
+    "Handbuch AG 32": hb32_volume_links,
+    "Handbuch AG 34": hb34_volume_links,
+    "Handbuch GmbH 32": hb_gmbh_volume_links,
 }
 
 sources = {
@@ -49,6 +58,13 @@ def normalize_text(s: str) -> str:
 
     return s
 
+def make_pdf_link(vol_entry, source):
+    vol = "Vol " + str(vol_entry)
+    base_url = volume_link_dicts[source].get(vol)
+    if base_url:
+        return f"[{vol}]( {base_url})"
+    return vol_entry  # fallback if format doesn’t match
+
 # --- UI ---
 st.title("Search Across Data Sources")
 
@@ -69,7 +85,7 @@ if query:
 else:
     filtered_df = df
 
-# 4. Show interactive grid
+# 4. Show interactive grid with selection
 gb = GridOptionsBuilder.from_dataframe(filtered_df)
 gb.configure_pagination(paginationAutoPageSize=True)
 gb.configure_side_bar()
@@ -80,12 +96,33 @@ gb.configure_grid_options(
     suppressCopySingleCellRanges=False,
     copyHeadersToClipboard=True
 )
+
+# 👇 enable row selection
+gb.configure_selection(selection_mode="single", use_checkbox=True)  
+# use "multiple" if you want multiple rows
+
 grid_options = gb.build()
 
-AgGrid(
+# capture response
+grid_response = AgGrid(
     filtered_df,
     gridOptions=grid_options,
     enable_enterprise_modules=False,
-    fit_columns_on_grid_load=False,  # turn this OFF
-    allow_unsafe_jscode=True
+    fit_columns_on_grid_load=False,
+    allow_unsafe_jscode=True,
+    update_mode="SELECTION_CHANGED",  # important: refresh when selection changes
 )
+
+# get selected rows
+selected = grid_response["selected_rows"]
+
+if selected is not None and not selected.empty:
+    selected_name = selected.iloc[0]["firmname"]
+    st.write(f"Selected: **{selected_name}**")
+
+    vol = selected.iloc[0]["band"]
+    if pd.notna(vol):
+        pdf_link = make_pdf_link(vol, source_choice)
+        if pdf_link.startswith("["):  
+            url = pdf_link.split('](')[1][:-1]
+            st.link_button(f"📖 Open PDF {source_choice} Vol {vol}", url)
