@@ -3,6 +3,8 @@ import pandas as pd
 import numpy as np
 import re
 from st_aggrid import AgGrid, GridOptionsBuilder, GridUpdateMode
+import unicodedata
+import string
 
 # Master table (union of companies across 7 sources)
 
@@ -75,11 +77,26 @@ hb_gmbh_volume_links = {
     "Vol 1": "https://www.dropbox.com/scl/fi/jkg34lu5tsh7vnjk2q9b2/Handbuch_GmbH_1932.pdf?rlkey=necgm2cxc231w31u6qul0hsye&st=jlc1hzvf&raw=1"
 }
 
+moodys32_links = {
+    "Vol 1": "https://www.dropbox.com/scl/fi/be5inf5m3c1f2fwb0f9cl/INDUSTRIAL_1.pdf?rlkey=w4i05a7jybrc24o8hoqzyf7mp&raw=1"
+}
+
+moodys34_links = {
+    "Vol 1": "https://www.dropbox.com/scl/fi/933x06x4roacjvybgcuhk/INDUSTRIAL_1.pdf?rlkey=8oyffhktkfip5fcx84w6a0z2g&raw=1"
+}
+
+tenenbaum_links = {
+    "Vol 1": "https://www.dropbox.com/scl/fi/5k2no94oivf0yyt7korqz/American-investment-and-business-interestes-in-Germany.pdf?rlkey=ha4dxanlf304is5uqkymt89jv&raw=1"
+}
+
 volume_link_dicts = {
     "HB 32": hb32_volume_links,
     "HB 34": hb34_volume_links,
     "HB GmbH": hb_gmbh_volume_links,
-    "TFR-500": tfr_volume_links
+    "TFR-500": tfr_volume_links,
+    "Tenenbaum": tenenbaum_links,
+    "Moodys 32": moodys32_links,
+    "Moodys 34": moodys34_links,
 }
 
 def make_pdf_link(vol_entry, source):
@@ -91,14 +108,38 @@ def make_pdf_link(vol_entry, source):
             return f"[{vol}]( {base_url}#page={page} ), p. {page}"
     return vol_entry  # fallback if format doesn’t match
 
+def normalize_text(s: str) -> str:
+    # Convert to str (in case of NaN), lowercase
+    s = str(s).lower()
+
+    # Normalize accents/umlauts
+    s = ''.join(
+        c for c in unicodedata.normalize('NFKD', s)
+        if not unicodedata.combining(c)
+    )
+
+    # Remove punctuation and extra spaces
+    s = ''.join(c for c in s if c not in string.punctuation)
+    s = s.replace(" ", "")
+
+    return s
+
+
+# -----------------------
+# Start of UI
+# -----------------------
+
+st.title("German firms")
+
 # -----------------------
 # Search/filter input
 # -----------------------
 st.set_page_config(layout="wide")
 
-search_term = st.text_input("Search for a German subsidiary")
+search_term = st.text_input("Search for a German subsidiary (case- and accent-insensitive)")
 if search_term:
-    filtered_master = master_data[master_data["German subsidiary"].str.contains(search_term, case=False)]
+    norm_query = normalize_text(search_term)
+    filtered_master = master_data[master_data["German subsidiary"].map(normalize_text).str.contains(norm_query, case=False)]
 else:
     filtered_master = master_data
 

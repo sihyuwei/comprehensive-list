@@ -1,19 +1,33 @@
 import streamlit as st
 import pandas as pd
 from st_aggrid import AgGrid, GridOptionsBuilder, GridUpdateMode
+import unicodedata
+import string
+import re
 
 # Master table (union of companies across 7 sources)
 
-master_data = pd.read_csv('comprehensive list/list_US_parent/output/parent_union.csv')
+master_data = pd.read_csv('output/all_parents.csv')
 companies = master_data['US Company']
 
-tfr = pd.read_csv('comprehensive list/list_US_parent/output/tfr.csv')
-tenenbaum = pd.read_csv('comprehensive list/list_US_parent/output/tenenbaum.csv')
-moodys32 = pd.read_csv('comprehensive list/list_US_parent/output/moodys32.csv')
-moodys34 = pd.read_csv('comprehensive list/list_US_parent/output/moodys34.csv')
-hb32 = pd.read_csv('comprehensive list/list_US_parent/output/hb32.csv')
-hb34 = pd.read_csv('comprehensive list/list_US_parent/output/hb34.csv')
-hb_gmbh = pd.read_csv('comprehensive list/list_US_parent/output/hb_gmbh.csv')
+tfr = pd.read_csv('output/tfr_cleaned.csv')
+tenenbaum = pd.read_csv('output/tenenbaum_cleaned.csv')
+moodys32 = pd.read_csv('output/moodys32_cleaned.csv')
+moodys34 = pd.read_csv('output/moodys34_cleaned.csv')
+hb32 = pd.read_csv('output/hb1932_cleaned_expanded.csv')
+hb34 = pd.read_csv('output/hb1934_cleaned_expanded.csv')
+hb_gmbh = pd.read_csv('output/hb_gmbh_cleaned_expanded.csv')
+
+
+id_sources = [
+    'TFR-500',
+    'Tenenbaum',
+    'Moodys 32',
+    'Moodys 34',
+    'HB 32',
+    'HB 34',
+    'HB GmbH'
+]
 
 # Detailed info (simulate your 7 sources)
 source_tables = {
@@ -26,30 +40,155 @@ source_tables = {
     "HB GmbH": hb_gmbh
 }
 
+tfr_volume_links = {
+    "Vol 1": "https://www.dropbox.com/scl/fi/3k3yg5apcls4z1i5xw49r/business_holding_in_Germany.pdf?rlkey=tkhqw0n0hlwq6qgppkh4fmkoz&raw=1"
+}
+
+hb32_volume_links = {
+    "Vol 1": "https://www.dropbox.com/scl/fi/91qw3d1lfr1gxznzngxtu/1.-Band-1-1648.pdf?rlkey=syah3x6ytq3tyktmi56josadv&st=ofswqvy5&raw=1",
+    "Vol 2": "https://www.dropbox.com/scl/fi/zswrpoiy5gbolo4z6xjtn/2.-Band-1649-3472.pdf?rlkey=zd7slktunundp1q3ro8qpvvgm&st=noxgl0cu&raw=1",
+    "Vol 3": "https://www.dropbox.com/scl/fi/zssvb5yk5a7fl5ltzi7dk/3.-Band-3473-5104.pdf?rlkey=n7d8lsct97jw88p5b9zo010la&st=zxq238ec&raw=1",
+    "Vol 4": "https://www.dropbox.com/scl/fi/vkhqkqrp0ldfsxp6umuzy/4.-Band-5105-6759.pdf?rlkey=u2twctx63qlmar4tilcnjb3ud&st=aize0fef&raw=1"
+}
+
+hb34_volume_links = {
+    "Vol 1": "https://www.dropbox.com/scl/fi/9q3lyalclyyavfs6nxe2s/Handbuch-der-deutschen-Aktiengesellschaften_1934_band_91.pdf?rlkey=9mjdidf8p8dzc2ztuv7hewebc&st=tw3sgqup&raw=1",
+    "Vol 2": "https://www.dropbox.com/scl/fi/z38cbvbu4sbce6edirhfh/Handbuch-der-deutschen-Aktiengesellschaften_1934_band_92.pdf?rlkey=ne1vdi6t45fucxbrgwth641xx&st=1h6cp6ze&raw=1",
+    "Vol 3": "https://www.dropbox.com/scl/fi/qsy7jthicw0hn831zv5fv/Handbuch-der-deutschen-Aktiengesellschaften_1934_band_93.pdf?rlkey=acf96s87bwit1z21s72hp4fx5&st=gjxyscyg&raw=1",
+    "Vol 4": "https://www.dropbox.com/scl/fi/gds6zbgd2d9bx7agqvyj4/Handbuch-der-deutschen-Aktiengesellschaften_1934_band_94.pdf?rlkey=16j1146qxsx2hc14kx7nguh9e&st=wwv55ont&raw=1"
+}
+
+hb_gmbh_volume_links = {
+    "Vol 1": "https://www.dropbox.com/scl/fi/jkg34lu5tsh7vnjk2q9b2/Handbuch_GmbH_1932.pdf?rlkey=necgm2cxc231w31u6qul0hsye&st=jlc1hzvf&raw=1"
+}
+
+moodys32_links = {
+    "Vol 1": "https://www.dropbox.com/scl/fi/be5inf5m3c1f2fwb0f9cl/INDUSTRIAL_1.pdf?rlkey=w4i05a7jybrc24o8hoqzyf7mp&raw=1"
+}
+
+moodys34_links = {
+    "Vol 1": "https://www.dropbox.com/scl/fi/933x06x4roacjvybgcuhk/INDUSTRIAL_1.pdf?rlkey=8oyffhktkfip5fcx84w6a0z2g&raw=1"
+}
+
+tenenbaum_links = {
+    "Vol 1": "https://www.dropbox.com/scl/fi/5k2no94oivf0yyt7korqz/American-investment-and-business-interestes-in-Germany.pdf?rlkey=ha4dxanlf304is5uqkymt89jv&raw=1"
+}
+
+volume_link_dicts = {
+    "HB 32": hb32_volume_links,
+    "HB 34": hb34_volume_links,
+    "HB GmbH": hb_gmbh_volume_links,
+    "TFR-500": tfr_volume_links,
+    "Tenenbaum": tenenbaum_links,
+    "Moodys 32": moodys32_links,
+    "Moodys 34": moodys34_links,
+}
+
+def normalize_text(s: str) -> str:
+    # Convert to str (in case of NaN), lowercase
+    s = str(s).lower()
+
+    # Normalize accents/umlauts
+    s = ''.join(
+        c for c in unicodedata.normalize('NFKD', s)
+        if not unicodedata.combining(c)
+    )
+
+    # Remove punctuation and extra spaces
+    s = ''.join(c for c in s if c not in string.punctuation)
+    s = s.replace(" ", "")
+
+    return s
+
+def make_pdf_link(vol_entry, source):
+    match = re.match(r"(Vol \d+), p\. (\d+)", vol_entry)
+    if match:
+        vol, page = match.groups()
+        base_url = volume_link_dicts[source].get(vol)
+        if base_url:
+            return f"[{vol}]( {base_url}#page={page} ), p. {page}"
+    return vol_entry  # fallback if format doesn’t match
+
+# -----------------------
+# Start of UI
+# -----------------------
+
+st.title("US Firms")
+
 # -----------------------
 # Search/filter input
 # -----------------------
-search_term = st.text_input("Search for a US company")
+search_term = st.text_input("Search for a US company (case- and accent-insensitive)")
 if search_term:
-    filtered_master = master_data[master_data["US Company"].str.contains(search_term, case=False)]
+    norm_query = normalize_text(search_term)
+    filtered_master = master_data[master_data["US Company"].map(normalize_text).str.contains(norm_query, case=False)]
 else:
     filtered_master = master_data
 
-# -----------------------
-# Ag-Grid display
-# -----------------------
-gb = GridOptionsBuilder.from_dataframe(filtered_master)
-gb.configure_selection(selection_mode="single", use_checkbox=False)
-gb.configure_pagination(enabled=True)
-grid_options = gb.build()
+# --------------------------
+# Collect all types
+# --------------------------
 
-grid_response = AgGrid(
-    filtered_master,
-    gridOptions=grid_options,
-    update_mode=GridUpdateMode.SELECTION_CHANGED,
-    height=300,
-    fit_columns_on_grid_load=True
-)
+link_type_cols = [col for col in master_data if 'link_type' in col]
+
+all_link_types = sorted(set().union(*[master_data[col].dropna().unique() for col in link_type_cols]))
+
+# --------------------------
+# User selects types
+# --------------------------
+selected_link_types = st.multiselect("Choose link types", all_link_types, default=all_link_types)
+
+selected_sources = st.multiselect("Choose sources", id_sources, default=id_sources)
+
+if selected_link_types and selected_sources:
+    # --------------------------
+    # Union of companies
+    # --------------------------
+    company_set = set()
+    for source in selected_sources:
+        mask = (
+            filtered_master[f"{source}_link_type"].isin(selected_link_types) 
+        )
+        company_set.update(filtered_master.loc[mask, "US Company"].unique())
+    company_list = sorted(list(company_set))
+
+    # --------------------------
+    # Build grid
+    # --------------------------
+
+    grid = pd.DataFrame({"US Company": company_list})
+
+    for source in selected_sources:
+        mask = (
+            master_data[f"{source}_link_type"].isin(selected_link_types)
+        )
+        grid[source] = grid["US Company"].isin(master_data.loc[mask, "US Company"])
+
+    grid_data = grid[['US Company'] + selected_sources]
+
+        # Interactive grid
+    gb = GridOptionsBuilder.from_dataframe(grid_data)
+    gb.configure_default_column(
+        filter=True,  # enable filtering
+        sortable=True,
+        resizable=True
+    )
+    gb.configure_selection("single", use_checkbox=True)
+    grid_options = gb.build()
+
+    grid_response = AgGrid(
+        grid_data,
+        gridOptions=grid_options,
+        update_mode=GridUpdateMode.SELECTION_CHANGED,
+        height=400,
+        fit_columns_on_grid_load=True,
+    )
+
+    # Extract filtered data
+    filtered_df = pd.DataFrame(grid_response["data"])
+
+    # Show total companies in *filtered* view
+    st.subheader(f"Total companies in filtered view: {filtered_df.shape[0]}")
 
 # -----------------------
 # Streamlit UI
@@ -60,14 +199,14 @@ st.set_page_config(layout="wide")
 # Get selected row
 selected = grid_response["selected_rows"]
 
-if not selected.empty:
+if selected is not None and not selected.empty:
     selected_row = selected.iloc[0]
     company = selected_row["US Company"]
 
     source = st.selectbox(
-        "Choose source to drill down", 
-        source_tables.keys()
-    )
+            "Choose source to drill down", 
+            [s for s in id_sources if selected_row[s]]
+        )
 
     st.subheader(f"Details for {company} in {source}")
     if source in source_tables:
@@ -76,20 +215,27 @@ if not selected.empty:
 
         if not filtered.empty:
             for idx, row in filtered.iterrows():
-                foreign_name = row.get("Name of Foreign Business", f"Record {idx+1}")
+                foreign_name = row.get("German subsidiary", f"Record {idx+1}")
 
-                reshaped = (
-                    row.drop(labels=["US Company"])
-                    .to_frame()
-                    .reset_index()
-                    .rename(columns={"index": "Attribute", 0: "Value"})
-                )
-                reshaped.loc[-1] = ["Company", row["US Company"]]
+                reshaped = pd.DataFrame({
+                        "Attribute": row.drop(labels=["German subsidiary"]).index,
+                        "Value": row.drop(labels=["German subsidiary"]).values
+                    })
+
+                # Add the German subsidiary as the first row
+                reshaped.loc[-1] = ["German subsidiary", row["German subsidiary"]]
                 reshaped.index = reshaped.index + 1
                 reshaped = reshaped.sort_index()
 
-                with st.expander(f"{foreign_name}"):
-                    st.dataframe(reshaped, use_container_width=True)
+                with st.expander(f"German firm: {foreign_name}"):
+                    st.dataframe(reshaped, width="stretch")
+
+                    vol_entry = row.get("Vol", None)
+                    if pd.notna(vol_entry):
+                        pdf_link = make_pdf_link(vol_entry, source)
+                        if pdf_link.startswith("["):  
+                            url = pdf_link.split('](')[1][:-1]
+                            st.link_button(f"📖 Open PDF {source} {vol_entry}", url)
         else:
             st.info("No data available for this company in this source.")
     else:

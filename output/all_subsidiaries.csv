@@ -65,7 +65,7 @@ Bernhoeft & Wilde,USO,GmbH,True,,,False,,,False,,,False,,,False,,,False,,,False
 Blaw-Knox,,,False,,,False,USC,GmbH,True,USC,GmbH,True,,,False,,,False,USO,GmbH,True
 "Born, Mehring & Co, G.m.b.H.",USO,GmbH,True,,,False,,,False,,,False,,,False,,,False,,,False
 Boston Blacking Company G.m.b.H.,USO,GmbH,True,,,False,,,False,,,False,,,False,,,False,USO,GmbH,True
-Branch-Dr. Deimel's Maschenleinen-Fabrik-(Deimel Linen-Mesh System Co. U.S.A.),USO,Others,True,,,False,,,False,,,False,,,False,,,False,,,False
+Branch-Dr. Deimel's Maschenleinen-Fabrik-(Deimel Linen-Mesh System Co. U.S.A.),USO,GmbH,True,,,False,,,False,,,False,,,False,,,False,,,False
 Brankaer Eisenwerke,USO,AG,True,,,False,USO,AG,True,USO,AG,True,,,False,,,False,,,False
 British-American Tobacco (Deutschland) G.m.b.H. ,,,False,USOP,GmbH,True,,,False,,,False,,,False,,,False,,,False
 Bronzefarbenwerke A.-G. vorm. Carl Schlenk,,,False,,,False,,,False,,,False,USOP,AG,True,,,False,,,False
@@ -117,7 +117,7 @@ Deutsche Heraklith A.G.,USO,AG,True,,,False,,,False,,,False,,,False,,,False,,,Fa
 "Deutsche Houghton Fabrik, K. G.",USC,Others,True,,,False,,,False,,,False,,,False,,,False,,,False
 Deutsche Johnson A. G.,,,False,USO,AG,True,,,False,,,False,USC,AG,True,,,False,,,False
 Deutsche Landerbank Aktiengesellschaft,USO,AG,True,,,False,,,False,,,False,,,False,,,False,,,False
-Deutsche Libbey-Owens Gesellschaft für machinelle Glasherstellung A.G.,,,False,USO,AG,True,USC,Others,True,USC,Others,True,,,False,,,False,,,False
+Deutsche Libbey-Owens Gesellschaft für machinelle Glasherstellung A.G.,,,False,USO,AG,True,USC,AG,True,USC,AG,True,,,False,,,False,,,False
 "Deutsche Libby Gesellschaft, m.b.H.",USO,GmbH,True,,,False,,,False,,,False,,,False,,,False,,,False
 Deutsche Maizena G.m.b.H.,,,False,USO,GmbH,True,,,False,,,False,,,False,,,False,,,False
 Deutsche Maizena Werke AG,USO,AG,True,USO,AG,True,,,False,,,False,USC,AG,True,USC,AG,True,,,False
@@ -138,7 +138,7 @@ Deutsche-Fox Film A.G.,USO,AG,True,,,False,,,False,,,False,,,False,,,False,,,Fal
 Dietaphone Co. m.b.H.,USO,GmbH,True,,,False,,,False,,,False,,,False,,,False,,,False
 Dorr Gesellschaft m.b.H.,USO,GmbH,True,USO,GmbH,True,,,False,,,False,,,False,,,False,,,False
 "Dorr-Oliver G.m.b.H., Berlin, Germany",,,False,,,False,USO,GmbH,True,,,False,,,False,,,False,,,False
-Dr. Erich F. Huth G.m.b.H.,USO,GmbH,True,USO,GmbH,True,,,False,,,False,,,False,,,False,,,False
+Dr. Erich F. Huth G.m.b.H.,USO,GmbH,True,USOP,GmbH,True,,,False,,,False,,,False,,,False,,,False
 Dreipreis Waren-Vertriebs-Aktiengesellschaft in Liqu.,,,False,,,False,,,False,,,False,USC,AG,True,,,False,,,False
 Duco AG,USO,AG,True,USO,AG,True,,,False,,,False,,,False,,,False,,,False
 Dumont,USO,Others,True,,,False,,,False,,,False,,,False,,,False,,,False
@@ -150,7 +150,7 @@ E. Merck of Munich,,,False,,,False,,,False,USC,Others,True,,,False,,,False,,,Fal
 Eagle Oil Company of New York,,,False,,,False,,,False,,,False,,,False,,,False,USO,GmbH,True
 Ebano Asphalt Gesellschaft m.b.H.,,,False,,,False,,,False,USO,GmbH,True,,,False,,,False,,,False
 Ebano Asphalt-Werke Aktiengesellschaft,USO,AG,True,USO,AG,True,USO,AG,True,USO,AG,True,,,False,,,False,,,False
-Eberhard Faber Kommanditgesellschaft,USO,Others,True,,,False,,,False,,,False,,,False,,,False,,,False
+Eberhard Faber Kommanditgesellschaft,USO,GmbH,True,,,False,,,False,,,False,,,False,,,False,,,False
 Edoel-Bergbau Aktiengesellschaft Celle Norddeutsche Mineraloel Aktiengesellschaft,USO,AG,True,,,False,,,False,,,False,,,False,,,False,,,False
 Eduard Winter Akt.-Ges. für Kraftfahrzeuge,,,False,,,False,,,False,,,False,USC,AG,True,,,False,,,False
 Eisenbahn Verkehrsmittel A.-G.,,,False,,,False,USC,AG,True,USC,AG,True,,,False,,,False,,,False
@@ -235,7 +235,7 @@ H. W. Heidman,USO,Others,True,,,False,,,False,,,False,,,False,,,False,,,False
 H. Westphal & Co.,USO,GmbH,True,,,False,,,False,,,False,,,False,,,False,,,False
 "Ha-No-Mex, Handels-Akt.-Ges.",,,False,,,False,,,False,,,False,USC,AG,True,USC,AG,True,,,False
 "Haendler & Natermann, Akt.-Ges.",,,False,,,False,,,False,,,False,USC,AG,True,USC,AG,True,,,False
-Hamburg-Amerika Linie,,,False,USOP,Others,True,,,False,,,False,,,False,,,False,,,False
+Hamburg-Amerika Linie,,,False,USOP,AG,True,,,False,,,False,,,False,,,False,,,False
 Hamburg-Amerikanische Mineralol-G.m.b.H.,USO,GmbH,True,USO,GmbH,True,,,False,USO,GmbH,True,,,False,,,False,,,False
 Hamburger Hof A.G.,USO,AG,True,,,False,,,False,,,False,,,False,,,False,,,False
 Hanseatische Grundbitz Gesellschaft m.b.H.,USO,GmbH,True,,,False,,,False,,,False,,,False,,,False,,,False
@@ -326,7 +326,7 @@ Mecklenburgische Erdol G.m.b.H.,USO,GmbH,True,,,False,,,False,,,False,,,False,,,
 Mercedes Buromaschinen Werke AG,USO,AG,True,USO,AG,True,USOP,AG,True,USOP,AG,True,USOP,AG,True,USO,AG,True,,,False
 "Mergenthaler Setzmaschinen-Fabrik, G.m.b.H.",USO,GmbH,True,USO,GmbH,True,USO,GmbH,True,USO,GmbH,True,,,False,,,False,,,False
 Metal & Thermit Corporation,,,False,,,False,,,False,USC,Others,True,,,False,,,False,,,False
-Metallgesellschaft A.G.,,,False,DEO,Others,True,,,False,,,False,,,False,,,False,,,False
+Metallgesellschaft A.G.,,,False,DEO,AG,True,,,False,,,False,,,False,,,False,,,False
 Metallisator Akt.-Ges.,,,False,,,False,,,False,,,False,USO,AG,True,USC,AG,True,,,False
 Metallisator Berlin Akt.-Ges.,,,False,,,False,,,False,,,False,USO,AG,True,USO,AG,True,,,False
 "Metallkentor, G.m.b.H.",USO,GmbH,True,,,False,,,False,,,False,,,False,,,False,,,False
@@ -361,7 +361,7 @@ Norddeustche Eiswerke A.G.,USO,AG,True,,,False,,,False,,,False,,,False,,,False,,
 Norddeustche Mineraloelwerke Stettin G.m.b.H.,USO,GmbH,True,,,False,,,False,,,False,,,False,,,False,,,False
 Norddeutsche Mineralöl-Aktiengesellschaft,,,False,,,False,USO,AG,True,,,False,USO,AG,True,,,False,,,False
 Norddeutsche Oelmuehlenwerke A.G.,USO,AG,True,,,False,,,False,,,False,,,False,,,False,,,False
-Norddeutsche Portland Cementfabrik Misburg,USOP,Others,True,,,False,,,False,,,False,,,False,,,False,,,False
+Norddeutsche Portland Cementfabrik Misburg,USOP,AG,True,,,False,,,False,,,False,,,False,,,False,,,False
 Nordeuropaeische Oelgesellschaft m.b.H.,,,False,,,False,,,False,USO,GmbH,True,,,False,,,False,,,False
 Northeastern Insurance Co. of Hartford,USO,Others,True,,,False,,,False,,,False,,,False,,,False,,,False
 Nuernberger Kohlenhandles G.m.b.H.,USO,GmbH,True,,,False,,,False,,,False,,,False,,,False,,,False
@@ -376,7 +376,7 @@ Oppelener Lagerhaus Gesellschaft,USO,GmbH,True,,,False,,,False,,,False,,,False,,
 Oppenheimer Casing Co. m.b.H. Hamburg,USO,GmbH,True,,,False,,,False,,,False,,,False,,,False,,,False
 Optima-Maschinenfabrik A.-G.,,,False,,,False,USO,AG,True,,,False,USC,AG,True,USC,AG,True,,,False
 Orga Akt. Ges.,USO,AG,True,,,False,,,False,,,False,,,False,,,False,,,False
-Osram G.m.b.H. Kommanditgesellschaft,USC,Others,True,USOP,GmbH,True,USOP,GmbH,True,USC,Others,True,,,False,,,False,,,False
+Osram G.m.b.H. Kommanditgesellschaft,USC,GmbH,True,USOP,GmbH,True,USOP,GmbH,True,USC,Others,True,,,False,,,False,,,False
 Ost-Oel G.m.b.H.,,,False,,,False,USO,GmbH,True,,,False,,,False,,,False,,,False
 Ostrhederei,USO,GmbH,True,,,False,,,False,,,False,,,False,,,False,,,False
 Ota Schlesische Schurwerke Ottmuth A.G.,USO,AG,True,,,False,,,False,,,False,,,False,,,False,,,False
@@ -396,7 +396,7 @@ Petrolifer Rohoelcompagnie A.G.,USO,AG,True,,,False,,,False,,,False,,,False,,,Fa
 Pfaudler-Werke AG,USO,AG,True,,,False,USO,AG,True,USO,AG,True,USO,AG,True,USC,AG,True,,,False
 Philip Morris & Co. Limited G.m.b.H.,USO,GmbH,True,,,False,,,False,,,False,,,False,,,False,USO,GmbH,True
 Photochemie Kommandit Gesellschaft,USO,Others,True,,,False,,,False,,,False,,,False,,,False,,,False
-Piehl & Pehling,USO,Others,True,,,False,,,False,,,False,,,False,,,False,,,False
+Piehl & Fehling,USO,Others,True,,,False,,,False,,,False,,,False,,,False,,,False
 Pittler Werkzeugmaschinenfabrik Aktiengesellschaft,,,False,,,False,,,False,,,False,USOP,AG,True,USOP,AG,True,,,False
 Porzellanfabriken Paul Rauschert Aktiengesellschaft,,,False,,,False,,,False,,,False,USC,AG,True,USC,AG,True,,,False
 Powers G.m.b.H.,USO,GmbH,True,,,False,,,False,,,False,,,False,,,False,,,False
@@ -415,7 +415,7 @@ Rheinische-Westfaelische Bergwerks Gesellschaft,,,False,USO,GmbH,True,USO,GmbH,T
 Richard Hudnut Aktiengesellschaft,,,False,,,False,,,False,,,False,USC,AG,True,USC,AG,True,,,False
 Richard Hudnut G.m.b.H.,USO,GmbH,True,USO,GmbH,True,,,False,,,False,,,False,,,False,,,False
 Ritter AG,USO,AG,True,USO,AG,True,USO,AG,True,USO,AG,True,USO,AG,True,USO,AG,True,,,False
-Robert Bosch A.G.,,,False,,,False,DEO,AG,True,USC,Others,True,,,False,,,False,,,False
+Robert Bosch A.G.,,,False,,,False,DEO,AG,True,USC,AG,True,,,False,,,False,,,False
 Robert W. Hunt Company,USO,Others,True,,,False,,,False,,,False,,,False,,,False,,,False
 "Rohr & Seilpost Anlagen, G.m.b.H.",USO,GmbH,True,USO,GmbH,True,,,False,,,False,,,False,,,False,,,False
 "Rosskai, G.m.b.H.",USO,GmbH,True,,,False,,,False,,,False,,,False,,,False,,,False
@@ -432,6 +432,7 @@ Schriftgiesserei und Messinglinienfabrik D. Stempel Akt.,USO,AG,True,,,False,,,F
 Schulke & Mayr A.G.,USO,AG,True,,,False,,,False,USO,AG,True,,,False,,,False,,,False
 Sela Automatic Camera,USOP,Others,True,,,False,,,False,,,False,,,False,,,False,,,False
 "Siegfried-Caragen Gesellschaft fuer Kraftfahrzeuge, m.b.H.",USO,GmbH,True,,,False,,,False,,,False,,,False,,,False,,,False
+Siemens & Halske,,,False,USOP,Others,True,,,False,,,False,,,False,,,False,,,False
 "Siemens & Halske, A.G.",,,False,,,False,,,False,USOP,AG,True,,,False,,,False,,,False
 Siemens -Schuckertwerke A. G.,,,False,USC,AG,True,,,False,,,False,,,False,,,False,,,False
 Signal Gesellschaft m.b.H.,USO,GmbH,True,,,False,,,False,,,False,,,False,,,False,,,False
@@ -457,7 +458,7 @@ Teerbaustoff Gesellschaft m.b.H.,,,False,,,False,,,False,USO,GmbH,True,,,False,,
 Tefag Radio Vertriebs G.m.b.H.,USO,GmbH,True,USO,GmbH,True,,,False,,,False,,,False,,,False,,,False
 Telephonfabrik Berliner AG,USO,AG,True,USO,AG,True,,,False,,,False,,,False,USOP,AG,True,,,False
 Telmo Telephon und Telegraphen Gesellschaft m.b.H.,USO,GmbH,True,USO,GmbH,True,,,False,,,False,,,False,,,False,,,False
-"Th. Goldschmidt of Essen, Germany",,,False,,,False,,,False,USC,Others,True,,,False,,,False,,,False
+"Th. Goldschmidt of Essen, Germany",,,False,DEO,AG,True,,,False,USC,Others,True,,,False,,,False,,,False
 The Atlantic Refining Company Germany GmbH,USO,GmbH,True,USO,GmbH,True,,,False,USO,GmbH,True,,,False,,,False,,,False
 The Brecht Corporation G.m.b.H.,USO,GmbH,True,,,False,,,False,,,False,,,False,,,False,,,False
 The Fairbanks G.m.b.H. Company,USO,GmbH,True,,,False,,,False,,,False,,,False,,,False,USO,GmbH,True
@@ -482,10 +483,10 @@ United Press Associations,USO,Others,True,,,False,,,False,,,False,,,False,,,Fals
 Vaterland Oel Aktiengesellschaft,,,False,,,False,,,False,,,False,USC,AG,True,,,False,,,False
 Vereinigte Aluminiumwerke A. G.,,,False,DEO,AG,True,,,False,,,False,,,False,,,False,,,False
 Vereinigte Asphalt und Teerproducktenfabriken Gesellschaft mit Beschrankter Haftung,USO,GmbH,True,,,False,,,False,,,False,,,False,,,False,,,False
-Vereinigte Bayerische Telephonwerke AG,USO,AG,True,USO,AG,True,,,False,,,False,,,False,,,False,,,False
+Vereinigte Bayerische Telephonwerke AG,USO,AG,True,USOP,AG,True,,,False,,,False,,,False,,,False,,,False
 Vereinigte Berliner Kohlenhandel A.G.,USO,AG,True,,,False,,,False,,,False,,,False,,,False,,,False
 Vereinigte Elektrizitätswerke Westfalen Aktiengesellschaft.,,,False,,,False,,,False,,,False,,,False,USOP,AG,True,,,False
-Vereinigte Glanzstoff A.G.,,,False,DEO,Others,True,DEO,AG,True,,,False,,,False,,,False,,,False
+Vereinigte Glanzstoff A.G.,,,False,USO,AG,True,DEO,AG,True,,,False,,,False,,,False,,,False
 Vereinigte Königs- und Laurahütte,,,False,,,False,,,False,,,False,USO,AG,True,USOP,AG,True,,,False
 Vereinigte Riegel- und Schlossfabriken Act.-Ges.,,,False,,,False,USO,AG,True,USO,AG,True,USOP,AG,True,USC,AG,True,,,False
 Vereinigte Stahlwerke,,,False,USO,GmbH,True,,,False,,,False,,,False,,,False,,,False
@@ -515,4 +516,4 @@ Zoellner Werke G.m.b.H.,USO,GmbH,True,,,False,,,False,,,False,,,False,,,False,,,
 Zuckerrubensaftfabrik,USO,GmbH,True,,,False,,,False,,,False,,,False,,,False,,,False
 Zukunft Lebensversicherungsbank Aktiengesellschaft.,,,False,,,False,,,False,,,False,,,False,USOP,AG,True,,,False
 missing,USO,Others,True,,,False,,,False,,,False,,,False,,,False,,,False
-„Miag“ Mühlenbau u. Industrie Aktiengesellschaft,,,False,DEO,Others,True,,,False,,,False,USC,AG,True,USC,AG,True,,,False
+„Miag“ Mühlenbau u. Industrie Aktiengesellschaft,,,False,DEO,AG,True,,,False,,,False,USC,AG,True,USC,AG,True,,,False
