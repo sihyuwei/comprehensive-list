@@ -205,7 +205,7 @@ if selected is not None and not selected.empty:
 
     source = st.selectbox(
             "Choose source to drill down", 
-            [s for s in id_sources if selected_row[s]]
+            [s for s in id_sources if bool(selected_row.get(s, False))]
         )
 
     st.subheader(f"Details for {company} in {source}")
